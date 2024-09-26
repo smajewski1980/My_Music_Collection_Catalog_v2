@@ -1,0 +1,18 @@
+.compsCompWrapper {
+  padding: 0em 1em 1em 1em;
+  border-color: hsl(300, 99%, 60%);
+  color: hsl(300, 99%, 60%);
+  border-radius: 20px;
+}
+
+.compTracksWrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-inline: auto;
+  justify-content: center;
+}
+
+.compTrack {
+  font-size: 1.25em;
+  text-overflow: ellipsis;
+}

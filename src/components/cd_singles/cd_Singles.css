@@ -1,45 +1,39 @@
-.cdSinglesCardWrapper {
-    position:relative;
-    color: white;
-    /* outline: 2px solid white; */
-    display: flex;
-    flex-direction: column;
-    gap:.5em;
-    margin-bottom: 1.5rem;
+.cdSinglesCardWrapper,
+.cdCompsCardWrapper {
+  position: relative;
+  /* color: white; */
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  margin-bottom: 1.5rem;
 }
 
-
-.singlesTrack{
-    min-width: 50%;
-    margin-inline:auto;
-    /* margin:.5em; */
-    font-size: 1.25em;
-    
+.singlesTrack {
+  min-width: 50%;
+  margin-inline: auto;
+  /* margin:.5em; */
+  font-size: 1.25em;
 }
 
 .singlesItemWrapper {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    padding:0em 1em 1em 1em;
-    border-color: hsl(300, 99%, 60%);
-    color: hsl(300, 99%, 60%);
-    border-radius:20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0em 1em 1em 1em;
+  border-color: hsl(300, 99%, 60%);
+  color: hsl(300, 99%, 60%);
+  border-radius: 20px;
 }
-legend{
-    max-width:90%;
-    padding-inline:.25em;
-    font-size:2rem;
-    /* overflow:hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis; */
-   
+legend {
+  max-width: 90%;
+  padding-inline: 0.25em;
+  font-size: 2rem;
 }
 
 .fieldsetSubHead {
-    display:flex;
-    justify-content: space-between;
-    width:100%;
-    margin-bottom: 1em;
-    padding: 0rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 0rem 2rem;
 }
