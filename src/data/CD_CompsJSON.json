@@ -252,6 +252,24 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2252,
+    "Title": "1958: Still Rockin' - The Rock 'N' Roll Era",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2250,
+    "Title": "1961: Still Rockin' - The Rock 'N' Roll Era",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2257,
+    "Title": "1967 - Classic Rock",
+    "Year": 1988,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 975,
     "Title": "1970's Classic Rock",
     "Year": 1999,
@@ -342,6 +360,12 @@
     "Box ID": "Classical VA 1"
   },
   {
+    "Title ID": 2228,
+    "Title": "2012 Grammy Nominees",
+    "Year": 2012,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1106,
     "Title": "20 Classical Favorites",
     "Year": 1992,
@@ -360,16 +384,34 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2258,
+    "Title": "21st Century Noise",
+    "Year": 2003,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1722,
     "Title": "24 Seasons 4 & 5",
     "Year": 2006,
     "Box ID": "Soundtrack 1"
   },
   {
+    "Title ID": 2243,
+    "Title": "25 #1 Hits From 25 Years, Vol. 1",
+    "Year": 1985,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 299,
     "Title": "25 #1 Hits From 25 Years, Vol. 1",
     "Year": 1985,
     "Box ID": "Various Artists 1"
+  },
+  {
+    "Title ID": 2244,
+    "Title": "25 #1 Hits From 25 Years, Vol. 2",
+    "Year": 1985,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1517,
@@ -1338,6 +1380,18 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2264,
+    "Title": "A Year In Your Life 1964 vol. 2",
+    "Year": 2001,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2263,
+    "Title": "B&W Present: The EMI Abbey Road Classical Collection",
+    "Year": 1989,
+    "Box ID": "Classical VA 2"
+  },
+  {
     "Title ID": 308,
     "Title": "Babies 'r' Us All Time Classic Lullabies",
     "Year": 2004,
@@ -1456,6 +1510,12 @@
     "Title": "Batman Forever",
     "Year": 1995,
     "Box ID": "Soundtrack 1"
+  },
+  {
+    "Title ID": 2207,
+    "Title": "Batman - Original Television Soundtrtack Album",
+    "Year": 1966,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 1654,
@@ -1656,6 +1716,12 @@
     "Box ID": "Various Artists 7"
   },
   {
+    "Title ID": 2218,
+    "Title": "Beyond The Wildwood - A Tribute To Syd Barrett",
+    "Year": 1990,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 241,
     "Title": "Beyond Words - An Instrumental Song Collection by Wisconsin Artists",
     "Year": 2000,
@@ -1731,6 +1797,12 @@
     "Title ID": 2084,
     "Title": "Big Dreams & Broken Hearts - The Dottie West Story",
     "Year": 1997,
+    "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2205,
+    "Title": "Big Night",
+    "Year": 1996,
     "Box ID": "Soundtrack 4"
   },
   {
@@ -1894,6 +1966,12 @@
     "Title": "Billboard Top Rock 'N' Roll Hits - 1972",
     "Year": 1989,
     "Box ID": "Various Artists 2"
+  },
+  {
+    "Title ID": 2226,
+    "Title": "Billboard Top Rock'N'Roll Hits-1973",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1997,
@@ -3654,6 +3732,12 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2210,
+    "Title": "Discover Card Modern Rock CD",
+    "Year": 1996,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 789,
     "Title": "Discovery Sampler Alternative Volume One",
     "Year": 1995,
@@ -3670,6 +3754,12 @@
     "Title": "Discovery Sampler - Jazz Volume One",
     "Year": 1995,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 2261,
+    "Title": "Discovery Sampler Pop Volume One",
+    "Year": 1995,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 656,
@@ -3958,6 +4048,12 @@
     "Title": "Equal Vision Records Warped Tour '06 Summer Sampler",
     "Year": 2006,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 2230,
+    "Title": "Erotic Cinema - Movie Themes",
+    "Year": 1993,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 1498,
@@ -4380,6 +4476,12 @@
     "Box ID": "Soundtrack 4"
   },
   {
+    "Title ID": 2206,
+    "Title": "French Kiss",
+    "Year": 1995,
+    "Box ID": "Soundtrack 4"
+  },
+  {
     "Title ID": 794,
     "Title": "Frequency Modification: A Low Watt Documentary",
     "Year": 2001,
@@ -4422,10 +4524,28 @@
     "Box ID": "Various Artists 3"
   },
   {
+    "Title ID": 2236,
+    "Title": "Funk: The Language Of New Orleans Vol. 8",
+    "Year": 2004,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1584,
     "Title": "Funny Lady",
     "Year": 1998,
     "Box ID": "Soundtrack 1"
+  },
+  {
+    "Title ID": 2216,
+    "Title": "Furthur",
+    "Year": 1996,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2220,
+    "Title": "Furthur - More",
+    "Year": 1996,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 586,
@@ -4686,6 +4806,18 @@
     "Box ID": "Various Artists 3"
   },
   {
+    "Title ID": 2202,
+    "Title": "Gotta Get It Hits - Classical",
+    "Year": 2000,
+    "Box ID": "Classical VA 2"
+  },
+  {
+    "Title ID": 2259,
+    "Title": "GOYA... A Life In Song",
+    "Year": 1989,
+    "Box ID": "Soundtrack 4"
+  },
+  {
     "Title ID": 637,
     "Title": "Grammy's Greatest Moments Volume II",
     "Year": 1994,
@@ -4708,6 +4840,12 @@
     "Title": "Grand Hotel, The Musical - The Broadway Cast Recording",
     "Year": 1992,
     "Box ID": "Soundtrack 1"
+  },
+  {
+    "Title ID": 2246,
+    "Title": "Grand Ole Opry Classic Collection Duets",
+    "Year": 2011,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 921,
@@ -4798,6 +4936,12 @@
     "Title": "Great Jazz Bands",
     "Year": 1993,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 2266,
+    "Title": "Great Ladies Of Jazz",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1025,
@@ -5008,6 +5152,12 @@
     "Title": "Have A Fun Christmas",
     "Year": 2004,
     "Box ID": "X-mas VA 1"
+  },
+  {
+    "Title ID": 2203,
+    "Title": "HavPlenty",
+    "Year": 1998,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 527,
@@ -5500,6 +5650,12 @@
     "Title": "I'm Your Fan - The Songs Of Leonard Cohen By ...",
     "Year": 1991,
     "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2204,
+    "Title": "I Am Sam",
+    "Year": 2001,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 1565,
@@ -6174,6 +6330,12 @@
     "Box ID": "Various Artists 7"
   },
   {
+    "Title ID": 2227,
+    "Title": "Late Night Jazz",
+    "Year": 1995,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1459,
     "Title": "Latin Mix USA 2",
     "Year": 1999,
@@ -6618,6 +6780,12 @@
     "Box ID": "Classical VA 1"
   },
   {
+    "Title ID": 2265,
+    "Title": "Mega Hits Dance Classics (Volume 1)",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1775,
     "Title": "Megazone 23 III",
     "Year": 1989,
@@ -6820,6 +6988,12 @@
     "Title": "Mojo Presents Sub Pop Silver Jubilee",
     "Year": 2013,
     "Box ID": "Various Artists 7"
+  },
+  {
+    "Title ID": 2237,
+    "Title": "Mojo Presents Yellow Submarine Resurfaces",
+    "Year": 2012,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 2194,
@@ -7176,6 +7350,12 @@
     "Box ID": "Soundtrack 3"
   },
   {
+    "Title ID": 2209,
+    "Title": "Music For The Rest Of Us",
+    "Year": 1994,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 987,
     "Title": "Music For Your Garden Vol. 2",
     "Year": 2001,
@@ -7252,6 +7432,12 @@
     "Title": "Music Institute Of Chicago - High Notes: A Faculty Showcase",
     "Year": 2002,
     "Box ID": "Classical VA 2"
+  },
+  {
+    "Title ID": 2239,
+    "Title": "Musicmasters Jazz Sampler",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 2024,
@@ -7584,6 +7770,12 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2270,
+    "Title": "No Lies",
+    "Year": 1999,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1398,
     "Title": "No Lies",
     "Year": 1997,
@@ -7756,6 +7948,24 @@
     "Title": "Now That's What I Call Music! 9",
     "Year": 2002,
     "Box ID": "Various Artists 5"
+  },
+  {
+    "Title ID": 2240,
+    "Title": "Now That's What I Call Music 33",
+    "Year": 2010,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2242,
+    "Title": "Now That's What I Call Music 40",
+    "Year": 2011,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2241,
+    "Title": "Now That's What I Call Music 43",
+    "Year": 2012,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 836,
@@ -8172,6 +8382,12 @@
     "Box ID": "Various Artists 7"
   },
   {
+    "Title ID": 2208,
+    "Title": "Playing By Heart",
+    "Year": 1999,
+    "Box ID": "Soundtrack 4"
+  },
+  {
     "Title ID": 1809,
     "Title": "Pleasantville",
     "Year": 1998,
@@ -8200,6 +8416,12 @@
     "Title": "Pop Classics Of The '70s",
     "Year": 1989,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 2271,
+    "Title": "Pop Music Sampler",
+    "Year": 2000,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 726,
@@ -8670,6 +8892,12 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2225,
+    "Title": "Rebirth Of Cool",
+    "Year": 1993,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 824,
     "Title": "Rebirth Of The Loud",
     "Year": 2000,
@@ -8694,10 +8922,22 @@
     "Box ID": "Various Artists 5"
   },
   {
+    "Title ID": 2229,
+    "Title": "Red Hot & Blue",
+    "Year": 1990,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1279,
     "Title": "Red Hot + Dance",
     "Year": 1992,
     "Box ID": "Various Artists 6"
+  },
+  {
+    "Title ID": 2267,
+    "Title": "Reggae Music That Changed Our Lives",
+    "Year": 1999,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1320,
@@ -8826,6 +9066,12 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2223,
+    "Title": "Rhythm Of The Games",
+    "Year": 1996,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1268,
     "Title": "Riddim Driven - Extasy",
     "Year": 2001,
@@ -8886,6 +9132,12 @@
     "Box ID": "X-mas VA 1"
   },
   {
+    "Title ID": 2224,
+    "Title": "Rock Classics Of The 70's",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 879,
     "Title": "Rock N' Roll Of The 50's",
     "Year": 1999,
@@ -8912,6 +9164,12 @@
   {
     "Title ID": 2133,
     "Title": "Rock On 1975",
+    "Year": 1996,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2233,
+    "Title": "Rock On 1985",
     "Year": 1996,
     "Box ID": "Various Artists 8"
   },
@@ -9108,6 +9366,12 @@
     "Box ID": "Various Artists 6"
   },
   {
+    "Title ID": 2256,
+    "Title": "San Francisco Jazz Festival",
+    "Year": 1999,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 55,
     "Title": "Santamental Journey: Pop Vocal Christmas Classics",
     "Year": 1995,
@@ -9154,6 +9418,12 @@
     "Title": "Say Anything",
     "Year": 1989,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 2247,
+    "Title": "Scream 3 The Album",
+    "Year": 2000,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 66,
@@ -9618,6 +9888,12 @@
     "Box ID": "Various Artists 8"
   },
   {
+    "Title ID": 2245,
+    "Title": "Sony/Billboard Decade Of Music Volume 1",
+    "Year": 1990,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 2168,
     "Title": "Sony Classical Highlights Of The Year Almanac 1993",
     "Year": 1993,
@@ -9628,6 +9904,12 @@
     "Title": "Soul Food",
     "Year": 1997,
     "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2235,
+    "Title": "Soul Of The Machine - The Windham Hill Sampler Of New Electronic Music",
+    "Year": 1987,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 853,
@@ -9744,6 +10026,12 @@
     "Box ID": "Various Artists 6"
   },
   {
+    "Title ID": 2219,
+    "Title": "Sprint - Jazziz On Disc",
+    "Year": 1997,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1218,
     "Title": "Spynpsycle (Living With The Machines)",
     "Year": 2003,
@@ -9784,6 +10072,12 @@
     "Title": "Star Trek The Motion Picture",
     "Year": 1979,
     "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2260,
+    "Title": "Start The Party Vol 1",
+    "Year": 1994,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1745,
@@ -10116,6 +10410,12 @@
     "Box ID": "Various Artists 7"
   },
   {
+    "Title ID": 2269,
+    "Title": "Tales From Yesterday(Yes Tribute)",
+    "Year": 1995,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1753,
     "Title": "Tarzan",
     "Year": 1999,
@@ -10146,10 +10446,28 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2238,
+    "Title": "Telarc Blues Sampler",
+    "Year": 1999,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1755,
     "Title": "That's Him Officer! A Collection Of Original TV Cop Show Themes",
     "Year": 2001,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 2254,
+    "Title": "The '60s Keep On Rockin' - The Rock 'N' Roll Era",
+    "Year": 1989,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2253,
+    "Title": "The '60s Rave On - The Rock 'N' Roll Era",
+    "Year": 1990,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 563,
@@ -10306,6 +10624,12 @@
     "Title": "The Best Of Gilbert And Sullivan",
     "Year": 2000,
     "Box ID": "Soundtrack 1"
+  },
+  {
+    "Title ID": 2212,
+    "Title": "The Best Of Hawkwind - Friends And Relations",
+    "Year": 1995,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 750,
@@ -10572,6 +10896,12 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2211,
+    "Title": "The Cole Porter Songbook",
+    "Year": 1988,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1123,
     "Title": "The Colors Of Latin Jazz - From Samba To Bomba!",
     "Year": 2000,
@@ -10582,6 +10912,24 @@
     "Title": "The Commitments",
     "Year": 1991,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 2214,
+    "Title": "The Coolest Songs In The World! Vol. 6",
+    "Year": 2008,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2231,
+    "Title": "The Cradle Will Rock - Original 1985 Cast Recording (Disc 1)",
+    "Year": 1999,
+    "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2232,
+    "Title": "The Cradle Will Rock - Original 1985 Cast Recording (Disc 2)",
+    "Year": 1999,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 1703,
@@ -10674,6 +11022,12 @@
     "Box ID": "Various Artists 6"
   },
   {
+    "Title ID": 2213,
+    "Title": "The Family Values Tour 1999",
+    "Year": 2000,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1704,
     "Title": "The Fast And The Furious",
     "Year": 2001,
@@ -10708,6 +11062,12 @@
     "Title": "The Godfather Trilogy I - II - III",
     "Year": 2001,
     "Box ID": "Soundtrack 3"
+  },
+  {
+    "Title ID": 2217,
+    "Title": "The Goodfellas Present: Lightning And Thunder Vol. 2",
+    "Year": 2009,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1706,
@@ -10810,6 +11170,18 @@
     "Title": "The Heart & Soul Of...",
     "Year": 1997,
     "Box ID": "Various Artists 4"
+  },
+  {
+    "Title ID": 2255,
+    "Title": "The History Of Jazz - The Be-Bop Revolution",
+    "Year": 2001,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2262,
+    "Title": "The History Of Jazz - The Early Days",
+    "Year": 2001,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 2140,
@@ -11292,6 +11664,12 @@
     "Box ID": "Various Artists 6"
   },
   {
+    "Title ID": 2222,
+    "Title": "The Rhythm",
+    "Year": 2000,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 1323,
     "Title": "The Roaring Twenties",
     "Year": 2000,
@@ -11338,6 +11716,12 @@
     "Title": "The Rocky Story",
     "Year": 1990,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 2221,
+    "Title": "The Rolling Stones Rock And Roll Circus",
+    "Year": 1995,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1110,
@@ -11445,6 +11829,12 @@
     "Title ID": 2160,
     "Title": "The Song Is...Cole Porter",
     "Year": 1990,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2215,
+    "Title": "The Song Remains The Name",
+    "Year": 1988,
     "Box ID": "Various Artists 8"
   },
   {
@@ -11796,6 +12186,12 @@
     "Box ID": "Classical VA 1"
   },
   {
+    "Title ID": 2249,
+    "Title": "The World Of Private Music",
+    "Year": 1986,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 2001,
     "Title": "The Wrestler",
     "Year": 2008,
@@ -11926,6 +12322,12 @@
     "Title": "Time-Life's Treasury Of Folk Music - An All-Star Hootenanny",
     "Year": 1996,
     "Box ID": "Various Artists 4"
+  },
+  {
+    "Title ID": 2268,
+    "Title": "Time-Life Music Sounds Of The Seventies: Punk And New Wave",
+    "Year": 1993,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 2118,
@@ -12400,6 +12802,12 @@
     "Title": "VH1 Divas Live",
     "Year": 1998,
     "Box ID": "Various Artists 2"
+  },
+  {
+    "Title ID": 2234,
+    "Title": "VH1 Divas Live - 1999",
+    "Year": 1999,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 676,
@@ -12948,6 +13356,12 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2248,
+    "Title": "Yes We Can: Voices Of A Grassroots Movement",
+    "Year": 2008,
+    "Box ID": "Various Artists 8"
+  },
+  {
     "Title ID": 693,
     "Title": "Yo! MTV Raps: The CD",
     "Year": 1989,
@@ -12994,6 +13408,12 @@
     "Title": "Your Hit Parade - 1951",
     "Year": 1988,
     "Box ID": "Various Artists 4"
+  },
+  {
+    "Title ID": 2251,
+    "Title": "Your Hit Parade - The Mid-'50s",
+    "Year": 1991,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 485,
