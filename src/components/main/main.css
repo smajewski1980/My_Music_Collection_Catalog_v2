@@ -1,51 +1,70 @@
-#main{    
-    flex-basis: 65dvw;
-    background-color:rgba(212, 182, 240, .1);  
+#main {
+  flex-basis: 65dvw;
+  background-color: rgba(212, 182, 240, 0.1);
+  text-align: center;
+  max-height: 100dvh;
+  overflow-y: scroll;
+  padding-inline: 1rem;
+}
+
+#mainTitle {
+  color: hsl(300, 99%, 60%);
+  font-size: 3rem;
+  margin-block: 1rem;
+}
+#ifNull {
+  color: hsl(300, 99%, 60%);
+  font-size: 3rem;
+  margin-top: 22rem;
+}
+
+.dataWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.row {
+  color: hsl(300, 99%, 60%);
+  display: flex;
+  justify-content: space-between;
+  box-shadow: -3px 1px 10px 0px hsl(300, 99%, 60%, 0.3),
+    inset 3px 1px 10px 0px hsl(300, 99%, 60%, 0.2);
+  padding: 0.5rem 0.5rem 0.35rem 0.5rem;
+
+  align-items: center;
+  background-color: rgba(212, 182, 240, 0.05);
+  border-radius: 5px;
+}
+.title {
+  width: 45%;
+}
+.artist {
+  width: 25%;
+}
+.location {
+  width: 25%;
+}
+
+.size-warning {
+  display: none;
+  font-size: 1.5rem;
+  color: white;
+  padding-inline: 1rem;
+}
+
+@media screen and (max-width: 1300px) {
+  .size-warning {
+    display: grid;
+    width: 30ch;
+    place-content: center;
+    margin-inline: auto;
+    height: 100vh;
     text-align: center;
-    max-height:100dvh;
-    overflow-y: scroll;
-    padding-inline:1rem;
-}
-
-#mainTitle{
-    color:hsl(300, 99%, 60%);
-    font-size:3rem;
-    margin-block:1rem
-}
-#ifNull{
-    color:hsl(300, 99%, 60%);
-    font-size:3rem; 
-    margin-top: 22rem;
-}
-
-.dataWrapper{
-    display:flex;
-    flex-direction: column;
-    gap:.75rem;
-    
-}
-
-.row{
-    color:hsl(300, 99%, 60%);
-    display:flex;
-    justify-content: space-between;
-    box-shadow: -3px 1px 10px 0px hsl(300, 99%, 60%, .3),
-     inset 3px 1px 10px 0px hsl(300, 99%, 60%, .2);
-    padding:.5rem .5rem .35rem .5rem;
-    
-    align-items: center;
-    background-color:rgba(212, 182, 240, .05);
-    border-radius: 5px;
-}
-.title{
-    width:45%;
-    
-}
-.artist{
-    
-    width:25%;
-}
-.location{
-    
-    width:25%;
+  }
+  #main,
+  .menuWrapper,
+  .sidebar {
+    display: none;
+  }
 }
