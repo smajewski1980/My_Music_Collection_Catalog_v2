@@ -10,7 +10,11 @@ const CD_CompsTracks = (props) => {
   return filteredTracks.map((track) => {
     trackNum++;
     return (
-      <p className="compTrack" key={track["Track ID"]}>
+      <p
+        className="compTrack"
+        key={track["Track ID"]}
+        title={track.Artist + " - " + track["Track Name"]}
+      >
         {trackNum}
         {". "}
         {track.Artist}

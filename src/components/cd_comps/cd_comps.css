@@ -9,10 +9,15 @@
   display: grid;
   grid-template-columns: 50% 50%;
   margin-inline: auto;
-  justify-content: center;
+  justify-items: center;
+  white-space: nowrap;
+  overflow-x: hidden;
+  /* max-width: 100%; */
 }
 
 .compTrack {
   font-size: 1.25em;
+  max-width: 90%;
   text-overflow: ellipsis;
+  overflow-x: hidden;
 }
