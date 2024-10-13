@@ -1,93 +1,108 @@
-.sidebar{
-    background-color: rgba(212, 182, 240, .1);
-    width: 20%;
-    min-height: 100dvh;
-    padding: .5rem 1rem;
-    text-align: center;
-    border-right:1px solid hsl(300, 99%, 60%);
-   
+.sidebar {
+  background-color: rgba(212, 182, 240, 0.1);
+  width: 20%;
+  min-height: 100dvh;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-right: 1px solid hsl(300, 99%, 60%);
 }
 
-.sidebar h1{
-    font-size: 2.5rem;
-    border-bottom: 1px solid hsl(300, 99%, 60%);
-    padding-bottom: .5rem;
-    color: hsl(300, 99%, 60%);
+.sidebar h1 {
+  font-size: clamp(2.5rem, 3vw, 5rem);
+  border-bottom: 1px solid hsl(300, 99%, 60%);
+  color: hsl(300, 99%, 60%);
+  padding-block: 0.5em;
+  line-height: 1.1;
 }
 
-.modeSelect{
-    margin-block: 1.5rem;
-    padding: .5rem 0 1rem 0;
-    display:flex;
-    flex-direction: column;
-    row-gap: 1.5rem;
-    background-color: rgba(51, 204, 51, .3);
-    color:hsl(300, 99%, 60%);
+.modeSelect {
+  margin-block: 1.5rem;
+  padding: 0.5rem 0 1rem 0;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+  background-color: rgba(51, 204, 51, 0.3);
+  color: hsl(300, 99%, 60%);
 }
 
-.entryActive{
-    background-color: rgba(255, 0, 0, .3);
+.entryActive {
+  background-color: rgba(255, 0, 0, 0.3);
 }
-.entryActive h2{
-    color:hsl(300, 99%, 60%);
+.entryActive h2 {
+  color: hsl(300, 99%, 60%);
 }
-.modeSelectButtonWrapper{
-    display: flex;
-    justify-content: space-around;
+.modeSelectButtonWrapper {
+  display: flex;
+  justify-content: space-around;
 }
-.modeSelectButtonWrapper button{
-    padding: 1rem 1.5rem;
-    font-weight: bold;
-    border-radius: 10px;
-    cursor: pointer;
-    letter-spacing: .05em;
+.modeSelectButtonWrapper button {
+  padding: 1rem 1.5rem;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  letter-spacing: 0.05em;
 }
 .viewing {
-    background-color: rgba(0, 255, 0, 0.4);
-    color: rgb(0, 255, 0);
-    width:40%;
+  background-color: rgba(0, 255, 0, 0.4);
+  color: rgb(0, 255, 0);
+  width: 40%;
 }
 .entry {
-    background-color: rgb(241, 78, 78, .4);
-    color: rgb(255, 0, 0);
-    width:40%;
+  background-color: rgb(241, 78, 78, 0.4);
+  color: rgb(255, 0, 0);
+  width: 40%;
 }
 
-.formatSelectionWrapper{
-    border-top: 1px solid hsl(300, 99%, 60%);
-    border-bottom: 1px solid hsl(300, 99%, 60%);
-    padding: 1rem 0 1.5rem 0;
-    display:flex;
-    flex-direction: column;
-    gap:.5rem;
-    color:hsl(300, 99%, 60%);
+.formatSelectionWrapper {
+  border-top: 1px solid hsl(300, 99%, 60%);
+  border-bottom: 1px solid hsl(300, 99%, 60%);
+  padding-block: 2em 2.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+  color: hsl(300, 99%, 60%);
+}
+
+.formatSelectionWrapper h2 {
+  margin-bottom: 0.25em;
 }
 
 .formatSelectBtn {
-    width:75%;
-    margin-inline:auto;
-    padding-block: 1rem;
-    background-color: rgb(50, 22, 77);
+  width: 75%;
+  margin-inline: auto;
+  padding-block: 1rem;
+  background-color: rgb(50, 22, 77);
+  color: hsl(300, 99%, 60%);
+  font-size: 1.25em;
+}
+.fmtBtnActive {
+  background-color: rgb(212, 182, 240);
+  color: black;
+}
+
+.totalsWrapper h3 {
+  text-align: center;
+  margin-block: 1rem;
+  color: hsl(300, 99%, 60%);
+}
+
+.totals {
+  color: hsl(300, 99%, 60%);
+  font-size: 1.25em;
+  display: grid;
+  gap: 0.3em;
+}
+
+/* .totals p {
+    margin-top:
+} */
+
+@media screen and (width > 1700px) {
+  .formatSelectBtn {
+    padding-block: 1.5rem;
+  }
+  /* .totals {
     color: hsl(300, 99%, 60%);
-    font-weight: bold;
-    letter-spacing: .05em;
-}
-.fmtBtnActive{
-    background-color:rgb(212, 182, 240);
-    color: black;
-   
-}
-
-.totalsWrapper h3{
-    text-align: left;
-    margin-left:1rem;
-    margin-top:.75rem;
-    color:hsl(300, 99%, 60%);
-}
-
-.totals{
-    margin-top:-.5em;
-    display:flex;
-    color:hsl(300, 99%, 60%);
-    align-items: flex-end;
+    font-size: 1.25em;
+  } */
 }

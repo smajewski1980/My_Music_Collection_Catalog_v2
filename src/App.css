@@ -4,8 +4,17 @@
   padding: 0;
 }
 
-.App{
-  display:flex;
+button {
+  border: none;
+}
+
+button:active {
+  /* transform: translate(1px, 1px); */
+  outline: 2px solid rgb(212, 182, 240);
+  font-weight: bold;
+}
+
+.App {
+  display: flex;
   background-color: black;
-  
 }
