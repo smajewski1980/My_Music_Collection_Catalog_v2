@@ -1,9 +1,15 @@
 [
   {
-    "Artist": "Rags\" Rafferty",
+    "Artist": "\"Rags\" Rafferty",
     "Title": "The Best Of Old Time Piano",
     "Location": "8-Track Box 1",
     "ID": 1
+  },
+  {
+    "Artist": "10,000 Maniacs",
+    "Title": "Because The Night(Single)",
+    "Location": "Cassette Box 3",
+    "ID": 951
   },
   {
     "Artist": "10,000 Maniacs",
@@ -19,6 +25,12 @@
   },
   {
     "Artist": "101 Strings",
+    "Title": "Play Million Seller Hits",
+    "Location": "8-Track Box 2",
+    "ID": 6
+  },
+  {
+    "Artist": "101 Strings",
     "Title": "Million Seller Themes",
     "Location": "8-Track Box 1",
     "ID": 4
@@ -28,12 +40,6 @@
     "Title": "Million Selling Hit Waltzes",
     "Location": "Cassette Box 3",
     "ID": 5
-  },
-  {
-    "Artist": "101 Strings",
-    "Title": "Play Million Seller Hits",
-    "Location": "8-Track Box 2",
-    "ID": 6
   },
   {
     "Artist": "24-7 Spyz",
@@ -54,6 +60,18 @@
     "ID": 9
   },
   {
+    "Artist": "A-HA",
+    "Title": "Hunting High And Low",
+    "Location": "Cassette Box 2",
+    "ID": 13
+  },
+  {
+    "Artist": "Aaron Neville",
+    "Title": "The Grand Tour",
+    "Location": "Cassette Box 3",
+    "ID": 923
+  },
+  {
     "Artist": "ABBA",
     "Title": "Greatest Hits",
     "Location": "8-Track Box 1",
@@ -72,58 +90,22 @@
     "ID": 12
   },
   {
-    "Artist": "A-HA",
-    "Title": "Hunting High And Low",
-    "Location": "Cassette Box 2",
-    "ID": 13
-  },
-  {
-    "Artist": "Alabama",
-    "Title": "The Closer You Get...",
-    "Location": "Cassette Box 2",
-    "ID": 14
-  },
-  {
-    "Artist": "Alan Jackson",
-    "Title": "The Greatest Hits Collection",
-    "Location": "Cassette Box 2",
-    "ID": 15
-  },
-  {
-    "Artist": "Alannah Myles",
-    "Title": "Rockinghorse",
-    "Location": "Cassette Box 1",
-    "ID": 16
-  },
-  {
-    "Artist": "Aldo Nova",
-    "Title": "Aldo Nova",
-    "Location": "Cassette Box 1",
-    "ID": 17
-  },
-  {
     "Artist": "Al Hirt",
     "Title": "Cotton Candy",
     "Location": "Reel to Reel Box 2",
     "ID": 18
   },
   {
-    "Artist": "Alice Cooper",
-    "Title": "School's Out",
-    "Location": "8-Track Box 3",
-    "ID": 19
-  },
-  {
-    "Artist": "Alice Donut",
-    "Title": "Donut Comes Alive",
-    "Location": "Cassette Box 3",
-    "ID": 20
-  },
-  {
     "Artist": "Al Jarreau",
     "Title": "Breakin' Away",
     "Location": "Cassette Box 2",
     "ID": 21
+  },
+  {
+    "Artist": "Al Jolson",
+    "Title": "The Al Jolson Collection",
+    "Location": "Cassette Box 2",
+    "ID": 24
   },
   {
     "Artist": "Al Jolson",
@@ -139,15 +121,93 @@
   },
   {
     "Artist": "Al Jolson",
-    "Title": "The Al Jolson Collection",
-    "Location": "Cassette Box 2",
-    "ID": 24
-  },
-  {
-    "Artist": "Al Jolson",
     "Title": "The Jolson Story / Rock-A-Bye Your Baby",
     "Location": "Cassette Box 2",
     "ID": 25
+  },
+  {
+    "Artist": "Al Martino",
+    "Title": "Al Martino's Greatest Hits",
+    "Location": "Cassette Box 2",
+    "ID": 28
+  },
+  {
+    "Artist": "Al Martino",
+    "Title": "Favorite Italian Love Songs",
+    "Location": "Cassette Box 3",
+    "ID": 982
+  },
+  {
+    "Artist": "Al Stewart",
+    "Title": "Time Passages",
+    "Location": "8-Track Box 2",
+    "ID": 29
+  },
+  {
+    "Artist": "Alabama",
+    "Title": "The Touch",
+    "Location": "8-Track Box 3",
+    "ID": 932
+  },
+  {
+    "Artist": "Alabama",
+    "Title": "Feels So Right",
+    "Location": "8-Track Box 3",
+    "ID": 930
+  },
+  {
+    "Artist": "Alabama",
+    "Title": "The Closer You Get",
+    "Location": "8-Track Box 3",
+    "ID": 931
+  },
+  {
+    "Artist": "Alabama",
+    "Title": "The Closer You Get...",
+    "Location": "Cassette Box 2",
+    "ID": 14
+  },
+  {
+    "Artist": "Alan Jackson",
+    "Title": "Don't Rock The Jukebox",
+    "Location": "Cassette Box 3",
+    "ID": 980
+  },
+  {
+    "Artist": "Alan Jackson",
+    "Title": "The Greatest Hits Collection",
+    "Location": "Cassette Box 2",
+    "ID": 15
+  },
+  {
+    "Artist": "Alan Jackson",
+    "Title": "Here In The Real World",
+    "Location": "Cassette Box 3",
+    "ID": 979
+  },
+  {
+    "Artist": "Alannah Myles",
+    "Title": "Rockinghorse",
+    "Location": "Cassette Box 1",
+    "ID": 16
+  },
+  {
+    "Artist": "Aldo Nova",
+    "Title": "Aldo Nova",
+    "Location": "Cassette Box 1",
+    "ID": 17
+  },
+  {
+    "Artist": "Alice Cooper",
+    "Title": "School's Out",
+    "Location": "8-Track Box 3",
+    "ID": 19
+  },
+  {
+    "Artist": "Alice Donut",
+    "Title": "Donut Comes Alive",
+    "Location": "Cassette Box 3",
+    "ID": 20
   },
   {
     "Artist": "Allen Collins Band",
@@ -160,18 +220,6 @@
     "Title": "Uncommon Goal",
     "Location": "Cassette Box 1",
     "ID": 27
-  },
-  {
-    "Artist": "Al Martino",
-    "Title": "Al Martino's Greatest Hits",
-    "Location": "Cassette Box 2",
-    "ID": 28
-  },
-  {
-    "Artist": "Al Stewart",
-    "Title": "Time Passages",
-    "Location": "8-Track Box 2",
-    "ID": 29
   },
   {
     "Artist": "Alvin And The Chipmunks",
@@ -199,15 +247,15 @@
   },
   {
     "Artist": "Ampex",
-    "Title": "381 80 Minutes (blank?)",
-    "Location": "8-Track Box 1",
-    "ID": 34
-  },
-  {
-    "Artist": "Ampex",
     "Title": "80 Minute (blank?)",
     "Location": "8-Track Box 1",
     "ID": 35
+  },
+  {
+    "Artist": "Ampex",
+    "Title": "381 80 Minutes (blank?)",
+    "Location": "8-Track Box 1",
+    "ID": 34
   },
   {
     "Artist": "Ampex",
@@ -270,6 +318,24 @@
     "ID": 45
   },
   {
+    "Artist": "Arlo Guthrie",
+    "Title": "The Best Of Arlo Guthrie",
+    "Location": "Cassette Box 3",
+    "ID": 987
+  },
+  {
+    "Artist": "Arlo Guthrie / Pete Seeger",
+    "Title": "Precious Friend Tape 1",
+    "Location": "Cassette Box 3",
+    "ID": 974
+  },
+  {
+    "Artist": "Arlo Guthrie / Pete Seeger",
+    "Title": "Precious Friend Tape 2",
+    "Location": "Cassette Box 3",
+    "ID": 975
+  },
+  {
     "Artist": "Arthur Fiedler",
     "Title": "A Legendary Performer",
     "Location": "Cassette Box 2",
@@ -286,6 +352,12 @@
     "Title": "The Golden Years of Arthur Fiedler And The Boston Pops",
     "Location": "8-Track Box 1",
     "ID": 48
+  },
+  {
+    "Artist": "Arthur Grumiaux, Henryk Szeryng And Others",
+    "Title": "The Magic Of The Violin",
+    "Location": "Cassette Box 3",
+    "ID": 961
   },
   {
     "Artist": "Artie Shaw",
@@ -319,6 +391,12 @@
   },
   {
     "Artist": "Barbra Streisand",
+    "Title": "Barbra Streisand's Greatest Hits",
+    "Location": "8-Track Box 3",
+    "ID": 972
+  },
+  {
+    "Artist": "Barbra Streisand",
     "Title": "A Christmas Album",
     "Location": "8-Track Box 2",
     "ID": 54
@@ -337,6 +415,12 @@
   },
   {
     "Artist": "Barry Manilow",
+    "Title": "One Voice",
+    "Location": "8-Track Box 1",
+    "ID": 59
+  },
+  {
+    "Artist": "Barry Manilow",
     "Title": "Barry",
     "Location": "8-Track Box 1",
     "ID": 57
@@ -346,12 +430,6 @@
     "Title": "Even Now",
     "Location": "8-Track Box 2",
     "ID": 58
-  },
-  {
-    "Artist": "Barry Manilow",
-    "Title": "One Voice",
-    "Location": "8-Track Box 1",
-    "ID": 59
   },
   {
     "Artist": "Beach Boys",
@@ -367,21 +445,27 @@
   },
   {
     "Artist": "Begonia",
-    "Title": "Begonia",
-    "Location": "Cassette Box 3",
-    "ID": 62
-  },
-  {
-    "Artist": "Begonia",
     "Title": "Blues Woman",
     "Location": "Cassette Box 3",
     "ID": 63
+  },
+  {
+    "Artist": "Begonia",
+    "Title": "Begonia",
+    "Location": "Cassette Box 3",
+    "ID": 62
   },
   {
     "Artist": "Bela Fleck & The Flecktones",
     "Title": "Bela Fleck & The Flecktones",
     "Location": "Cassette Box 3",
     "ID": 64
+  },
+  {
+    "Artist": "Belinda Carlisle",
+    "Title": "Heaven On Earth",
+    "Location": "Cassette Box 3",
+    "ID": 952
   },
   {
     "Artist": "Benny Goodman",
@@ -408,16 +492,16 @@
     "ID": 68
   },
   {
-    "Artist": "Berliner Philharmoniker; Herbert von Karajan; Gerd Seifert",
-    "Title": "(NEW)Mozart: 4 Hornkonzerte / Horn Concertos",
-    "Location": "Cassette Box 2",
-    "ID": 69
-  },
-  {
     "Artist": "Berlin Symphony Orchestra; Peter Wohlert, Conductor",
     "Title": "Tchaikovsky: The Nutcracker",
     "Location": "Cassette Box 1",
     "ID": 70
+  },
+  {
+    "Artist": "Berliner Philharmoniker; Herbert von Karajan; Gerd Seifert",
+    "Title": "(NEW)Mozart: 4 Hornkonzerte / Horn Concertos",
+    "Location": "Cassette Box 2",
+    "ID": 69
   },
   {
     "Artist": "Bervin Harris",
@@ -433,15 +517,15 @@
   },
   {
     "Artist": "Big Country",
-    "Title": "Peace In Our Time",
-    "Location": "Cassette Box 1",
-    "ID": 73
-  },
-  {
-    "Artist": "Big Country",
     "Title": "Why The Long Face",
     "Location": "Cassette Box 1",
     "ID": 74
+  },
+  {
+    "Artist": "Big Country",
+    "Title": "Peace In Our Time",
+    "Location": "Cassette Box 1",
+    "ID": 73
   },
   {
     "Artist": "Bill Anderson",
@@ -475,9 +559,21 @@
   },
   {
     "Artist": "Blackfoot",
+    "Title": "Siogo",
+    "Location": "Cassette Box 1",
+    "ID": 82
+  },
+  {
+    "Artist": "Blackfoot",
     "Title": "Highway Song - Blackfoot Live",
     "Location": "Cassette Box 1",
     "ID": 80
+  },
+  {
+    "Artist": "Blackfoot",
+    "Title": "Strikes",
+    "Location": "Cassette Box 1",
+    "ID": 83
   },
   {
     "Artist": "Blackfoot",
@@ -486,16 +582,10 @@
     "ID": 81
   },
   {
-    "Artist": "Blackfoot",
-    "Title": "Siogo",
-    "Location": "Cassette Box 1",
-    "ID": 82
-  },
-  {
-    "Artist": "Blackfoot",
-    "Title": "Strikes",
-    "Location": "Cassette Box 1",
-    "ID": 83
+    "Artist": "Blood Sweat & Tears",
+    "Title": "Child Is Father To The Man",
+    "Location": "Reel to Reel Box 1",
+    "ID": 86
   },
   {
     "Artist": "Blood, Sweat & Tears",
@@ -508,42 +598,6 @@
     "Title": "Greatest Hits",
     "Location": "Cassette Box 2",
     "ID": 85
-  },
-  {
-    "Artist": "Blood Sweat & Tears",
-    "Title": "Child Is Father To The Man",
-    "Location": "Reel to Reel Box 1",
-    "ID": 86
-  },
-  {
-    "Artist": "Bobby Vinton",
-    "Title": "Bobby Vinton's Greatest Hits",
-    "Location": "8-Track Box 3",
-    "ID": 87
-  },
-  {
-    "Artist": "Bobby Vinton",
-    "Title": "Melodies Of Love",
-    "Location": "8-Track Box 3",
-    "ID": 88
-  },
-  {
-    "Artist": "Bobby Vinton",
-    "Title": "Melodies Of Love",
-    "Location": "Reel to Reel Box 3",
-    "ID": 89
-  },
-  {
-    "Artist": "Bobby Vinton",
-    "Title": "Spring Sensations",
-    "Location": "8-Track Box 1",
-    "ID": 90
-  },
-  {
-    "Artist": "Bobby Vinton",
-    "Title": "With Love",
-    "Location": "8-Track Box 3",
-    "ID": 91
   },
   {
     "Artist": "Bob Dylan",
@@ -582,6 +636,48 @@
     "ID": 97
   },
   {
+    "Artist": "Bob Wills",
+    "Title": "(NEW)Columbia Historic Edition",
+    "Location": "Cassette Box 3",
+    "ID": 984
+  },
+  {
+    "Artist": "Bobby Vinton",
+    "Title": "Spring Sensations",
+    "Location": "8-Track Box 1",
+    "ID": 90
+  },
+  {
+    "Artist": "Bobby Vinton",
+    "Title": "Bobby Vinton's Greatest Hits",
+    "Location": "8-Track Box 3",
+    "ID": 87
+  },
+  {
+    "Artist": "Bobby Vinton",
+    "Title": "Melodies Of Love",
+    "Location": "8-Track Box 3",
+    "ID": 88
+  },
+  {
+    "Artist": "Bobby Vinton",
+    "Title": "Melodies Of Love",
+    "Location": "Reel to Reel Box 3",
+    "ID": 89
+  },
+  {
+    "Artist": "Bobby Vinton",
+    "Title": "With Love",
+    "Location": "8-Track Box 3",
+    "ID": 91
+  },
+  {
+    "Artist": "Bon Jovi",
+    "Title": "New Jersey",
+    "Location": "Cassette Box 3",
+    "ID": 953
+  },
+  {
     "Artist": "Bonnie Raitt",
     "Title": "Longing In Their Hearts",
     "Location": "Cassette Box 2",
@@ -613,15 +709,15 @@
   },
   {
     "Artist": "Box Of Frogs",
-    "Title": "Box Of Frogs",
-    "Location": "Cassette Box 1",
-    "ID": 103
-  },
-  {
-    "Artist": "Box Of Frogs",
     "Title": "Strange Land",
     "Location": "Cassette Box 1",
     "ID": 104
+  },
+  {
+    "Artist": "Box Of Frogs",
+    "Title": "Box Of Frogs",
+    "Location": "Cassette Box 1",
+    "ID": 103
   },
   {
     "Artist": "Boz Scaggs",
@@ -717,25 +813,25 @@
     "Artist": "Capitol",
     "Title": "60 Minute (blank?)",
     "Location": "8-Track Box 1",
-    "ID": 120
+    "ID": 121
   },
   {
     "Artist": "Capitol",
     "Title": "60 Minute (blank?)",
     "Location": "8-Track Box 1",
-    "ID": 121
-  },
-  {
-    "Artist": "Capitol",
-    "Title": "60 Minute (blank)",
-    "Location": "8-Track Box 1",
-    "ID": 122
+    "ID": 120
   },
   {
     "Artist": "Capitol",
     "Title": "60 Minute 8-Track Cartridge (blank?)",
     "Location": "8-Track Box 2",
     "ID": 123
+  },
+  {
+    "Artist": "Capitol",
+    "Title": "60 Minute (blank)",
+    "Location": "8-Track Box 1",
+    "ID": 122
   },
   {
     "Artist": "Carly Simon",
@@ -748,6 +844,12 @@
     "Title": "Coming Around Again",
     "Location": "Cassette Box 2",
     "ID": 125
+  },
+  {
+    "Artist": "Carole King",
+    "Title": "(NEW)Tapestry",
+    "Location": "Cassette Box 3",
+    "ID": 1002
   },
   {
     "Artist": "Carpenters",
@@ -769,9 +871,9 @@
   },
   {
     "Artist": "Charley Pride",
-    "Title": "Charley's Favorites",
+    "Title": "Just Plain Charley",
     "Location": "8-Track Box 3",
-    "ID": 129
+    "ID": 131
   },
   {
     "Artist": "Charley Pride",
@@ -781,9 +883,15 @@
   },
   {
     "Artist": "Charley Pride",
-    "Title": "Just Plain Charley",
+    "Title": "Charley's Favorites",
     "Location": "8-Track Box 3",
-    "ID": 131
+    "ID": 129
+  },
+  {
+    "Artist": "Charley Pride",
+    "Title": "The Best Of Charley Pride Vol. II",
+    "Location": "8-Track Box 3",
+    "ID": 134
   },
   {
     "Artist": "Charley Pride",
@@ -796,12 +904,6 @@
     "Title": "The Best Of Charley Pride, Vol. II (duplicate)",
     "Location": "8-Track Box 1",
     "ID": 133
-  },
-  {
-    "Artist": "Charley Pride",
-    "Title": "The Best Of Charley Pride Vol. II",
-    "Location": "8-Track Box 3",
-    "ID": 134
   },
   {
     "Artist": "Charlie Parker",
@@ -846,6 +948,12 @@
     "ID": 141
   },
   {
+    "Artist": "Claude Bolling",
+    "Title": "Bolling's Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 924
+  },
+  {
     "Artist": "Climax Blues Band",
     "Title": "Shine On",
     "Location": "8-Track Box 1",
@@ -856,6 +964,12 @@
     "Title": "Playground In My Mind",
     "Location": "8-Track Box 3",
     "ID": 143
+  },
+  {
+    "Artist": "Collective Soul",
+    "Title": "Collective Soul",
+    "Location": "Cassette Box 3",
+    "ID": 983
   },
   {
     "Artist": "Columbia Symphony Orchesta; Fausto Cleva, Cond.",
@@ -871,9 +985,9 @@
   },
   {
     "Artist": "Commodores",
-    "Title": "Commodores Greatest Hits",
-    "Location": "Cassette Box 2",
-    "ID": 146
+    "Title": "Movin' On",
+    "Location": "8-Track Box 3",
+    "ID": 148
   },
   {
     "Artist": "Commodores",
@@ -883,9 +997,9 @@
   },
   {
     "Artist": "Commodores",
-    "Title": "Movin' On",
-    "Location": "8-Track Box 3",
-    "ID": 148
+    "Title": "Commodores Greatest Hits",
+    "Location": "Cassette Box 2",
+    "ID": 146
   },
   {
     "Artist": "Concert Arts Orchestra; Erich Leinsdorf",
@@ -906,6 +1020,12 @@
     "ID": 151
   },
   {
+    "Artist": "Conway Twitty",
+    "Title": "I Can't See Me Without You",
+    "Location": "8-Track Box 3",
+    "ID": 927
+  },
+  {
     "Artist": "Conway Twitty - Loretta Lynn",
     "Title": "Louisiana Woman - Mississippi Man",
     "Location": "8-Track Box 3",
@@ -922,6 +1042,12 @@
     "Title": "Basie's In The Bag",
     "Location": "8-Track Box 1",
     "ID": 154
+  },
+  {
+    "Artist": "Crosby, Stills, Nash & Young",
+    "Title": "So Far",
+    "Location": "Cassette Box 3",
+    "ID": 989
   },
   {
     "Artist": "Cruel Sister",
@@ -967,7 +1093,7 @@
   },
   {
     "Artist": "Daniel Barenboim",
-    "Title": "Mozart: Symphonies 40 & 41 \"Jupiter",
+    "Title": "Mozart: Symphonies 40 & 41 \"Jupiter\"",
     "Location": "Cassette Box 2",
     "ID": 162
   },
@@ -996,10 +1122,10 @@
     "ID": 166
   },
   {
-    "Artist": "Dean Martin",
-    "Title": "(Remember Me) I'm The One Who Loves You",
-    "Location": "Reel to Reel Box 3",
-    "ID": 167
+    "Artist": "David Sanborn",
+    "Title": "A Change Of Heart",
+    "Location": "Cassette Box 3",
+    "ID": 940
   },
   {
     "Artist": "Dean Martin",
@@ -1009,27 +1135,9 @@
   },
   {
     "Artist": "Dean Martin",
-    "Title": "Cha Cha de Amor",
-    "Location": "8-Track Box 1",
-    "ID": 169
-  },
-  {
-    "Artist": "Dean Martin",
-    "Title": "Dino",
-    "Location": "8-Track Box 1",
-    "ID": 170
-  },
-  {
-    "Artist": "Dean Martin",
     "Title": "I Take A Lot Of Pride In What I Am",
     "Location": "8-Track Box 3",
     "ID": 171
-  },
-  {
-    "Artist": "Dean Martin",
-    "Title": "Once In A While",
-    "Location": "8-Track Box 3",
-    "ID": 172
   },
   {
     "Artist": "Dean Martin",
@@ -1039,15 +1147,45 @@
   },
   {
     "Artist": "Dean Martin",
+    "Title": "Once In A While",
+    "Location": "8-Track Box 3",
+    "ID": 172
+  },
+  {
+    "Artist": "Dean Martin",
+    "Title": "(Remember Me) I'm The One Who Loves You",
+    "Location": "Reel to Reel Box 3",
+    "ID": 167
+  },
+  {
+    "Artist": "Dean Martin",
+    "Title": "Cha Cha de Amor",
+    "Location": "8-Track Box 1",
+    "ID": 169
+  },
+  {
+    "Artist": "Dean Martin",
     "Title": "The Hit Sound Of Dean Martin",
     "Location": "Reel to Reel Box 1",
     "ID": 174
+  },
+  {
+    "Artist": "Dean Martin",
+    "Title": "Dino",
+    "Location": "8-Track Box 1",
+    "ID": 170
   },
   {
     "Artist": "Debbie Gibson",
     "Title": "Out Of The Blue",
     "Location": "Cassette Box 2",
     "ID": 175
+  },
+  {
+    "Artist": "Deep Purple",
+    "Title": "Machine Head",
+    "Location": "8-Track Box 3",
+    "ID": 998
   },
   {
     "Artist": "Deep Purple",
@@ -1080,6 +1218,12 @@
     "ID": 180
   },
   {
+    "Artist": "Diana Ross & The Supremes",
+    "Title": "Anthology Vol. 1",
+    "Location": "Cassette Box 3",
+    "ID": 950
+  },
+  {
     "Artist": "Diana Ross And The Supremes",
     "Title": "Greatest Hits Vol.2",
     "Location": "8-Track Box 1",
@@ -1099,9 +1243,15 @@
   },
   {
     "Artist": "Dionne Warwick",
-    "Title": "Dionne Warwick's Golden Hits Part One",
-    "Location": "Reel to Reel Box 3",
-    "ID": 184
+    "Title": "Very Dionne",
+    "Location": "8-Track Box 2",
+    "ID": 189
+  },
+  {
+    "Artist": "Dionne Warwick",
+    "Title": "Valley Of The Dolls",
+    "Location": "8-Track Box 1",
+    "ID": 188
   },
   {
     "Artist": "Dionne Warwick",
@@ -1123,21 +1273,21 @@
   },
   {
     "Artist": "Dionne Warwick",
-    "Title": "Valley Of The Dolls",
-    "Location": "8-Track Box 1",
-    "ID": 188
-  },
-  {
-    "Artist": "Dionne Warwick",
-    "Title": "Very Dionne",
-    "Location": "8-Track Box 2",
-    "ID": 189
+    "Title": "Dionne Warwick's Golden Hits Part One",
+    "Location": "Reel to Reel Box 3",
+    "ID": 184
   },
   {
     "Artist": "Dire Straits",
     "Title": "Brothers In Arms",
     "Location": "Cassette Box 1",
     "ID": 190
+  },
+  {
+    "Artist": "Dire Straits",
+    "Title": "Brothers In Arms",
+    "Location": "Cassette Box 3",
+    "ID": 938
   },
   {
     "Artist": "Dire Straits",
@@ -1159,9 +1309,9 @@
   },
   {
     "Artist": "Dolly Parton",
-    "Title": "Best Of Dolly Parton",
-    "Location": "8-Track Box 3",
-    "ID": 194
+    "Title": "Jolene",
+    "Location": "Cassette Box 2",
+    "ID": 197
   },
   {
     "Artist": "Dolly Parton",
@@ -1177,21 +1327,33 @@
   },
   {
     "Artist": "Dolly Parton",
-    "Title": "Jolene",
-    "Location": "Cassette Box 2",
-    "ID": 197
+    "Title": "Best Of Dolly Parton",
+    "Location": "8-Track Box 3",
+    "ID": 194
   },
   {
-    "Artist": "Don Ho",
-    "Title": "Hawaiian 30 Favorites",
-    "Location": "8-Track Box 2",
-    "ID": 198
+    "Artist": "Don Henley",
+    "Title": "The End Of The Innocence",
+    "Location": "Cassette Box 3",
+    "ID": 986
+  },
+  {
+    "Artist": "Don Henley",
+    "Title": "Building The Perfect Beast",
+    "Location": "Cassette Box 3",
+    "ID": 985
   },
   {
     "Artist": "Don Ho",
     "Title": "Hawaiian 30 Favorites",
     "Location": "8-Track Box 2",
     "ID": 199
+  },
+  {
+    "Artist": "Don Ho",
+    "Title": "Hawaiian 30 Favorites",
+    "Location": "8-Track Box 2",
+    "ID": 198
   },
   {
     "Artist": "Don McLean",
@@ -1203,13 +1365,13 @@
     "Artist": "Donna Fargo",
     "Title": "The Happiest Girl In The Whole U.S.A.",
     "Location": "8-Track Box 2",
-    "ID": 201
+    "ID": 202
   },
   {
     "Artist": "Donna Fargo",
     "Title": "The Happiest Girl In The Whole U.S.A.",
     "Location": "8-Track Box 2",
-    "ID": 202
+    "ID": 201
   },
   {
     "Artist": "Donna Summer",
@@ -1242,6 +1404,18 @@
     "ID": 207
   },
   {
+    "Artist": "Dwight Yoakam",
+    "Title": "(NEW)If There Was A Way",
+    "Location": "Cassette Box 3",
+    "ID": 967
+  },
+  {
+    "Artist": "Earl Klugh",
+    "Title": "The Best Of Earl Klugh",
+    "Location": "Cassette Box 2",
+    "ID": 210
+  },
+  {
     "Artist": "Earl Klugh",
     "Title": "Soda Fountain Shuffle",
     "Location": "Cassette Box 2",
@@ -1252,12 +1426,6 @@
     "Title": "Solo Guitar",
     "Location": "Cassette Box 2",
     "ID": 209
-  },
-  {
-    "Artist": "Earl Klugh",
-    "Title": "The Best Of Earl Klugh",
-    "Location": "Cassette Box 2",
-    "ID": 210
   },
   {
     "Artist": "Ed Ames",
@@ -1291,6 +1459,12 @@
   },
   {
     "Artist": "Ella Fitzgerald",
+    "Title": "The Best Of...",
+    "Location": "Cassette Box 3",
+    "ID": 1004
+  },
+  {
+    "Artist": "Ella Fitzgerald",
     "Title": "Ella Sings Gershwin",
     "Location": "Cassette Box 3",
     "ID": 216
@@ -1303,9 +1477,21 @@
   },
   {
     "Artist": "Elton John",
-    "Title": "Honky Chateau",
-    "Location": "Reel to Reel Box 2",
-    "ID": 218
+    "Title": "Your Songs",
+    "Location": "Cassette Box 3",
+    "ID": 937
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 921
+  },
+  {
+    "Artist": "Elton John",
+    "Title": "Something About The Way You Look Tonight // Candle In The Wind 1997",
+    "Location": "Cassette Box 2",
+    "ID": 220
   },
   {
     "Artist": "Elton John",
@@ -1315,21 +1501,9 @@
   },
   {
     "Artist": "Elton John",
-    "Title": "Something About The Way You Look Tonight // Candle In The Wind 1997",
-    "Location": "Cassette Box 2",
-    "ID": 220
-  },
-  {
-    "Artist": "Elvis Presley",
-    "Title": "Burning Love And Hits From His Movies",
-    "Location": "8-Track Box 3",
-    "ID": 221
-  },
-  {
-    "Artist": "Elvis Presley",
-    "Title": "Elvis' Christmas Album",
-    "Location": "8-Track Box 1",
-    "ID": 222
+    "Title": "Honky Chateau",
+    "Location": "Reel to Reel Box 2",
+    "ID": 218
   },
   {
     "Artist": "Elvis Presley",
@@ -1339,9 +1513,21 @@
   },
   {
     "Artist": "Elvis Presley",
-    "Title": "Pure Gold",
-    "Location": "Cassette Box 3",
-    "ID": 224
+    "Title": "Elvis' Christmas Album",
+    "Location": "8-Track Box 1",
+    "ID": 222
+  },
+  {
+    "Artist": "Elvis Presley",
+    "Title": "Burning Love And Hits From His Movies",
+    "Location": "8-Track Box 3",
+    "ID": 221
+  },
+  {
+    "Artist": "Elvis Presley",
+    "Title": "The Number One Hits",
+    "Location": "Cassette Box 1",
+    "ID": 226
   },
   {
     "Artist": "Elvis Presley",
@@ -1351,9 +1537,9 @@
   },
   {
     "Artist": "Elvis Presley",
-    "Title": "The Number One Hits",
-    "Location": "Cassette Box 1",
-    "ID": 226
+    "Title": "Pure Gold",
+    "Location": "Cassette Box 3",
+    "ID": 224
   },
   {
     "Artist": "Elvis Presley",
@@ -1368,16 +1554,10 @@
     "ID": 228
   },
   {
-    "Artist": "Engelbert Humperdinck",
-    "Title": "20 Greatest Hits",
-    "Location": "8-Track Box 2",
-    "ID": 229
-  },
-  {
-    "Artist": "Engelbert Humperdinck",
-    "Title": "20 Greatest Hits",
-    "Location": "8-Track Box 3",
-    "ID": 230
+    "Artist": "EMF",
+    "Title": "Unbelievable(Single)",
+    "Location": "Cassette Box 3",
+    "ID": 948
   },
   {
     "Artist": "Engelbert Humperdinck",
@@ -1387,9 +1567,21 @@
   },
   {
     "Artist": "Engelbert Humperdinck",
+    "Title": "20 Greatest Hits",
+    "Location": "8-Track Box 2",
+    "ID": 229
+  },
+  {
+    "Artist": "Engelbert Humperdinck",
     "Title": "We Made It Happen",
     "Location": "Reel to Reel Box 3",
     "ID": 232
+  },
+  {
+    "Artist": "Engelbert Humperdinck",
+    "Title": "20 Greatest Hits",
+    "Location": "8-Track Box 3",
+    "ID": 230
   },
   {
     "Artist": "Enigma",
@@ -1411,15 +1603,15 @@
   },
   {
     "Artist": "Eric Clapton",
-    "Title": "24 Nights (Cassette 2)",
-    "Location": "Cassette Box 1",
-    "ID": 236
-  },
-  {
-    "Artist": "Eric Clapton",
     "Title": "Unplugged",
     "Location": "Cassette Box 2",
     "ID": 237
+  },
+  {
+    "Artist": "Eric Clapton",
+    "Title": "24 Nights (Cassette 2)",
+    "Location": "Cassette Box 1",
+    "ID": 236
   },
   {
     "Artist": "Europe",
@@ -1447,21 +1639,27 @@
   },
   {
     "Artist": "Fats Domino",
+    "Title": "Live...In Concert",
+    "Location": "Cassette Box 3",
+    "ID": 925
+  },
+  {
+    "Artist": "Fats Domino",
     "Title": "The Legendary Music Man",
     "Location": "8-Track Box 3",
     "ID": 242
   },
   {
     "Artist": "Fiona",
-    "Title": "Beyond The Pale",
-    "Location": "Cassette Box 1",
-    "ID": 243
-  },
-  {
-    "Artist": "Fiona",
     "Title": "Fiona",
     "Location": "Cassette Box 1",
     "ID": 244
+  },
+  {
+    "Artist": "Fiona",
+    "Title": "Beyond The Pale",
+    "Location": "Cassette Box 1",
+    "ID": 243
   },
   {
     "Artist": "Fiona",
@@ -1489,15 +1687,15 @@
   },
   {
     "Artist": "Foghat",
-    "Title": "Boogie Motel",
-    "Location": "Cassette Box 1",
-    "ID": 249
-  },
-  {
-    "Artist": "Foghat",
     "Title": "Tight Shoes",
     "Location": "Cassette Box 1",
     "ID": 250
+  },
+  {
+    "Artist": "Foghat",
+    "Title": "Boogie Motel",
+    "Location": "Cassette Box 1",
+    "ID": 249
   },
   {
     "Artist": "Ford",
@@ -1524,12 +1722,6 @@
     "ID": 254
   },
   {
-    "Artist": "Fourplay",
-    "Title": "Between The Sheets",
-    "Location": "Cassette Box 1",
-    "ID": 255
-  },
-  {
     "Artist": "Four Tops",
     "Title": "(NEW)Still Waters Run Deep",
     "Location": "Reel to Reel Box 2",
@@ -1540,6 +1732,12 @@
     "Title": "Ain't No Woman (Like The One I Got)",
     "Location": "Cassette Box 1",
     "ID": 257
+  },
+  {
+    "Artist": "Fourplay",
+    "Title": "Between The Sheets",
+    "Location": "Cassette Box 1",
+    "ID": 255
   },
   {
     "Artist": "Frank Comedes",
@@ -1555,21 +1753,21 @@
   },
   {
     "Artist": "Frank Sinatra",
-    "Title": "(Tape Only) Frank Sinatra's Gold",
-    "Location": "Cassette Box 2",
-    "ID": 260
-  },
-  {
-    "Artist": "Frank Sinatra",
     "Title": "A Jolly Christmas From Frank Sinatra",
     "Location": "Cassette Box 1",
     "ID": 261
   },
   {
     "Artist": "Frank Sinatra",
-    "Title": "A Jolly Christmas From Frank Sinatra",
-    "Location": "Cassette Box 3",
-    "ID": 262
+    "Title": "Watertown",
+    "Location": "8-Track Box 1",
+    "ID": 265
+  },
+  {
+    "Artist": "Frank Sinatra",
+    "Title": "Sinatra Concert At \"The Sands\"",
+    "Location": "8-Track Box 2",
+    "ID": 264
   },
   {
     "Artist": "Frank Sinatra",
@@ -1579,15 +1777,15 @@
   },
   {
     "Artist": "Frank Sinatra",
-    "Title": "Sinatra Concert At \"The Sands",
-    "Location": "8-Track Box 2",
-    "ID": 264
+    "Title": "A Jolly Christmas From Frank Sinatra",
+    "Location": "Cassette Box 3",
+    "ID": 262
   },
   {
     "Artist": "Frank Sinatra",
-    "Title": "Watertown",
-    "Location": "8-Track Box 1",
-    "ID": 265
+    "Title": "(Tape Only) Frank Sinatra's Gold",
+    "Location": "Cassette Box 2",
+    "ID": 260
   },
   {
     "Artist": "Freddy Fender",
@@ -1621,15 +1819,15 @@
   },
   {
     "Artist": "Gary Puckett And The Union Gap",
-    "Title": "Featuring Young Girl",
-    "Location": "Reel to Reel Box 3",
-    "ID": 271
-  },
-  {
-    "Artist": "Gary Puckett And The Union Gap",
     "Title": "The New Gary Puckett And The Union Gap Album",
     "Location": "Reel to Reel Box 1",
     "ID": 272
+  },
+  {
+    "Artist": "Gary Puckett And The Union Gap",
+    "Title": "Featuring Young Girl",
+    "Location": "Reel to Reel Box 3",
+    "ID": 271
   },
   {
     "Artist": "Genesis",
@@ -1648,6 +1846,12 @@
     "Title": "Three Sides Live",
     "Location": "Cassette Box 2",
     "ID": 275
+  },
+  {
+    "Artist": "George Benson",
+    "Title": "The George Benson Collection",
+    "Location": "Cassette Box 3",
+    "ID": 941
   },
   {
     "Artist": "George Beverly Shea",
@@ -1670,14 +1874,20 @@
   {
     "Artist": "George Michael",
     "Title": "Faith",
-    "Location": "Cassette Box 1",
-    "ID": 279
+    "Location": "Cassette Box 2",
+    "ID": 280
   },
   {
     "Artist": "George Michael",
     "Title": "Faith",
-    "Location": "Cassette Box 2",
-    "ID": 280
+    "Location": "Cassette Box 1",
+    "ID": 279
+  },
+  {
+    "Artist": "George Shearing",
+    "Title": "I'll Take Romance",
+    "Location": "Cassette Box 3",
+    "ID": 957
   },
   {
     "Artist": "George Thorogood & The Destroyers",
@@ -1705,6 +1915,12 @@
   },
   {
     "Artist": "Georgia Satellites",
+    "Title": "Georgia Satellites",
+    "Location": "Cassette Box 3",
+    "ID": 990
+  },
+  {
+    "Artist": "Georgia Satellites",
     "Title": "Open All Night",
     "Location": "Cassette Box 1",
     "ID": 285
@@ -1723,7 +1939,7 @@
   },
   {
     "Artist": "Glen Campbell",
-    "Title": "Live\" at his New Jersey Concert",
+    "Title": "\"Live\" at his New Jersey Concert",
     "Location": "Reel to Reel Box 1",
     "ID": 288
   },
@@ -1735,9 +1951,9 @@
   },
   {
     "Artist": "Glen Campbell",
-    "Title": "By The Time I Get To Phoenix",
-    "Location": "8-Track Box 2",
-    "ID": 290
+    "Title": "Southern Nights",
+    "Location": "8-Track Box 1",
+    "ID": 292
   },
   {
     "Artist": "Glen Campbell",
@@ -1747,9 +1963,9 @@
   },
   {
     "Artist": "Glen Campbell",
-    "Title": "Southern Nights",
-    "Location": "8-Track Box 1",
-    "ID": 292
+    "Title": "By The Time I Get To Phoenix",
+    "Location": "8-Track Box 2",
+    "ID": 290
   },
   {
     "Artist": "Glenn Miller",
@@ -1759,9 +1975,9 @@
   },
   {
     "Artist": "Glenn Miller",
-    "Title": "Moonlight Serenade & Other Hits (tape only)",
+    "Title": "The Best Of Glenn Miller",
     "Location": "Cassette Box 3",
-    "ID": 294
+    "ID": 296
   },
   {
     "Artist": "Glenn Miller",
@@ -1771,9 +1987,15 @@
   },
   {
     "Artist": "Glenn Miller",
-    "Title": "The Best Of Glenn Miller",
+    "Title": "Moonlight Serenade & Other Hits (tape only)",
     "Location": "Cassette Box 3",
-    "ID": 296
+    "ID": 294
+  },
+  {
+    "Artist": "Glenn Miller",
+    "Title": "Glenn Miller Live!",
+    "Location": "Cassette Box 3",
+    "ID": 926
   },
   {
     "Artist": "Glenn Miller And His Orchestra",
@@ -1789,15 +2011,15 @@
   },
   {
     "Artist": "Guy Lombardo",
-    "Title": "50th Anniversary Album",
-    "Location": "8-Track Box 2",
-    "ID": 299
-  },
-  {
-    "Artist": "Guy Lombardo",
     "Title": "Waltz Favorites",
     "Location": "8-Track Box 2",
     "ID": 300
+  },
+  {
+    "Artist": "Guy Lombardo",
+    "Title": "50th Anniversary Album",
+    "Location": "8-Track Box 2",
+    "ID": 299
   },
   {
     "Artist": "Guy Lombardo And The Royal Canadians",
@@ -1818,16 +2040,46 @@
     "ID": 303
   },
   {
+    "Artist": "Hank Williams Jr.",
+    "Title": "(NEW)Maverick",
+    "Location": "Cassette Box 2",
+    "ID": 305
+  },
+  {
+    "Artist": "Hank Williams, Jr.",
+    "Title": "Habits Old And New",
+    "Location": "Cassette Box 3",
+    "ID": 993
+  },
+  {
     "Artist": "Hank Williams, Jr.",
     "Title": "Family Tradition",
     "Location": "Cassette Box 2",
     "ID": 304
   },
   {
-    "Artist": "Hank Williams Jr.",
-    "Title": "(NEW)Maverick",
-    "Location": "Cassette Box 2",
-    "ID": 305
+    "Artist": "Hank Williams, Jr.",
+    "Title": "Greatest Hits III",
+    "Location": "Cassette Box 3",
+    "ID": 994
+  },
+  {
+    "Artist": "Hank Williams, Jr.",
+    "Title": "Born To Boogie",
+    "Location": "Cassette Box 3",
+    "ID": 992
+  },
+  {
+    "Artist": "Hank Williams, Jr. & Friends",
+    "Title": "Hank Williams, Jr. & Friends",
+    "Location": "Cassette Box 3",
+    "ID": 954
+  },
+  {
+    "Artist": "Harry Bellafonte",
+    "Title": "Pure Gold",
+    "Location": "Cassette Box 3",
+    "ID": 946
   },
   {
     "Artist": "Harry James",
@@ -1855,15 +2107,15 @@
   },
   {
     "Artist": "Henry Paul Band",
-    "Title": "Anytime",
-    "Location": "Cassette Box 1",
-    "ID": 310
-  },
-  {
-    "Artist": "Henry Paul Band",
     "Title": "Feel The Heat",
     "Location": "Cassette Box 1",
     "ID": 311
+  },
+  {
+    "Artist": "Henry Paul Band",
+    "Title": "Anytime",
+    "Location": "Cassette Box 1",
+    "ID": 310
   },
   {
     "Artist": "Herb Alpert",
@@ -1879,15 +2131,15 @@
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "Easy Listening",
-    "Location": "8-Track Box 2",
-    "ID": 314
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "Greatest Hits",
     "Location": "Cassette Box 3",
     "ID": 315
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "Easy Listening",
+    "Location": "8-Track Box 2",
+    "ID": 314
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -1915,15 +2167,15 @@
   },
   {
     "Artist": "Herb Alpert And The Tijuana Brass",
-    "Title": "!!Going Places!!",
-    "Location": "Reel to Reel Box 2",
-    "ID": 320
-  },
-  {
-    "Artist": "Herb Alpert And The Tijuana Brass",
     "Title": "(NEW)Herb Alperts Ninth",
     "Location": "Reel to Reel Box 3",
     "ID": 321
+  },
+  {
+    "Artist": "Herb Alpert And The Tijuana Brass",
+    "Title": "!!Going Places!!",
+    "Location": "Reel to Reel Box 2",
+    "ID": 320
   },
   {
     "Artist": "Herbie Hancock",
@@ -1981,21 +2233,21 @@
   },
   {
     "Artist": "Isaac Stern",
-    "Title": "Favorite Violin Encores \"Humoresque",
+    "Title": "Favorite Violin Encores \"Humoresque\"",
     "Location": "Cassette Box 2",
     "ID": 331
-  },
-  {
-    "Artist": "Itzhak Perlman",
-    "Title": "Encores",
-    "Location": "Cassette Box 2",
-    "ID": 332
   },
   {
     "Artist": "Itzhak Perlman",
     "Title": "My Favorite Kreisler",
     "Location": "Cassette Box 2",
     "ID": 333
+  },
+  {
+    "Artist": "Itzhak Perlman",
+    "Title": "Encores",
+    "Location": "Cassette Box 2",
+    "ID": 332
   },
   {
     "Artist": "Jackie Gleason",
@@ -2005,15 +2257,15 @@
   },
   {
     "Artist": "Jackie Gleason",
-    "Title": "The Best Of Jackie Gleason",
-    "Location": "Reel to Reel Box 2",
-    "ID": 335
-  },
-  {
-    "Artist": "Jackie Gleason",
     "Title": "Velvet Brass",
     "Location": "Reel to Reel Box 3",
     "ID": 336
+  },
+  {
+    "Artist": "Jackie Gleason",
+    "Title": "The Best Of Jackie Gleason",
+    "Location": "Reel to Reel Box 2",
+    "ID": 335
   },
   {
     "Artist": "Jackson Browne",
@@ -2047,9 +2299,9 @@
   },
   {
     "Artist": "James Taylor",
-    "Title": "(Live) Tape 1",
+    "Title": "JT (tape only)",
     "Location": "Cassette Box 2",
-    "ID": 342
+    "ID": 344
   },
   {
     "Artist": "James Taylor",
@@ -2059,21 +2311,21 @@
   },
   {
     "Artist": "James Taylor",
-    "Title": "JT (tape only)",
+    "Title": "(Live) Tape 1",
     "Location": "Cassette Box 2",
-    "ID": 344
-  },
-  {
-    "Artist": "James Taylor",
-    "Title": "Mud Slide Slim",
-    "Location": "Reel to Reel Box 3",
-    "ID": 345
+    "ID": 342
   },
   {
     "Artist": "James Taylor",
     "Title": "New Moon Shine",
     "Location": "Cassette Box 3",
     "ID": 346
+  },
+  {
+    "Artist": "James Taylor",
+    "Title": "Mud Slide Slim",
+    "Location": "Reel to Reel Box 3",
+    "ID": 345
   },
   {
     "Artist": "Jane Wiedlin",
@@ -2094,10 +2346,10 @@
     "ID": 349
   },
   {
-    "Artist": "Jefferson Airplane",
-    "Title": "2400 Fulton Street-An Anthology",
-    "Location": "Cassette Box 3",
-    "ID": 350
+    "Artist": "Jeff Paris",
+    "Title": "Race To Paradise",
+    "Location": "Cassette Box 1",
+    "ID": 352
   },
   {
     "Artist": "Jefferson Airplane",
@@ -2106,10 +2358,10 @@
     "ID": 351
   },
   {
-    "Artist": "Jeff Paris",
-    "Title": "Race To Paradise",
-    "Location": "Cassette Box 1",
-    "ID": 352
+    "Artist": "Jefferson Airplane",
+    "Title": "2400 Fulton Street-An Anthology",
+    "Location": "Cassette Box 3",
+    "ID": 350
   },
   {
     "Artist": "Jerry Clower",
@@ -2143,9 +2395,21 @@
   },
   {
     "Artist": "Jewel",
+    "Title": "Pieces Of You",
+    "Location": "Cassette Box 3",
+    "ID": 939
+  },
+  {
+    "Artist": "Jewel",
     "Title": "You Were Meant For Me (single)",
     "Location": "Cassette Box 2",
     "ID": 358
+  },
+  {
+    "Artist": "Jim Croce",
+    "Title": "The Best Of Jim Croce",
+    "Location": "Cassette Box 1",
+    "ID": 360
   },
   {
     "Artist": "Jim Croce",
@@ -2154,10 +2418,28 @@
     "ID": 359
   },
   {
-    "Artist": "Jim Croce",
-    "Title": "The Best Of Jim Croce",
-    "Location": "Cassette Box 1",
-    "ID": 360
+    "Artist": "Jim Reeves",
+    "Title": "The Best Of Jim Reeves",
+    "Location": "8-Track Box 2",
+    "ID": 364
+  },
+  {
+    "Artist": "Jim Reeves",
+    "Title": "The Velvet Memories Of Jim Reeves",
+    "Location": "8-Track Box 3",
+    "ID": 366
+  },
+  {
+    "Artist": "Jim Reeves",
+    "Title": "I Love You Because",
+    "Location": "8-Track Box 3",
+    "ID": 363
+  },
+  {
+    "Artist": "Jim Reeves",
+    "Title": "The Country Side Of Jim Reeves",
+    "Location": "8-Track Box 3",
+    "ID": 365
   },
   {
     "Artist": "Jimmy Barnes",
@@ -2170,30 +2452,6 @@
     "Title": "Outrider",
     "Location": "Cassette Box 1",
     "ID": 362
-  },
-  {
-    "Artist": "Jim Reeves",
-    "Title": "I Love You Because",
-    "Location": "8-Track Box 3",
-    "ID": 363
-  },
-  {
-    "Artist": "Jim Reeves",
-    "Title": "The Best Of Jim Reeves",
-    "Location": "8-Track Box 2",
-    "ID": 364
-  },
-  {
-    "Artist": "Jim Reeves",
-    "Title": "The Country Side Of Jim Reeves",
-    "Location": "8-Track Box 3",
-    "ID": 365
-  },
-  {
-    "Artist": "Jim Reeves",
-    "Title": "The Velvet Memories Of Jim Reeves",
-    "Location": "8-Track Box 3",
-    "ID": 366
   },
   {
     "Artist": "Joan Baez",
@@ -2251,15 +2509,15 @@
   },
   {
     "Artist": "John Denver",
-    "Title": "John Denver's Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 376
-  },
-  {
-    "Artist": "John Denver",
     "Title": "The Wildlife Concert (tape only)",
     "Location": "Cassette Box 3",
     "ID": 377
+  },
+  {
+    "Artist": "John Denver",
+    "Title": "John Denver's Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 376
   },
   {
     "Artist": "John F. Kennedy",
@@ -2296,6 +2554,18 @@
     "Title": "(NEW)Transition",
     "Location": "Cassette Box 3",
     "ID": 383
+  },
+  {
+    "Artist": "John Verity",
+    "Title": "John Verity",
+    "Location": "Cassette Box 1",
+    "ID": 392
+  },
+  {
+    "Artist": "John Waite",
+    "Title": "Ignition",
+    "Location": "Cassette Box 1",
+    "ID": 393
   },
   {
     "Artist": "Johnny Cash",
@@ -2346,18 +2616,6 @@
     "ID": 391
   },
   {
-    "Artist": "John Verity",
-    "Title": "John Verity",
-    "Location": "Cassette Box 1",
-    "ID": 392
-  },
-  {
-    "Artist": "John Waite",
-    "Title": "Ignition",
-    "Location": "Cassette Box 1",
-    "ID": 393
-  },
-  {
     "Artist": "Jon Butcher",
     "Title": "Pictures From The Front",
     "Location": "Cassette Box 1",
@@ -2395,9 +2653,21 @@
   },
   {
     "Artist": "Judy Garland",
+    "Title": "That's Entertainment",
+    "Location": "Cassette Box 3",
+    "ID": 922
+  },
+  {
+    "Artist": "Judy Garland",
     "Title": "Over The Rainbow",
     "Location": "8-Track Box 2",
     "ID": 400
+  },
+  {
+    "Artist": "Juice Newton",
+    "Title": "Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 991
   },
   {
     "Artist": "Juice Newton",
@@ -2412,6 +2682,12 @@
     "ID": 402
   },
   {
+    "Artist": "Julio Iglesias",
+    "Title": "Yo Canto",
+    "Location": "Cassette Box 3",
+    "ID": 977
+  },
+  {
     "Artist": "Juluka",
     "Title": "Scatterlings",
     "Location": "Cassette Box 3",
@@ -2419,9 +2695,9 @@
   },
   {
     "Artist": "Kansas",
-    "Title": "In The Spirit Of Things",
-    "Location": "Cassette Box 1",
-    "ID": 404
+    "Title": "The Best Of Kansas",
+    "Location": "Cassette Box 2",
+    "ID": 406
   },
   {
     "Artist": "Kansas",
@@ -2431,9 +2707,9 @@
   },
   {
     "Artist": "Kansas",
-    "Title": "The Best Of Kansas",
-    "Location": "Cassette Box 2",
-    "ID": 406
+    "Title": "In The Spirit Of Things",
+    "Location": "Cassette Box 1",
+    "ID": 404
   },
   {
     "Artist": "Karl Bohm",
@@ -2473,18 +2749,6 @@
   },
   {
     "Artist": "Kenny Rogers",
-    "Title": "Eyes That See In The Dark",
-    "Location": "Cassette Box 1",
-    "ID": 413
-  },
-  {
-    "Artist": "Kenny Rogers",
-    "Title": "Greatest Hits",
-    "Location": "8-Track Box 2",
-    "ID": 414
-  },
-  {
-    "Artist": "Kenny Rogers",
     "Title": "I Prefer The Moonlight",
     "Location": "Cassette Box 2",
     "ID": 415
@@ -2500,6 +2764,24 @@
     "Title": "Love Will Turn You Around",
     "Location": "Cassette Box 2",
     "ID": 417
+  },
+  {
+    "Artist": "Kenny Rogers",
+    "Title": "Eyes That See In The Dark",
+    "Location": "Cassette Box 1",
+    "ID": 413
+  },
+  {
+    "Artist": "Kenny Rogers",
+    "Title": "Greatest Hits",
+    "Location": "8-Track Box 2",
+    "ID": 414
+  },
+  {
+    "Artist": "Kenny Rogers",
+    "Title": "Duets",
+    "Location": "8-Track Box 3",
+    "ID": 933
   },
   {
     "Artist": "Kenny Rogers & The First Edition",
@@ -2545,6 +2827,12 @@
   },
   {
     "Artist": "Kitty Wells",
+    "Title": "The Kitty Wells Story",
+    "Location": "8-Track Box 3",
+    "ID": 427
+  },
+  {
+    "Artist": "Kitty Wells",
     "Title": "Dust On The Bible",
     "Location": "8-Track Box 3",
     "ID": 425
@@ -2554,18 +2842,6 @@
     "Title": "Pledging My Love",
     "Location": "8-Track Box 2",
     "ID": 426
-  },
-  {
-    "Artist": "Kitty Wells",
-    "Title": "The Kitty Wells Story",
-    "Location": "8-Track Box 3",
-    "ID": 427
-  },
-  {
-    "Artist": "Kraftwerk",
-    "Title": "Electric Cafe",
-    "Location": "Cassette Box 2",
-    "ID": 428
   },
   {
     "Artist": "Kraftwerk",
@@ -2578,6 +2854,12 @@
     "Title": "Radio-Activity",
     "Location": "Cassette Box 3",
     "ID": 430
+  },
+  {
+    "Artist": "Kraftwerk",
+    "Title": "Electric Cafe",
+    "Location": "Cassette Box 2",
+    "ID": 428
   },
   {
     "Artist": "Kris Kross",
@@ -2635,6 +2917,12 @@
   },
   {
     "Artist": "Linda Ronstadt",
+    "Title": "Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 920
+  },
+  {
+    "Artist": "Linda Ronstadt",
     "Title": "(Tape Only) What's New",
     "Location": "Cassette Box 2",
     "ID": 440
@@ -2650,6 +2938,12 @@
     "Title": "What's New",
     "Location": "Cassette Box 1",
     "ID": 442
+  },
+  {
+    "Artist": "Linda Ronstadt",
+    "Title": "Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 964
   },
   {
     "Artist": "Little Elvis",
@@ -2688,6 +2982,12 @@
     "ID": 448
   },
   {
+    "Artist": "Live",
+    "Title": "Secret Samadhi",
+    "Location": "Cassette Box 3",
+    "ID": 973
+  },
+  {
     "Artist": "Living Strings/Johnny Douglas Orch.",
     "Title": "Music For Dancing/Dance Party Dicotheque",
     "Location": "8-Track Box 1",
@@ -2712,6 +3012,12 @@
     "ID": 452
   },
   {
+    "Artist": "London Symphony Orchestra; Andre Previn, Cond.",
+    "Title": "Mendelssohn:Symphony No. 4 in A & Three Overtures",
+    "Location": "Cassette Box 3",
+    "ID": 919
+  },
+  {
     "Artist": "Lone Justice",
     "Title": "Shelter",
     "Location": "Cassette Box 1",
@@ -2725,9 +3031,9 @@
   },
   {
     "Artist": "Loretta Lynn",
-    "Title": "Coal Miner's Daughter",
-    "Location": "8-Track Box 1",
-    "ID": 455
+    "Title": "Here I Am Again",
+    "Location": "8-Track Box 2",
+    "ID": 457
   },
   {
     "Artist": "Loretta Lynn",
@@ -2737,9 +3043,9 @@
   },
   {
     "Artist": "Loretta Lynn",
-    "Title": "Here I Am Again",
-    "Location": "8-Track Box 2",
-    "ID": 457
+    "Title": "Coal Miner's Daughter",
+    "Location": "8-Track Box 1",
+    "ID": 455
   },
   {
     "Artist": "Loretta Lynn - Conway Twitty",
@@ -2775,19 +3081,13 @@
     "Artist": "Loverboy",
     "Title": "Keep It Up",
     "Location": "Cassette Box 1",
-    "ID": 463
+    "ID": 464
   },
   {
     "Artist": "Loverboy",
     "Title": "Keep It Up",
     "Location": "Cassette Box 1",
-    "ID": 464
-  },
-  {
-    "Artist": "Luciano Pavarotti",
-    "Title": "Mamma(Poplular Italian Songs)",
-    "Location": "Cassette Box 3",
-    "ID": 465
+    "ID": 463
   },
   {
     "Artist": "Luciano Pavarotti",
@@ -2796,10 +3096,22 @@
     "ID": 466
   },
   {
+    "Artist": "Luciano Pavarotti",
+    "Title": "Mamma(Poplular Italian Songs)",
+    "Location": "Cassette Box 3",
+    "ID": 465
+  },
+  {
     "Artist": "Lynn Anderson",
     "Title": "The Best Of Lynn Anderson",
     "Location": "8-Track Box 3",
     "ID": 467
+  },
+  {
+    "Artist": "M.C. Hammer",
+    "Title": "Let's Get It Started",
+    "Location": "Cassette Box 3",
+    "ID": 970
   },
   {
     "Artist": "Mac Davis",
@@ -2929,15 +3241,15 @@
   },
   {
     "Artist": "Miles Davis",
-    "Title": "Bitches Brew",
-    "Location": "Reel to Reel Box 2",
-    "ID": 490
-  },
-  {
-    "Artist": "Miles Davis",
     "Title": "Live Evil",
     "Location": "Reel to Reel Box 3",
     "ID": 491
+  },
+  {
+    "Artist": "Miles Davis",
+    "Title": "Bitches Brew",
+    "Location": "Reel to Reel Box 2",
+    "ID": 490
   },
   {
     "Artist": "Mitch Miller",
@@ -2946,16 +3258,16 @@
     "ID": 492
   },
   {
+    "Artist": "Morris Albert",
+    "Title": "Feelings",
+    "Location": "8-Track Box 3",
+    "ID": 971
+  },
+  {
     "Artist": "Morton Subotnick",
     "Title": "Touch",
     "Location": "8-Track Box 2",
     "ID": 493
-  },
-  {
-    "Artist": "Mr. Big",
-    "Title": "Mr. Big",
-    "Location": "Cassette Box 1",
-    "ID": 494
   },
   {
     "Artist": "Mr Acker Bilk",
@@ -2964,10 +3276,28 @@
     "ID": 495
   },
   {
-    "Artist": "Natalie Cole",
-    "Title": "Good To Be Back",
-    "Location": "Cassette Box 2",
-    "ID": 496
+    "Artist": "Mr. Big",
+    "Title": "Mr. Big",
+    "Location": "Cassette Box 1",
+    "ID": 494
+  },
+  {
+    "Artist": "Murray Perahia; Bernard Haitink",
+    "Title": "Beethoven: The Five Piano Concertos Tape 3",
+    "Location": "Cassette Box 3",
+    "ID": 1008
+  },
+  {
+    "Artist": "Murray Perahia; Bernard Haitink",
+    "Title": "Beethoven: The Five Piano Concertos Tape 2",
+    "Location": "Cassette Box 3",
+    "ID": 1007
+  },
+  {
+    "Artist": "Murray Perahia; Bernard Haitink",
+    "Title": "Beethoven: The Five Piano Concertos Tape 1",
+    "Location": "Cassette Box 3",
+    "ID": 1006
   },
   {
     "Artist": "Nat King Cole",
@@ -2988,10 +3318,10 @@
     "ID": 499
   },
   {
-    "Artist": "Nazareth",
-    "Title": "Hair Of The Dog",
-    "Location": "8-Track Box 1",
-    "ID": 500
+    "Artist": "Natalie Cole",
+    "Title": "Good To Be Back",
+    "Location": "Cassette Box 2",
+    "ID": 496
   },
   {
     "Artist": "Nazareth",
@@ -3000,16 +3330,22 @@
     "ID": 501
   },
   {
-    "Artist": "Neil Diamond",
-    "Title": "Gold",
+    "Artist": "Nazareth",
+    "Title": "Hair Of The Dog",
     "Location": "8-Track Box 1",
-    "ID": 502
+    "ID": 500
   },
   {
     "Artist": "Neil Diamond",
     "Title": "His 12 Greatest Hits",
     "Location": "8-Track Box 3",
     "ID": 503
+  },
+  {
+    "Artist": "Neil Diamond",
+    "Title": "Gold",
+    "Location": "8-Track Box 1",
+    "ID": 502
   },
   {
     "Artist": "Neil Diamond",
@@ -3055,15 +3391,15 @@
   },
   {
     "Artist": "New Riders Of The Purple Sage",
-    "Title": "Keep On Keepin' On",
-    "Location": "Cassette Box 3",
-    "ID": 511
-  },
-  {
-    "Artist": "New Riders Of The Purple Sage",
     "Title": "Take A Red",
     "Location": "Cassette Box 3",
     "ID": 512
+  },
+  {
+    "Artist": "New Riders Of The Purple Sage",
+    "Title": "Keep On Keepin' On",
+    "Location": "Cassette Box 3",
+    "ID": 511
   },
   {
     "Artist": "New York Philharmonic; Leonard Bernstein, Cond.",
@@ -3091,15 +3427,21 @@
   },
   {
     "Artist": "Nils Lofgren",
+    "Title": "Flip",
+    "Location": "Cassette Box 1",
+    "ID": 518
+  },
+  {
+    "Artist": "Nils Lofgren",
     "Title": "Code Of The Road",
     "Location": "Cassette Box 1",
     "ID": 517
   },
   {
-    "Artist": "Nils Lofgren",
-    "Title": "Flip",
-    "Location": "Cassette Box 1",
-    "ID": 518
+    "Artist": "Nilsson",
+    "Title": "Nilsson Schmilsson",
+    "Location": "8-Track Box 3",
+    "ID": 997
   },
   {
     "Artist": "Oak Ridge Boys",
@@ -3114,10 +3456,16 @@
     "ID": 520
   },
   {
-    "Artist": "Outlaws",
-    "Title": "Greatest Hits Of The Outlaws",
-    "Location": "Cassette Box 2",
-    "ID": 521
+    "Artist": "Otis Redding",
+    "Title": "The Legendary Otis Redding",
+    "Location": "8-Track Box 3",
+    "ID": 1001
+  },
+  {
+    "Artist": "Otis Redding/The Jimi Hendrix Experience",
+    "Title": "Otis Redding/The Jimi Hendrix Experience",
+    "Location": "8-Track Box 3",
+    "ID": 995
   },
   {
     "Artist": "Out Of Control",
@@ -3126,10 +3474,10 @@
     "ID": 522
   },
   {
-    "Artist": "Pat Benatar",
-    "Title": "Crimes Of Passion",
+    "Artist": "Outlaws",
+    "Title": "Greatest Hits Of The Outlaws",
     "Location": "Cassette Box 2",
-    "ID": 523
+    "ID": 521
   },
   {
     "Artist": "Pat Benatar",
@@ -3138,16 +3486,22 @@
     "ID": 524
   },
   {
-    "Artist": "Patsy Cline",
-    "Title": "The Patsy Cline Story",
-    "Location": "8-Track Box 1",
-    "ID": 525
+    "Artist": "Pat Benatar",
+    "Title": "Crimes Of Passion",
+    "Location": "Cassette Box 2",
+    "ID": 523
   },
   {
     "Artist": "Pat Travers",
     "Title": "Radio Active",
     "Location": "Cassette Box 2",
     "ID": 526
+  },
+  {
+    "Artist": "Patsy Cline",
+    "Title": "The Patsy Cline Story",
+    "Location": "8-Track Box 1",
+    "ID": 525
   },
   {
     "Artist": "Paul Rodgers",
@@ -3162,6 +3516,18 @@
     "ID": 528
   },
   {
+    "Artist": "Paul Young",
+    "Title": "No Parlez",
+    "Location": "Cassette Box 3",
+    "ID": 981
+  },
+  {
+    "Artist": "Perry Como",
+    "Title": "This Is Perry Como, Vol. 2",
+    "Location": "Cassette Box 3",
+    "ID": 531
+  },
+  {
     "Artist": "Perry Como",
     "Title": "It's Impossible",
     "Location": "8-Track Box 1",
@@ -3174,10 +3540,10 @@
     "ID": 530
   },
   {
-    "Artist": "Perry Como",
-    "Title": "This Is Perry Como, Vol. 2",
-    "Location": "Cassette Box 3",
-    "ID": 531
+    "Artist": "Pet Shop Boys",
+    "Title": "Actually",
+    "Location": "Cassette Box 2",
+    "ID": 541
   },
   {
     "Artist": "Pete Fountain",
@@ -3186,28 +3552,22 @@
     "ID": 532
   },
   {
-    "Artist": "Peter, Paul and Mary",
-    "Title": "Peter, Paul and Mommy",
-    "Location": "Reel to Reel Box 1",
-    "ID": 533
-  },
-  {
-    "Artist": "Peter, Paul And Mary",
-    "Title": "(Ten) Years Together The Best Of Peter, Paul And Mary",
-    "Location": "Reel to Reel Box 3",
-    "ID": 534
-  },
-  {
-    "Artist": "Peter Cetera",
-    "Title": "Solitude/Solitaire",
-    "Location": "Cassette Box 1",
-    "ID": 535
-  },
-  {
     "Artist": "Pete Seger",
     "Title": "Children's Concert At Town Hall",
     "Location": "Cassette Box 2",
     "ID": 536
+  },
+  {
+    "Artist": "Pete Townshend",
+    "Title": "The Iron Man - The Musical By Pete Townshend",
+    "Location": "Cassette Box 3",
+    "ID": 540
+  },
+  {
+    "Artist": "Pete Townshend",
+    "Title": "The Iron Man: THe Musical By Pete Townshend",
+    "Location": "Cassette Box 1",
+    "ID": 539
   },
   {
     "Artist": "Pete Townshend",
@@ -3222,22 +3582,22 @@
     "ID": 538
   },
   {
-    "Artist": "Pete Townshend",
-    "Title": "The Iron Man: THe Musical By Pete Townshend",
+    "Artist": "Peter Cetera",
+    "Title": "Solitude/Solitaire",
     "Location": "Cassette Box 1",
-    "ID": 539
+    "ID": 535
   },
   {
-    "Artist": "Pete Townshend",
-    "Title": "The Iron Man - The Musical By Pete Townshend",
-    "Location": "Cassette Box 3",
-    "ID": 540
+    "Artist": "Peter, Paul and Mary",
+    "Title": "Peter, Paul and Mommy",
+    "Location": "Reel to Reel Box 1",
+    "ID": 533
   },
   {
-    "Artist": "Pet Shop Boys",
-    "Title": "Actually",
-    "Location": "Cassette Box 2",
-    "ID": 541
+    "Artist": "Peter, Paul And Mary",
+    "Title": "(Ten) Years Together The Best Of Peter, Paul And Mary",
+    "Location": "Reel to Reel Box 3",
+    "ID": 534
   },
   {
     "Artist": "Phantom, Rocker & Slick",
@@ -3246,10 +3606,10 @@
     "ID": 542
   },
   {
-    "Artist": "Philadelphia Orchestra; Eugene Ormandy, Conductor",
-    "Title": "Greatest Hits",
-    "Location": "Reel to Reel Box 1",
-    "ID": 543
+    "Artist": "Phil Collins",
+    "Title": "No Jacket Required",
+    "Location": "Cassette Box 2",
+    "ID": 545
   },
   {
     "Artist": "Phil Collins",
@@ -3258,10 +3618,10 @@
     "ID": 544
   },
   {
-    "Artist": "Phil Collins",
-    "Title": "No Jacket Required",
-    "Location": "Cassette Box 2",
-    "ID": 545
+    "Artist": "Philadelphia Orchestra; Eugene Ormandy, Conductor",
+    "Title": "Greatest Hits",
+    "Location": "Reel to Reel Box 1",
+    "ID": 543
   },
   {
     "Artist": "Philharmonia Orchestra; Otto Klemperer",
@@ -3277,15 +3637,15 @@
   },
   {
     "Artist": "Philippe Entremont",
-    "Title": "(NEW)The World's Favorite Piano Music Vol. 1",
-    "Location": "Cassette Box 2",
-    "ID": 548
-  },
-  {
-    "Artist": "Philippe Entremont",
     "Title": "(NEW)The World's Favorite Piano Music Vol. 3",
     "Location": "Cassette Box 2",
     "ID": 549
+  },
+  {
+    "Artist": "Philippe Entremont",
+    "Title": "(NEW)The World's Favorite Piano Music Vol. 1",
+    "Location": "Cassette Box 2",
+    "ID": 548
   },
   {
     "Artist": "Pinchas Zuckerman",
@@ -3307,15 +3667,15 @@
   },
   {
     "Artist": "Porter Wagoner & Dolly Parton",
-    "Title": "Burning The Midnight Oil",
-    "Location": "8-Track Box 2",
-    "ID": 553
-  },
-  {
-    "Artist": "Porter Wagoner & Dolly Parton",
     "Title": "The Best Of Porter Wagoner & Dolly Parton",
     "Location": "8-Track Box 1",
     "ID": 554
+  },
+  {
+    "Artist": "Porter Wagoner & Dolly Parton",
+    "Title": "Burning The Midnight Oil",
+    "Location": "8-Track Box 2",
+    "ID": 553
   },
   {
     "Artist": "Porter Wagoner & Dolly Parton",
@@ -3346,6 +3706,18 @@
     "Title": "Q's Jook Joint",
     "Location": "Cassette Box 2",
     "ID": 559
+  },
+  {
+    "Artist": "R. Kelly",
+    "Title": "R. Kelly",
+    "Location": "Cassette Box 3",
+    "ID": 572
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Eponymous (BMG)",
+    "Location": "Cassette Box 3",
+    "ID": 565
   },
   {
     "Artist": "R.E.M.",
@@ -3379,12 +3751,6 @@
   },
   {
     "Artist": "R.E.M.",
-    "Title": "Eponymous (BMG)",
-    "Location": "Cassette Box 3",
-    "ID": 565
-  },
-  {
-    "Artist": "R.E.M.",
     "Title": "Fables Of The Reconstruction",
     "Location": "Cassette Box 3",
     "ID": 566
@@ -3414,16 +3780,16 @@
     "ID": 570
   },
   {
+    "Artist": "R.E.M.",
+    "Title": "Monster(tape only)",
+    "Location": "Cassette Box 3",
+    "ID": 988
+  },
+  {
     "Artist": "R.J.'s Latest Arrival",
     "Title": "(NEW) Tangled In Love",
     "Location": "Cassette Box 2",
     "ID": 571
-  },
-  {
-    "Artist": "R. Kelly",
-    "Title": "R. Kelly",
-    "Location": "Cassette Box 3",
-    "ID": 572
   },
   {
     "Artist": "Rahsaan Roland Kirk",
@@ -3439,15 +3805,15 @@
   },
   {
     "Artist": "Ray Charles",
+    "Title": "Super Hits",
+    "Location": "Cassette Box 3",
+    "ID": 1005
+  },
+  {
+    "Artist": "Ray Charles",
     "Title": "Seven Spanish Angels And Other Hits",
     "Location": "Cassette Box 1",
     "ID": 575
-  },
-  {
-    "Artist": "Ray Conniff",
-    "Title": "'S Marvelous",
-    "Location": "Reel to Reel Box 1",
-    "ID": 576
   },
   {
     "Artist": "Ray Conniff",
@@ -3457,21 +3823,27 @@
   },
   {
     "Artist": "Ray Conniff",
+    "Title": "'S Marvelous",
+    "Location": "Reel to Reel Box 1",
+    "ID": 576
+  },
+  {
+    "Artist": "Ray Conniff",
     "Title": "Love Story",
     "Location": "Reel to Reel Box 1",
     "ID": 578
   },
   {
     "Artist": "Ray Conniff",
-    "Title": "Somewhere My Love/World Of Hits",
-    "Location": "Reel to Reel Box 1",
-    "ID": 579
-  },
-  {
-    "Artist": "Ray Conniff",
     "Title": "We've Only Just Begun",
     "Location": "Reel to Reel Box 1",
     "ID": 580
+  },
+  {
+    "Artist": "Ray Conniff",
+    "Title": "Somewhere My Love/World Of Hits",
+    "Location": "Reel to Reel Box 1",
+    "ID": 579
   },
   {
     "Artist": "Ray Conniff And The Singers",
@@ -3481,7 +3853,7 @@
   },
   {
     "Artist": "Ray Davies",
-    "Title": "Music From The Motion Picture \"Return To Waterloo",
+    "Title": "Music From The Motion Picture \"Return To Waterloo\"",
     "Location": "Cassette Box 3",
     "ID": 582
   },
@@ -3490,12 +3862,6 @@
     "Title": "Guitar Man",
     "Location": "Cassette Box 1",
     "ID": 583
-  },
-  {
-    "Artist": "Ray Price",
-    "Title": "Rainbows And Tears",
-    "Location": "8-Track Box 3",
-    "ID": 584
   },
   {
     "Artist": "Ray Price",
@@ -3508,6 +3874,12 @@
     "Title": "You Wouldn't Know Love",
     "Location": "8-Track Box 2",
     "ID": 586
+  },
+  {
+    "Artist": "Ray Price",
+    "Title": "Rainbows And Tears",
+    "Location": "8-Track Box 3",
+    "ID": 584
   },
   {
     "Artist": "Realistic Super Tape",
@@ -3540,6 +3912,18 @@
     "ID": 591
   },
   {
+    "Artist": "Richard Clayderman",
+    "Title": "Music Of Love",
+    "Location": "8-Track Box 3",
+    "ID": 929
+  },
+  {
+    "Artist": "Richard Marx",
+    "Title": "Richard Marx",
+    "Location": "Cassette Box 3",
+    "ID": 942
+  },
+  {
     "Artist": "Rick Astley",
     "Title": "Body & Soul",
     "Location": "Cassette Box 1",
@@ -3559,15 +3943,15 @@
   },
   {
     "Artist": "Ringo Starr",
-    "Title": "Sentimental Journey(Tape Only)",
-    "Location": "Cassette Box 3",
-    "ID": 595
-  },
-  {
-    "Artist": "Ringo Starr",
     "Title": "Stop And Smell The Roses",
     "Location": "Cassette Box 3",
     "ID": 596
+  },
+  {
+    "Artist": "Ringo Starr",
+    "Title": "Sentimental Journey(Tape Only)",
+    "Location": "Cassette Box 3",
+    "ID": 595
   },
   {
     "Artist": "Robben Ford & The Blue Line",
@@ -3588,18 +3972,6 @@
     "ID": 599
   },
   {
-    "Artist": "Roberta Flack",
-    "Title": "First Take",
-    "Location": "8-Track Box 1",
-    "ID": 600
-  },
-  {
-    "Artist": "Roberta Flack",
-    "Title": "Roberta Flack",
-    "Location": "Cassette Box 2",
-    "ID": 601
-  },
-  {
     "Artist": "Robert Fripp",
     "Title": "God Save The Queen / Under Heavy Manners",
     "Location": "Cassette Box 3",
@@ -3612,16 +3984,52 @@
     "ID": 603
   },
   {
+    "Artist": "Robert Palmer",
+    "Title": "Heavy Nova",
+    "Location": "Cassette Box 3",
+    "ID": 959
+  },
+  {
     "Artist": "Robert Vaughn & The Dead River Angels",
     "Title": "Robert Vaughn & The Dead River Angels",
     "Location": "Cassette Box 1",
     "ID": 604
   },
   {
+    "Artist": "Roberta Flack",
+    "Title": "Roberta Flack",
+    "Location": "Cassette Box 2",
+    "ID": 601
+  },
+  {
+    "Artist": "Roberta Flack",
+    "Title": "First Take",
+    "Location": "8-Track Box 1",
+    "ID": 600
+  },
+  {
+    "Artist": "Roberta Flack",
+    "Title": "The Best Of Roberta Flack",
+    "Location": "Cassette Box 3",
+    "ID": 945
+  },
+  {
     "Artist": "Robins",
     "Title": "Test-N-Clean Cartridge",
     "Location": "8-Track Box 2",
     "ID": 605
+  },
+  {
+    "Artist": "Rod Stewart",
+    "Title": "Tonight I'm Yours(Italy)",
+    "Location": "Cassette Box 2",
+    "ID": 609
+  },
+  {
+    "Artist": "Rod Stewart",
+    "Title": "The Best Of Rod Stewart",
+    "Location": "Cassette Box 2",
+    "ID": 608
   },
   {
     "Artist": "Rod Stewart",
@@ -3634,18 +4042,6 @@
     "Title": "The Ballad Album",
     "Location": "Cassette Box 1",
     "ID": 607
-  },
-  {
-    "Artist": "Rod Stewart",
-    "Title": "The Best Of Rod Stewart",
-    "Location": "Cassette Box 2",
-    "ID": 608
-  },
-  {
-    "Artist": "Rod Stewart",
-    "Title": "Tonight I'm Yours(Italy)",
-    "Location": "Cassette Box 2",
-    "ID": 609
   },
   {
     "Artist": "Roger Daltrey",
@@ -3709,7 +4105,7 @@
   },
   {
     "Artist": "Rostov Festival Orchestra; Stanislav Klinsky, Dir.",
-    "Title": "Dvorak: Symphony No. 9 In E Minor \"New World",
+    "Title": "Dvorak: Symphony No. 9 In E Minor \"New World\"",
     "Location": "8-Track Box 2",
     "ID": 620
   },
@@ -3739,21 +4135,27 @@
   },
   {
     "Artist": "Sam & Dave",
-    "Title": "I Thank You",
-    "Location": "Cassette Box 1",
-    "ID": 625
-  },
-  {
-    "Artist": "Sam & Dave",
     "Title": "The Best Of Sam & Dave",
     "Location": "Cassette Box 3",
     "ID": 626
+  },
+  {
+    "Artist": "Sam & Dave",
+    "Title": "I Thank You",
+    "Location": "Cassette Box 1",
+    "ID": 625
   },
   {
     "Artist": "Sam Cooke",
     "Title": "The Unforgettable Sam Cooke",
     "Location": "Cassette Box 3",
     "ID": 627
+  },
+  {
+    "Artist": "Samantha Fox",
+    "Title": "Samantha Fox",
+    "Location": "Cassette Box 3",
+    "ID": 949
   },
   {
     "Artist": "Sammy Davis Jr.",
@@ -3769,27 +4171,27 @@
   },
   {
     "Artist": "Sammy Hagar",
-    "Title": "Cruisin' & Boozin'",
-    "Location": "Cassette Box 1",
-    "ID": 630
-  },
-  {
-    "Artist": "Sammy Hagar",
     "Title": "VOA",
     "Location": "Cassette Box 1",
     "ID": 631
   },
   {
-    "Artist": "Santana",
-    "Title": "(NEW)Between Good And Evil",
-    "Location": "Cassette Box 3",
-    "ID": 632
+    "Artist": "Sammy Hagar",
+    "Title": "Cruisin' & Boozin'",
+    "Location": "Cassette Box 1",
+    "ID": 630
   },
   {
     "Artist": "Santana",
     "Title": "Abraxas",
     "Location": "Cassette Box 2",
     "ID": 633
+  },
+  {
+    "Artist": "Santana",
+    "Title": "(NEW)Between Good And Evil",
+    "Location": "Cassette Box 3",
+    "ID": 632
   },
   {
     "Artist": "Sarah Vaughan",
@@ -3913,12 +4315,6 @@
   },
   {
     "Artist": "Sonny & Cher",
-    "Title": "All I Ever Need Is You",
-    "Location": "8-Track Box 2",
-    "ID": 654
-  },
-  {
-    "Artist": "Sonny & Cher",
     "Title": "The Best Of Sunny & Cher",
     "Location": "8-Track Box 2",
     "ID": 655
@@ -3930,10 +4326,28 @@
     "ID": 656
   },
   {
+    "Artist": "Sonny & Cher",
+    "Title": "All I Ever Need Is You",
+    "Location": "8-Track Box 2",
+    "ID": 654
+  },
+  {
+    "Artist": "Sonny & Cher",
+    "Title": "The Two Of Us",
+    "Location": "8-Track Box 3",
+    "ID": 996
+  },
+  {
     "Artist": "Sooz",
     "Title": "Mango Tango",
     "Location": "Cassette Box 2",
     "ID": 657
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "Amadeus Tape 1",
+    "Location": "Cassette Box 2",
+    "ID": 662
   },
   {
     "Artist": "Soundtrack",
@@ -3955,15 +4369,45 @@
   },
   {
     "Artist": "Soundtrack",
-    "Title": "A Chorus Line",
-    "Location": "Cassette Box 1",
-    "ID": 661
+    "Title": "Paint Your Wagon -Original 1951 Broadway Cast",
+    "Location": "Cassette Box 2",
+    "ID": 679
   },
   {
     "Artist": "Soundtrack",
-    "Title": "Amadeus Tape 1",
+    "Title": "Fiddler On The Roof - The Original Cast Recording",
+    "Location": "Reel to Reel Box 2",
+    "ID": 670
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "Carousel",
     "Location": "Cassette Box 2",
-    "ID": 662
+    "ID": 668
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "Carousel",
+    "Location": "Cassette Box 2",
+    "ID": 667
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "A League Of Their Own",
+    "Location": "Cassette Box 3",
+    "ID": 960
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "La Bamba",
+    "Location": "Cassette Box 3",
+    "ID": 965
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "A Chorus Line",
+    "Location": "Cassette Box 1",
+    "ID": 661
   },
   {
     "Artist": "Soundtrack",
@@ -3991,27 +4435,9 @@
   },
   {
     "Artist": "Soundtrack",
-    "Title": "Carousel",
-    "Location": "Cassette Box 2",
-    "ID": 667
-  },
-  {
-    "Artist": "Soundtrack",
-    "Title": "Carousel",
-    "Location": "Cassette Box 2",
-    "ID": 668
-  },
-  {
-    "Artist": "Soundtrack",
     "Title": "Evita",
     "Location": "Cassette Box 2",
     "ID": 669
-  },
-  {
-    "Artist": "Soundtrack",
-    "Title": "Fiddler On The Roof - The Original Cast Recording",
-    "Location": "Reel to Reel Box 2",
-    "ID": 670
   },
   {
     "Artist": "Soundtrack",
@@ -4063,12 +4489,6 @@
   },
   {
     "Artist": "Soundtrack",
-    "Title": "Paint Your Wagon -Original 1951 Broadway Cast",
-    "Location": "Cassette Box 2",
-    "ID": 679
-  },
-  {
-    "Artist": "Soundtrack",
     "Title": "Peter Pan - Original Broadway Cast",
     "Location": "Cassette Box 2",
     "ID": 680
@@ -4116,6 +4536,12 @@
     "ID": 687
   },
   {
+    "Artist": "Stan Kenton",
+    "Title": "Kenton Favorites",
+    "Location": "Cassette Box 3",
+    "ID": 944
+  },
+  {
     "Artist": "Stanley Clarke",
     "Title": "Stanley Clarke",
     "Location": "Cassette Box 1",
@@ -4123,15 +4549,15 @@
   },
   {
     "Artist": "Starship",
-    "Title": "Knee Deep In The Hoopla",
-    "Location": "Cassette Box 2",
-    "ID": 689
-  },
-  {
-    "Artist": "Starship",
     "Title": "No Projection",
     "Location": "Cassette Box 2",
     "ID": 690
+  },
+  {
+    "Artist": "Starship",
+    "Title": "Knee Deep In The Hoopla",
+    "Location": "Cassette Box 2",
+    "ID": 689
   },
   {
     "Artist": "Steely Dan",
@@ -4152,10 +4578,28 @@
     "ID": 693
   },
   {
+    "Artist": "Steve Perry",
+    "Title": "For The Love Of Strange Medicine",
+    "Location": "Cassette Box 3",
+    "ID": 969
+  },
+  {
     "Artist": "Steve Winwood",
     "Title": "Arc Of A Diver",
     "Location": "Cassette Box 1",
     "ID": 694
+  },
+  {
+    "Artist": "Steve Winwood",
+    "Title": "Chronicles",
+    "Location": "Cassette Box 2",
+    "ID": 698
+  },
+  {
+    "Artist": "Steve Winwood",
+    "Title": "Roll With It",
+    "Location": "Cassette Box 1",
+    "ID": 699
   },
   {
     "Artist": "Steve Winwood",
@@ -4176,34 +4620,10 @@
     "ID": 697
   },
   {
-    "Artist": "Steve Winwood",
-    "Title": "Chronicles",
-    "Location": "Cassette Box 2",
-    "ID": 698
-  },
-  {
-    "Artist": "Steve Winwood",
-    "Title": "Roll With It",
-    "Location": "Cassette Box 1",
-    "ID": 699
-  },
-  {
     "Artist": "Stevie Nicks",
     "Title": "Bella Donna",
     "Location": "Cassette Box 2",
     "ID": 700
-  },
-  {
-    "Artist": "Stevie Wonder",
-    "Title": "Characters",
-    "Location": "Cassette Box 3",
-    "ID": 701
-  },
-  {
-    "Artist": "Stevie Wonder",
-    "Title": "Conversation Peace",
-    "Location": "Cassette Box 2",
-    "ID": 702
   },
   {
     "Artist": "Stevie Wonder",
@@ -4219,6 +4639,18 @@
   },
   {
     "Artist": "Stevie Wonder",
+    "Title": "Conversation Peace",
+    "Location": "Cassette Box 2",
+    "ID": 702
+  },
+  {
+    "Artist": "Stevie Wonder",
+    "Title": "Characters",
+    "Location": "Cassette Box 3",
+    "ID": 701
+  },
+  {
+    "Artist": "Stevie Wonder",
     "Title": "Songs In The Key Of Life Vol. II",
     "Location": "8-Track Box 3",
     "ID": 705
@@ -4231,15 +4663,15 @@
   },
   {
     "Artist": "Stone Temple Pilots",
-    "Title": "Core",
-    "Location": "Cassette Box 3",
-    "ID": 707
-  },
-  {
-    "Artist": "Stone Temple Pilots",
     "Title": "Purple",
     "Location": "Cassette Box 3",
     "ID": 708
+  },
+  {
+    "Artist": "Stone Temple Pilots",
+    "Title": "Core",
+    "Location": "Cassette Box 3",
+    "ID": 707
   },
   {
     "Artist": "Strawberry Alarm Clock",
@@ -4254,6 +4686,12 @@
     "ID": 710
   },
   {
+    "Artist": "Suzanne Vega",
+    "Title": "99.9F",
+    "Location": "Cassette Box 3",
+    "ID": 976
+  },
+  {
     "Artist": "Sven-Bertil Taube",
     "Title": "Inbjudan till...",
     "Location": "Cassette Box 3",
@@ -4261,15 +4699,15 @@
   },
   {
     "Artist": "Talking Heads",
-    "Title": "Popular Favorites1976-1983 Tape 1(Tape Only)",
-    "Location": "Cassette Box 3",
-    "ID": 712
-  },
-  {
-    "Artist": "Talking Heads",
     "Title": "True Stories",
     "Location": "Cassette Box 3",
     "ID": 713
+  },
+  {
+    "Artist": "Talking Heads",
+    "Title": "Popular Favorites1976-1983 Tape 1(Tape Only)",
+    "Location": "Cassette Box 3",
+    "ID": 712
   },
   {
     "Artist": "Tall Stories",
@@ -4285,21 +4723,27 @@
   },
   {
     "Artist": "Tammy Wynette",
-    "Title": "Tammy's Greatest Hits",
-    "Location": "8-Track Box 3",
-    "ID": 716
-  },
-  {
-    "Artist": "Tammy Wynette",
     "Title": "Tammy's Greatest Hits Vol. II",
     "Location": "8-Track Box 2",
     "ID": 717
+  },
+  {
+    "Artist": "Tammy Wynette",
+    "Title": "Tammy's Greatest Hits",
+    "Location": "8-Track Box 3",
+    "ID": 716
   },
   {
     "Artist": "Tanya Tucker",
     "Title": "TNT",
     "Location": "8-Track Box 3",
     "ID": 718
+  },
+  {
+    "Artist": "Tanya Tucker",
+    "Title": "Delta Dawn",
+    "Location": "8-Track Box 3",
+    "ID": 928
   },
   {
     "Artist": "Taylor Dayne",
@@ -4314,22 +4758,16 @@
     "ID": 720
   },
   {
+    "Artist": "Terence Trent D'arby",
+    "Title": "Introducing The Hardline According To ...",
+    "Location": "Cassette Box 3",
+    "ID": 978
+  },
+  {
     "Artist": "Teresa Brewer",
     "Title": "The Best Of Teresa Brewer",
     "Location": "8-Track Box 3",
     "ID": 721
-  },
-  {
-    "Artist": "The 5th Dimension",
-    "Title": "Live",
-    "Location": "8-Track Box 2",
-    "ID": 723
-  },
-  {
-    "Artist": "The 5th Dimension",
-    "Title": "Live!!",
-    "Location": "Reel to Reel Box 3",
-    "ID": 724
   },
   {
     "Artist": "The 5th Dimension",
@@ -4339,15 +4777,27 @@
   },
   {
     "Artist": "The 5th Dimension",
-    "Title": "Love's Lines, Angles And Rhymes",
-    "Location": "8-Track Box 2",
-    "ID": 726
+    "Title": "Live!!",
+    "Location": "Reel to Reel Box 3",
+    "ID": 724
   },
   {
     "Artist": "The 5th Dimension",
     "Title": "More Hits (The July 5th Album)",
     "Location": "8-Track Box 1",
     "ID": 727
+  },
+  {
+    "Artist": "The 5th Dimension",
+    "Title": "Love's Lines, Angles And Rhymes",
+    "Location": "8-Track Box 2",
+    "ID": 726
+  },
+  {
+    "Artist": "The 5th Dimension",
+    "Title": "Live",
+    "Location": "8-Track Box 2",
+    "ID": 723
   },
   {
     "Artist": "The 5th Dimension",
@@ -4369,7 +4819,7 @@
   },
   {
     "Artist": "The Band",
-    "Title": "Live\" In Concert - The Night They Drove Old Dixie Down",
+    "Title": "\"Live\" In Concert - The Night They Drove Old Dixie Down",
     "Location": "Cassette Box 3",
     "ID": 731
   },
@@ -4381,15 +4831,21 @@
   },
   {
     "Artist": "The Beatles",
-    "Title": "16 Originales De The Beatles (tape only)",
+    "Title": "Rock 'N' Roll Music",
     "Location": "Cassette Box 3",
-    "ID": 733
+    "ID": 1003
   },
   {
     "Artist": "The Beatles",
     "Title": "A Hard Days Night",
     "Location": "Cassette Box 2",
     "ID": 734
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "16 Originales De The Beatles (tape only)",
+    "Location": "Cassette Box 3",
+    "ID": 733
   },
   {
     "Artist": "The Bluesbusters",
@@ -4470,6 +4926,12 @@
     "ID": 747
   },
   {
+    "Artist": "The Everly Brothers",
+    "Title": "The Very Best Of The Everly Brothers",
+    "Location": "Cassette Box 3",
+    "ID": 943
+  },
+  {
     "Artist": "The Four Seasons",
     "Title": "December 1963 (Oh, What A Night)",
     "Location": "Cassette Box 2",
@@ -4488,6 +4950,18 @@
     "ID": 750
   },
   {
+    "Artist": "The Gregg Allman Band",
+    "Title": "Just Before The Bullets Fly",
+    "Location": "Cassette Box 3",
+    "ID": 958
+  },
+  {
+    "Artist": "The Hollies",
+    "Title": "The Best Of The Hollies",
+    "Location": "Cassette Box 3",
+    "ID": 968
+  },
+  {
     "Artist": "The Hollywood Bowl Symphony Orchestra; Carmen Dragon, Cond.; Leonard Pennario, Piano",
     "Title": "Concertos Under The Stars",
     "Location": "Reel to Reel Box 1",
@@ -4501,15 +4975,21 @@
   },
   {
     "Artist": "The J. Geils Band",
+    "Title": "Love Stinks",
+    "Location": "Cassette Box 1",
+    "ID": 754
+  },
+  {
+    "Artist": "The J. Geils Band",
     "Title": "Freeze Frame",
     "Location": "Cassette Box 1",
     "ID": 753
   },
   {
-    "Artist": "The J. Geils Band",
-    "Title": "Love Stinks",
-    "Location": "Cassette Box 1",
-    "ID": 754
+    "Artist": "The Jambalaya Cajun Band",
+    "Title": "The Jambalaya Cajun Band",
+    "Location": "Cassette Box 3",
+    "ID": 963
   },
   {
     "Artist": "The Jeff Healey Band",
@@ -4537,12 +5017,6 @@
   },
   {
     "Artist": "The Lettermen",
-    "Title": "Everything's Good About You",
-    "Location": "8-Track Box 2",
-    "ID": 759
-  },
-  {
-    "Artist": "The Lettermen",
     "Title": "Reflections",
     "Location": "8-Track Box 2",
     "ID": 760
@@ -4552,6 +5026,12 @@
     "Title": "Special Request",
     "Location": "Reel to Reel Box 3",
     "ID": 761
+  },
+  {
+    "Artist": "The Lettermen",
+    "Title": "Everything's Good About You",
+    "Location": "8-Track Box 2",
+    "ID": 759
   },
   {
     "Artist": "The London Pops Orchestra; Herbert Graz, Cond.",
@@ -4567,15 +5047,15 @@
   },
   {
     "Artist": "The London Symphony Orchestra",
-    "Title": "Star Wars The Original Soundtrack",
-    "Location": "8-Track Box 2",
-    "ID": 764
-  },
-  {
-    "Artist": "The London Symphony Orchestra",
     "Title": "Victoria's Secret Classics By Request Volume 1",
     "Location": "Cassette Box 2",
     "ID": 765
+  },
+  {
+    "Artist": "The London Symphony Orchestra",
+    "Title": "Star Wars The Original Soundtrack",
+    "Location": "8-Track Box 2",
+    "ID": 764
   },
   {
     "Artist": "The Long Ryders",
@@ -4612,6 +5092,12 @@
     "Title": "On The Threshold Of A Dream",
     "Location": "Cassette Box 1",
     "ID": 771
+  },
+  {
+    "Artist": "The Moody Blues",
+    "Title": "In Search Of The Lost Chord",
+    "Location": "8-Track Box 3",
+    "ID": 999
   },
   {
     "Artist": "The Moody Blues",
@@ -4675,27 +5161,27 @@
   },
   {
     "Artist": "The Philadelphia Orchestra; Eugene Ormandy, Cond.",
-    "Title": "Handel: Messiah",
-    "Location": "Reel to Reel Box 2",
-    "ID": 782
-  },
-  {
-    "Artist": "The Philadelphia Orchestra; Eugene Ormandy, Cond.",
     "Title": "Tchaikovsky: 1812 Overture - Serenade For Strings",
     "Location": "8-Track Box 3",
     "ID": 783
   },
   {
-    "Artist": "The Platters",
-    "Title": "Great Artist Series",
-    "Location": "Cassette Box 1",
-    "ID": 784
+    "Artist": "The Philadelphia Orchestra; Eugene Ormandy, Cond.",
+    "Title": "Handel: Messiah",
+    "Location": "Reel to Reel Box 2",
+    "ID": 782
   },
   {
     "Artist": "The Platters",
     "Title": "The New Golden Hits Of The Platters",
     "Location": "Reel to Reel Box 3",
     "ID": 785
+  },
+  {
+    "Artist": "The Platters",
+    "Title": "Great Artist Series",
+    "Location": "Cassette Box 1",
+    "ID": 784
   },
   {
     "Artist": "The Rascals",
@@ -4711,15 +5197,15 @@
   },
   {
     "Artist": "The Ray Charles Singers",
-    "Title": "Deep Night",
-    "Location": "Reel to Reel Box 1",
-    "ID": 788
-  },
-  {
-    "Artist": "The Ray Charles Singers",
     "Title": "Sunrise Serenade",
     "Location": "Reel to Reel Box 1",
     "ID": 789
+  },
+  {
+    "Artist": "The Ray Charles Singers",
+    "Title": "Deep Night",
+    "Location": "Reel to Reel Box 1",
+    "ID": 788
   },
   {
     "Artist": "The Regulators",
@@ -4770,6 +5256,18 @@
     "ID": 797
   },
   {
+    "Artist": "The Statler Brothers",
+    "Title": "The Best Of The Statler Brothers Rides Again Vol. II",
+    "Location": "8-Track Box 3",
+    "ID": 956
+  },
+  {
+    "Artist": "The Statler Brothers",
+    "Title": "The Best Of The Statler Brothers",
+    "Location": "8-Track Box 3",
+    "ID": 955
+  },
+  {
     "Artist": "The Steve Miller Band",
     "Title": "Greatest Hits 1974-78(Tape Only)",
     "Location": "Cassette Box 3",
@@ -4813,15 +5311,15 @@
   },
   {
     "Artist": "Three Dog Night",
-    "Title": "Golden Bisquits",
-    "Location": "Reel to Reel Box 3",
-    "ID": 805
-  },
-  {
-    "Artist": "Three Dog Night",
     "Title": "Naturally",
     "Location": "Reel to Reel Box 3",
     "ID": 806
+  },
+  {
+    "Artist": "Three Dog Night",
+    "Title": "Golden Bisquits",
+    "Location": "Reel to Reel Box 3",
+    "ID": 805
   },
   {
     "Artist": "Tim Buckley",
@@ -4838,14 +5336,14 @@
   {
     "Artist": "Tina Turner",
     "Title": "Private Dancer",
-    "Location": "Cassette Box 1",
-    "ID": 809
+    "Location": "Cassette Box 2",
+    "ID": 810
   },
   {
     "Artist": "Tina Turner",
     "Title": "Private Dancer",
-    "Location": "Cassette Box 2",
-    "ID": 810
+    "Location": "Cassette Box 1",
+    "ID": 809
   },
   {
     "Artist": "Token Entry",
@@ -4858,12 +5356,6 @@
     "Title": "Favorites",
     "Location": "Cassette Box 2",
     "ID": 812
-  },
-  {
-    "Artist": "Tom Jones",
-    "Title": "Funny Familiar Forgotten Feelings",
-    "Location": "8-Track Box 3",
-    "ID": 813
   },
   {
     "Artist": "Tom Jones",
@@ -4884,10 +5376,22 @@
     "ID": 816
   },
   {
+    "Artist": "Tom Jones",
+    "Title": "Funny Familiar Forgotten Feelings",
+    "Location": "8-Track Box 3",
+    "ID": 813
+  },
+  {
     "Artist": "Tommy Dorsey; Frank Sinatra",
     "Title": "Sentimental Memories",
     "Location": "Cassette Box 2",
     "ID": 817
+  },
+  {
+    "Artist": "Tommy Roe",
+    "Title": "Greatest Hits",
+    "Location": "Cassette Box 3",
+    "ID": 947
   },
   {
     "Artist": "Tommy Roe",
@@ -4945,21 +5449,9 @@
   },
   {
     "Artist": "U2",
-    "Title": "Boy",
-    "Location": "Cassette Box 1",
-    "ID": 827
-  },
-  {
-    "Artist": "U2",
-    "Title": "Rattle And Hum",
-    "Location": "Cassette Box 1",
-    "ID": 828
-  },
-  {
-    "Artist": "U2",
-    "Title": "The Unforgettable Fire",
-    "Location": "Cassette Box 1",
-    "ID": 829
+    "Title": "War",
+    "Location": "Cassette Box 3",
+    "ID": 831
   },
   {
     "Artist": "U2",
@@ -4969,9 +5461,21 @@
   },
   {
     "Artist": "U2",
-    "Title": "War",
-    "Location": "Cassette Box 3",
-    "ID": 831
+    "Title": "The Unforgettable Fire",
+    "Location": "Cassette Box 1",
+    "ID": 829
+  },
+  {
+    "Artist": "U2",
+    "Title": "Rattle And Hum",
+    "Location": "Cassette Box 1",
+    "ID": 828
+  },
+  {
+    "Artist": "U2",
+    "Title": "Boy",
+    "Location": "Cassette Box 1",
+    "ID": 827
   },
   {
     "Artist": "UB40",
@@ -4980,16 +5484,22 @@
     "ID": 832
   },
   {
-    "Artist": "Van Cliburn",
-    "Title": "My Favorite Chopin",
-    "Location": "Cassette Box 2",
-    "ID": 833
+    "Artist": "unknown artist",
+    "Title": "(NEW)Die Drei Listigen Geibbocke",
+    "Location": "Cassette Box 3",
+    "ID": 966
   },
   {
     "Artist": "Van Cliburn",
     "Title": "The World's Favorite Piano Music",
     "Location": "Cassette Box 2",
     "ID": 834
+  },
+  {
+    "Artist": "Van Cliburn",
+    "Title": "My Favorite Chopin",
+    "Location": "Cassette Box 2",
+    "ID": 833
   },
   {
     "Artist": "Van Halen",
@@ -4999,9 +5509,9 @@
   },
   {
     "Artist": "Van Morrison",
-    "Title": "A Period Of Transition",
-    "Location": "8-Track Box 1",
-    "ID": 836
+    "Title": "The Best Of Van Morrison",
+    "Location": "Cassette Box 1",
+    "ID": 838
   },
   {
     "Artist": "Van Morrison",
@@ -5011,9 +5521,15 @@
   },
   {
     "Artist": "Van Morrison",
-    "Title": "The Best Of Van Morrison",
-    "Location": "Cassette Box 1",
-    "ID": 838
+    "Title": "A Period Of Transition",
+    "Location": "8-Track Box 1",
+    "ID": 836
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "The Motown Sound - 16 Big Hits Vol. 5",
+    "Location": "Reel to Reel Box 2",
+    "ID": 878
   },
   {
     "Artist": "Various Artists",
@@ -5053,9 +5569,63 @@
   },
   {
     "Artist": "Various Artists",
+    "Title": "Those Fabulous Forties Tape 3",
+    "Location": "Cassette Box 2",
+    "ID": 883
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Those Fabulous Forties Tape 2",
+    "Location": "Cassette Box 2",
+    "ID": 882
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Those Fabulous Forties Tape 1",
+    "Location": "Cassette Box 2",
+    "ID": 881
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Summertime In Venice",
+    "Location": "8-Track Box 1",
+    "ID": 876
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Romantic And Nostalgic Moods",
+    "Location": "Reel to Reel Box 1",
+    "ID": 872
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Home For Christmas Volume 1",
+    "Location": "8-Track Box 2",
+    "ID": 859
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Good Old Boys",
+    "Location": "8-Track Box 3",
+    "ID": 855
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "25 Years Of Grammy Greats",
     "Location": "Cassette Box 2",
     "ID": 845
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Great Love Songs Of The 50s & 60s",
+    "Location": "Cassette Box 3",
+    "ID": 934
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Ford:Audio System Demonstration Tape",
+    "Location": "Cassette Box 3",
+    "ID": 935
   },
   {
     "Artist": "Various Artists",
@@ -5068,18 +5638,6 @@
     "Title": "A Hanukah Sing-Along For Kids",
     "Location": "Cassette Box 2",
     "ID": 847
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "All-Time, All-Star Country Hits/Vol. 2",
-    "Location": "8-Track Box 3",
-    "ID": 848
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "A Tribute To Burt Bacharach",
-    "Location": "8-Track Box 3",
-    "ID": 849
   },
   {
     "Artist": "Various Artists",
@@ -5113,12 +5671,6 @@
   },
   {
     "Artist": "Various Artists",
-    "Title": "Good Old Boys",
-    "Location": "8-Track Box 3",
-    "ID": 855
-  },
-  {
-    "Artist": "Various Artists",
     "Title": "Gospel's Top 20",
     "Location": "8-Track Box 2",
     "ID": 856
@@ -5134,12 +5686,6 @@
     "Title": "Home For Christmas",
     "Location": "8-Track Box 1",
     "ID": 858
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Home For Christmas Volume 1",
-    "Location": "8-Track Box 2",
-    "ID": 859
   },
   {
     "Artist": "Various Artists",
@@ -5191,6 +5737,24 @@
   },
   {
     "Artist": "Various Artists",
+    "Title": "Sentimental Journey",
+    "Location": "8-Track Box 3",
+    "ID": 873
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "A Tribute To Burt Bacharach",
+    "Location": "8-Track Box 3",
+    "ID": 849
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "All-Time, All-Star Country Hits/Vol. 2",
+    "Location": "8-Track Box 3",
+    "ID": 848
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "Rock's Greatest Hits Vol. 2",
     "Location": "8-Track Box 1",
     "ID": 868
@@ -5215,18 +5779,6 @@
   },
   {
     "Artist": "Various Artists",
-    "Title": "Romantic And Nostalgic Moods",
-    "Location": "Reel to Reel Box 1",
-    "ID": 872
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Sentimental Journey",
-    "Location": "8-Track Box 3",
-    "ID": 873
-  },
-  {
-    "Artist": "Various Artists",
     "Title": "Silent Night",
     "Location": "Cassette Box 1",
     "ID": 874
@@ -5239,21 +5791,9 @@
   },
   {
     "Artist": "Various Artists",
-    "Title": "Summertime In Venice",
-    "Location": "8-Track Box 1",
-    "ID": 876
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "The Lost Blues Masters Vol. 1",
-    "Location": "Cassette Box 1",
-    "ID": 877
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "The Motown Sound - 16 Big Hits Vol. 5",
+    "Title": "The Motown Sound - 16 Big Hits Vol. 7",
     "Location": "Reel to Reel Box 2",
-    "ID": 878
+    "ID": 880
   },
   {
     "Artist": "Various Artists",
@@ -5263,27 +5803,9 @@
   },
   {
     "Artist": "Various Artists",
-    "Title": "The Motown Sound - 16 Big Hits Vol. 7",
-    "Location": "Reel to Reel Box 2",
-    "ID": 880
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Those Fabulous Forties Tape 1",
-    "Location": "Cassette Box 2",
-    "ID": 881
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Those Fabulous Forties Tape 2",
-    "Location": "Cassette Box 2",
-    "ID": 882
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Those Fabulous Forties Tape 3",
-    "Location": "Cassette Box 2",
-    "ID": 883
+    "Title": "The Lost Blues Masters Vol. 1",
+    "Location": "Cassette Box 1",
+    "ID": 877
   },
   {
     "Artist": "Vaughn Monroe",
@@ -5347,6 +5869,18 @@
   },
   {
     "Artist": "Vladimir Horowitz",
+    "Title": "The Last Recording",
+    "Location": "Cassette Box 2",
+    "ID": 899
+  },
+  {
+    "Artist": "Vladimir Horowitz",
+    "Title": "My Favorite Chopin",
+    "Location": "Cassette Box 2",
+    "ID": 898
+  },
+  {
+    "Artist": "Vladimir Horowitz",
     "Title": "Great Romantic Piano Favorites",
     "Location": "Cassette Box 2",
     "ID": 894
@@ -5368,18 +5902,6 @@
     "Title": "Horowitz Plays Rachmaninoff",
     "Location": "Cassette Box 2",
     "ID": 897
-  },
-  {
-    "Artist": "Vladimir Horowitz",
-    "Title": "My Favorite Chopin",
-    "Location": "Cassette Box 2",
-    "ID": 898
-  },
-  {
-    "Artist": "Vladimir Horowitz",
-    "Title": "The Last Recording",
-    "Location": "Cassette Box 2",
-    "ID": 899
   },
   {
     "Artist": "Voice Of The Beehive",
@@ -5424,10 +5946,22 @@
     "ID": 906
   },
   {
+    "Artist": "Will Rogers",
+    "Title": "Comments From His Radio Shows Of The Thirties'",
+    "Location": "Cassette Box 2",
+    "ID": 912
+  },
+  {
     "Artist": "Willie And The Poor Boys",
     "Title": "Willie And The Poor Boys",
     "Location": "Cassette Box 1",
     "ID": 907
+  },
+  {
+    "Artist": "Willie Nelson",
+    "Title": "Stardust",
+    "Location": "Cassette Box 1",
+    "ID": 910
   },
   {
     "Artist": "Willie Nelson",
@@ -5443,21 +5977,9 @@
   },
   {
     "Artist": "Willie Nelson",
-    "Title": "Stardust",
-    "Location": "Cassette Box 1",
-    "ID": 910
-  },
-  {
-    "Artist": "Willie Nelson",
     "Title": "Willie And Family Live",
     "Location": "Cassette Box 1",
     "ID": 911
-  },
-  {
-    "Artist": "Will Rogers",
-    "Title": "Comments From His Radio Shows Of The Thirties'",
-    "Location": "Cassette Box 2",
-    "ID": 912
   },
   {
     "Artist": "Wilson Phillips",
@@ -5478,6 +6000,12 @@
     "ID": 915
   },
   {
+    "Artist": "Wynton Marsalis",
+    "Title": "Wynton Marsalis",
+    "Location": "Cassette Box 3",
+    "ID": 962
+  },
+  {
     "Artist": "Yellowjackets",
     "Title": "Politics",
     "Location": "Cassette Box 2",
@@ -5494,533 +6022,5 @@
     "Title": "Loose Ends(Tape Only)",
     "Location": "Cassette Box 3",
     "ID": 918
-  },
-  {
-    "Artist": "London Symphony Orchestra; Andre Previn, Cond.",
-    "Title": "Mendelssohn:Symphony No. 4 in A & Three Overtures",
-    "Location": "Cassette Box 3",
-    "ID": 919
-  },
-  {
-    "Artist": "Linda Ronstadt",
-    "Title": "Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 920
-  },
-  {
-    "Artist": "Elton John",
-    "Title": "Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 921
-  },
-  {
-    "Artist": "Judy Garland",
-    "Title": "That's Entertainment",
-    "Location": "Cassette Box 3",
-    "ID": 922
-  },
-  {
-    "Artist": "Aaron Neville",
-    "Title": "The Grand Tour",
-    "Location": "Cassette Box 3",
-    "ID": 923
-  },
-  {
-    "Artist": "Claude Bolling",
-    "Title": "Bolling's Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 924
-  },
-  {
-    "Artist": "Fats Domino",
-    "Title": "Live...In Concert",
-    "Location": "Cassette Box 3",
-    "ID": 925
-  },
-  {
-    "Artist": "Glenn Miller",
-    "Title": "Glenn Miller Live!",
-    "Location": "Cassette Box 3",
-    "ID": 926
-  },
-  {
-    "Artist": "Conway Twitty",
-    "Title": "I Can't See Me Without You",
-    "Location": "8-Track Box 3",
-    "ID": 927
-  },
-  {
-    "Artist": "Tanya Tucker",
-    "Title": "Delta Dawn",
-    "Location": "8-Track Box 3",
-    "ID": 928
-  },
-  {
-    "Artist": "Richard Clayderman",
-    "Title": "Music Of Love",
-    "Location": "8-Track Box 3",
-    "ID": 929
-  },
-  {
-    "Artist": "Alabama",
-    "Title": "Feels So Right",
-    "Location": "8-Track Box 3",
-    "ID": 930
-  },
-  {
-    "Artist": "Alabama",
-    "Title": "The Closer You Get",
-    "Location": "8-Track Box 3",
-    "ID": 931
-  },
-  {
-    "Artist": "Alabama",
-    "Title": "The Touch",
-    "Location": "8-Track Box 3",
-    "ID": 932
-  },
-  {
-    "Artist": "Kenny Rogers",
-    "Title": "Duets",
-    "Location": "8-Track Box 3",
-    "ID": 933
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Great Love Songs Of The 50s & 60s",
-    "Location": "Cassette Box 3",
-    "ID": 934
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "Ford:Audio System Demonstration Tape",
-    "Location": "Cassette Box 3",
-    "ID": 935
-  },
-  {
-    "Artist": "Elton John",
-    "Title": "Your Songs",
-    "Location": "Cassette Box 3",
-    "ID": 937
-  },
-  {
-    "Artist": "Dire Straits",
-    "Title": "Brothers In Arms",
-    "Location": "Cassette Box 3",
-    "ID": 938
-  },
-  {
-    "Artist": "Jewel",
-    "Title": "Pieces Of You",
-    "Location": "Cassette Box 3",
-    "ID": 939
-  },
-  {
-    "Artist": "David Sanborn",
-    "Title": "A Change Of Heart",
-    "Location": "Cassette Box 3",
-    "ID": 940
-  },
-  {
-    "Artist": "George Benson",
-    "Title": "The George Benson Collection",
-    "Location": "Cassette Box 3",
-    "ID": 941
-  },
-  {
-    "Artist": "Richard Marx",
-    "Title": "Richard Marx",
-    "Location": "Cassette Box 3",
-    "ID": 942
-  },
-  {
-    "Artist": "The Everly Brothers",
-    "Title": "The Very Best Of The Everly Brothers",
-    "Location": "Cassette Box 3",
-    "ID": 943
-  },
-  {
-    "Artist": "Stan Kenton",
-    "Title": "Kenton Favorites",
-    "Location": "Cassette Box 3",
-    "ID": 944
-  },
-  {
-    "Artist": "Roberta Flack",
-    "Title": "The Best Of Roberta Flack",
-    "Location": "Cassette Box 3",
-    "ID": 945
-  },
-  {
-    "Artist": "Harry Bellafonte",
-    "Title": "Pure Gold",
-    "Location": "Cassette Box 3",
-    "ID": 946
-  },
-  {
-    "Artist": "Tommy Roe",
-    "Title": "Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 947
-  },
-  {
-    "Artist": "EMF",
-    "Title": "Unbelievable(Single)",
-    "Location": "Cassette Box 3",
-    "ID": 948
-  },
-  {
-    "Artist": "Samantha Fox",
-    "Title": "Samantha Fox",
-    "Location": "Cassette Box 3",
-    "ID": 949
-  },
-  {
-    "Artist": "Diana Ross & The Supremes",
-    "Title": "Anthology Vol. 1",
-    "Location": "Cassette Box 3",
-    "ID": 950
-  },
-  {
-    "Artist": "10,000 Maniacs",
-    "Title": "Because The Night(Single)",
-    "Location": "Cassette Box 3",
-    "ID": 951
-  },
-  {
-    "Artist": "Belinda Carlisle",
-    "Title": "Heaven On Earth",
-    "Location": "Cassette Box 3",
-    "ID": 952
-  },
-  {
-    "Artist": "Bon Jovi",
-    "Title": "New Jersey",
-    "Location": "Cassette Box 3",
-    "ID": 953
-  },
-  {
-    "Artist": "Hank Williams, Jr. & Friends",
-    "Title": "Hank Williams, Jr. & Friends",
-    "Location": "Cassette Box 3",
-    "ID": 954
-  },
-  {
-    "Artist": "The Statler Brothers",
-    "Title": "The Best Of The Statler Brothers",
-    "Location": "8-Track Box 3",
-    "ID": 955
-  },
-  {
-    "Artist": "The Statler Brothers",
-    "Title": "The Best Of The Statler Brothers Rides Again Vol. II",
-    "Location": "8-Track Box 3",
-    "ID": 956
-  },
-  {
-    "Artist": "George Shearing",
-    "Title": "I'll Take Romance",
-    "Location": "Cassette Box 3",
-    "ID": 957
-  },
-  {
-    "Artist": "The Gregg Allman Band",
-    "Title": "Just Before The Bullets Fly",
-    "Location": "Cassette Box 3",
-    "ID": 958
-  },
-  {
-    "Artist": "Robert Palmer",
-    "Title": "Heavy Nova",
-    "Location": "Cassette Box 3",
-    "ID": 959
-  },
-  {
-    "Artist": "Soundtrack",
-    "Title": "A League Of Their Own",
-    "Location": "Cassette Box 3",
-    "ID": 960
-  },
-  {
-    "Artist": "Arthur Grumiaux, Henryk Szeryng And Others",
-    "Title": "The Magic Of The Violin",
-    "Location": "Cassette Box 3",
-    "ID": 961
-  },
-  {
-    "Artist": "Wynton Marsalis",
-    "Title": "Wynton Marsalis",
-    "Location": "Cassette Box 3",
-    "ID": 962
-  },
-  {
-    "Artist": "The Jambalaya Cajun Band",
-    "Title": "The Jambalaya Cajun Band",
-    "Location": "Cassette Box 3",
-    "ID": 963
-  },
-  {
-    "Artist": "Linda Ronstadt",
-    "Title": "Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 964
-  },
-  {
-    "Artist": "Soundtrack",
-    "Title": "La Bamba",
-    "Location": "Cassette Box 3",
-    "ID": 965
-  },
-  {
-    "Artist": "unknown artist",
-    "Title": "(NEW)Die Drei Listigen Geibbocke",
-    "Location": "Cassette Box 3",
-    "ID": 966
-  },
-  {
-    "Artist": "Dwight Yoakam",
-    "Title": "(NEW)If There Was A Way",
-    "Location": "Cassette Box 3",
-    "ID": 967
-  },
-  {
-    "Artist": "The Hollies",
-    "Title": "The Best Of The Hollies",
-    "Location": "Cassette Box 3",
-    "ID": 968
-  },
-  {
-    "Artist": "Steve Perry",
-    "Title": "For The Love Of Strange Medicine",
-    "Location": "Cassette Box 3",
-    "ID": 969
-  },
-  {
-    "Artist": "M.C. Hammer",
-    "Title": "Let's Get It Started",
-    "Location": "Cassette Box 3",
-    "ID": 970
-  },
-  {
-    "Artist": "Morris Albert",
-    "Title": "Feelings",
-    "Location": "8-Track Box 3",
-    "ID": 971
-  },
-  {
-    "Artist": "Barbra Streisand",
-    "Title": "Barbra Streisand's Greatest Hits",
-    "Location": "8-Track Box 3",
-    "ID": 972
-  },
-  {
-    "Artist": "Live",
-    "Title": "Secret Samadhi",
-    "Location": "Cassette Box 3",
-    "ID": 973
-  },
-  {
-    "Artist": "Arlo Guthrie / Pete Seeger",
-    "Title": "Precious Friend Tape 1",
-    "Location": "Cassette Box 3",
-    "ID": 974
-  },
-  {
-    "Artist": "Arlo Guthrie / Pete Seeger",
-    "Title": "Precious Friend Tape 2",
-    "Location": "Cassette Box 3",
-    "ID": 975
-  },
-  {
-    "Artist": "Suzanne Vega",
-    "Title": "99.9F",
-    "Location": "Cassette Box 3",
-    "ID": 976
-  },
-  {
-    "Artist": "Julio Iglesias",
-    "Title": "Yo Canto",
-    "Location": "Cassette Box 3",
-    "ID": 977
-  },
-  {
-    "Artist": "Terence Trent D'arby",
-    "Title": "Introducing The Hardline According To ...",
-    "Location": "Cassette Box 3",
-    "ID": 978
-  },
-  {
-    "Artist": "Alan Jackson",
-    "Title": "Here In The Real World",
-    "Location": "Cassette Box 3",
-    "ID": 979
-  },
-  {
-    "Artist": "Alan Jackson",
-    "Title": "Don't Rock The Jukebox",
-    "Location": "Cassette Box 3",
-    "ID": 980
-  },
-  {
-    "Artist": "Paul Young",
-    "Title": "No Parlez",
-    "Location": "Cassette Box 3",
-    "ID": 981
-  },
-  {
-    "Artist": "Al Martino",
-    "Title": "Favorite Italian Love Songs",
-    "Location": "Cassette Box 3",
-    "ID": 982
-  },
-  {
-    "Artist": "Collective Soul",
-    "Title": "Collective Soul",
-    "Location": "Cassette Box 3",
-    "ID": 983
-  },
-  {
-    "Artist": "Bob Wills",
-    "Title": "(NEW)Columbia Historic Edition",
-    "Location": "Cassette Box 3",
-    "ID": 984
-  },
-  {
-    "Artist": "Don Henley",
-    "Title": "Building The Perfect Beast",
-    "Location": "Cassette Box 3",
-    "ID": 985
-  },
-  {
-    "Artist": "Don Henley",
-    "Title": "The End Of The Innocence",
-    "Location": "Cassette Box 3",
-    "ID": 986
-  },
-  {
-    "Artist": "Arlo Guthrie",
-    "Title": "The Best Of Arlo Guthrie",
-    "Location": "Cassette Box 3",
-    "ID": 987
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Monster(tape only)",
-    "Location": "Cassette Box 3",
-    "ID": 988
-  },
-  {
-    "Artist": "Crosby, Stills, Nash & Young",
-    "Title": "So Far",
-    "Location": "Cassette Box 3",
-    "ID": 989
-  },
-  {
-    "Artist": "Georgia Satellites",
-    "Title": "Georgia Satellites",
-    "Location": "Cassette Box 3",
-    "ID": 990
-  },
-  {
-    "Artist": "Juice Newton",
-    "Title": "Greatest Hits",
-    "Location": "Cassette Box 3",
-    "ID": 991
-  },
-  {
-    "Artist": "Hank Williams, Jr.",
-    "Title": "Born To Boogie",
-    "Location": "Cassette Box 3",
-    "ID": 992
-  },
-  {
-    "Artist": "Hank Williams, Jr.",
-    "Title": "Habits Old And New",
-    "Location": "Cassette Box 3",
-    "ID": 993
-  },
-  {
-    "Artist": "Hank Williams, Jr.",
-    "Title": "Greatest Hits III",
-    "Location": "Cassette Box 3",
-    "ID": 994
-  },
-  {
-    "Artist": "Otis Redding/The Jimi Hendrix Experience",
-    "Title": "Otis Redding/The Jimi Hendrix Experience",
-    "Location": "8-Track Box 3",
-    "ID": 995
-  },
-  {
-    "Artist": "Sonny & Cher",
-    "Title": "The Two Of Us",
-    "Location": "8-Track Box 3",
-    "ID": 996
-  },
-  {
-    "Artist": "Nilsson",
-    "Title": "Nilsson Schmilsson",
-    "Location": "8-Track Box 3",
-    "ID": 997
-  },
-  {
-    "Artist": "Deep Purple",
-    "Title": "Machine Head",
-    "Location": "8-Track Box 3",
-    "ID": 998
-  },
-  {
-    "Artist": "The Moody Blues",
-    "Title": "In Search Of The Lost Chord",
-    "Location": "8-Track Box 3",
-    "ID": 999
-  },
-  {
-    "Artist": "Otis Redding",
-    "Title": "The Legendary Otis Redding",
-    "Location": "8-Track Box 3",
-    "ID": 1001
-  },
-  {
-    "Artist": "Carole King",
-    "Title": "(NEW)Tapestry",
-    "Location": "Cassette Box 3",
-    "ID": 1002
-  },
-  {
-    "Artist": "The Beatles",
-    "Title": "Rock 'N' Roll Music",
-    "Location": "Cassette Box 3",
-    "ID": 1003
-  },
-  {
-    "Artist": "Ella Fitzgerald",
-    "Title": "The Best Of...",
-    "Location": "Cassette Box 3",
-    "ID": 1004
-  },
-  {
-    "Artist": "Ray Charles",
-    "Title": "Super Hits",
-    "Location": "Cassette Box 3",
-    "ID": 1005
-  },
-  {
-    "Artist": "Murray Perahia; Bernard Haitink",
-    "Title": "Beethoven: The Five Piano Concertos Tape 1",
-    "Location": "Cassette Box 3",
-    "ID": 1006
-  },
-  {
-    "Artist": "Murray Perahia; Bernard Haitink",
-    "Title": "Beethoven: The Five Piano Concertos Tape 2",
-    "Location": "Cassette Box 3",
-    "ID": 1007
-  },
-  {
-    "Artist": "Murray Perahia; Bernard Haitink",
-    "Title": "Beethoven: The Five Piano Concertos Tape 3",
-    "Location": "Cassette Box 3",
-    "ID": 1008
   }
 ]
