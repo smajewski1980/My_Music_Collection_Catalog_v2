@@ -25,8 +25,7 @@
   border-radius: 20px;
 }
 legend {
-  max-width: 90%;
-  padding-inline: 0.25em;
+  margin-inline: auto;
   font-size: 2rem;
 }
 

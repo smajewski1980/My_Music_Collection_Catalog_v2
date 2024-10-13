@@ -1,24 +1,21 @@
-.menuWrapper{
-    text-align: center;    
-    background-color: rgba(212, 182, 240, .1);
-    width: 15%;
-    border-left:1px solid hsl(300, 99%, 60%);
-    padding-inline:1rem;
-   
+.menuWrapper {
+  text-align: center;
+  background-color: rgba(212, 182, 240, 0.1);
+  width: 15%;
+  border-left: 1px solid hsl(300, 99%, 60%);
+  padding-inline: 1rem;
 }
-.menuTitle{
-    color:hsl(300, 99%, 60%);
-    font-size:2rem;
-    border-bottom:1px solid hsl(300, 99%, 60%);
-    padding-block:2rem;
+.menuTitle {
+  color: hsl(300, 99%, 60%);
+  font-size: 3rem;
+  border-bottom: 1px solid hsl(300, 99%, 60%);
+  padding-block: 2rem;
 }
 
 .cdMenu,
 .recordsMenu,
 .tapesMenu,
-.visualMedia{
-    margin:1rem auto;
-    color:hsl(300, 99%, 60%);
-    width:25ch;
+.visualMedia {
+  margin: 1rem auto;
+  color: hsl(300, 99%, 60%);
 }
-

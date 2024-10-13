@@ -8,7 +8,7 @@ const CD_Singles = (props) => {
     return (
       <div className="cdSinglesCardWrapper">
         <fieldset className="singlesItemWrapper">
-          <legend>
+          <legend title={single.Artist + " - " + single.Title}>
             {single.Artist} -{" "}
             {single.Title.length > 25
               ? single.Title.slice(0, 26) + "..."

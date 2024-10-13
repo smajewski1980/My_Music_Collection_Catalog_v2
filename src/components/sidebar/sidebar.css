@@ -2,7 +2,7 @@
   background-color: rgba(212, 182, 240, 0.1);
   width: 20%;
   min-height: 100dvh;
-  padding: 0.5rem 1rem;
+  padding-inline: 1rem;
   text-align: center;
   border-right: 1px solid hsl(300, 99%, 60%);
 }
@@ -11,7 +11,7 @@
   font-size: clamp(2.5rem, 3vw, 5rem);
   border-bottom: 1px solid hsl(300, 99%, 60%);
   color: hsl(300, 99%, 60%);
-  padding-block: 0.5em;
+  padding-block: 0.25em;
   line-height: 1.1;
 }
 
@@ -78,11 +78,13 @@
 .fmtBtnActive {
   background-color: rgb(212, 182, 240);
   color: black;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
 .totalsWrapper h3 {
   text-align: center;
-  margin-block: 1rem;
+  margin-block: 0.5em;
   color: hsl(300, 99%, 60%);
 }
 
@@ -101,8 +103,7 @@
   .formatSelectBtn {
     padding-block: 1.5rem;
   }
-  /* .totals {
-    color: hsl(300, 99%, 60%);
-    font-size: 1.25em;
-  } */
+  .totalsWrapper h3 {
+    margin-top: 50px;
+  }
 }

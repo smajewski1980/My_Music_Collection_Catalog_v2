@@ -60,9 +60,15 @@ const Main = (props) => {
                 .map((cd) => {
                   return (
                     <div className="row" key={cd.ID}>
-                      <p className="artist">{cd.Artist}</p>
-                      <p className="title">{cd.Title}</p>
-                      <p className="location">{cd["Box ID"]}</p>
+                      <p title={cd.Artist} className="artist">
+                        {cd.Artist}
+                      </p>
+                      <p title={cd.Title} className="title">
+                        {cd.Title}
+                      </p>
+                      <p title={cd["Box ID"]} className="location">
+                        {cd["Box ID"]}
+                      </p>
                     </div>
                   );
                 })}
@@ -79,9 +85,15 @@ const Main = (props) => {
                 .map((cd) => {
                   return (
                     <div className="row" key={cd.ID}>
-                      <p className="artist">{cd.Artist}</p>
-                      <p className="title">{cd.Title}</p>
-                      <p className="location">{cd["Box ID"]}</p>
+                      <p title={cd.Artist} className="artist">
+                        {cd.Artist}
+                      </p>
+                      <p title={cd.Title} className="title">
+                        {cd.Title}
+                      </p>
+                      <p title={cd["Box ID"]} className="location">
+                        {cd["Box ID"]}
+                      </p>
                     </div>
                   );
                 })}
@@ -94,9 +106,15 @@ const Main = (props) => {
               tapes.map((tape) => {
                 return (
                   <div className="row" key={tape.ID}>
-                    <p className="artist">{tape.Artist}</p>
-                    <p className="title">{tape.Title}</p>
-                    <p className="location">{tape.Location}</p>
+                    <p title={tape.Artist} className="artist">
+                      {tape.Artist}
+                    </p>
+                    <p title={tape.Title} className="title">
+                      {tape.Title}
+                    </p>
+                    <p title={tape.Location} className="location">
+                      {tape.Location}
+                    </p>
                   </div>
                 );
               })}
@@ -113,9 +131,15 @@ const Main = (props) => {
                 .map((tape) => {
                   return (
                     <div className="row" key={tape.ID}>
-                      <p className="artist">{tape.Artist}</p>
-                      <p className="title">{tape.Title}</p>
-                      <p className="location">{tape.Location}</p>
+                      <p title={tape.Artist} className="artist">
+                        {tape.Artist}
+                      </p>
+                      <p title={tape.Title} className="title">
+                        {tape.Title}
+                      </p>
+                      <p title={tape.Location} className="location">
+                        {tape.Location}
+                      </p>
                     </div>
                   );
                 })}
@@ -128,9 +152,15 @@ const Main = (props) => {
               records.map((record) => {
                 return (
                   <div className="row" key={record.ID}>
-                    <p className="artist">{record.Artist}</p>
-                    <p className="title">{record.Title}</p>
-                    <p className="location">{record.Rec_Box_ID}</p>
+                    <p title={record.Artist} className="artist">
+                      {record.Artist}
+                    </p>
+                    <p title={record.Title} className="title">
+                      {record.Title}
+                    </p>
+                    <p title={record.Rec_Box_ID} className="location">
+                      {record.Rec_Box_ID}
+                    </p>
                   </div>
                 );
               })}
@@ -147,9 +177,15 @@ const Main = (props) => {
                 .map((record) => {
                   return (
                     <div className="row" key={record.ID}>
-                      <p className="artist">{record.Artist}</p>
-                      <p className="title">{record.Title}</p>
-                      <p className="location">{record.Rec_Box_ID}</p>
+                      <p title={record.Artist} className="artist">
+                        {record.Artist}
+                      </p>
+                      <p title={record.Title} className="title">
+                        {record.Title}
+                      </p>
+                      <p title={record.Rec_Box_ID} className="location">
+                        {record.Rec_Box_ID}
+                      </p>
                     </div>
                   );
                 })}
