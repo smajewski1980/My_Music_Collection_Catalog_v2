@@ -360,16 +360,16 @@
     "Box ID": "Various Artists 1"
   },
   {
-    "Title ID": 2159,
-    "Title": "2004 Grammy Nominees",
-    "Year": 2004,
-    "Box ID": "Various Artists 8"
-  },
-  {
     "Title ID": 980,
     "Title": "2004 Grammy Nominees",
     "Year": 2004,
     "Box ID": "Various Artists 5"
+  },
+  {
+    "Title ID": 2159,
+    "Title": "2004 Grammy Nominees",
+    "Year": 2004,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 1158,
@@ -1002,13 +1002,13 @@
     "Box ID": "X-mas VA 1"
   },
   {
-    "Title ID": 1170,
+    "Title ID": 1174,
     "Title": "All Time Classical Favorites",
     "Year": 2000,
     "Box ID": "Classical VA 1"
   },
   {
-    "Title ID": 1174,
+    "Title ID": 1170,
     "Title": "All Time Classical Favorites",
     "Year": 2000,
     "Box ID": "Classical VA 1"
@@ -2688,16 +2688,16 @@
     "Box ID": "X-mas VA 2"
   },
   {
-    "Title ID": 106,
-    "Title": "Christmas Classics",
-    "Year": 1998,
-    "Box ID": "X-mas VA 1"
-  },
-  {
     "Title ID": 1508,
     "Title": "Christmas Classics",
     "Year": 1995,
     "Box ID": "X-mas VA 2"
+  },
+  {
+    "Title ID": 106,
+    "Title": "Christmas Classics",
+    "Year": 1998,
+    "Box ID": "X-mas VA 1"
   },
   {
     "Title ID": 105,
@@ -3480,6 +3480,24 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2295,
+    "Title": "Crusin'",
+    "Year": 1999,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2296,
+    "Title": "Crusin' Classics",
+    "Year": 1999,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2294,
+    "Title": "Crusin' Greats",
+    "Year": 1999,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 646,
     "Title": "Current Vision",
     "Year": 1995,
@@ -3816,6 +3834,12 @@
     "Box ID": "Soundtrack 1"
   },
   {
+    "Title ID": 2301,
+    "Title": "Disney Mania 5",
+    "Year": 2007,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 2049,
     "Title": "Disneys Saving Mr. Banks Disc 1",
     "Year": 2013,
@@ -3900,6 +3924,12 @@
     "Box ID": "Soundtrack 1"
   },
   {
+    "Title ID": 2283,
+    "Title": "DOWN-shift (Banana Republic)",
+    "Year": 2000,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1594,
     "Title": "Dr. Dolittle: The Album",
     "Year": 1998,
@@ -3982,6 +4012,18 @@
     "Title": "Dust My Broom",
     "Year": 1997,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 2290,
+    "Title": "Dylan, Cash And The Nashville Cats: A New Music City Disc 1",
+    "Year": 2015,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2291,
+    "Title": "Dylan, Cash And The Nashville Cats: A New Music City Disc 2",
+    "Year": 2015,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 1610,
@@ -4404,16 +4446,16 @@
     "Box ID": "Various Artists 3"
   },
   {
-    "Title ID": 1954,
-    "Title": "Footloose",
-    "Year": 1998,
-    "Box ID": "Soundtrack 3"
-  },
-  {
     "Title ID": 1590,
     "Title": "Footloose",
     "Year": 1984,
     "Box ID": "Soundtrack 1"
+  },
+  {
+    "Title ID": 1954,
+    "Title": "Footloose",
+    "Year": 1998,
+    "Box ID": "Soundtrack 3"
   },
   {
     "Title ID": 1587,
@@ -4764,6 +4806,24 @@
     "Box ID": "Classical VA 1"
   },
   {
+    "Title ID": 2287,
+    "Title": "Golden Oldies Vol. 14",
+    "Year": 1994,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2288,
+    "Title": "Golden Oldies Vol. 19",
+    "Year": 1994,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2289,
+    "Title": "Golden Oldies Vol. 8",
+    "Year": 1994,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 792,
     "Title": "Golden Rockin' Hits",
     "Year": 2006,
@@ -4896,16 +4956,16 @@
     "Box ID": "Soundtrack 3"
   },
   {
-    "Title ID": 1317,
-    "Title": "Great Classical Marches",
-    "Year": 1998,
-    "Box ID": "Classical VA 2"
-  },
-  {
     "Title ID": 1039,
     "Title": "Great Classical Marches",
     "Year": 1988,
     "Box ID": "Classical VA 1"
+  },
+  {
+    "Title ID": 1317,
+    "Title": "Great Classical Marches",
+    "Year": 1998,
+    "Box ID": "Classical VA 2"
   },
   {
     "Title ID": 922,
@@ -5020,6 +5080,12 @@
     "Title": "GRP Presents The Cool Sound Of CD-101.9 Volume III",
     "Year": 1990,
     "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2284,
+    "Title": "GRP Presents The Cool Sound Of CD 101.9 FM",
+    "Year": 1988,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 817,
@@ -6274,6 +6340,12 @@
     "Title": "Kiss The Boys Goodbye - Classic Songs From World War II, Vol. 1",
     "Year": 1995,
     "Box ID": "Various Artists 7"
+  },
+  {
+    "Title ID": 2298,
+    "Title": "Knock Out 2",
+    "Year": 1995,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 2058,
@@ -7770,16 +7842,16 @@
     "Box ID": "Various Artists 1"
   },
   {
-    "Title ID": 2270,
-    "Title": "No Lies",
-    "Year": 1999,
-    "Box ID": "Various Artists 8"
-  },
-  {
     "Title ID": 1398,
     "Title": "No Lies",
     "Year": 1997,
     "Box ID": "Various Artists 7"
+  },
+  {
+    "Title ID": 2270,
+    "Title": "No Lies",
+    "Year": 1999,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 649,
@@ -7854,16 +7926,16 @@
     "Box ID": "Various Artists 8"
   },
   {
-    "Title ID": 668,
-    "Title": "Now That's What I Call Music! 16",
-    "Year": 2004,
-    "Box ID": "Various Artists 3"
-  },
-  {
     "Title ID": 832,
     "Title": "Now That's What I Call Music! 16",
     "Year": 2004,
     "Box ID": "Various Artists 5"
+  },
+  {
+    "Title ID": 668,
+    "Title": "Now That's What I Call Music! 16",
+    "Year": 2004,
+    "Box ID": "Various Artists 3"
   },
   {
     "Title ID": 833,
@@ -8376,6 +8448,12 @@
     "Box ID": "X-mas VA 2"
   },
   {
+    "Title ID": 2299,
+    "Title": "Platinum Country",
+    "Year": 1997,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1365,
     "Title": "Platinum Hits 2000",
     "Year": 2000,
@@ -8464,6 +8542,12 @@
     "Title": "Popular 6 - DJ Vito Fun",
     "Year": 2010,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 2304,
+    "Title": "Porgy And Bess",
+    "Year": 1992,
+    "Box ID": "Soundtracks 4"
   },
   {
     "Title ID": 1145,
@@ -9528,6 +9612,18 @@
     "Box ID": "Soundtrack 2"
   },
   {
+    "Title ID": 2302,
+    "Title": "Serious Sounds Of Sonique In The Mix & On The Mic Disc 1",
+    "Year": 2000,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2303,
+    "Title": "Serious Sounds Of Sonique In The Mix & On The Mic Disc 2",
+    "Year": 2000,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 650,
     "Title": "Sessions Presents 55 Original Country Classics Disc 1",
     "Year": 1988,
@@ -10186,6 +10282,12 @@
     "Title": "Strictly For The Hardcore",
     "Year": 1993,
     "Box ID": "Various Artists 6"
+  },
+  {
+    "Title ID": 2297,
+    "Title": "style.",
+    "Year": 1998,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 330,
@@ -12354,6 +12456,18 @@
     "Box ID": "Various Artists 8"
   },
   {
+    "Title ID": 2285,
+    "Title": "Time-Life Music The Rock 'N' Roll Era: R&B Gems",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2286,
+    "Title": "Time Life Music Rhythm & Blues 1971",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1175,
     "Title": "Timeless Classics From Paris And Prague Vol. 3 Disc 1",
     "Year": 1234,
@@ -12492,6 +12606,12 @@
     "Box ID": "Soundtrack 3"
   },
   {
+    "Title ID": 2300,
+    "Title": "Treasury Of Golden Band Era Vol. 5",
+    "Year": 1234,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 383,
     "Title": "Treasury Of Golden Band Era Vol. 8",
     "Year": 1990,
@@ -12594,15 +12714,15 @@
     "Box ID": "Classical VA 1"
   },
   {
-    "Title ID": 1503,
-    "Title": "Ultimate Christmas",
-    "Year": 2006,
-    "Box ID": "X-mas VA 2"
-  },
-  {
     "Title ID": 1511,
     "Title": "Ultimate Christmas",
     "Year": 1998,
+    "Box ID": "X-mas VA 2"
+  },
+  {
+    "Title ID": 1503,
+    "Title": "Ultimate Christmas",
+    "Year": 2006,
     "Box ID": "X-mas VA 2"
   },
   {
@@ -12832,6 +12952,12 @@
     "Title": "Verizon - Sounds Of New Orleans",
     "Year": 1996,
     "Box ID": "Various Artists 6"
+  },
+  {
+    "Title ID": 2293,
+    "Title": "VH1 Crossroads",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 491,
@@ -13198,6 +13324,12 @@
     "Title": "WHRL 103.1 Today's Jazz - Cool Jazz Collection",
     "Year": 1234,
     "Box ID": "Various Artists 2"
+  },
+  {
+    "Title ID": 2292,
+    "Title": "WHRL 103.1 Today's Jazz:Cool Jazz Picnic Party",
+    "Year": 1234,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 404,
