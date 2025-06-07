@@ -1,0 +1,162 @@
+cd comps -   order by title
+  {
+    "Title ID": 953,
+    "Title": "'60s Rock: It's A Beautiful Morning",
+    "Year": 1997,
+    "Box ID": "Various Artists 5"
+  },
+  {
+    "Title ID": 331,
+    "Title": "'80's Favorites",
+    "Year": 2010,
+    "Box ID": "Various Artists 1"
+  },
+  {
+    "Title ID": 349,
+    "Title": "'Round Midnight CD 1",
+    "Year": 2013,
+    "Box ID": "Various Artists 2"
+  }, ...
+
+  cd comps tracks - order by track id
+    {
+    "Artist": "Bing Crosby & Ella Fitzgerald",
+    "Track Name": "White Christmas",
+    "Title ID": 7,
+    "Track ID": 9
+  },
+  {
+    "Artist": "Nat King Cole",
+    "Track Name": "The Christmas Song",
+    "Title ID": 7,
+    "Track ID": 10
+  },
+  {
+    "Artist": "Drifters",
+    "Track Name": "Silent Night Holy Night",
+    "Title ID": 7,
+    "Track ID": 11
+  },...
+
+  cd singles - order by artist, title
+
+    {
+    "Artist": "!!!",
+    "Title": "Me & Giuliani Down By The Schoolyard (A True Story)",
+    "Case Type": "Jewel Case",
+    "Year": 2003,
+    "ID": 100927
+  },
+  {
+    "Artist": "*Nsync",
+    "Title": "I Want You Back",
+    "Case Type": "Digipack",
+    "Year": 1997,
+    "ID": 100276
+  },
+  {
+    "Artist": "*Nsync",
+    "Title": "It's Gonna Be Me",
+    "Case Type": "Cardboard Sleeve",
+    "Year": 2000,
+    "ID": 101009
+  },...
+
+  cd singles tracks - track id
+
+    {
+    "Track ID": 1,
+    "Track Name": "Get On Up (album version)",
+    "ID": 100000
+  },
+  {
+    "Track ID": 2,
+    "Track Name": "Get On Up (instant flava remix)",
+    "ID": 100000
+  },
+  {
+    "Track ID": 3,
+    "Track Name": "Get On Up (grant nelson's anthem remix)",
+    "ID": 100000
+  },...
+
+  cd main catalog - order by artist, title
+
+    {
+    "Artist": "'Til Tuesday",
+    "Title": "Everything's Different Now",
+    "Box ID": "Pop/Rock 41",
+    "ID": 10520
+  },
+  {
+    "Artist": "'Til Tuesday",
+    "Title": "Voices Carry",
+    "Box ID": "Pop/Rock 4",
+    "ID": 1
+  },
+  {
+    "Artist": "'Til Tuesday",
+    "Title": "Welcome Home",
+    "Box ID": "Pop/Rock 4",
+    "ID": 2
+  },
+    {
+    "Artist": "Little\" Louie And Marc Anthony",
+    "Title": "When The Night Is Over",
+    "Box ID": "Pop/Rock 16",
+    "ID": 3
+  },
+  {
+    "Artist": "Weird Al\" Yankovic",
+    "Title": "Bad Hair Day",
+    "Box ID": "Pop/Rock 5",
+    "ID": 4
+  },...
+
+  records - order by artist, title
+
+    {
+    "Artist": "Big\" Tiny Little",
+    "Title": "big\" Tiny's Little Black Book",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4134
+  },
+  {
+    "Artist": "Fats\" Waller And His Rhythm",
+    "Title": "I Can't Give You Anything But Love // The Joint Is Jumpin'",
+    "Rec_Box_ID": "78s Box 3",
+    "ID": 1
+  },
+  {
+    "Artist": "Fats\" Waller And His Rhythm",
+    "Title": "I Won't Believe It // Imagine My Surprise",
+    "Rec_Box_ID": "78s Box 3",
+    "ID": 2
+  },...
+
+  tapes - order by artist, title
+
+    {
+    "Artist": "Rags\" Rafferty",
+    "Title": "The Best Of Old Time Piano",
+    "Location": "8-Track Box 1",
+    "ID": 1
+  },
+  {
+    "Artist": "10,000 Maniacs",
+    "Title": "Because The Night // Eat For Two",
+    "Location": "Cassette Box 3",
+    "ID": 2
+  },
+  {
+    "Artist": "10,000 Maniacs",
+    "Title": "Because The Night(Single)",
+    "Location": "Cassette Box 3",
+    "ID": 951
+  },
+  {
+    "Artist": "10,000 Maniacs",
+    "Title": "Hope Chest",
+    "Location": "Cassette Box 3",
+    "ID": 3
+  },

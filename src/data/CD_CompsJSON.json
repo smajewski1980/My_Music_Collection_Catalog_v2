@@ -540,6 +540,30 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2379,
+    "Title": "50 Years Of Bluegrass Hits Disc 1",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2380,
+    "Title": "50 Years Of Bluegrass Hits Disc 2",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2381,
+    "Title": "50 Years Of Bluegrass Hits Disc 3",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2382,
+    "Title": "50 Years Of Bluegrass Hits Disc 4",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 334,
     "Title": "50s Diner Classics",
     "Year": 2005,
@@ -1014,13 +1038,13 @@
     "Box ID": "X-mas VA 1"
   },
   {
-    "Title ID": 1174,
+    "Title ID": 1170,
     "Title": "All Time Classical Favorites",
     "Year": 2000,
     "Box ID": "Classical VA 1"
   },
   {
-    "Title ID": 1170,
+    "Title ID": 1174,
     "Title": "All Time Classical Favorites",
     "Year": 2000,
     "Box ID": "Classical VA 1"
@@ -2454,13 +2478,13 @@
     "Box ID": "Various Artists 1"
   },
   {
-    "Title ID": 2020,
+    "Title ID": 1638,
     "Title": "Carmen Sandiego - Out Of This World",
     "Year": 1993,
     "Box ID": "Soundtrack 4"
   },
   {
-    "Title ID": 1638,
+    "Title ID": 2020,
     "Title": "Carmen Sandiego - Out Of This World",
     "Year": 1993,
     "Box ID": "Soundtrack 4"
@@ -2736,10 +2760,10 @@
     "Box ID": "X-mas VA 2"
   },
   {
-    "Title ID": 1508,
+    "Title ID": 105,
     "Title": "Christmas Classics",
-    "Year": 1995,
-    "Box ID": "X-mas VA 2"
+    "Year": 2000,
+    "Box ID": "X-mas VA 1"
   },
   {
     "Title ID": 106,
@@ -2748,10 +2772,10 @@
     "Box ID": "X-mas VA 1"
   },
   {
-    "Title ID": 105,
+    "Title ID": 1508,
     "Title": "Christmas Classics",
-    "Year": 2000,
-    "Box ID": "X-mas VA 1"
+    "Year": 1995,
+    "Box ID": "X-mas VA 2"
   },
   {
     "Title ID": 186,
@@ -2938,6 +2962,12 @@
     "Title": "City On A Hill - Sing Alleluia",
     "Year": 2002,
     "Box ID": "Various Artists 1"
+  },
+  {
+    "Title ID": 2376,
+    "Title": "Clair de lune And Other Moonlit Melodies",
+    "Year": 1985,
+    "Box ID": "Classical VA 2"
   },
   {
     "Title ID": 221,
@@ -4764,15 +4794,15 @@
     "Box ID": "Soundtrack 1"
   },
   {
-    "Title ID": 1957,
-    "Title": "Ghost",
-    "Year": 1990,
-    "Box ID": "Soundtrack 3"
-  },
-  {
     "Title ID": 1956,
     "Title": "Ghost",
     "Year": 1995,
+    "Box ID": "Soundtrack 3"
+  },
+  {
+    "Title ID": 1957,
+    "Title": "Ghost",
+    "Year": 1990,
     "Box ID": "Soundtrack 3"
   },
   {
@@ -4820,6 +4850,12 @@
   {
     "Title ID": 2015,
     "Title": "Go",
+    "Year": 1999,
+    "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2374,
+    "Title": "Go Simpsonic With The SImpsons",
     "Year": 1999,
     "Box ID": "Soundtrack 4"
   },
@@ -5040,16 +5076,16 @@
     "Box ID": "Soundtrack 3"
   },
   {
-    "Title ID": 1039,
-    "Title": "Great Classical Marches",
-    "Year": 1988,
-    "Box ID": "Classical VA 1"
-  },
-  {
     "Title ID": 1317,
     "Title": "Great Classical Marches",
     "Year": 1998,
     "Box ID": "Classical VA 2"
+  },
+  {
+    "Title ID": 1039,
+    "Title": "Great Classical Marches",
+    "Year": 1988,
+    "Box ID": "Classical VA 1"
   },
   {
     "Title ID": 922,
@@ -7992,16 +8028,16 @@
     "Box ID": "Various Artists 1"
   },
   {
-    "Title ID": 1398,
-    "Title": "No Lies",
-    "Year": 1997,
-    "Box ID": "Various Artists 7"
-  },
-  {
     "Title ID": 2270,
     "Title": "No Lies",
     "Year": 1999,
     "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 1398,
+    "Title": "No Lies",
+    "Year": 1997,
+    "Box ID": "Various Artists 7"
   },
   {
     "Title ID": 649,
@@ -8076,16 +8112,16 @@
     "Box ID": "Various Artists 8"
   },
   {
-    "Title ID": 668,
-    "Title": "Now That's What I Call Music! 16",
-    "Year": 2004,
-    "Box ID": "Various Artists 3"
-  },
-  {
     "Title ID": 832,
     "Title": "Now That's What I Call Music! 16",
     "Year": 2004,
     "Box ID": "Various Artists 5"
+  },
+  {
+    "Title ID": 668,
+    "Title": "Now That's What I Call Music! 16",
+    "Year": 2004,
+    "Box ID": "Various Artists 3"
   },
   {
     "Title ID": 833,
@@ -10302,15 +10338,15 @@
     "Box ID": "Classical VA 2"
   },
   {
-    "Title ID": 2245,
-    "Title": "Sony/Billboard Decade Of Music Volume 1",
-    "Year": 1990,
-    "Box ID": "Various Artists 8"
-  },
-  {
     "Title ID": 2178,
     "Title": "Sony/Billboard Decade Of Music Volume 1",
     "Year": 1991,
+    "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2245,
+    "Title": "Sony/Billboard Decade Of Music Volume 1",
+    "Year": 1990,
     "Box ID": "Various Artists 8"
   },
   {
@@ -10704,16 +10740,16 @@
     "Box ID": "Soundtrack 2"
   },
   {
-    "Title ID": 1888,
-    "Title": "Sweet November",
-    "Year": 2001,
-    "Box ID": "Soundtrack 3"
-  },
-  {
     "Title ID": 1743,
     "Title": "Sweet November",
     "Year": 2001,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 1888,
+    "Title": "Sweet November",
+    "Year": 2001,
+    "Box ID": "Soundtrack 3"
   },
   {
     "Title ID": 1231,
@@ -10984,6 +11020,12 @@
     "Title": "The Best New Age Volume 2",
     "Year": 1996,
     "Box ID": "Various Artists 6"
+  },
+  {
+    "Title ID": 2371,
+    "Title": "The Best Of 60's Supergroups",
+    "Year": 1989,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 341,
@@ -11700,6 +11742,12 @@
     "Box ID": "Soundtrack 4"
   },
   {
+    "Title ID": 2373,
+    "Title": "The Legendary Big Band Singers",
+    "Year": 1994,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1292,
     "Title": "The Legends",
     "Year": 2002,
@@ -12240,6 +12288,12 @@
     "Box ID": "Various Artists 6"
   },
   {
+    "Title ID": 2375,
+    "Title": "The Simpsons",
+    "Year": 2007,
+    "Box ID": "Soundtrack 4"
+  },
+  {
     "Title ID": 1782,
     "Title": "The Simpsons - Songs In The Key Of Springfield",
     "Year": 1997,
@@ -12552,16 +12606,16 @@
     "Box ID": "Various Artists 2"
   },
   {
-    "Title ID": 683,
-    "Title": "The War Years",
-    "Year": 1993,
-    "Box ID": "Various Artists 4"
-  },
-  {
     "Title ID": 365,
     "Title": "The War Years",
     "Year": 1993,
     "Box ID": "Various Artists 2"
+  },
+  {
+    "Title ID": 683,
+    "Title": "The War Years",
+    "Year": 1993,
+    "Box ID": "Various Artists 4"
   },
   {
     "Title ID": 366,
@@ -12806,6 +12860,18 @@
   {
     "Title ID": 2286,
     "Title": "Time Life Music Rhythm & Blues 1971",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2378,
+    "Title": "Time Life Music: Classic Rock - 1967 Shakin' All Over",
+    "Year": 1989,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2377,
+    "Title": "Time Life Music: The Rock 'N' Roll Era - Rock Classics The Originals",
     "Year": 1991,
     "Box ID": "Various Artists 9"
   },
@@ -13464,6 +13530,12 @@
     "Box ID": "Classical VA 2"
   },
   {
+    "Title ID": 2372,
+    "Title": "VP Records Winter Sampler 2004",
+    "Year": 2003,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1917,
     "Title": "W.O.W. Magazine Entrance Themes",
     "Year": 2000,
@@ -13578,15 +13650,15 @@
     "Box ID": "Various Artists 2"
   },
   {
-    "Title ID": 16,
-    "Title": "We Wish You A Merry Christmas",
-    "Year": 1987,
-    "Box ID": "X-mas VA 1"
-  },
-  {
     "Title ID": 7,
     "Title": "We Wish You A Merry Christmas",
     "Year": 1996,
+    "Box ID": "X-mas VA 1"
+  },
+  {
+    "Title ID": 16,
+    "Title": "We Wish You A Merry Christmas",
+    "Year": 1987,
     "Box ID": "X-mas VA 1"
   },
   {

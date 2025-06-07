@@ -126,7 +126,7 @@
     "ID": 100418
   },
   {
-    "Artist": "98Â°",
+    "Artist": "98├é┬░",
     "Title": "Because Of You",
     "Case Type": "Jewel Case",
     "Year": 1998,
@@ -375,14 +375,14 @@
     "Title": "Dancing With The Lion",
     "Case Type": "Jewel Case",
     "Year": 1989,
-    "ID": 100792
+    "ID": 100958
   },
   {
     "Artist": "Andreas Vollenweider",
     "Title": "Dancing With The Lion",
     "Case Type": "Jewel Case",
     "Year": 1989,
-    "ID": 100958
+    "ID": 100792
   },
   {
     "Artist": "Ann Nesby",
@@ -506,9 +506,16 @@
   {
     "Artist": "Atlantic Starr",
     "Title": "Love Crazy",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1991,
     "ID": 101266
+  },
+  {
+    "Artist": "Atlantic Starr",
+    "Title": "Unconditional Love",
+    "Case Type": "Jewel Case",
+    "Year": 1991,
+    "ID": 101285
   },
   {
     "Artist": "Audra McDonald",
@@ -770,7 +777,7 @@
     "ID": 101042
   },
   {
-    "Artist": "BjÃ¶rk",
+    "Artist": "Bj├â┬╢rk",
     "Title": "Joga 3",
     "Case Type": "Jewel Case",
     "Year": 1997,
@@ -975,16 +982,16 @@
   {
     "Artist": "Brandy & Monica",
     "Title": "The Boy Is Mine",
-    "Case Type": "Slider",
+    "Case Type": "Slimline",
     "Year": 1998,
-    "ID": 100214
+    "ID": 100044
   },
   {
     "Artist": "Brandy & Monica",
     "Title": "The Boy Is Mine",
-    "Case Type": "Slimline",
+    "Case Type": "Slider",
     "Year": 1998,
-    "ID": 100044
+    "ID": 100214
   },
   {
     "Artist": "Brian McKnight",
@@ -1089,14 +1096,14 @@
     "Title": "Here We Go",
     "Case Type": "Jewel Case",
     "Year": 1991,
-    "ID": 100814
+    "ID": 100938
   },
   {
     "Artist": "C + C Music Factory",
     "Title": "Here We Go",
     "Case Type": "Jewel Case",
     "Year": 1991,
-    "ID": 100938
+    "ID": 100814
   },
   {
     "Artist": "C + C Music Factory featuring Freedom Williams",
@@ -1528,7 +1535,7 @@
   {
     "Artist": "Daisy Dee",
     "Title": "Pump It All The Way",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1991,
     "ID": 101264
   },
@@ -1885,7 +1892,7 @@
   {
     "Artist": "Earth, Wind & Fire",
     "Title": "All In The Way",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2003,
     "ID": 101284
   },
@@ -1913,7 +1920,7 @@
   {
     "Artist": "Elton John & Leann Rimes",
     "Title": "Written In The Stars",
-    "Case Type": "Cardboard-Sleeve",
+    "Case Type": "Cardboard Sleeve",
     "Year": 1999,
     "ID": 101277
   },
@@ -2020,14 +2027,14 @@
     "Title": "Only Time",
     "Case Type": "Jewel Case",
     "Year": 2001,
-    "ID": 100939
+    "ID": 100791
   },
   {
     "Artist": "Enya",
     "Title": "Only Time",
     "Case Type": "Jewel Case",
     "Year": 2001,
-    "ID": 100791
+    "ID": 100939
   },
   {
     "Artist": "Erase The Grey",
@@ -2116,7 +2123,7 @@
   {
     "Artist": "Everything",
     "Title": "Hooch",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1998,
     "ID": 101262
   },
@@ -2193,7 +2200,7 @@
   {
     "Artist": "Fine Young Cannibals",
     "Title": "The Raw & The Remix",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1990,
     "ID": 101273
   },
@@ -2221,16 +2228,16 @@
   {
     "Artist": "Five",
     "Title": "When The Lights Go Out",
-    "Case Type": "Cardboard Sleeve",
+    "Case Type": "Jewel Case",
     "Year": 1998,
-    "ID": 100359
+    "ID": 100523
   },
   {
     "Artist": "Five",
     "Title": "When The Lights Go Out",
-    "Case Type": "Jewel Case",
+    "Case Type": "Cardboard Sleeve",
     "Year": 1998,
-    "ID": 100523
+    "ID": 100359
   },
   {
     "Artist": "Foo Fighters",
@@ -2445,7 +2452,7 @@
   {
     "Artist": "Gloria Estefan",
     "Title": "Go Away",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1993,
     "ID": 101269
   },
@@ -2566,19 +2573,19 @@
     "Title": "2 Legit 2 Quit",
     "Case Type": "Jewel Case",
     "Year": 1991,
-    "ID": 100781
+    "ID": 100940
   },
   {
     "Artist": "Hammer",
     "Title": "2 Legit 2 Quit",
     "Case Type": "Jewel Case",
     "Year": 1991,
-    "ID": 100940
+    "ID": 100781
   },
   {
     "Artist": "Hannah Montana",
     "Title": "Hannah Montana 2 Non-stop Dance Party",
-    "Case Type": "Cardboard-Sleeve",
+    "Case Type": "Cardboard Sleeve",
     "Year": 2008,
     "ID": 101276
   },
@@ -2629,14 +2636,14 @@
     "Title": "Another Dumb Blonde",
     "Case Type": "Jewel Case",
     "Year": 2000,
-    "ID": 100873
+    "ID": 100946
   },
   {
     "Artist": "Hoku",
     "Title": "Another Dumb Blonde",
     "Case Type": "Jewel Case",
     "Year": 2000,
-    "ID": 100946
+    "ID": 100873
   },
   {
     "Artist": "Hole",
@@ -2921,16 +2928,16 @@
   {
     "Artist": "Jamiroquai",
     "Title": "Alright",
-    "Case Type": "Cardboard Sleeve",
+    "Case Type": "Slimline",
     "Year": 1997,
-    "ID": 100354
+    "ID": 101222
   },
   {
     "Artist": "Jamiroquai",
     "Title": "Alright",
-    "Case Type": "Slimline",
+    "Case Type": "Cardboard Sleeve",
     "Year": 1997,
-    "ID": 101222
+    "ID": 100354
   },
   {
     "Artist": "Jane Child",
@@ -2942,7 +2949,7 @@
   {
     "Artist": "Jane Goewey",
     "Title": "Angel On Earth",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2005,
     "ID": 101267
   },
@@ -2963,7 +2970,7 @@
   {
     "Artist": "Janet Jackson",
     "Title": "If.",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1993,
     "ID": 101272
   },
@@ -3019,14 +3026,14 @@
   {
     "Artist": "Jeff Timmons",
     "Title": "Whisper That Way",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2004,
     "ID": 101259
   },
   {
     "Artist": "Jeffrey Osborne",
     "Title": "Rest Of Our Lives",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2003,
     "ID": 101271
   },
@@ -3049,14 +3056,14 @@
     "Title": "Sober",
     "Case Type": "Jewel Case",
     "Year": 1998,
-    "ID": 100953
+    "ID": 100874
   },
   {
     "Artist": "Jennifer Paige",
     "Title": "Sober",
     "Case Type": "Jewel Case",
     "Year": 1998,
-    "ID": 100874
+    "ID": 100953
   },
   {
     "Artist": "Jeremy Jordan",
@@ -3091,14 +3098,14 @@
     "Title": "Stand",
     "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 100799
+    "ID": 100947
   },
   {
     "Artist": "Jewel",
     "Title": "Stand",
     "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 100947
+    "ID": 100799
   },
   {
     "Artist": "Jewel",
@@ -3313,7 +3320,7 @@
   {
     "Artist": "Josh Groban",
     "Title": "You're Still You",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2001,
     "ID": 101261
   },
@@ -3801,7 +3808,7 @@
     "ID": 100158
   },
   {
-    "Artist": "Lonyo â†’ Comme Ci Comme Ca",
+    "Artist": "Lonyo ├óΓÇáΓÇÖ Comme Ci Comme Ca",
     "Title": "Summer Of Love",
     "Case Type": "Slimline",
     "Year": 2000,
@@ -3810,16 +3817,16 @@
   {
     "Artist": "Lord Tariq & Peter Gunz",
     "Title": "Deja Vu (Uptown Baby)",
-    "Case Type": "Cardboard Sleeve",
+    "Case Type": "Jewel Case",
     "Year": 1997,
-    "ID": 100397
+    "ID": 100457
   },
   {
     "Artist": "Lord Tariq & Peter Gunz",
     "Title": "Deja Vu (Uptown Baby)",
-    "Case Type": "Jewel Case",
+    "Case Type": "Cardboard Sleeve",
     "Year": 1997,
-    "ID": 100457
+    "ID": 100397
   },
   {
     "Artist": "Lords of Acid",
@@ -3964,7 +3971,7 @@
   {
     "Artist": "Marc Anthony",
     "Title": "You Sang To Me",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2000,
     "ID": 101270
   },
@@ -4233,6 +4240,13 @@
     "Case Type": "Jewel Case",
     "Year": 1998,
     "ID": 100744
+  },
+  {
+    "Artist": "Me'shell NdegeOcello",
+    "Title": "If That's Your Boyfriend(He Wasn't Last Night)",
+    "Case Type": "FLP",
+    "Year": 1993,
+    "ID": 101286
   },
   {
     "Artist": "Me'Shell Ndegeocello",
@@ -4657,7 +4671,7 @@
   {
     "Artist": "Neil Norman And His Cosmic Orchestra",
     "Title": "Star Trek: Encounters",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1998,
     "ID": 101268
   },
@@ -5021,7 +5035,7 @@
   {
     "Artist": "Phil Vassar",
     "Title": "Just Another Day In Paradise",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2000,
     "ID": 101260
   },
@@ -5224,23 +5238,16 @@
   {
     "Artist": "R.E.M.",
     "Title": "Daysleeper",
-    "Case Type": "Cardboard Sleeve",
-    "Year": 1998,
-    "ID": 100906
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Daysleeper",
     "Case Type": "Slider",
     "Year": 1998,
     "ID": 100907
   },
   {
     "Artist": "R.E.M.",
-    "Title": "Drive",
-    "Case Type": "Slimline",
-    "Year": 1992,
-    "ID": 100889
+    "Title": "Daysleeper",
+    "Case Type": "Cardboard Sleeve",
+    "Year": 1998,
+    "ID": 100906
   },
   {
     "Artist": "R.E.M.",
@@ -5248,6 +5255,13 @@
     "Case Type": "Jewel Case",
     "Year": 1992,
     "ID": 100902
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Drive",
+    "Case Type": "Slimline",
+    "Year": 1992,
+    "ID": 100889
   },
   {
     "Artist": "R.E.M.",
@@ -5266,16 +5280,16 @@
   {
     "Artist": "R.E.M.",
     "Title": "Everybody Hurts",
-    "Case Type": "Cardboard Sleeve",
+    "Case Type": "Jewel Case",
     "Year": 1993,
-    "ID": 100905
+    "ID": 100900
   },
   {
     "Artist": "R.E.M.",
     "Title": "Everybody Hurts",
-    "Case Type": "Jewel Case",
+    "Case Type": "Cardboard Sleeve",
     "Year": 1993,
-    "ID": 100900
+    "ID": 100905
   },
   {
     "Artist": "R.E.M.",
@@ -5588,7 +5602,7 @@
   {
     "Artist": "Ricky Martin With Christina Aguilera",
     "Title": "Nobody Wants To Be Lonely",
-    "Case Type": "Cardboard-Sleeve",
+    "Case Type": "Cardboard Sleeve",
     "Year": 2001,
     "ID": 101275
   },
@@ -5777,7 +5791,7 @@
   {
     "Artist": "Santana Featuring Musiq",
     "Title": "Nothing At All",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2002,
     "ID": 101263
   },
@@ -6122,14 +6136,14 @@
     "Title": "Misery",
     "Case Type": "Jewel Case",
     "Year": 1995,
-    "ID": 100680
+    "ID": 100681
   },
   {
     "Artist": "Soul Asylum",
     "Title": "Misery",
     "Case Type": "Jewel Case",
     "Year": 1995,
-    "ID": 100681
+    "ID": 100680
   },
   {
     "Artist": "Soul Asylum",
@@ -6507,14 +6521,14 @@
     "Title": "Everytime",
     "Case Type": "Jewel Case",
     "Year": 1999,
-    "ID": 100786
+    "ID": 100936
   },
   {
     "Artist": "Tatyana Ali",
     "Title": "Everytime",
     "Case Type": "Jewel Case",
     "Year": 1999,
-    "ID": 100936
+    "ID": 100786
   },
   {
     "Artist": "Taylor Hicks",
@@ -6953,7 +6967,7 @@
   {
     "Artist": "Tim McGraw",
     "Title": "Tiny Dancer",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2003,
     "ID": 101283
   },
@@ -7030,7 +7044,7 @@
   {
     "Artist": "Toni Braxton",
     "Title": "Snowflakes Of Love",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 2001,
     "ID": 101282
   },
@@ -7121,7 +7135,7 @@
   {
     "Artist": "Trey Lorenz",
     "Title": "Someone To Hold",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1992,
     "ID": 101265
   },
@@ -7282,7 +7296,7 @@
   {
     "Artist": "Us3",
     "Title": "Cantaloop",
-    "Case Type": "Jewel-Case",
+    "Case Type": "Jewel Case",
     "Year": 1993,
     "ID": 101274
   },
@@ -7466,14 +7480,14 @@
     "Title": "I Will Always Love You",
     "Case Type": "Slimline",
     "Year": 1992,
-    "ID": 100868
+    "ID": 101119
   },
   {
     "Artist": "Whitney Houston",
     "Title": "I Will Always Love You",
     "Case Type": "Slimline",
     "Year": 1992,
-    "ID": 101119
+    "ID": 100868
   },
   {
     "Artist": "Will and the Bushmen",
@@ -7550,14 +7564,14 @@
     "Title": "Knock-N-Boots",
     "Case Type": "Jewel Case",
     "Year": 1993,
-    "ID": 100961
+    "ID": 100788
   },
   {
     "Artist": "Wreckx-N-Effect",
     "Title": "Knock-N-Boots",
     "Case Type": "Jewel Case",
     "Year": 1993,
-    "ID": 100788
+    "ID": 100961
   },
   {
     "Artist": "Wyclef Jean",
@@ -7647,15 +7661,15 @@
     "Artist": "Yvette Michelle",
     "Title": "Everyday & Everynight (Remix)",
     "Case Type": "Jewel Case",
-    "Year": 1996,
-    "ID": 100949
+    "Year": 1995,
+    "ID": 100872
   },
   {
     "Artist": "Yvette Michelle",
     "Title": "Everyday & Everynight (Remix)",
     "Case Type": "Jewel Case",
-    "Year": 1995,
-    "ID": 100872
+    "Year": 1996,
+    "ID": 100949
   },
   {
     "Artist": "Zeca Baleiro",
