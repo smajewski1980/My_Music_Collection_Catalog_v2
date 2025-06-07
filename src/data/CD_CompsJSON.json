@@ -318,6 +318,12 @@
     "Box ID": "Classical VA 1"
   },
   {
+    "Title ID": 2349,
+    "Title": "20 Collector's Records",
+    "Year": 1989,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 297,
     "Title": "20 Fingers",
     "Year": 1995,
@@ -396,16 +402,16 @@
     "Box ID": "Soundtrack 1"
   },
   {
-    "Title ID": 2243,
-    "Title": "25 #1 Hits From 25 Years, Vol. 1",
-    "Year": 1985,
-    "Box ID": "Various Artists 8"
-  },
-  {
     "Title ID": 299,
     "Title": "25 #1 Hits From 25 Years, Vol. 1",
     "Year": 1985,
     "Box ID": "Various Artists 1"
+  },
+  {
+    "Title ID": 2243,
+    "Title": "25 #1 Hits From 25 Years, Vol. 1",
+    "Year": 1985,
+    "Box ID": "Various Artists 8"
   },
   {
     "Title ID": 2244,
@@ -924,6 +930,12 @@
     "Box ID": "Various Artists 8"
   },
   {
+    "Title ID": 2350,
+    "Title": "A Year In Your Life 1965 Vol.2",
+    "Year": 2001,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1663,
     "Title": "Academy Award Songs 1944-1953",
     "Year": 1993,
@@ -1428,6 +1440,18 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2330,
+    "Title": "Back To The 60's Rock 'N Roll",
+    "Year": 1987,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2329,
+    "Title": "Back To The 60's Vol II",
+    "Year": 1987,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1885,
     "Title": "Back To Titanic",
     "Year": 1998,
@@ -1668,6 +1692,12 @@
     "Box ID": "Various Artists 5"
   },
   {
+    "Title ID": 2347,
+    "Title": "Best Of The 70's",
+    "Year": 1995,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 189,
     "Title": "Best Of The Best - A Holiday Collection",
     "Year": 2012,
@@ -1678,6 +1708,12 @@
     "Title": "Best Of The Best Volume 8",
     "Year": 2009,
     "Box ID": "Various Artists 1"
+  },
+  {
+    "Title ID": 2341,
+    "Title": "Best Of The Big Bands",
+    "Year": 1234,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 682,
@@ -1752,6 +1788,12 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2351,
+    "Title": "Big Band Fever",
+    "Year": 1234,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 236,
     "Title": "Big Band Generation Disc 1 Big Band Generation",
     "Year": 2002,
@@ -1762,6 +1804,12 @@
     "Title": "Big Band Generation Disc 2 Legendary Entertainers",
     "Year": 2002,
     "Box ID": "Various Artists 1"
+  },
+  {
+    "Title ID": 2335,
+    "Title": "Big Band Instrumentals: 16 Most Requested Songs",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 234,
@@ -2406,13 +2454,13 @@
     "Box ID": "Various Artists 1"
   },
   {
-    "Title ID": 1638,
+    "Title ID": 2020,
     "Title": "Carmen Sandiego - Out Of This World",
     "Year": 1993,
     "Box ID": "Soundtrack 4"
   },
   {
-    "Title ID": 2020,
+    "Title ID": 1638,
     "Title": "Carmen Sandiego - Out Of This World",
     "Year": 1993,
     "Box ID": "Soundtrack 4"
@@ -3366,6 +3414,18 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2344,
+    "Title": "Country's Greatest Hits - 80's Country Duets",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2343,
+    "Title": "Country's Greatest Hits - Country Crossroads",
+    "Year": 1990,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 201,
     "Title": "Country Bluegrass Homecoming Volume One",
     "Year": 2008,
@@ -3382,6 +3442,12 @@
     "Title": "Country Christmas Favorites - A Postcard Christmas",
     "Year": 2001,
     "Box ID": "X-mas VA 1"
+  },
+  {
+    "Title ID": 2357,
+    "Title": "Country Classics",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 2142,
@@ -4416,6 +4482,12 @@
     "Box ID": "Soundtrack 1"
   },
   {
+    "Title ID": 2336,
+    "Title": "Flashback - Rock CLassics Of The '70s",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1974,
     "Title": "Flashdance",
     "Year": 1983,
@@ -4515,6 +4587,12 @@
     "Title ID": 2018,
     "Title": "Forrest Gump Disc 2",
     "Year": 1994,
+    "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2308,
+    "Title": "Frasier: Tossed Salads & Scrambled Eggs",
+    "Year": 2001,
     "Box ID": "Soundtrack 4"
   },
   {
@@ -4836,6 +4914,12 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2342,
+    "Title": "Golden Throats: The Great Celebrity Sing-Off!",
+    "Year": 1988,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 2117,
     "Title": "Golden Years 1972",
     "Year": 1990,
@@ -5032,6 +5116,12 @@
     "Title": "Greatest Hits Of The Organ",
     "Year": 1988,
     "Box ID": "Classical VA 2"
+  },
+  {
+    "Title ID": 2311,
+    "Title": "Greatest Science Fiction Hits IV",
+    "Year": 2001,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 411,
@@ -5340,6 +5430,18 @@
     "Box ID": "X-mas VA 2"
   },
   {
+    "Title ID": 2352,
+    "Title": "Hey Mr. D.J. - The 4th Compilation",
+    "Year": 1993,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2364,
+    "Title": "High On Dance",
+    "Year": 1995,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1961,
     "Title": "High School Musical - Disney's Karaoke Series",
     "Year": 2006,
@@ -5562,6 +5664,12 @@
     "Box ID": "Soundtrack 3"
   },
   {
+    "Title ID": 2307,
+    "Title": "Hollywood Soundtracks",
+    "Year": 1993,
+    "Box ID": "Soundtrack 4"
+  },
+  {
     "Title ID": 1858,
     "Title": "Home Alone 2",
     "Year": 1992,
@@ -5634,10 +5742,22 @@
     "Box ID": "Various Artists 3"
   },
   {
+    "Title ID": 2365,
+    "Title": "Hot Country Rock - Country Music's Hottest Hits",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 2029,
     "Title": "Hot Movie Hits",
     "Year": 1988,
     "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2346,
+    "Title": "Hot No.1 Country Hits",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 519,
@@ -5860,6 +5980,18 @@
     "Title": "In The Mood For Christmas",
     "Year": 1234,
     "Box ID": "X-mas VA 2"
+  },
+  {
+    "Title ID": 2355,
+    "Title": "In The Mood For Jazz Disc 1",
+    "Year": 1999,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2356,
+    "Title": "In The Mood For Jazz Disc 2",
+    "Year": 1999,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 2028,
@@ -6154,6 +6286,12 @@
     "Title": "Journeys",
     "Year": 2000,
     "Box ID": "Various Artists 7"
+  },
+  {
+    "Title ID": 2331,
+    "Title": "Joy To The World",
+    "Year": 1987,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 65,
@@ -6732,6 +6870,12 @@
     "Box ID": "Various Artists 7"
   },
   {
+    "Title ID": 2338,
+    "Title": "Magic 96.1's 10th Anniversary Party",
+    "Year": 1998,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1311,
     "Title": "Magic Of The Woodwinds",
     "Year": 1994,
@@ -7138,6 +7282,12 @@
     "Title": "Moonlight Classics Disc 2",
     "Year": 2010,
     "Box ID": "Classical VA 1"
+  },
+  {
+    "Title ID": 2310,
+    "Title": "Moonlighting",
+    "Year": 1987,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 2094,
@@ -7926,16 +8076,16 @@
     "Box ID": "Various Artists 8"
   },
   {
-    "Title ID": 832,
-    "Title": "Now That's What I Call Music! 16",
-    "Year": 2004,
-    "Box ID": "Various Artists 5"
-  },
-  {
     "Title ID": 668,
     "Title": "Now That's What I Call Music! 16",
     "Year": 2004,
     "Box ID": "Various Artists 3"
+  },
+  {
+    "Title ID": 832,
+    "Title": "Now That's What I Call Music! 16",
+    "Year": 2004,
+    "Box ID": "Various Artists 5"
   },
   {
     "Title ID": 833,
@@ -8172,10 +8322,40 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2354,
+    "Title": "Oldies 106.9 Presents The Great Oldies CD",
+    "Year": 1994,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2366,
+    "Title": "Oldies But Goodies Volume 4",
+    "Year": 1987,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2367,
+    "Title": "Oldies But Goodies Volume 6",
+    "Year": 1986,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2368,
+    "Title": "Oldies But Goodies Volume 8",
+    "Year": 1987,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1837,
     "Title": "Oliver!",
     "Year": 1968,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 2333,
+    "Title": "On A Starry Night",
+    "Year": 1997,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 54,
@@ -8364,6 +8544,12 @@
     "Box ID": "Classical VA 1"
   },
   {
+    "Title ID": 2337,
+    "Title": "Piano Two",
+    "Year": 1987,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1414,
     "Title": "Pier 1 - Calming",
     "Year": 1997,
@@ -8547,7 +8733,7 @@
     "Title ID": 2304,
     "Title": "Porgy And Bess",
     "Year": 1992,
-    "Box ID": "Soundtracks 4"
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 1145,
@@ -9240,10 +9426,34 @@
     "Box ID": "Various Artists 8"
   },
   {
+    "Title ID": 2358,
+    "Title": "Rock N' Roll Hits 50s & 60s Disc 1",
+    "Year": 2003,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2359,
+    "Title": "Rock N' Roll Hits 50s & 60s Disc 2",
+    "Year": 2003,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2360,
+    "Title": "Rock N' Roll Hits 50s & 60s Disc 3",
+    "Year": 2003,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 879,
     "Title": "Rock N' Roll Of The 50's",
     "Year": 1999,
     "Box ID": "Various Artists 5"
+  },
+  {
+    "Title ID": 2353,
+    "Title": "Rock N' Roll Reunion Class Of 58",
+    "Year": 1234,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 496,
@@ -9300,10 +9510,76 @@
     "Box ID": "Various Artists 8"
   },
   {
+    "Title ID": 2327,
+    "Title": "Rock On 1976",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2326,
+    "Title": "Rock On 1977",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2325,
+    "Title": "Rock On 1978",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2324,
+    "Title": "Rock On 1979",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2323,
+    "Title": "Rock On 1980",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2322,
+    "Title": "Rock On 1981",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2321,
+    "Title": "Rock On 1982",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2320,
+    "Title": "Rock On 1983",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2319,
+    "Title": "Rock On 1984",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 2233,
     "Title": "Rock On 1985",
     "Year": 1996,
     "Box ID": "Various Artists 8"
+  },
+  {
+    "Title ID": 2318,
+    "Title": "Rock On 1986",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2317,
+    "Title": "Rock On 1987",
+    "Year": 1996,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 880,
@@ -9642,16 +9918,16 @@
     "Box ID": "Various Artists 4"
   },
   {
-    "Title ID": 1457,
-    "Title": "Shall We Dance?",
-    "Year": 2004,
-    "Box ID": "Various Artists 7"
-  },
-  {
     "Title ID": 1817,
     "Title": "Shall We Dance?",
     "Year": 2004,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 1457,
+    "Title": "Shall We Dance?",
+    "Year": 2004,
+    "Box ID": "Various Artists 7"
   },
   {
     "Title ID": 337,
@@ -9864,6 +10140,24 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2361,
+    "Title": "Ska Box Anthology Disc 1",
+    "Year": 2001,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2362,
+    "Title": "Ska Box Anthology Disc 2",
+    "Year": 2001,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2363,
+    "Title": "Ska Box Anthology Disc 3",
+    "Year": 2001,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1792,
     "Title": "Sleepless In Seattle",
     "Year": 1993,
@@ -9982,6 +10276,12 @@
     "Title": "Songs Of Warfare And Battle",
     "Year": 1997,
     "Box ID": "Various Artists 6"
+  },
+  {
+    "Title ID": 2369,
+    "Title": "Songs Of World War II",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 1359,
@@ -10608,6 +10908,12 @@
     "Box ID": "Various Artists 3"
   },
   {
+    "Title ID": 2334,
+    "Title": "The 50's Decade - Vocal Groups",
+    "Year": 2000,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 1111,
     "Title": "The 70's Come Alive Again",
     "Year": 1995,
@@ -11148,6 +11454,12 @@
     "Box ID": "Various Artists 6"
   },
   {
+    "Title ID": 2309,
+    "Title": "The Fabulous Baker Boys",
+    "Year": 1989,
+    "Box ID": "Soundtrack 4"
+  },
+  {
     "Title ID": 1128,
     "Title": "The Fabulous Swing Collection",
     "Year": 1998,
@@ -11524,6 +11836,18 @@
     "Title": "The Music Of Andrew Lloyd Webber Disc 1",
     "Year": 1996,
     "Box ID": "Soundtrack 2"
+  },
+  {
+    "Title ID": 2305,
+    "Title": "The Music Of Disney - A Legacy In Song Disc One",
+    "Year": 1992,
+    "Box ID": "Soundtrack 4"
+  },
+  {
+    "Title ID": 2306,
+    "Title": "The Music Of Disney - A Legacy In Song Disc Three",
+    "Year": 1992,
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 1647,
@@ -12156,6 +12480,12 @@
     "Box ID": "Various Artists 2"
   },
   {
+    "Title ID": 2328,
+    "Title": "The Ultimate Party Mix",
+    "Year": 1998,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 488,
     "Title": "The Ultimate Party Survival Kit",
     "Year": 1995,
@@ -12202,6 +12532,12 @@
     "Title": "The Very Best Of Romantic Piano",
     "Year": 1993,
     "Box ID": "Classical VA 1"
+  },
+  {
+    "Title ID": 2345,
+    "Title": "The VH-1 EZ CD",
+    "Year": 1992,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 1198,
@@ -12372,6 +12708,12 @@
     "Box ID": "Various Artists 1"
   },
   {
+    "Title ID": 2332,
+    "Title": "Those Wonderful Years",
+    "Year": 1990,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 374,
     "Title": "Those Wonderful Years - April Love",
     "Year": 2007,
@@ -12478,6 +12820,12 @@
     "Title": "Timeless Classics From Paris And Prague Vol. 3 Disc 2",
     "Year": 1234,
     "Box ID": "Classical VA 1"
+  },
+  {
+    "Title ID": 2348,
+    "Title": "Timeless Songs, Legendary Vocalists",
+    "Year": 1991,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 1914,
@@ -12879,7 +13227,7 @@
     "Title ID": 2276,
     "Title": "Until The End Of The World",
     "Year": 1991,
-    "Box ID": "Soundtracks 4"
+    "Box ID": "Soundtrack 4"
   },
   {
     "Title ID": 17,
@@ -13072,6 +13420,18 @@
     "Title": "Vital2Step",
     "Year": 2001,
     "Box ID": "Various Artists 2"
+  },
+  {
+    "Title ID": 2339,
+    "Title": "Viva El Mariachi - Con El Mariachi Arriba Juarez Vol. 2",
+    "Year": 2003,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2340,
+    "Title": "Viva El Mariachi - Con El Mariachi Arriba Juarez Vol. 3",
+    "Year": 2003,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 429,
@@ -13560,6 +13920,12 @@
     "Box ID": "Soundtrack 3"
   },
   {
+    "Title ID": 2312,
+    "Title": "Your Hit Parade - 1941",
+    "Year": 1990,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 695,
     "Title": "Your Hit Parade - 1942",
     "Year": 1990,
@@ -13578,16 +13944,40 @@
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2313,
+    "Title": "Your Hit Parade - 1945",
+    "Year": 1989,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 698,
     "Title": "Your Hit Parade - 1946",
     "Year": 1989,
     "Box ID": "Various Artists 4"
   },
   {
+    "Title ID": 2314,
+    "Title": "Your Hit Parade - 1949",
+    "Year": 1989,
+    "Box ID": "Various Artists 9"
+  },
+  {
+    "Title ID": 2315,
+    "Title": "Your Hit Parade - 1950",
+    "Year": 1988,
+    "Box ID": "Various Artists 9"
+  },
+  {
     "Title ID": 699,
     "Title": "Your Hit Parade - 1951",
     "Year": 1988,
     "Box ID": "Various Artists 4"
+  },
+  {
+    "Title ID": 2316,
+    "Title": "Your Hit Parade - 1958",
+    "Year": 1990,
+    "Box ID": "Various Artists 9"
   },
   {
     "Title ID": 2251,
