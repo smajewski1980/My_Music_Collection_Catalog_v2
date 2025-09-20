@@ -375,14 +375,14 @@
     "Title": "Dancing With The Lion",
     "Case Type": "Jewel Case",
     "Year": 1989,
-    "ID": 100958
+    "ID": 100792
   },
   {
     "Artist": "Andreas Vollenweider",
     "Title": "Dancing With The Lion",
     "Case Type": "Jewel Case",
     "Year": 1989,
-    "ID": 100792
+    "ID": 100958
   },
   {
     "Artist": "Ann Nesby",
@@ -802,14 +802,14 @@
     "Title": "Fix",
     "Case Type": "Jewel Case",
     "Year": 1997,
-    "ID": 100937
+    "ID": 100797
   },
   {
     "Artist": "Blackstreet",
     "Title": "Fix",
     "Case Type": "Jewel Case",
     "Year": 1997,
-    "ID": 100797
+    "ID": 100937
   },
   {
     "Artist": "Blind Melon",
@@ -982,16 +982,16 @@
   {
     "Artist": "Brandy & Monica",
     "Title": "The Boy Is Mine",
-    "Case Type": "Slimline",
+    "Case Type": "Slider",
     "Year": 1998,
-    "ID": 100044
+    "ID": 100214
   },
   {
     "Artist": "Brandy & Monica",
     "Title": "The Boy Is Mine",
-    "Case Type": "Slider",
+    "Case Type": "Slimline",
     "Year": 1998,
-    "ID": 100214
+    "ID": 100044
   },
   {
     "Artist": "Brian McKnight",
@@ -1145,14 +1145,14 @@
     "Title": "Inside Your Heaven / Independence Day",
     "Case Type": "Jewel Case",
     "Year": 2005,
-    "ID": 100957
+    "ID": 100805
   },
   {
     "Artist": "Carrie Underwood",
     "Title": "Inside Your Heaven / Independence Day",
     "Case Type": "Jewel Case",
     "Year": 2005,
-    "ID": 100805
+    "ID": 100957
   },
   {
     "Artist": "Case & Joe",
@@ -1171,16 +1171,16 @@
   {
     "Artist": "Celine Dion",
     "Title": "I Drove All Night",
-    "Case Type": "Slimline",
+    "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 101015
+    "ID": 100542
   },
   {
     "Artist": "Celine Dion",
     "Title": "I Drove All Night",
-    "Case Type": "Jewel Case",
+    "Case Type": "Slimline",
     "Year": 2003,
-    "ID": 100542
+    "ID": 101015
   },
   {
     "Artist": "Celine Dion",
@@ -1736,6 +1736,13 @@
     "ID": 100025
   },
   {
+    "Artist": "Diana Krall",
+    "Title": "Have Yourself A Merry Little Christmas",
+    "Case Type": "Cardboard Sleeve",
+    "Year": 1998,
+    "ID": 101290
+  },
+  {
     "Artist": "Dishwalla",
     "Title": "Counting Blue Cars",
     "Case Type": "Jewel Case",
@@ -2027,14 +2034,14 @@
     "Title": "Only Time",
     "Case Type": "Jewel Case",
     "Year": 2001,
-    "ID": 100791
+    "ID": 100939
   },
   {
     "Artist": "Enya",
     "Title": "Only Time",
     "Case Type": "Jewel Case",
     "Year": 2001,
-    "ID": 100939
+    "ID": 100791
   },
   {
     "Artist": "Erase The Grey",
@@ -2636,14 +2643,14 @@
     "Title": "Another Dumb Blonde",
     "Case Type": "Jewel Case",
     "Year": 2000,
-    "ID": 100946
+    "ID": 100873
   },
   {
     "Artist": "Hoku",
     "Title": "Another Dumb Blonde",
     "Case Type": "Jewel Case",
     "Year": 2000,
-    "ID": 100873
+    "ID": 100946
   },
   {
     "Artist": "Hole",
@@ -2902,14 +2909,14 @@
     "Title": "Superstar",
     "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 100875
+    "ID": 100943
   },
   {
     "Artist": "Jamelia",
     "Title": "Superstar",
     "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 100943
+    "ID": 100875
   },
   {
     "Artist": "James Blunt",
@@ -2993,14 +3000,14 @@
     "Title": "Jigga My N****",
     "Case Type": "Jewel Case",
     "Year": 1999,
-    "ID": 100945
+    "ID": 100800
   },
   {
     "Artist": "Jay-Z",
     "Title": "Jigga My N****",
     "Case Type": "Jewel Case",
     "Year": 1999,
-    "ID": 100800
+    "ID": 100945
   },
   {
     "Artist": "Jay-Z",
@@ -3056,14 +3063,14 @@
     "Title": "Sober",
     "Case Type": "Jewel Case",
     "Year": 1998,
-    "ID": 100874
+    "ID": 100953
   },
   {
     "Artist": "Jennifer Paige",
     "Title": "Sober",
     "Case Type": "Jewel Case",
     "Year": 1998,
-    "ID": 100953
+    "ID": 100874
   },
   {
     "Artist": "Jeremy Jordan",
@@ -3098,14 +3105,14 @@
     "Title": "Stand",
     "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 100947
+    "ID": 100799
   },
   {
     "Artist": "Jewel",
     "Title": "Stand",
     "Case Type": "Jewel Case",
     "Year": 2003,
-    "ID": 100799
+    "ID": 100947
   },
   {
     "Artist": "Jewel",
@@ -3181,15 +3188,15 @@
     "Artist": "Jody Watley",
     "Title": "I'm The One You Need",
     "Case Type": "Jewel Case",
-    "Year": 1992,
-    "ID": 100798
+    "Year": 1991,
+    "ID": 100959
   },
   {
     "Artist": "Jody Watley",
     "Title": "I'm The One You Need",
     "Case Type": "Jewel Case",
-    "Year": 1991,
-    "ID": 100959
+    "Year": 1992,
+    "ID": 100798
   },
   {
     "Artist": "Jody Watley",
@@ -3203,14 +3210,14 @@
     "Title": "Precious Love",
     "Case Type": "Jewel Case",
     "Year": 1990,
-    "ID": 100783
+    "ID": 100960
   },
   {
     "Artist": "Jody Watley",
     "Title": "Precious Love",
     "Case Type": "Jewel Case",
     "Year": 1990,
-    "ID": 100960
+    "ID": 100783
   },
   {
     "Artist": "Joe",
@@ -4386,14 +4393,14 @@
     "Title": "Live The Life",
     "Case Type": "Jewel Case",
     "Year": 1997,
-    "ID": 100871
+    "ID": 100955
   },
   {
     "Artist": "Michael W. Smith",
     "Title": "Live The Life",
     "Case Type": "Jewel Case",
     "Year": 1997,
-    "ID": 100955
+    "ID": 100871
   },
   {
     "Artist": "Midtown",
@@ -4496,16 +4503,16 @@
   {
     "Artist": "Montell Jordan",
     "Title": "Get It On Tonite",
-    "Case Type": "Slimline",
+    "Case Type": "Jewel Case",
     "Year": 2000,
-    "ID": 100078
+    "ID": 100766
   },
   {
     "Artist": "Montell Jordan",
     "Title": "Get It On Tonite",
-    "Case Type": "Jewel Case",
+    "Case Type": "Slimline",
     "Year": 2000,
-    "ID": 100766
+    "ID": 100078
   },
   {
     "Artist": "Montell Jordan",
@@ -4547,14 +4554,14 @@
     "Title": "Red & Blue",
     "Case Type": "Jewel Case",
     "Year": 2004,
-    "ID": 100793
+    "ID": 100950
   },
   {
     "Artist": "Mooncat",
     "Title": "Red & Blue",
     "Case Type": "Jewel Case",
     "Year": 2004,
-    "ID": 100950
+    "ID": 100793
   },
   {
     "Artist": "Morrissey",
@@ -4743,14 +4750,14 @@
     "Title": "You're My World",
     "Case Type": "Jewel Case",
     "Year": 1988,
-    "ID": 100801
+    "ID": 100941
   },
   {
     "Artist": "Nick Heyward",
     "Title": "You're My World",
     "Case Type": "Jewel Case",
     "Year": 1988,
-    "ID": 100941
+    "ID": 100801
   },
   {
     "Artist": "Nightcrawlers",
@@ -5252,16 +5259,16 @@
   {
     "Artist": "R.E.M.",
     "Title": "Drive",
-    "Case Type": "Jewel Case",
+    "Case Type": "Slimline",
     "Year": 1992,
-    "ID": 100902
+    "ID": 100889
   },
   {
     "Artist": "R.E.M.",
     "Title": "Drive",
-    "Case Type": "Slimline",
+    "Case Type": "Jewel Case",
     "Year": 1992,
-    "ID": 100889
+    "ID": 100902
   },
   {
     "Artist": "R.E.M.",
@@ -5280,16 +5287,16 @@
   {
     "Artist": "R.E.M.",
     "Title": "Everybody Hurts",
-    "Case Type": "Jewel Case",
+    "Case Type": "Cardboard Sleeve",
     "Year": 1993,
-    "ID": 100900
+    "ID": 100905
   },
   {
     "Artist": "R.E.M.",
     "Title": "Everybody Hurts",
-    "Case Type": "Cardboard Sleeve",
+    "Case Type": "Jewel Case",
     "Year": 1993,
-    "ID": 100905
+    "ID": 100900
   },
   {
     "Artist": "R.E.M.",
@@ -5343,16 +5350,16 @@
   {
     "Artist": "R.E.M.",
     "Title": "Man On The Moon",
-    "Case Type": "Jewel Case",
+    "Case Type": "Slimline",
     "Year": 1992,
-    "ID": 100901
+    "ID": 100890
   },
   {
     "Artist": "R.E.M.",
     "Title": "Man On The Moon",
-    "Case Type": "Slimline",
+    "Case Type": "Jewel Case",
     "Year": 1992,
-    "ID": 100890
+    "ID": 100901
   },
   {
     "Artist": "R.E.M.",
@@ -5877,14 +5884,14 @@
     "Title": "The Right Combination",
     "Case Type": "Jewel Case",
     "Year": 1990,
-    "ID": 100803
+    "ID": 100956
   },
   {
     "Artist": "Seiko and Donnie Wahlberg",
     "Title": "The Right Combination",
     "Case Type": "Jewel Case",
     "Year": 1990,
-    "ID": 100956
+    "ID": 100803
   },
   {
     "Artist": "Serj Tankian",
@@ -7064,6 +7071,20 @@
   },
   {
     "Artist": "Tori Amos",
+    "Title": "Crucify",
+    "Case Type": "Jewel Case",
+    "Year": 1992,
+    "ID": 101289
+  },
+  {
+    "Artist": "Tori Amos",
+    "Title": "God",
+    "Case Type": "FLP",
+    "Year": 1994,
+    "ID": 101287
+  },
+  {
+    "Artist": "Tori Amos",
     "Title": "In The Springtime Of His Voodoo",
     "Case Type": "Jewel Case",
     "Year": 1996,
@@ -7105,6 +7126,13 @@
     "ID": 100592
   },
   {
+    "Artist": "Tori Amos",
+    "Title": "Winter",
+    "Case Type": "Digipack",
+    "Year": 1992,
+    "ID": 101288
+  },
+  {
     "Artist": "Toshi Kubota",
     "Title": "Nothing But Your Love",
     "Case Type": "Jewel Case",
@@ -7121,16 +7149,16 @@
   {
     "Artist": "Treana",
     "Title": "Naked On You",
-    "Case Type": "Jewel Case",
+    "Case Type": "Slider",
     "Year": 1997,
-    "ID": 100632
+    "ID": 100221
   },
   {
     "Artist": "Treana",
     "Title": "Naked On You",
-    "Case Type": "Slider",
+    "Case Type": "Jewel Case",
     "Year": 1997,
-    "ID": 100221
+    "ID": 100632
   },
   {
     "Artist": "Trey Lorenz",

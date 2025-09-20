@@ -980,14 +980,14 @@
   {
     "Artist": "Adam Lambert",
     "Title": "For Your Entertainment",
-    "Box ID": "Pop/Rock 31",
-    "ID": 149
+    "Box ID": "Pop/Rock 22",
+    "ID": 148
   },
   {
     "Artist": "Adam Lambert",
     "Title": "For Your Entertainment",
-    "Box ID": "Pop/Rock 22",
-    "ID": 148
+    "Box ID": "Pop/Rock 31",
+    "ID": 149
   },
   {
     "Artist": "Adam Lambert",
@@ -1561,6 +1561,12 @@
   },
   {
     "Artist": "Alan Jackson",
+    "Title": "When Somebody Loves You",
+    "Box ID": "Country 5",
+    "ID": 11096
+  },
+  {
+    "Artist": "Alan Jackson",
     "Title": "Who I Am",
     "Box ID": "Country 2",
     "ID": 226
@@ -1788,6 +1794,12 @@
     "ID": 263
   },
   {
+    "Artist": "Alice Gomez With Madalyn Blanchett & Marilyn Rife",
+    "Title": "Flute Dreams",
+    "Box ID": "World 2",
+    "ID": 11157
+  },
+  {
     "Artist": "Alice In Chains",
     "Title": "Black Gives Way To Blue",
     "Box ID": "Pop/Rock 26",
@@ -1826,14 +1838,14 @@
   {
     "Artist": "Alicia Keys",
     "Title": "As I Am",
-    "Box ID": "Pop/Rock 32",
-    "ID": 270
+    "Box ID": "Pop/Rock 35",
+    "ID": 271
   },
   {
     "Artist": "Alicia Keys",
     "Title": "As I Am",
-    "Box ID": "Pop/Rock 35",
-    "ID": 271
+    "Box ID": "Pop/Rock 32",
+    "ID": 270
   },
   {
     "Artist": "Alicia Keys",
@@ -2287,6 +2299,12 @@
   },
   {
     "Artist": "Andrea Bocelli",
+    "Title": "Believe",
+    "Box ID": "Classical 6",
+    "ID": 11108
+  },
+  {
+    "Artist": "Andrea Bocelli",
     "Title": "My Christmas",
     "Box ID": "X-mas 2",
     "ID": 343
@@ -2706,6 +2724,12 @@
     "ID": 420
   },
   {
+    "Artist": "Anthony Newman, Fortepiano; Stephen Simon, Cond.",
+    "Title": "Beethoven/Mozart: Piano Concerto #3 In C Minor, Opus 37/Fantasy No. 4 In C Minor K.475",
+    "Box ID": "Classical 6",
+    "ID": 11159
+  },
+  {
     "Artist": "Anthony Setola",
     "Title": "Interstellar Appeal",
     "Box ID": "Pop/Rock 19",
@@ -3054,6 +3078,12 @@
     "ID": 466
   },
   {
+    "Artist": "Arthur Fiedler; Boston Pops Orchestra",
+    "Title": "Pops Roundup",
+    "Box ID": "Classical 6",
+    "ID": 11122
+  },
+  {
     "Artist": "Arthur Fielder",
     "Title": "Arthur Fielder's Christmas Pops",
     "Box ID": "X-mas 2",
@@ -3187,6 +3217,12 @@
   },
   {
     "Artist": "Asia",
+    "Title": "(4008-2 Geffen)Alpha(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11054
+  },
+  {
+    "Artist": "Asia",
     "Title": "Asia",
     "Box ID": "Pop/Rock 31",
     "ID": 489
@@ -3256,6 +3292,18 @@
     "Title": "The Best Of Atlanta Rhythm Section",
     "Box ID": "Pop/Rock 35",
     "ID": 503
+  },
+  {
+    "Artist": "Atlanta Symphony Orchestra & Chorus; Robert Shaw, Cond.",
+    "Title": "(CD-80119 Telarc)Choral Masterpieces(DADC)",
+    "Box ID": "Older CDs '84-'86 DADC",
+    "ID": 11116
+  },
+  {
+    "Artist": "Atlanta Symphony Orchestra & Chorus; Robert Shaw, Cond.",
+    "Title": "(CDD 245 Pro Arte)Beethoven: Symphony No. 9(Japan)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11114
   },
   {
     "Artist": "Atlanta Symphony Orchestra & Chorus; Robert Shaw, Conductor",
@@ -4452,6 +4500,12 @@
     "ID": 697
   },
   {
+    "Artist": "Bastille",
+    "Title": "Doom Days",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11135
+  },
+  {
     "Artist": "Bat For Lashes",
     "Title": "Two Suns",
     "Box ID": "Pop/Rock 13",
@@ -5455,6 +5509,12 @@
   },
   {
     "Artist": "Berlin",
+    "Title": "(4025-2 Geffen)Love Life(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11078
+  },
+  {
+    "Artist": "Berlin",
     "Title": "Best Of Berlin 1979-1988",
     "Box ID": "Pop/Rock 35",
     "ID": 858
@@ -5626,6 +5686,12 @@
     "Title": "Sacred Ground",
     "Box ID": "Pop/Rock 5",
     "ID": 883
+  },
+  {
+    "Artist": "Bette Midler",
+    "Title": "(16010-2/250 681 Atlantic)The Rose(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11067
   },
   {
     "Artist": "Bette Midler",
@@ -5998,6 +6064,12 @@
     "Title": "Somewhere: The Songs Of Leonard Bernstein",
     "Box ID": "Jazz 10",
     "ID": 943
+  },
+  {
+    "Artist": "Bill Cosby",
+    "Title": "Himself",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11139
   },
   {
     "Artist": "Bill Cosby",
@@ -8150,14 +8222,14 @@
   {
     "Artist": "Boyz II Men",
     "Title": "Cooleyhighharmony",
-    "Box ID": "Pop/Rock 22",
-    "ID": 1282
+    "Box ID": "Pop/Rock 7",
+    "ID": 1283
   },
   {
     "Artist": "Boyz II Men",
     "Title": "Cooleyhighharmony",
-    "Box ID": "Pop/Rock 7",
-    "ID": 1283
+    "Box ID": "Pop/Rock 22",
+    "ID": 1282
   },
   {
     "Artist": "Boyz II Men",
@@ -8206,6 +8278,12 @@
     "Title": "Black Light Syndrome",
     "Box ID": "Pop/Rock 18",
     "ID": 1290
+  },
+  {
+    "Artist": "Brad Cotter",
+    "Title": "Patient Man",
+    "Box ID": "Country 5",
+    "ID": 11097
   },
   {
     "Artist": "Brad Paisley",
@@ -8440,6 +8518,12 @@
     "Title": "The Day Is Brave",
     "Box ID": "Pop/Rock 1",
     "ID": 1326
+  },
+  {
+    "Artist": "Brett Eldridge",
+    "Title": "Glow(Deluxe)",
+    "Box ID": "X-mas 3",
+    "ID": 11100
   },
   {
     "Artist": "Brian Green, Mark Baldwin, Susana Allen, Rosalba Espadin de Cepeda, Isacc Sosa Cu├â┬⌐llar, H├â┬⌐ctor Alvar",
@@ -8890,6 +8974,12 @@
     "Title": "Berlioz-Liszt/Harold En Italie",
     "Box ID": "Classical 5",
     "ID": 1398
+  },
+  {
+    "Artist": "Bruno Walter; Vladimir Horowitz",
+    "Title": "Tchaikovsky & Brahms Piano Concertos",
+    "Box ID": "Classical 6",
+    "ID": 11158
   },
   {
     "Artist": "Bryan Adams",
@@ -9558,6 +9648,12 @@
     "ID": 1504
   },
   {
+    "Artist": "Candiria",
+    "Title": "While They Were Sleeping",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11136
+  },
+  {
     "Artist": "Candlebox",
     "Title": "Candlebox",
     "Box ID": "Pop/Rock 26",
@@ -9739,6 +9835,12 @@
   },
   {
     "Artist": "Carly Simon",
+    "Title": "(9 23886-2 Warner Bros.)Hello Big Man(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11085
+  },
+  {
+    "Artist": "Carly Simon",
     "Title": "(EK 39970 Epic)Spoiled Girl(DADC)",
     "Box ID": "Older CDs '84 -'86 DADC",
     "ID": 1534
@@ -9884,14 +9986,14 @@
   {
     "Artist": "Carreras - Domingo - Pavarotti",
     "Title": "Favorite Arias by the World's Favorite Tenors",
-    "Box ID": "Pop/Rock 10",
-    "ID": 1559
+    "Box ID": "Classical 4",
+    "ID": 1558
   },
   {
     "Artist": "Carreras - Domingo - Pavarotti",
     "Title": "Favorite Arias by the World's Favorite Tenors",
-    "Box ID": "Classical 4",
-    "ID": 1558
+    "Box ID": "Pop/Rock 10",
+    "ID": 1559
   },
   {
     "Artist": "Carreras - Domingo - Pavarotti",
@@ -10681,6 +10783,12 @@
   },
   {
     "Artist": "Chicago",
+    "Title": "(7599-25060-2 Warner Bros.)17(W.G.)(half target)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11059
+  },
+  {
+    "Artist": "Chicago",
     "Title": "(CK32400 Columbia)VI(Japan)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 1679
@@ -10702,6 +10810,12 @@
     "Title": "(Warner Bros. W2-25509) 18 (Japan)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 1682
+  },
+  {
+    "Artist": "Chicago",
+    "Title": "9 25060-2 Warner Bros.)17(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11084
   },
   {
     "Artist": "Chicago",
@@ -10810,6 +10924,12 @@
     "Title": "Possible Cube",
     "Box ID": "Jazz 6",
     "ID": 1698
+  },
+  {
+    "Artist": "Chick Corea",
+    "Title": "(9 60167-2 Elektra Musician)Again And Again(The Joburg Sessions)(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11075
   },
   {
     "Artist": "Chick Corea & Bela Fleck",
@@ -11305,6 +11425,12 @@
   },
   {
     "Artist": "Christopher Cross",
+    "Title": "(3383-2/256 789 Warner Bros.)Christopher Cross(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11081
+  },
+  {
+    "Artist": "Christopher Cross",
     "Title": "(Warner Bros. 9 25341-2) Every Turn Of The World (W.G.)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 1780
@@ -11436,6 +11562,12 @@
     "ID": 1799
   },
   {
+    "Artist": "Chuck Mangione",
+    "Title": "Save Tonight For Me",
+    "Box ID": "Jazz 12",
+    "ID": 11105
+  },
+  {
     "Artist": "Chuck Pyle",
     "Title": "The Spaces In Between",
     "Box ID": "Country 1",
@@ -11518,6 +11650,12 @@
     "Title": "(Telarc CD-80058) Gershwin: Rhapsody In Blue, An American In Paris (Japan)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 1812
+  },
+  {
+    "Artist": "Cincinnati Symphony Orchestra; Eugene List, Piano; Erich Kunzel, Cond.",
+    "Title": "(CD-80058 Telarc)Gershwin: Rhapsody In Blue/An American In Paris(Japan)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11115
   },
   {
     "Artist": "Cinder Conk",
@@ -12543,13 +12681,13 @@
     "Artist": "Coverdale - Page",
     "Title": "Coverdale - Page",
     "Box ID": "Pop/Rock 41",
-    "ID": 10462
+    "ID": 10549
   },
   {
     "Artist": "Coverdale - Page",
     "Title": "Coverdale - Page",
     "Box ID": "Pop/Rock 41",
-    "ID": 10549
+    "ID": 10462
   },
   {
     "Artist": "Cowboy Junkies",
@@ -13512,6 +13650,12 @@
     "ID": 2130
   },
   {
+    "Artist": "Daughtry",
+    "Title": "Dearly Beloved",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11134
+  },
+  {
     "Artist": "Dave - Scott",
     "Title": "One Way Or Another",
     "Box ID": "Jazz 8",
@@ -14390,14 +14534,14 @@
   {
     "Artist": "Dean Martin",
     "Title": "The Best Of Dean Martin",
-    "Box ID": "Jazz 8",
-    "ID": 2263
+    "Box ID": "Pop/Rock 39",
+    "ID": 2264
   },
   {
     "Artist": "Dean Martin",
     "Title": "The Best Of Dean Martin",
-    "Box ID": "Pop/Rock 39",
-    "ID": 2264
+    "Box ID": "Jazz 8",
+    "ID": 2263
   },
   {
     "Artist": "Dean Martin",
@@ -14982,6 +15126,12 @@
     "ID": 10999
   },
   {
+    "Artist": "Desi Arnaz & His Orchestra",
+    "Title": "Babalu",
+    "Box ID": "World 2",
+    "ID": 11143
+  },
+  {
     "Artist": "Desierto Norte",
     "Title": "Benditas Mujeres",
     "Box ID": "World 1",
@@ -15379,9 +15529,27 @@
   },
   {
     "Artist": "Dire Straits",
+    "Title": "(3266-2 Warner Bros.)Dire Straits(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11048
+  },
+  {
+    "Artist": "Dire Straits",
     "Title": "(800 088-2 Vertigo)Love Over Gold(WG)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 2421
+  },
+  {
+    "Artist": "Dire Straits",
+    "Title": "(9 25085-2 Warner Bros.)Alchemy - Live Disc 1(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11088
+  },
+  {
+    "Artist": "Dire Straits",
+    "Title": "(9 25085-2 Warner Bros.)Alchemy - Live Disc 2(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11089
   },
   {
     "Artist": "Dire Straits",
@@ -15781,6 +15949,12 @@
   },
   {
     "Artist": "Don Henley",
+    "Title": "(9 24026-2 Geffen)Building The Perfect Beast(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11042
+  },
+  {
+    "Artist": "Don Henley",
     "Title": "Actual Miles Henley's Greatest Hits",
     "Box ID": "Pop/Rock 28",
     "ID": 2491
@@ -15898,6 +16072,12 @@
     "Title": "The Best Of Donald Byrd",
     "Box ID": "Jazz 11",
     "ID": 10595
+  },
+  {
+    "Artist": "Donald Fagan",
+    "Title": "(23696-2/92-3696-2 Warner Bros.)The Nightfly(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11082
   },
   {
     "Artist": "Donald Fagan",
@@ -16794,6 +16974,18 @@
     "ID": 2638
   },
   {
+    "Artist": "East Village Opera Company",
+    "Title": "La Donna",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11127
+  },
+  {
+    "Artist": "East Village Opera Company",
+    "Title": "Olde School",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11126
+  },
+  {
     "Artist": "Eastern Youth",
     "Title": "What Can You See From Your Place",
     "Box ID": "Pop/Rock 11",
@@ -16882,6 +17074,18 @@
     "Title": "Eye On The Future",
     "Box ID": "Jazz 9",
     "ID": 2671
+  },
+  {
+    "Artist": "Ed Van Fleet",
+    "Title": "Migration",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11124
+  },
+  {
+    "Artist": "Ed Van Fleet",
+    "Title": "Oceans",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11137
   },
   {
     "Artist": "Eddie Bullen",
@@ -17374,6 +17578,12 @@
     "Title": "First Time! The Count Meets The Duke",
     "Box ID": "Jazz 10",
     "ID": 2722
+  },
+  {
+    "Artist": "Elliot Yamin",
+    "Title": "Fight FOr Love",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11129
   },
   {
     "Artist": "Elliott Yamin",
@@ -19495,6 +19705,12 @@
   },
   {
     "Artist": "Foreigner",
+    "Title": "(19999-2/250 476 Atlantic)Double Vision(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11055
+  },
+  {
+    "Artist": "Foreigner",
     "Title": "Complete Greatest Hits",
     "Box ID": "Pop/Rock 28",
     "ID": 3064
@@ -19798,6 +20014,12 @@
     "Title": "(New)(Longbox) Young Blue Eyes",
     "Box ID": "New Longbox",
     "ID": 3118
+  },
+  {
+    "Artist": "Frank Sinatra/Count Basie",
+    "Title": "(1012-2 Reprise)It Might As Well Be Swing(Japan)",
+    "Box ID": "Older CDs '84 -'86",
+    "ID": 11163
   },
   {
     "Artist": "Frank Zappa",
@@ -20341,6 +20563,12 @@
   },
   {
     "Artist": "Funkmaster Flex",
+    "Title": "60 Minutes Of Funk Volume IV: The Mix Tape",
+    "Box ID": "Hip Hop 3",
+    "ID": 11110
+  },
+  {
+    "Artist": "Funkmaster Flex",
     "Title": "The Mix Tape Volume II 60 Minutes Of Funk (disc only)",
     "Box ID": "Hip Hop 1",
     "ID": 3199
@@ -20552,14 +20780,14 @@
   {
     "Artist": "Garth Brooks",
     "Title": "Fresh Horses",
-    "Box ID": "Country 1",
-    "ID": 3233
+    "Box ID": "Country 2",
+    "ID": 3234
   },
   {
     "Artist": "Garth Brooks",
     "Title": "Fresh Horses",
-    "Box ID": "Country 2",
-    "ID": 3234
+    "Box ID": "Country 1",
+    "ID": 3233
   },
   {
     "Artist": "Garth Brooks",
@@ -20838,6 +21066,12 @@
     "ID": 3279
   },
   {
+    "Artist": "Gene Krupa Big Band Featuring Roy Eldridge, Anita O'Day",
+    "Title": "(827 843-2 Verve)Drummer Man(W.G.)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11120
+  },
+  {
     "Artist": "Gene Loves Jezebel",
     "Title": "Promise",
     "Box ID": "Pop/Rock 37",
@@ -20872,6 +21106,12 @@
     "Title": "All The Rage",
     "Box ID": "Pop/Rock 1",
     "ID": 3283
+  },
+  {
+    "Artist": "Genesis",
+    "Title": "(19173-2 Atlantic)...And Then There Were Three(USA)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11061
   },
   {
     "Artist": "Genesis",
@@ -21805,6 +22045,12 @@
   },
   {
     "Artist": "Glenn Miller",
+    "Title": "A Memorial(disc only)",
+    "Box ID": "Jazz 12",
+    "ID": 11147
+  },
+  {
+    "Artist": "Glenn Miller",
     "Title": "A Profile Of Glenn Miller",
     "Box ID": "Jazz 8",
     "ID": 3426
@@ -21914,14 +22160,14 @@
   {
     "Artist": "Gloria Estefan",
     "Title": "Greatest Hits",
-    "Box ID": "Pop/Rock 15",
-    "ID": 3442
+    "Box ID": "SACDs",
+    "ID": 3443
   },
   {
     "Artist": "Gloria Estefan",
     "Title": "Greatest Hits",
-    "Box ID": "SACDs",
-    "ID": 3443
+    "Box ID": "Pop/Rock 15",
+    "ID": 3442
   },
   {
     "Artist": "Gloria Estefan",
@@ -22795,6 +23041,12 @@
   },
   {
     "Artist": "Grover Washington, Jr.",
+    "Title": "(60215-2 Elektra)The Best Is Yet To Come(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11031
+  },
+  {
+    "Artist": "Grover Washington, Jr.",
     "Title": "(Columbia CK 40510)Strawberry Moon(DADC)",
     "Box ID": "Older CDs '84 -'86 DADC",
     "ID": 3578
@@ -23508,6 +23760,12 @@
     "ID": 3688
   },
   {
+    "Artist": "Harry James",
+    "Title": "Things Ain't What They Used To Be",
+    "Box ID": "Jazz 12",
+    "ID": 11101
+  },
+  {
     "Artist": "Harry Nilsson",
     "Title": "All Time Greatest Hits",
     "Box ID": "Pop/Rock 18",
@@ -23814,6 +24072,12 @@
     "ID": 3737
   },
   {
+    "Artist": "Hector Berlioz",
+    "Title": "Requiem(Grand Messe Des Morts)(Japan)(dbl jwl)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11118
+  },
+  {
     "Artist": "Hedley",
     "Title": "Storms",
     "Box ID": "Pop/Rock 16",
@@ -23938,6 +24202,12 @@
     "Title": "As Time Goes By and other Classic Movie Love Songs",
     "Box ID": "Classical 5",
     "ID": 3756
+  },
+  {
+    "Artist": "Herb Alpert",
+    "Title": "(A&M CD-3714/DIDZ 10074)Rise",
+    "Box ID": "Older CDs '84 -'86",
+    "ID": 11095
   },
   {
     "Artist": "Herb Alpert",
@@ -24601,6 +24871,12 @@
   },
   {
     "Artist": "Howard Jones",
+    "Title": "(2 40335-2/9 60346-2 WEA/Elektra)Human's Lib(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11063
+  },
+  {
+    "Artist": "Howard Jones",
     "Title": "(Elektra 9 60499-2/DIDX 943) One To One (no booklet)(DADC)",
     "Box ID": "Older CDs '84 -'86 DADC",
     "ID": 3863
@@ -25105,6 +25381,18 @@
   },
   {
     "Artist": "INXS",
+    "Title": "(7 90072-2 ATCO)Shabooh Shoobah(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11062
+  },
+  {
+    "Artist": "INXS",
+    "Title": "(7 90160-2 ATCO)The Swing(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11066
+  },
+  {
+    "Artist": "INXS",
     "Title": "Elegantly Wasted",
     "Box ID": "Pop/Rock 14",
     "ID": 3944
@@ -25210,6 +25498,12 @@
     "Title": "Irving Berlin's White Christmas The Musical",
     "Box ID": "X-mas 2",
     "ID": 3959
+  },
+  {
+    "Artist": "Irving Berlin; Joan Morris; William Bolcom",
+    "Title": "Blue Skies",
+    "Box ID": "New Longbox",
+    "ID": 11091
   },
   {
     "Artist": "Isaac Hayes",
@@ -25360,6 +25654,12 @@
     "Title": "Pain Is Love",
     "Box ID": "Hip Hop 1",
     "ID": 4106
+  },
+  {
+    "Artist": "Ja Rule",
+    "Title": "R.U.L.E.",
+    "Box ID": "Hip Hop 3",
+    "ID": 11164
   },
   {
     "Artist": "Ja Rule",
@@ -25645,6 +25945,12 @@
   },
   {
     "Artist": "James Galway",
+    "Title": "(RCD13061 RCA Red Seal)Annie's Song And Other Galway Favorites(Japan)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11112
+  },
+  {
+    "Artist": "James Galway",
     "Title": "Greatest Hits",
     "Box ID": "Classical 5",
     "ID": 4025
@@ -25762,6 +26068,12 @@
     "Title": "We Need A Little Christmas - Holiday Sing-Along",
     "Box ID": "X-mas 3",
     "ID": 4042
+  },
+  {
+    "Artist": "James Ingram",
+    "Title": "(9 23970-2 Qwest)It's Your Night(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11035
   },
   {
     "Artist": "James McMillian",
@@ -26188,6 +26500,12 @@
     "Title": "Distil",
     "Box ID": "Pop/Rock 23",
     "ID": 4113
+  },
+  {
+    "Artist": "Jason Mraz",
+    "Title": "Know",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11130
   },
   {
     "Artist": "Jason Mraz",
@@ -27085,6 +27403,12 @@
   },
   {
     "Artist": "Jimi Hendrix",
+    "Title": "(9 25119-2 Reprise)Kiss The Sky(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11051
+  },
+  {
+    "Artist": "Jimi Hendrix",
     "Title": "Band Of Gypsys",
     "Box ID": "Pop/Rock 37",
     "ID": 4246
@@ -27655,6 +27979,12 @@
   },
   {
     "Artist": "Joe Sample",
+    "Title": "Invitation",
+    "Box ID": "New Longbox",
+    "ID": 11094
+  },
+  {
+    "Artist": "Joe Sample",
     "Title": "Oasis",
     "Box ID": "Jazz 10",
     "ID": 4340
@@ -28102,6 +28432,12 @@
     "Title": "Poly Sci",
     "Box ID": "Hip Hop 1",
     "ID": 4410
+  },
+  {
+    "Artist": "John Gill's San Francisco Jazz Band",
+    "Title": "Turk Murphy Style",
+    "Box ID": "Jazz 12",
+    "ID": 11149
   },
   {
     "Artist": "John Gorka",
@@ -28612,6 +28948,12 @@
     "Title": "(412 556-2 Philips)Prokofiev: Peter And The Wolf(W.G.)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 10446
+  },
+  {
+    "Artist": "John Williams; The Boston Pops",
+    "Title": "Night And Day: Celebrate Sinatra",
+    "Box ID": "Jazz 12",
+    "ID": 11102
   },
   {
     "Artist": "Johney Buster",
@@ -31590,6 +31932,12 @@
     "ID": 4951
   },
   {
+    "Artist": "Larry Adler",
+    "Title": "Maestro Of The Mouth Harp",
+    "Box ID": "Jazz 12",
+    "ID": 11146
+  },
+  {
     "Artist": "Larry Carlton",
     "Title": "Collection",
     "Box ID": "Jazz 8",
@@ -31782,6 +32130,12 @@
     "ID": 10505
   },
   {
+    "Artist": "Laurie Anderson",
+    "Title": "(9 25077-2 Warner Bros.)Mister Heartbreak(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11086
+  },
+  {
     "Artist": "Lauryn Hill",
     "Title": "The Miseducation Of Lauryn Hill",
     "Box ID": "Hip Hop 3",
@@ -31876,6 +32230,18 @@
     "Title": "Change Will Come",
     "Box ID": "Pop/Rock 16",
     "ID": 4996
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "(19129-2/250 008)Led Zeppelin IV(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11068
+  },
+  {
+    "Artist": "Led Zeppelin",
+    "Title": "(19130-2/50014 Atlantic)Houses Of The Holy(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11069
   },
   {
     "Artist": "Led Zeppelin",
@@ -32206,6 +32572,12 @@
     "Title": "Spirit",
     "Box ID": "Pop/Rock 16",
     "ID": 5045
+  },
+  {
+    "Artist": "Leonard Bernstein",
+    "Title": "(410 448-2 Philips)Tristan und Isolde(W.G.)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11119
   },
   {
     "Artist": "Leonard Bernstein",
@@ -32800,6 +33172,24 @@
     "Title": "Christmas Stays The Same",
     "Box ID": "X-mas 2",
     "ID": 5147
+  },
+  {
+    "Artist": "Linda Ronstadt",
+    "Title": "(9 60387-2 Asylum)Lush Life(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11058
+  },
+  {
+    "Artist": "Linda Ronstadt",
+    "Title": "106-2/253 055 Asylum)Greatest Hits(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11072
+  },
+  {
+    "Artist": "Linda Ronstadt",
+    "Title": "106-2/253 055 Asylum)Greatest Hits(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11071
   },
   {
     "Artist": "Linda Ronstadt",
@@ -33794,14 +34184,14 @@
   {
     "Artist": "Louis Armstrong",
     "Title": "Greatest Hits",
-    "Box ID": "Jazz 11",
-    "ID": 5290
+    "Box ID": "Jazz 12",
+    "ID": 10931
   },
   {
     "Artist": "Louis Armstrong",
     "Title": "Greatest Hits",
-    "Box ID": "Jazz 12",
-    "ID": 10931
+    "Box ID": "Jazz 11",
+    "ID": 5290
   },
   {
     "Artist": "Louis Armstrong",
@@ -33830,14 +34220,14 @@
   {
     "Artist": "Louis Armstrong",
     "Title": "What A Wonderful World",
-    "Box ID": "Jazz 11",
-    "ID": 10598
+    "Box ID": "Jazz 8",
+    "ID": 5295
   },
   {
     "Artist": "Louis Armstrong",
     "Title": "What A Wonderful World",
-    "Box ID": "Jazz 8",
-    "ID": 5295
+    "Box ID": "Jazz 11",
+    "ID": 10598
   },
   {
     "Artist": "Louis Armstrong & Duke Ellington",
@@ -34021,6 +34411,12 @@
   },
   {
     "Artist": "Luciano Pavarotti",
+    "Title": "Notre d'Amore(Popular Italian Love Songs)",
+    "Box ID": "Classical 6",
+    "ID": 11121
+  },
+  {
+    "Artist": "Luciano Pavarotti",
     "Title": "Pavarotti's Opera Made Easy - My Favorite Moments From Madame Butterfly",
     "Box ID": "Pop/Rock 23",
     "ID": 5330
@@ -34102,6 +34498,12 @@
     "Title": "Volume Five",
     "Box ID": "Pop/Rock 5",
     "ID": 5343
+  },
+  {
+    "Artist": "Luciano Pavarotti",
+    "Title": "World Famous Music Treasures",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11155
   },
   {
     "Artist": "Luciano Pavarotti & Friends",
@@ -34552,6 +34954,12 @@
     "Title": "Se Ei Olekaan Niin",
     "Box ID": "World 2",
     "ID": 5413
+  },
+  {
+    "Artist": "Main Stream Power Band",
+    "Title": "The Soho Beat",
+    "Box ID": "Jazz 12",
+    "ID": 11152
   },
   {
     "Artist": "Maire Brennan",
@@ -36798,6 +37206,12 @@
     "ID": 5770
   },
   {
+    "Artist": "Method Man & Redman",
+    "Title": "Blackout!",
+    "Box ID": "Hip Hop 3",
+    "ID": 11165
+  },
+  {
     "Artist": "Method Of Groove",
     "Title": "448 Pearl",
     "Box ID": "Pop/Rock 4",
@@ -37140,6 +37554,12 @@
     "ID": 5825
   },
   {
+    "Artist": "Michael Kramer",
+    "Title": "Zen Of Nature",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11123
+  },
+  {
     "Artist": "Michael Maxwell",
     "Title": "The Elegance Of Pachelbel",
     "Box ID": "Jazz 6",
@@ -37162,6 +37582,12 @@
     "Title": "The Best Of Michael Mcdermott",
     "Box ID": "Pop/Rock 13",
     "ID": 5829
+  },
+  {
+    "Artist": "Michael McDonald",
+    "Title": "(23703-2 Warner Bros.)If That's What It Takes(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11032
   },
   {
     "Artist": "Michael McDonald",
@@ -39342,6 +39768,12 @@
     "ID": 6189
   },
   {
+    "Artist": "Nat King Cole And Trio",
+    "Title": "Nat King Cole And Trio",
+    "Box ID": "Jazz 12",
+    "ID": 11103
+  },
+  {
     "Artist": "Natacha Atlas",
     "Title": "Diaspora",
     "Box ID": "World 1",
@@ -39694,6 +40126,12 @@
     "Title": "The Very Best of Neil Sedaka",
     "Box ID": "Pop/Rock 24",
     "ID": 6220
+  },
+  {
+    "Artist": "Neil Young",
+    "Title": "(2277-2/244 131 Reprise)Harvest(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11087
   },
   {
     "Artist": "Neil Young",
@@ -40114,6 +40552,12 @@
     "Title": "Dark Horse",
     "Box ID": "Pop/Rock 28",
     "ID": 6285
+  },
+  {
+    "Artist": "Nickelback",
+    "Title": "Get Rollin",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11131
   },
   {
     "Artist": "Nickelback",
@@ -40837,6 +41281,12 @@
   },
   {
     "Artist": "Olivia Newton-John",
+    "Title": "A Celebration In Song",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11141
+  },
+  {
+    "Artist": "Olivia Newton-John",
     "Title": "Back To Basics The Essential Collection 1971-1992",
     "Box ID": "Pop/Rock 25",
     "ID": 6404
@@ -41044,6 +41494,12 @@
     "Title": "(CBS Masterworks MLK 39443/DIDC 20129) Copland's Greatest Hits (DADC)",
     "Box ID": "Older CDs '84 -'86 DADC",
     "ID": 6436
+  },
+  {
+    "Artist": "Orpheus Chamber Orchestra; Richard Goode",
+    "Title": "9 79042-2 Nonesuch)Mozart:Piano Concertos(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11077
   },
   {
     "Artist": "Orrall & Wright",
@@ -41656,6 +42112,12 @@
     "Title": "Wave On Wave",
     "Box ID": "Country 3",
     "ID": 6532
+  },
+  {
+    "Artist": "Pat McGee Band",
+    "Title": "Shine",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11125
   },
   {
     "Artist": "Pat Metheny",
@@ -42558,10 +43020,22 @@
     "ID": 6667
   },
   {
+    "Artist": "Pete Peterson & The Collection Jazz Orchestra",
+    "Title": "Playin' In The Park",
+    "Box ID": "Jazz 12",
+    "ID": 11151
+  },
+  {
     "Artist": "Pete Rock & C.L. Smooth",
     "Title": "The Main Ingredient",
     "Box ID": "Hip Hop 2",
     "ID": 6692
+  },
+  {
+    "Artist": "Pete Townshend",
+    "Title": "(32100-2/250 699)Empty Glass(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11056
   },
   {
     "Artist": "Pete Townshend",
@@ -42844,6 +43318,12 @@
     "Title": "Without You",
     "Box ID": "Pop/Rock 2",
     "ID": 6715
+  },
+  {
+    "Artist": "Phil Collins",
+    "Title": "(7 81240-2 Atlantic)No Jacket Required(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11070
   },
   {
     "Artist": "Phil Collins",
@@ -43669,6 +44149,12 @@
   },
   {
     "Artist": "Pretenders",
+    "Title": "(6083-2(2566 774) Sire)Pretenders(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11030
+  },
+  {
+    "Artist": "Pretenders",
     "Title": "Last Of The Independents",
     "Box ID": "Pop/Rock 24",
     "ID": 6847
@@ -43735,6 +44221,24 @@
   },
   {
     "Artist": "Prince",
+    "Title": "(3601-2(256 950) Warner Bros.)Controversy(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11033
+  },
+  {
+    "Artist": "Prince",
+    "Title": "(9 23720-2 Warner Bros.)1999(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11083
+  },
+  {
+    "Artist": "Prince",
+    "Title": "(9 25286-2 Warner Bros.)Around The World In A Day(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11043
+  },
+  {
+    "Artist": "Prince",
     "Title": "1958-1993 Come",
     "Box ID": "Pop/Rock 39",
     "ID": 6858
@@ -43792,6 +44296,18 @@
     "Title": "Diamonds And Pearls",
     "Box ID": "Pop/Rock 29",
     "ID": 6865
+  },
+  {
+    "Artist": "Prince And The Revolution",
+    "Title": "(9 25110-2 Warner Bros.)Purple Rain(France)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11060
+  },
+  {
+    "Artist": "Prince And The Revolution",
+    "Title": "(9 25110-2 Warner Bros.)Purple Rain(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11050
   },
   {
     "Artist": "Prince And The Revolution",
@@ -44373,30 +44889,6 @@
     "Artist": "R.E.M.",
     "Title": "Automatic For The People",
     "Box ID": "REM Overflow",
-    "ID": 10481
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Automatic For The People",
-    "Box ID": "REM",
-    "ID": 6957
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Automatic For The People",
-    "Box ID": "REM Overflow",
-    "ID": 6958
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Automatic For The People",
-    "Box ID": "REM Overflow",
-    "ID": 6959
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Automatic For The People",
-    "Box ID": "REM Overflow",
     "ID": 6960
   },
   {
@@ -44410,6 +44902,30 @@
     "Title": "Automatic For The People",
     "Box ID": "REM Overflow",
     "ID": 6962
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Automatic For The People",
+    "Box ID": "REM Overflow",
+    "ID": 6959
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Automatic For The People",
+    "Box ID": "REM Overflow",
+    "ID": 10481
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Automatic For The People",
+    "Box ID": "REM Overflow",
+    "ID": 6958
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Automatic For The People",
+    "Box ID": "REM",
+    "ID": 6957
   },
   {
     "Artist": "R.E.M.",
@@ -44438,12 +44954,6 @@
   {
     "Artist": "R.E.M.",
     "Title": "Document",
-    "Box ID": "REM",
-    "ID": 6966
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Document",
     "Box ID": "REM Overflow",
     "ID": 6967
   },
@@ -44461,6 +44971,18 @@
   },
   {
     "Artist": "R.E.M.",
+    "Title": "Document",
+    "Box ID": "REM",
+    "ID": 6966
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Eponymous",
+    "Box ID": "REM Overflow",
+    "ID": 6973
+  },
+  {
+    "Artist": "R.E.M.",
     "Title": "Eponymous",
     "Box ID": "REM",
     "ID": 6971
@@ -44470,12 +44992,6 @@
     "Title": "Eponymous",
     "Box ID": "REM Overflow",
     "ID": 6972
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Eponymous",
-    "Box ID": "REM Overflow",
-    "ID": 6973
   },
   {
     "Artist": "R.E.M.",
@@ -44498,8 +45014,8 @@
   {
     "Artist": "R.E.M.",
     "Title": "Green",
-    "Box ID": "REM Overflow",
-    "ID": 6978
+    "Box ID": "REM",
+    "ID": 6977
   },
   {
     "Artist": "R.E.M.",
@@ -44522,8 +45038,8 @@
   {
     "Artist": "R.E.M.",
     "Title": "Green",
-    "Box ID": "REM",
-    "ID": 6977
+    "Box ID": "REM Overflow",
+    "ID": 6978
   },
   {
     "Artist": "R.E.M.",
@@ -44547,6 +45063,18 @@
     "Artist": "R.E.M.",
     "Title": "Lifes Rich Pageant",
     "Box ID": "REM Overflow",
+    "ID": 6985
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Lifes Rich Pageant",
+    "Box ID": "REM Overflow",
+    "ID": 6989
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Lifes Rich Pageant",
+    "Box ID": "REM Overflow",
     "ID": 6986
   },
   {
@@ -44563,21 +45091,27 @@
   },
   {
     "Artist": "R.E.M.",
-    "Title": "Lifes Rich Pageant",
-    "Box ID": "REM Overflow",
-    "ID": 6989
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Lifes Rich Pageant",
-    "Box ID": "REM Overflow",
-    "ID": 6985
-  },
-  {
-    "Artist": "R.E.M.",
     "Title": "Live At The Olympia In Dublin 39 Songs",
     "Box ID": "REM",
     "ID": 6990
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Monster",
+    "Box ID": "REM Overflow",
+    "ID": 6996
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Monster",
+    "Box ID": "REM Overflow",
+    "ID": 10655
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Monster",
+    "Box ID": "REM Overflow",
+    "ID": 6998
   },
   {
     "Artist": "R.E.M.",
@@ -44589,7 +45123,7 @@
     "Artist": "R.E.M.",
     "Title": "Monster",
     "Box ID": "REM Overflow",
-    "ID": 10655
+    "ID": 6997
   },
   {
     "Artist": "R.E.M.",
@@ -44625,24 +45159,6 @@
     "Artist": "R.E.M.",
     "Title": "Monster",
     "Box ID": "REM Overflow",
-    "ID": 6996
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Monster",
-    "Box ID": "REM Overflow",
-    "ID": 6997
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Monster",
-    "Box ID": "REM Overflow",
-    "ID": 6998
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Monster",
-    "Box ID": "REM Overflow",
     "ID": 10594
   },
   {
@@ -44666,14 +45182,14 @@
   {
     "Artist": "R.E.M.",
     "Title": "New Adventures In Hi-Fi",
-    "Box ID": "REM",
-    "ID": 7002
+    "Box ID": "REM Overflow",
+    "ID": 7003
   },
   {
     "Artist": "R.E.M.",
     "Title": "New Adventures In Hi-Fi",
-    "Box ID": "REM Overflow",
-    "ID": 7003
+    "Box ID": "REM",
+    "ID": 7002
   },
   {
     "Artist": "R.E.M.",
@@ -44691,24 +45207,6 @@
     "Artist": "R.E.M.",
     "Title": "Out Of Time",
     "Box ID": "REM Overflow",
-    "ID": 7007
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Out Of Time",
-    "Box ID": "REM Overflow",
-    "ID": 7008
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Out Of Time",
-    "Box ID": "REM Overflow",
-    "ID": 7009
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Out Of Time",
-    "Box ID": "REM Overflow",
     "ID": 7010
   },
   {
@@ -44720,8 +45218,26 @@
   {
     "Artist": "R.E.M.",
     "Title": "Out Of Time",
+    "Box ID": "REM Overflow",
+    "ID": 7007
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Out Of Time",
     "Box ID": "REM",
     "ID": 7006
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Out Of Time",
+    "Box ID": "REM Overflow",
+    "ID": 10482
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Out Of Time",
+    "Box ID": "REM Overflow",
+    "ID": 7008
   },
   {
     "Artist": "R.E.M.",
@@ -44733,7 +45249,7 @@
     "Artist": "R.E.M.",
     "Title": "Out Of Time",
     "Box ID": "REM Overflow",
-    "ID": 10482
+    "ID": 7009
   },
   {
     "Artist": "R.E.M.",
@@ -44780,8 +45296,8 @@
   {
     "Artist": "R.E.M.",
     "Title": "Reveal",
-    "Box ID": "REM Overflow",
-    "ID": 7021
+    "Box ID": "REM",
+    "ID": 7019
   },
   {
     "Artist": "R.E.M.",
@@ -44792,8 +45308,8 @@
   {
     "Artist": "R.E.M.",
     "Title": "Reveal",
-    "Box ID": "REM",
-    "ID": 7019
+    "Box ID": "REM Overflow",
+    "ID": 7021
   },
   {
     "Artist": "R.E.M.",
@@ -44858,6 +45374,12 @@
   {
     "Artist": "R.E.M.",
     "Title": "Up",
+    "Box ID": "REM Overflow",
+    "ID": 7034
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Up",
     "Box ID": "REM",
     "ID": 7032
   },
@@ -44866,12 +45388,6 @@
     "Title": "Up",
     "Box ID": "REM Overflow",
     "ID": 7033
-  },
-  {
-    "Artist": "R.E.M.",
-    "Title": "Up",
-    "Box ID": "REM Overflow",
-    "ID": 7034
   },
   {
     "Artist": "R.E.M.",
@@ -45530,20 +46046,26 @@
   {
     "Artist": "Real McCoy",
     "Title": "One More Time",
-    "Box ID": "Pop/Rock 27",
-    "ID": 7141
+    "Box ID": "Pop/Rock 20",
+    "ID": 7140
   },
   {
     "Artist": "Real McCoy",
     "Title": "One More Time",
-    "Box ID": "Pop/Rock 20",
-    "ID": 7140
+    "Box ID": "Pop/Rock 27",
+    "ID": 7141
   },
   {
     "Artist": "Reba McEntire",
     "Title": "Greatest Hits Vol III - I'm A Survivor",
     "Box ID": "Country 3",
     "ID": 7142
+  },
+  {
+    "Artist": "Reba McEntire",
+    "Title": "Heart To Heart",
+    "Box ID": "Country 5",
+    "ID": 11098
   },
   {
     "Artist": "Reba McEntire",
@@ -45778,6 +46300,12 @@
     "Title": "Whut? Thee Album",
     "Box ID": "Hip Hop 1",
     "ID": 7177
+  },
+  {
+    "Artist": "Redmon & Vale",
+    "Title": "Redmon & Vale",
+    "Box ID": "Country 5",
+    "ID": 11099
   },
   {
     "Artist": "Rednex",
@@ -46446,6 +46974,12 @@
     "ID": 7282
   },
   {
+    "Artist": "Rick Rourke",
+    "Title": "Lost Wages",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11156
+  },
+  {
     "Artist": "Rick Rukkus",
     "Title": "Rick Rukkus",
     "Box ID": "Pop/Rock 6",
@@ -46646,14 +47180,14 @@
   {
     "Artist": "Rise Against",
     "Title": "Appeal To Reason",
-    "Box ID": "Pop/Rock 6",
-    "ID": 7318
+    "Box ID": "Pop/Rock 23",
+    "ID": 7317
   },
   {
     "Artist": "Rise Against",
     "Title": "Appeal To Reason",
-    "Box ID": "Pop/Rock 23",
-    "ID": 7317
+    "Box ID": "Pop/Rock 6",
+    "ID": 7318
   },
   {
     "Artist": "Rise Against",
@@ -46912,6 +47446,12 @@
     "Title": "Sneakin' Sally Through The Alley",
     "Box ID": "Pop/Rock 41",
     "ID": 10362
+  },
+  {
+    "Artist": "Robert Plant",
+    "Title": "(7 90101-2 Es Paranza)The Principle Of Moments(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11034
   },
   {
     "Artist": "Robert Plant",
@@ -47976,6 +48516,12 @@
     "ID": 7518
   },
   {
+    "Artist": "Rusticator",
+    "Title": "Waiting For The Dawn",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11128
+  },
+  {
     "Artist": "Ruth Fazal",
     "Title": "Oratorio Terezin",
     "Box ID": "Pop/Rock 11",
@@ -47992,6 +48538,12 @@
     "Title": "Laughing Gallery",
     "Box ID": "Pop/Rock 15",
     "ID": 7521
+  },
+  {
+    "Artist": "Ry Cooder",
+    "Title": "(03358-2/256 691 Warner Bros.)Bop Till You Drop(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11080
   },
   {
     "Artist": "Ry Cooder",
@@ -48694,6 +49246,12 @@
     "Title": "Cold Colors",
     "Box ID": "Pop/Rock 35",
     "ID": 7629
+  },
+  {
+    "Artist": "Saturday Night Live Band",
+    "Title": "(CDJ 621 Projazz)Live Form New York!(Japan)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11142
   },
   {
     "Artist": "Saturn Return",
@@ -49704,6 +50262,12 @@
     "ID": 7790
   },
   {
+    "Artist": "Shawn Mendes",
+    "Title": "Wonder",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11133
+  },
+  {
     "Artist": "Shawn Mullins",
     "Title": "Soul's Core",
     "Box ID": "Pop/Rock 9",
@@ -50462,14 +51026,14 @@
   {
     "Artist": "Smash Mouth",
     "Title": "Smash Mouth",
-    "Box ID": "Pop/Rock 24",
-    "ID": 7915
+    "Box ID": "Pop/Rock 7",
+    "ID": 7916
   },
   {
     "Artist": "Smash Mouth",
     "Title": "Smash Mouth",
-    "Box ID": "Pop/Rock 7",
-    "ID": 7916
+    "Box ID": "Pop/Rock 24",
+    "ID": 7915
   },
   {
     "Artist": "Smashing Pumpkins",
@@ -50977,9 +51541,21 @@
   },
   {
     "Artist": "Soundtrack",
+    "Title": "(7 80152-2 Atlantic)Against All Odds(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11038
+  },
+  {
+    "Artist": "Soundtrack",
     "Title": "(7 81273-2 Atlantic) White Nights (W.G.)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 7994
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "(9 24063-2 Geffen)Vision Quest(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11044
   },
   {
     "Artist": "Soundtrack",
@@ -51094,6 +51670,12 @@
     "Title": "Man On The Moon",
     "Box ID": "REM Overflow",
     "ID": 8011
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "Me And Juliet Original Cast Recording",
+    "Box ID": "New Longbox",
+    "ID": 11090
   },
   {
     "Artist": "Soundtrack",
@@ -51684,6 +52266,12 @@
     "ID": 8105
   },
   {
+    "Artist": "Stan Getz/Joao Gilberto",
+    "Title": "Getz/Gilberto",
+    "Box ID": "Jazz 12",
+    "ID": 11104
+  },
+  {
     "Artist": "Stan Kenton",
     "Title": "18 Original Big Band Recordings",
     "Box ID": "Jazz 8",
@@ -51694,6 +52282,18 @@
     "Title": "Kenton In Hi-Fi",
     "Box ID": "Jazz 10",
     "ID": 8107
+  },
+  {
+    "Artist": "Stan Kenton",
+    "Title": "Portraits On Standards",
+    "Box ID": "Jazz 12",
+    "ID": 11106
+  },
+  {
+    "Artist": "Stan Kenton",
+    "Title": "The Ballad Style Of Stan Kenton",
+    "Box ID": "Jazz 12",
+    "ID": 11148
   },
   {
     "Artist": "Stan Kenton",
@@ -52200,6 +52800,12 @@
     "ID": 8193
   },
   {
+    "Artist": "Steve Reich",
+    "Title": "The Four Sections: Music For Mallet Instruments, Voices And Organ",
+    "Box ID": "New Longbox",
+    "ID": 11093
+  },
+  {
     "Artist": "Steve Reid",
     "Title": "Passion In Paradise",
     "Box ID": "Jazz 2",
@@ -52382,14 +52988,14 @@
   {
     "Artist": "Steven Kowalczyk",
     "Title": "Moods And Grooves",
-    "Box ID": "Jazz 5",
-    "ID": 8191
+    "Box ID": "Jazz 1",
+    "ID": 8190
   },
   {
     "Artist": "Steven Kowalczyk",
     "Title": "Moods And Grooves",
-    "Box ID": "Jazz 1",
-    "ID": 8190
+    "Box ID": "Jazz 5",
+    "ID": 8191
   },
   {
     "Artist": "Steven Wiseman",
@@ -52402,6 +53008,12 @@
     "Title": "(38139-2 Modern)Bella Donna(Japan)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 8216
+  },
+  {
+    "Artist": "Stevie Nicks",
+    "Title": "(90084-2 Modern)The Wild Heart(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11064
   },
   {
     "Artist": "Stevie Nicks",
@@ -52684,6 +53296,12 @@
     "Title": "Kiss Of Deaf",
     "Box ID": "Pop/Rock 18",
     "ID": 8262
+  },
+  {
+    "Artist": "Strange Arrangement",
+    "Title": "Big Red Monster Trucks",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11140
   },
   {
     "Artist": "Strange Occurrence",
@@ -53294,14 +53912,14 @@
   {
     "Artist": "Susan Ashton",
     "Title": "A Distant Call",
-    "Box ID": "Pop/Rock 22",
-    "ID": 8357
+    "Box ID": "Pop/Rock 3",
+    "ID": 8358
   },
   {
     "Artist": "Susan Ashton",
     "Title": "A Distant Call",
-    "Box ID": "Pop/Rock 3",
-    "ID": 8358
+    "Box ID": "Pop/Rock 22",
+    "ID": 8357
   },
   {
     "Artist": "Susan Ashton",
@@ -53690,14 +54308,14 @@
   {
     "Artist": "T-Square",
     "Title": "Megalith",
-    "Box ID": "Jazz 3",
-    "ID": 9705
+    "Box ID": "Jazz 5",
+    "ID": 9706
   },
   {
     "Artist": "T-Square",
     "Title": "Megalith",
-    "Box ID": "Jazz 5",
-    "ID": 9706
+    "Box ID": "Jazz 3",
+    "ID": 9705
   },
   {
     "Artist": "T. Graham Brown",
@@ -53788,6 +54406,18 @@
     "Title": "Just Up The Hill",
     "Box ID": "World 2",
     "ID": 8432
+  },
+  {
+    "Artist": "Talking Heads",
+    "Title": "(9 25186-2 Sire)Stop Making Sense(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11052
+  },
+  {
+    "Artist": "Talking Heads",
+    "Title": "(9 25305-2 Sire)Little Creatures(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11053
   },
   {
     "Artist": "Talking Heads",
@@ -54384,6 +55014,12 @@
     "ID": 8528
   },
   {
+    "Artist": "Teresa Stratas",
+    "Title": "(79019-2 Nonesuch)The Unknown Kurt Weill(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11076
+  },
+  {
     "Artist": "Terra Sul",
     "Title": "Kindness Of Strangers",
     "Box ID": "Jazz 7",
@@ -54492,6 +55128,12 @@
     "ID": 8544
   },
   {
+    "Artist": "Tex Beneke Orchestra",
+    "Title": "Tribute To Glenn Miller & Tex Beneke",
+    "Box ID": "Jazz 12",
+    "ID": 11162
+  },
+  {
     "Artist": "Tex Ritter",
     "Title": "The Best Of Tex Ritter",
     "Box ID": "Country 3",
@@ -54596,14 +55238,14 @@
   {
     "Artist": "The Alan Parsons Project",
     "Title": "Eye In The Sky",
-    "Box ID": "Pop/Rock 26",
-    "ID": 8562
+    "Box ID": "Pop/Rock 27",
+    "ID": 8563
   },
   {
     "Artist": "The Alan Parsons Project",
     "Title": "Eye In The Sky",
-    "Box ID": "Pop/Rock 27",
-    "ID": 8563
+    "Box ID": "Pop/Rock 26",
+    "ID": 8562
   },
   {
     "Artist": "The Alan Parsons Project",
@@ -55130,14 +55772,14 @@
   {
     "Artist": "The Benoit/Freeman Project",
     "Title": "The Benoit/Freeman Project",
-    "Box ID": "Jazz 7",
-    "ID": 8647
+    "Box ID": "Jazz 10",
+    "ID": 8646
   },
   {
     "Artist": "The Benoit/Freeman Project",
     "Title": "The Benoit/Freeman Project",
-    "Box ID": "Jazz 10",
-    "ID": 8646
+    "Box ID": "Jazz 7",
+    "ID": 8647
   },
   {
     "Artist": "The Beta Band",
@@ -55477,6 +56119,12 @@
   },
   {
     "Artist": "The Cars",
+    "Title": "(9 60296-2 Elektra)Heartbeat City(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11079
+  },
+  {
+    "Artist": "The Cars",
     "Title": "(Elektra 5E-507-2) Candy-O (Japan)",
     "Box ID": "Older CDs '84 -'86",
     "ID": 8701
@@ -55720,6 +56368,12 @@
     "Title": "After The Flood",
     "Box ID": "Pop/Rock 35",
     "ID": 8739
+  },
+  {
+    "Artist": "The Coasters",
+    "Title": "The Ultimate Coasters",
+    "Box ID": "New Longbox",
+    "ID": 11092
   },
   {
     "Artist": "The Color Morale",
@@ -56052,10 +56706,22 @@
     "ID": 8790
   },
   {
+    "Artist": "The Don Lusher Big Band",
+    "Title": "The Don Lusher Big Band",
+    "Box ID": "Jazz 12",
+    "ID": 11154
+  },
+  {
     "Artist": "The Donnas",
     "Title": "Spend The Night",
     "Box ID": "Pop/Rock 37",
     "ID": 8791
+  },
+  {
+    "Artist": "The Doobie Brothers",
+    "Title": "(3112-2/256 308 Warner Bros.)Best Of The Doobies(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11041
   },
   {
     "Artist": "The Doobie Brothers",
@@ -56068,6 +56734,24 @@
     "Title": "Cycles",
     "Box ID": "Pop/Rock 1",
     "ID": 8793
+  },
+  {
+    "Artist": "The Doors",
+    "Title": "(74007-2/242 012 Elektra)The Doors(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11073
+  },
+  {
+    "Artist": "The Doors",
+    "Title": "(EKS 75007-2 Elektra)Morrison Hotel(W.G.)(disc only)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11057
+  },
+  {
+    "Artist": "The Doors",
+    "Title": "EKS-75011-2/2-042090 Elektra)L.A. Woman(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11074
   },
   {
     "Artist": "The Doors",
@@ -56224,6 +56908,12 @@
     "Title": "We'll Live And Die In These Towns",
     "Box ID": "Pop/Rock 11",
     "ID": 8815
+  },
+  {
+    "Artist": "The English Chamber Orchestra London Brass; Westminster Abbey Choir",
+    "Title": "Music From The Coronation Of Her Majesty Queen Elizabeth II",
+    "Box ID": "Classical 6",
+    "ID": 11109
   },
   {
     "Artist": "The Ennis Sisters",
@@ -56470,6 +57160,12 @@
     "Title": "In The Digital Mood",
     "Box ID": "Jazz 3",
     "ID": 8855
+  },
+  {
+    "Artist": "The Glenn Miller Orchestra",
+    "Title": "(GRP-D-9502 GRP)In The DIgital Mood(Japan)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11111
   },
   {
     "Artist": "The Glenn Miller Orchestra",
@@ -57715,6 +58411,12 @@
   },
   {
     "Artist": "The Monkees",
+    "Title": "(A2CD 8432 Arista)Then & Now... The Best Of The Monkees(Japan)",
+    "Box ID": "Older CDs '84-'86",
+    "ID": 11117
+  },
+  {
+    "Artist": "The Monkees",
     "Title": "(New)(Longbox) Pisces, Aquarius, Capricorn & Jones LTD.",
     "Box ID": "New Longbox",
     "ID": 9052
@@ -58198,6 +58900,12 @@
     "Title": "1812 Overture, Bolero, Les Preludes",
     "Box ID": "Classical 6",
     "ID": 10656
+  },
+  {
+    "Artist": "The Philharmonia; Geoffrey Simon",
+    "Title": "Ravel: Volume One",
+    "Box ID": "Classical 6",
+    "ID": 11107
   },
   {
     "Artist": "The Piano Tribute Players",
@@ -59007,7 +59715,7 @@
     "Artist": "The Simpsons",
     "Title": "(NEW)Go Simpsonic With The Simpsons: More Original Music From The Television Series",
     "Box ID": "Box Sets",
-    "ID": 10975
+    "ID": 10974
   },
   {
     "Artist": "The Simpsons",
@@ -59025,7 +59733,7 @@
     "Artist": "The Simpsons",
     "Title": "(NEW)Go Simpsonic With The Simpsons: More Original Music From The Television Series",
     "Box ID": "Box Sets",
-    "ID": 10974
+    "ID": 10975
   },
   {
     "Artist": "The Simpsons",
@@ -59043,7 +59751,7 @@
     "Artist": "The Simpsons",
     "Title": "(New)Songs In The Key Of Springfield: Original Music From The Television Series",
     "Box ID": "Box Sets",
-    "ID": 10972
+    "ID": 10970
   },
   {
     "Artist": "The Simpsons",
@@ -59055,31 +59763,7 @@
     "Artist": "The Simpsons",
     "Title": "(New)Songs In The Key Of Springfield: Original Music From The Television Series",
     "Box ID": "Box Sets",
-    "ID": 10970
-  },
-  {
-    "Artist": "The Simpsons",
-    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
-    "Box ID": "Box Sets",
-    "ID": 10959
-  },
-  {
-    "Artist": "The Simpsons",
-    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
-    "Box ID": "Box Sets",
-    "ID": 10960
-  },
-  {
-    "Artist": "The Simpsons",
-    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
-    "Box ID": "Box Sets",
-    "ID": 10961
-  },
-  {
-    "Artist": "The Simpsons",
-    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
-    "Box ID": "Box Sets",
-    "ID": 10962
+    "ID": 10972
   },
   {
     "Artist": "The Simpsons",
@@ -59116,6 +59800,30 @@
     "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
     "Box ID": "Box Sets",
     "ID": 10968
+  },
+  {
+    "Artist": "The Simpsons",
+    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
+    "Box ID": "Box Sets",
+    "ID": 10959
+  },
+  {
+    "Artist": "The Simpsons",
+    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
+    "Box ID": "Box Sets",
+    "ID": 10960
+  },
+  {
+    "Artist": "The Simpsons",
+    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
+    "Box ID": "Box Sets",
+    "ID": 10961
+  },
+  {
+    "Artist": "The Simpsons",
+    "Title": "(NEW)The Simpsons Sing The Blues(Pink Title)",
+    "Box ID": "Box Sets",
+    "ID": 10962
   },
   {
     "Artist": "The Skyliners",
@@ -59212,6 +59920,12 @@
     "Title": "Of Earth And Sky",
     "Box ID": "Pop/Rock 35",
     "ID": 9273
+  },
+  {
+    "Artist": "The Spitfire Band",
+    "Title": "Big Band Classics",
+    "Box ID": "Jazz 12",
+    "ID": 11150
   },
   {
     "Artist": "The St. Cecelia Symphony Orchestra",
@@ -59592,6 +60306,12 @@
     "ID": 9334
   },
   {
+    "Artist": "The Tony Corbiscello Big Band",
+    "Title": "In Full Swing",
+    "Box ID": "Jazz 12",
+    "ID": 11153
+  },
+  {
     "Artist": "The Tony Rich Project",
     "Title": "'Words'",
     "Box ID": "Pop/Rock 3",
@@ -59893,6 +60613,12 @@
   },
   {
     "Artist": "The Who",
+    "Title": "(23731-2 Warner Bros.)It's Hard(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11039
+  },
+  {
+    "Artist": "The Who",
     "Title": "Greatest Hits",
     "Box ID": "Pop/Rock 28",
     "ID": 9381
@@ -60058,6 +60784,12 @@
     "Title": "Picture Of You",
     "Box ID": "Pop/Rock 42",
     "ID": 10901
+  },
+  {
+    "Artist": "The Zeke Martin Quartet",
+    "Title": "Landscapes",
+    "Box ID": "Jazz 12",
+    "ID": 11161
   },
   {
     "Artist": "The Zombies",
@@ -60642,6 +61374,18 @@
     "ID": 9487
   },
   {
+    "Artist": "Tito Puente",
+    "Title": "The Mambo King",
+    "Box ID": "World 2",
+    "ID": 11144
+  },
+  {
+    "Artist": "Tito Puente And His Orchestra",
+    "Title": "The Best Of Dance Mania",
+    "Box ID": "World 2",
+    "ID": 11145
+  },
+  {
     "Artist": "TKA",
     "Title": "Greatest Hits",
     "Box ID": "Pop/Rock 41",
@@ -61054,6 +61798,12 @@
     "Title": "Golden Hits",
     "Box ID": "Jazz 10",
     "ID": 9538
+  },
+  {
+    "Artist": "Tommy Dorsey",
+    "Title": "The Best Of Tommy Dorsey",
+    "Box ID": "Jazz 12",
+    "ID": 11160
   },
   {
     "Artist": "Tommy Dorsey",
@@ -61651,6 +62401,12 @@
   },
   {
     "Artist": "Train",
+    "Title": "AM Gold",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11138
+  },
+  {
+    "Artist": "Train",
     "Title": "California 37: Mermaids Of Alcatraz Tour Edition",
     "Box ID": "Pop/Rock 35",
     "ID": 9646
@@ -62191,6 +62947,12 @@
   },
   {
     "Artist": "U2",
+    "Title": "(90067-2 Island)War(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11065
+  },
+  {
+    "Artist": "U2",
     "Title": "Achtung Baby",
     "Box ID": "Pop/Rock 24",
     "ID": 9737
@@ -62602,6 +63364,24 @@
     "Title": "You Do Something To Me: Piano Stylings by Van Craven",
     "Box ID": "Jazz 6",
     "ID": 9802
+  },
+  {
+    "Artist": "Van Halen",
+    "Title": "(3075-2/256 470 Warner Bros.)Van Halen(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11047
+  },
+  {
+    "Artist": "Van Halen",
+    "Title": "(3075-2/256 470 Warner Bros.)Van Halen(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11046
+  },
+  {
+    "Artist": "Van Halen",
+    "Title": "(9 23985-2 Warner Bros.)1984(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11045
   },
   {
     "Artist": "Van Halen",
@@ -64674,6 +65454,12 @@
     "ID": 10491
   },
   {
+    "Artist": "Wendy Carlos",
+    "Title": "(MK 7194 CBS Masterworks)Switched-On Bach(DADC)",
+    "Box ID": "Older CDs '84-'86 DADC",
+    "ID": 11113
+  },
+  {
     "Artist": "Wendy Wall",
     "Title": "Wendy Wall",
     "Box ID": "Pop/Rock 42",
@@ -65460,6 +66246,12 @@
     "ID": 10235
   },
   {
+    "Artist": "X-Ambassadors",
+    "Title": "Orion",
+    "Box ID": "Pop/Rock 43",
+    "ID": 11132
+  },
+  {
     "Artist": "X Ambassadors",
     "Title": "VHS",
     "Box ID": "Pop/Rock 40",
@@ -65686,6 +66478,12 @@
     "Title": "King Yellowman",
     "Box ID": "Pop/Rock 42",
     "ID": 10780
+  },
+  {
+    "Artist": "Yes",
+    "Title": "(7 90125-2 ATCO)90125(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11049
   },
   {
     "Artist": "Yes",
@@ -66106,6 +66904,24 @@
     "Title": "Koto Music Of Japan",
     "Box ID": "World 1",
     "ID": 10331
+  },
+  {
+    "Artist": "ZZ Top",
+    "Title": "(3273-2/256 598 Warner Bros.)The Best Of ZZ Top(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11036
+  },
+  {
+    "Artist": "ZZ Top",
+    "Title": "(9 23774-2 Warner Bros.)Eliminator(Japan)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11040
+  },
+  {
+    "Artist": "ZZ Top",
+    "Title": "(9 23774-2 Warner Bros.)Eliminator(W.G.)",
+    "Box ID": "Older CDs Targets",
+    "ID": 11037
   },
   {
     "Artist": "ZZ Top",
