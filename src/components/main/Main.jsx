@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./main.css";
 import tapes from "../../data/tapesJSON.json";
 import records from "../../data/recordsJSON.json";
@@ -7,6 +7,19 @@ import CD_Singles from "../cd_singles/CD_Singles";
 import CD_Comps from "../cd_comps/CD_Comps";
 
 const Main = (props) => {
+  const { searchTerm } = props;
+  const [filteredResults, setFilteredResults] = useState([]);
+
+  useEffect(() => {
+    setFilteredResults(
+      cds.filter((cd) => {
+        return cd.Artist.toString()
+          .toLowerCase()
+          .includes(searchTerm.toLowerCase());
+      }),
+    );
+  }, [searchTerm]);
+
   return (
     <>
       <div className="size-warning">
@@ -50,7 +63,40 @@ const Main = (props) => {
         </p>
 
         {props.cdOption === "mainCatalog" &&
-        props.selectedFormat === "compactDiscs" ? (
+        props.selectedFormat === "compactDiscs" &&
+        searchTerm !== ""
+          ? filteredResults.map((cd) => {
+              return (
+                <div
+                  className="row"
+                  key={cd.ID}
+                >
+                  <p
+                    title={cd.Artist}
+                    className="artist"
+                  >
+                    {cd.Artist}
+                  </p>
+                  <p
+                    title={cd.Title}
+                    className="title"
+                  >
+                    {cd.Title}
+                  </p>
+                  <p
+                    title={cd["Box ID"]}
+                    className="location"
+                  >
+                    {cd["Box ID"]}
+                  </p>
+                </div>
+              );
+            })
+          : undefined}
+
+        {props.cdOption === "mainCatalog" &&
+        props.selectedFormat === "compactDiscs" &&
+        searchTerm === "" ? (
           <div className="dataWrapper">
             {cds &&
               cds

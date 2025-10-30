@@ -12,7 +12,7 @@ function App() {
   const [tapeType, setTapeType] = useState(null);
   const [cdOption, setCdOption] = useState(null);
   const [visualMediaType, setVisualMediaType] = useState(null);
-  const [search, setSearch] = useState(null);
+  const [searchTerm, setSearchTerm] = useState("");
 
   const handleViewingMode = () => {
     setViewingMode(!viewingMode);
@@ -53,7 +53,7 @@ function App() {
           tapeType={tapeType}
           cdOption={cdOption}
           visualMediaType={visualMediaType}
-          search={search}
+          searchTerm={searchTerm}
         />
       ) : (
         <MainEntry
@@ -77,8 +77,8 @@ function App() {
         handleTapeType={handleTapeType}
         handleCdOption={handleCdOption}
         handleVisualMediaType={handleVisualMediaType}
-        setSearch={setSearch}
-        search={search}
+        setSearchTerm={setSearchTerm}
+        searchTerm={searchTerm}
       />
     </div>
   );

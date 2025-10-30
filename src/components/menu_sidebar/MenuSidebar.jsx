@@ -44,7 +44,7 @@ const MenuSidebar = (props) => {
           visualMediaType={props.visualMediaType}
         />
       )}
-      {props.selectedFormat && <Search setSearch={props.setSearch} />}
+      {props.selectedFormat && <Search setSearchTerm={props.setSearchTerm} />}
     </div>
   );
 };

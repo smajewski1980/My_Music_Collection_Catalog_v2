@@ -1,7 +1,7 @@
 import React from "react";
 import "./search.css";
 
-const Search = ({ setSearch, search }) => {
+const Search = ({ setSearchTerm, searchTerm }) => {
   return (
     <>
       <h2>Search</h2>
@@ -39,9 +39,9 @@ const Search = ({ setSearch, search }) => {
         name="search"
         id="search"
         autoComplete="off"
-        value={search}
+        value={searchTerm}
         onChange={(e) => {
-          setSearch(e.target.value);
+          setSearchTerm(e.target.value);
         }}
       />
     </>
