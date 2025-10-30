@@ -1,85 +1,85 @@
-import React from 'react';
-import './main.css';
-import tapes from '../../data/tapesJSON.json';
-import records from '../../data/recordsJSON.json';
-import cds from '../../data/mainCatalogJSON.json';
-import CD_Singles from '../cd_singles/CD_Singles';
-import CD_Comps from '../cd_comps/CD_Comps';
+import React from "react";
+import "./main.css";
+import tapes from "../../data/tapesJSON.json";
+import records from "../../data/recordsJSON.json";
+import cds from "../../data/mainCatalogJSON.json";
+import CD_Singles from "../cd_singles/CD_Singles";
+import CD_Comps from "../cd_comps/CD_Comps";
 
 const Main = (props) => {
   return (
     <>
-      <div className='size-warning'>
+      <div className="size-warning">
         This app is not configured yet for small screen sizes. Please view on a
         screen larger than 1300px.
       </div>
-      <div id='main'>
-        <p id='mainTitle'>
-          {props.selectedFormat === 'compactDiscs' && props.cdOption === null
-            ? 'Compact Discs'
+      <div id="main">
+        <p id="mainTitle">
+          {props.selectedFormat === "compactDiscs" && props.cdOption === null
+            ? "Compact Discs"
             : undefined}
-          {props.cdOption === 'mainCatalog' && 'The Main CD Catalog'}
-          {props.cdOption === 'singles' && 'The CD Singles'}
-          {props.cdOption === 'compilations' && 'The Compilation CDs'}
-          {props.cdOption === 'earlyPressings' && 'The Early Pressings'}
+          {props.cdOption === "mainCatalog" && "The Main CD Catalog"}
+          {props.cdOption === "singles" && "The CD Singles"}
+          {props.cdOption === "compilations" && "The Compilation CDs"}
+          {props.cdOption === "earlyPressings" && "The Early Pressings"}
 
-          {props.selectedFormat === 'records' && props.recordType}
-          {props.selectedFormat === 'records' &&
-          props.recordType !== 'Cylinder ' &&
+          {props.selectedFormat === "records" && props.recordType}
+          {props.selectedFormat === "records" &&
+          props.recordType !== "Cylinder " &&
           props.recordType !== null
-            ? ' rpm Records'
+            ? " rpm Records"
             : undefined}
-          {props.selectedFormat === 'records' &&
-          props.recordType === 'Cylinder '
-            ? 'Records'
+          {props.selectedFormat === "records" &&
+          props.recordType === "Cylinder "
+            ? "Records"
             : undefined}
-          {props.recordType === null && props.selectedFormat === 'records'
-            ? 'Records'
+          {props.recordType === null && props.selectedFormat === "records"
+            ? "Records"
             : undefined}
 
-          {props.selectedFormat === 'tapes' && props.tapeType}
-          {props.selectedFormat === 'tapes' && 'Tapes'}
+          {props.selectedFormat === "tapes" && props.tapeType}
+          {props.selectedFormat === "tapes" && "Tapes"}
 
-          {props.selectedFormat === 'visualMedia' &&
+          {props.selectedFormat === "visualMedia" &&
           props.visualMediaType === null
-            ? 'Visual Media'
+            ? "Visual Media"
             : undefined}
-          {props.visualMediaType === 'betaVhs' && 'Beta / VHS Tapes'}
-          {props.visualMediaType === 'blurayDvd' && 'DVD / Blu-ray Discs'}
-          {props.visualMediaType === 'ced' && 'RCA Selectavision (CED)'}
+          {props.visualMediaType === "betaVhs" && "Beta / VHS Tapes"}
+          {props.visualMediaType === "blurayDvd" && "DVD / Blu-ray Discs"}
+          {props.visualMediaType === "ced" && "RCA Selectavision (CED)"}
         </p>
 
-        {props.cdOption === 'mainCatalog' &&
-        props.selectedFormat === 'compactDiscs' ? (
-          <div className='dataWrapper'>
+        {props.cdOption === "mainCatalog" &&
+        props.selectedFormat === "compactDiscs" ? (
+          <div className="dataWrapper">
             {cds &&
               cds
                 .filter((cd) => {
-                  return !cd['Box ID'].includes('Older');
+                  return !cd["Box ID"].includes("Older");
                 })
                 .map((cd) => {
                   return (
                     <div
-                      className='row'
+                      className="row"
                       key={cd.ID}
                     >
                       <p
                         title={cd.Artist}
-                        className='artist'
+                        className="artist"
                       >
                         {cd.Artist}
                       </p>
                       <p
                         title={cd.Title}
-                        className='title'
+                        className="title"
                       >
                         {cd.Title}
                       </p>
                       <p
-                        title={cd['Box ID']}
-                        className='location'
+                        title={cd["Box ID"]}
+                        className="location"
                       >
-                        {cd['Box ID']}
+                        {cd["Box ID"]}
                       </p>
                     </div>
                   );
@@ -87,36 +87,36 @@ const Main = (props) => {
           </div>
         ) : undefined}
 
-        {props.cdOption === 'earlyPressings' && (
-          <div className='dataWrapper'>
+        {props.cdOption === "earlyPressings" && (
+          <div className="dataWrapper">
             {cds &&
               cds
                 .filter((cd) => {
-                  return cd['Box ID'].includes('Older');
+                  return cd["Box ID"].includes("Older");
                 })
                 .map((cd) => {
                   return (
                     <div
-                      className='row'
+                      className="row"
                       key={cd.ID}
                     >
                       <p
                         title={cd.Artist}
-                        className='artist'
+                        className="artist"
                       >
                         {cd.Artist}
                       </p>
                       <p
                         title={cd.Title}
-                        className='title'
+                        className="title"
                       >
                         {cd.Title}
                       </p>
                       <p
-                        title={cd['Box ID']}
-                        className='location'
+                        title={cd["Box ID"]}
+                        className="location"
                       >
-                        {cd['Box ID']}
+                        {cd["Box ID"]}
                       </p>
                     </div>
                   );
@@ -124,30 +124,30 @@ const Main = (props) => {
           </div>
         )}
 
-        {props.tapeType === null && props.selectedFormat === 'tapes' ? (
-          <div className='dataWrapper'>
+        {props.tapeType === null && props.selectedFormat === "tapes" ? (
+          <div className="dataWrapper">
             {tapes &&
               tapes.map((tape) => {
                 return (
                   <div
-                    className='row'
+                    className="row"
                     key={tape.ID}
                   >
                     <p
                       title={tape.Artist}
-                      className='artist'
+                      className="artist"
                     >
                       {tape.Artist}
                     </p>
                     <p
                       title={tape.Title}
-                      className='title'
+                      className="title"
                     >
                       {tape.Title}
                     </p>
                     <p
                       title={tape.Location}
-                      className='location'
+                      className="location"
                     >
                       {tape.Location}
                     </p>
@@ -157,8 +157,8 @@ const Main = (props) => {
           </div>
         ) : undefined}
 
-        {props.selectedFormat === 'tapes' && (
-          <div className='dataWrapper'>
+        {props.selectedFormat === "tapes" && (
+          <div className="dataWrapper">
             {tapes &&
               tapes
                 .filter((tape) => {
@@ -167,24 +167,24 @@ const Main = (props) => {
                 .map((tape) => {
                   return (
                     <div
-                      className='row'
+                      className="row"
                       key={tape.ID}
                     >
                       <p
                         title={tape.Artist}
-                        className='artist'
+                        className="artist"
                       >
                         {tape.Artist}
                       </p>
                       <p
                         title={tape.Title}
-                        className='title'
+                        className="title"
                       >
                         {tape.Title}
                       </p>
                       <p
                         title={tape.Location}
-                        className='location'
+                        className="location"
                       >
                         {tape.Location}
                       </p>
@@ -194,30 +194,30 @@ const Main = (props) => {
           </div>
         )}
 
-        {props.recordType === null && props.selectedFormat === 'records' ? (
-          <div className='dataWrapper'>
+        {props.recordType === null && props.selectedFormat === "records" ? (
+          <div className="dataWrapper">
             {records &&
               records.map((record) => {
                 return (
                   <div
-                    className='row'
+                    className="row"
                     key={record.ID}
                   >
                     <p
                       title={record.Artist}
-                      className='artist'
+                      className="artist"
                     >
                       {record.Artist}
                     </p>
                     <p
                       title={record.Title}
-                      className='title'
+                      className="title"
                     >
                       {record.Title}
                     </p>
                     <p
                       title={record.Rec_Box_ID}
-                      className='location'
+                      className="location"
                     >
                       {record.Rec_Box_ID}
                     </p>
@@ -227,14 +227,14 @@ const Main = (props) => {
           </div>
         ) : undefined}
 
-        {props.selectedFormat === 'records' && (
-          <div className='dataWrapper'>
-            {props.recordType === 'Cylinder ' && (
+        {props.selectedFormat === "records" && (
+          <div className="dataWrapper">
+            {props.recordType === "Cylinder " && (
               <div
-                className='row'
-                style={{ marginBlockStart: '2rem' }}
+                className="row"
+                style={{ marginBlockStart: "2rem" }}
               >
-                <p style={{ marginInline: 'auto', paddingBlock: '.5rem' }}>
+                <p style={{ marginInline: "auto", paddingBlock: ".5rem" }}>
                   It's not that I don't have any, they just aren't cataloged
                   yet.
                 </p>
@@ -248,24 +248,24 @@ const Main = (props) => {
                 .map((record) => {
                   return (
                     <div
-                      className='row'
+                      className="row"
                       key={record.ID}
                     >
                       <p
                         title={record.Artist}
-                        className='artist'
+                        className="artist"
                       >
                         {record.Artist}
                       </p>
                       <p
                         title={record.Title}
-                        className='title'
+                        className="title"
                       >
                         {record.Title}
                       </p>
                       <p
                         title={record.Rec_Box_ID}
-                        className='location'
+                        className="location"
                       >
                         {record.Rec_Box_ID}
                       </p>
@@ -275,33 +275,33 @@ const Main = (props) => {
           </div>
         )}
 
-        {props.selectedFormat === 'compactDiscs' && (
-          <div className='dataWrapper'>
+        {props.selectedFormat === "compactDiscs" && (
+          <div className="dataWrapper">
             {cds &&
               cds
                 .filter((cd) => {
-                  return cd['Box ID'].includes(props.cdOption);
+                  return cd["Box ID"].includes(props.cdOption);
                 })
                 .map((cd) => {
                   return (
                     <div
-                      className='row'
+                      className="row"
                       key={cd.ID}
                     >
-                      <p className='artist'>{cd.Artist}</p>
-                      <p className='title'>{cd.Title}</p>
-                      <p className='location'>{cd['Box ID']}</p>
+                      <p className="artist">{cd.Artist}</p>
+                      <p className="title">{cd.Title}</p>
+                      <p className="location">{cd["Box ID"]}</p>
                     </div>
                   );
                 })}
           </div>
         )}
 
-        {props.cdOption === 'singles' && <CD_Singles />}
-        {props.cdOption === 'compilations' && <CD_Comps />}
+        {props.cdOption === "singles" && <CD_Singles />}
+        {props.cdOption === "compilations" && <CD_Comps />}
 
-        <p id='ifNull'>
-          {props.selectedFormat === null ? 'Choose A Format' : null}
+        <p id="ifNull">
+          {props.selectedFormat === null ? "Choose A Format" : null}
         </p>
       </div>
     </>

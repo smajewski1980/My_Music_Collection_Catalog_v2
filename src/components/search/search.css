@@ -1,0 +1,36 @@
+.menuWrapper h2 {
+  color: hsl(300, 99%, 60%);
+  margin-bottom: 1rem;
+}
+
+.menuWrapper input {
+  color: hsl(300, 99%, 60%);
+  background: rgb(30, 30, 30);
+  border: 1px solid hsl(300, 99%, 60%);
+  width: 100%;
+  padding: 0.25rem;
+}
+
+fieldset {
+  margin-block-end: 1rem;
+  padding: 0.5rem 1rem;
+  margin-inline: auto;
+  width: fit-content;
+  border-color: hsl(300, 99%, 60%);
+}
+
+.input-wrapper {
+  display: flex;
+  margin-block: 0.25rem;
+  justify-content: right;
+  gap: 1rem;
+}
+
+.input-wrapper label {
+  color: hsl(300, 99%, 60%);
+  font-size: 1.125rem;
+}
+
+.input-wrapper input {
+  width: 1rem;
+}

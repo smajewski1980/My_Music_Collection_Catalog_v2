@@ -1,9 +1,9 @@
-import { useState } from 'react';
-import './App.css';
-import Sidebar from './components/sidebar/Sidebar'
-import MenuSidebar from './components/menu_sidebar/MenuSidebar';
-import Main from './components/main/Main';
-import MainEntry from './components/main/MainEntry';
+import { useState } from "react";
+import "./App.css";
+import Sidebar from "./components/sidebar/Sidebar";
+import MenuSidebar from "./components/menu_sidebar/MenuSidebar";
+import Main from "./components/main/Main";
+import MainEntry from "./components/main/MainEntry";
 
 function App() {
   const [viewingMode, setViewingMode] = useState(true);
@@ -12,40 +12,40 @@ function App() {
   const [tapeType, setTapeType] = useState(null);
   const [cdOption, setCdOption] = useState(null);
   const [visualMediaType, setVisualMediaType] = useState(null);
+  const [search, setSearch] = useState(null);
 
   const handleViewingMode = () => {
     setViewingMode(!viewingMode);
-  }
+  };
   const handleFormatSelect = (format) => {
     setVisualMediaType(null);
     setCdOption(null);
     setRecordType(null);
     setTapeType(null);
     setSelectedFormat(format);
-  }
+  };
   const handleRecordType = (type) => {
-    setRecordType(type)
-  }
+    setRecordType(type);
+  };
   const handleTapeType = (type) => {
-    setTapeType(type)
-  }
+    setTapeType(type);
+  };
   const handleCdOption = (option) => {
-    setCdOption(option)
-  }
+    setCdOption(option);
+  };
   const handleVisualMediaType = (type) => {
-    setVisualMediaType(type)
-  }
+    setVisualMediaType(type);
+  };
 
   return (
     <div className="App">
-
       <Sidebar
         modeClick={handleViewingMode}
         viewingMode={viewingMode}
         formatClick={handleFormatSelect}
         selectedFormat={selectedFormat}
       />
-      {viewingMode ?
+      {viewingMode ? (
         <Main
           selectedFormat={selectedFormat}
           viewingMode={viewingMode}
@@ -53,14 +53,18 @@ function App() {
           tapeType={tapeType}
           cdOption={cdOption}
           visualMediaType={visualMediaType}
-        /> :
-        <MainEntry selectedFormat={selectedFormat}
+          search={search}
+        />
+      ) : (
+        <MainEntry
+          selectedFormat={selectedFormat}
           viewingMode={viewingMode}
           recordType={recordType}
           tapeType={tapeType}
           cdOption={cdOption}
-          visualMediaType={visualMediaType} />
-      }
+          visualMediaType={visualMediaType}
+        />
+      )}
 
       <MenuSidebar
         selectedFormat={selectedFormat}
@@ -73,8 +77,9 @@ function App() {
         handleTapeType={handleTapeType}
         handleCdOption={handleCdOption}
         handleVisualMediaType={handleVisualMediaType}
+        setSearch={setSearch}
+        search={search}
       />
-
     </div>
   );
 }

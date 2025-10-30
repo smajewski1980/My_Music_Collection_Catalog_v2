@@ -4,6 +4,7 @@ import CompactDiscMenu from "../menus/compactdisc_menu/CompactDiscMenu";
 import RecordsMenu from "../menus/records_menu/RecordsMenu";
 import TapesMenu from "../menus/tapes_menu/TapesMenu";
 import VisualMediaMenu from "../menus/visual_media/VisualMedia";
+import Search from "../search/Search";
 
 const MenuSidebar = (props) => {
   return (
@@ -43,6 +44,7 @@ const MenuSidebar = (props) => {
           visualMediaType={props.visualMediaType}
         />
       )}
+      {props.selectedFormat && <Search setSearch={props.setSearch} />}
     </div>
   );
 };
