@@ -46,7 +46,12 @@ const Search = ({ setSearchTerm, searchTerm }) => {
         autoComplete="off"
         value={searchTerm}
       />
-      <button onClick={handleSearchSubmit}>Search</button>
+      <button
+        className="searchBtn"
+        onClick={handleSearchSubmit}
+      >
+        Search
+      </button>
     </>
   );
 };

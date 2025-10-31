@@ -8,7 +8,9 @@
   background: rgb(30, 30, 30);
   border: 1px solid hsl(300, 99%, 60%);
   width: 100%;
-  padding: 0.25rem;
+  padding: 0.35rem 0.5rem 0.25rem;
+  font-size: 1.25rem;
+  border-radius: 5px;
 }
 
 fieldset {
@@ -33,4 +35,11 @@ fieldset {
 
 .input-wrapper input {
   width: 1rem;
+}
+
+.searchBtn {
+  padding: 0.75rem 1.5rem;
+  margin-block-start: 0.75rem;
+  color: hsl(300, 99%, 60%);
+  background-color: rgb(50, 22, 77);
 }
