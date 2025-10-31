@@ -9,7 +9,9 @@ import Search from "../search/Search";
 const MenuSidebar = (props) => {
   return (
     <div className="menuWrapper">
-      {/* <p className='menuTitle'>{props.viewingMode ? 'Viewing Menu' : 'Entry Menu'}</p> */}
+      {/* <p className="menuTitle">
+        {props.viewingMode ? "Viewing Menu" : "Entry Menu"}
+      </p> */}
       <p className="menuTitle">Filters</p>
 
       {props.selectedFormat === "compactDiscs" && (
@@ -49,6 +51,7 @@ const MenuSidebar = (props) => {
           setSearchTerm={props.setSearchTerm}
           setFilterField={props.setFilterField}
           filterField={props.filterField}
+          selectedFormat={props.selectedFormat}
         />
       )}
     </div>

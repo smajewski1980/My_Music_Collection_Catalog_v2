@@ -2,11 +2,9 @@ import React from "react";
 import "./search.css";
 
 const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
-  console.log(filterField);
   function handleSearchSubmit() {
     const searchInput = document.getElementById("search");
     setSearchTerm(searchInput.value);
-    // setFilterField()
   }
 
   return (
@@ -43,7 +41,9 @@ const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
             id="radio-box-id"
             value="Box ID"
             checked={filterField === "Box ID"}
-            onChange={() => setFilterField("Box ID")}
+            onChange={() => {
+              setFilterField("Box ID");
+            }}
           />
         </div>
       </fieldset>
@@ -60,6 +60,8 @@ const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
       >
         Search
       </button>
+      <p className="searchP">Search currently active for:</p>
+      <p className="searchP">cds main</p>
     </>
   );
 };

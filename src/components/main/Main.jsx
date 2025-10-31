@@ -9,17 +9,43 @@ import CD_Comps from "../cd_comps/CD_Comps";
 const Main = (props) => {
   const { searchTerm } = props;
   const [filteredResults, setFilteredResults] = useState([]);
-
   useEffect(() => {
-    setFilteredResults(
-      cds.filter((cd) => {
-        return cd[props.filterField]
-          .toString()
-          .replace(/^[^a-zA-Z]+/, "")
-          .toLowerCase()
-          .startsWith(searchTerm.toLowerCase());
-      }),
-    );
+    if (
+      props.cdOption === "mainCatalog" &&
+      props.selectedFormat === "compactDiscs"
+    ) {
+      setFilteredResults(
+        cds.filter((cd) => {
+          return cd[props.filterField]
+            .toString()
+            .replace(/^[^a-zA-Z]+/, "")
+            .toLowerCase()
+            .startsWith(searchTerm.toLowerCase());
+        }),
+      );
+    } else if (
+      props.selectedFormat === "records" &&
+      props.recordType === "33"
+    ) {
+      setFilteredResults(
+        records
+          .filter((rec) => {
+            return rec.Rec_Box_ID.includes(props.recordType);
+          })
+          .filter((rec) => {
+            if (props.filterField === "Box ID") {
+              return rec.Rec_Box_ID.toString()
+                .toLowerCase()
+                .startsWith(searchTerm.toLowerCase());
+            }
+            return rec[props.filterField]
+              .toString()
+              .replace(/^[^a-zA-Z]+/, "")
+              .toLowerCase()
+              .startsWith(searchTerm.toLowerCase());
+          }),
+      );
+    }
   }, [searchTerm]);
 
   return (
@@ -90,6 +116,38 @@ const Main = (props) => {
                     className="location"
                   >
                     {cd["Box ID"]}
+                  </p>
+                </div>
+              );
+            })
+          : undefined}
+
+        {props.selectedFormat === "records" &&
+        props.recordType === "33" &&
+        searchTerm !== ""
+          ? filteredResults.map((rec) => {
+              return (
+                <div
+                  className="row"
+                  key={rec.ID}
+                >
+                  <p
+                    title={rec.Artist}
+                    className="artist"
+                  >
+                    {rec.Artist}
+                  </p>
+                  <p
+                    title={rec.Title}
+                    className="title"
+                  >
+                    {rec.Title}
+                  </p>
+                  <p
+                    title={rec.Rec_Box_ID}
+                    className="location"
+                  >
+                    {rec.Rec_Box_ID}
                   </p>
                 </div>
               );
@@ -242,7 +300,9 @@ const Main = (props) => {
           </div>
         )}
 
-        {props.recordType === null && props.selectedFormat === "records" ? (
+        {props.recordType === null &&
+        props.selectedFormat === "records" &&
+        searchTerm === "" ? (
           <div className="dataWrapper">
             {records &&
               records.map((record) => {
@@ -275,7 +335,7 @@ const Main = (props) => {
           </div>
         ) : undefined}
 
-        {props.selectedFormat === "records" && (
+        {props.selectedFormat === "records" && searchTerm === "" && (
           <div className="dataWrapper">
             {props.recordType === "Cylinder " && (
               <div
