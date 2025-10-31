@@ -2,6 +2,11 @@ import React from "react";
 import "./search.css";
 
 const Search = ({ setSearchTerm, searchTerm }) => {
+  function handleSearchSubmit() {
+    const searchInput = document.getElementById("search");
+    setSearchTerm(searchInput.value);
+  }
+
   return (
     <>
       <h2>Search</h2>
@@ -40,10 +45,8 @@ const Search = ({ setSearchTerm, searchTerm }) => {
         id="search"
         autoComplete="off"
         value={searchTerm}
-        onChange={(e) => {
-          setSearchTerm(e.target.value);
-        }}
       />
+      <button onClick={handleSearchSubmit}>Search</button>
     </>
   );
 };

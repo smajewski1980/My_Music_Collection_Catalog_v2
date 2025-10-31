@@ -14,8 +14,9 @@ const Main = (props) => {
     setFilteredResults(
       cds.filter((cd) => {
         return cd.Artist.toString()
+          .replace(/^[^a-zA-Z]+/, "")
           .toLowerCase()
-          .includes(searchTerm.toLowerCase());
+          .startsWith(searchTerm.toLowerCase());
       }),
     );
   }, [searchTerm]);

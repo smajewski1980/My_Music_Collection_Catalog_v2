@@ -9,7 +9,10 @@ const CD_SinglesTracks = (props) => {
 
   return filteredTracks.map((track) => {
     return (
-      <p className="singlesTrack" title={track["Track Name"]}>
+      <p
+        className="singlesTrack"
+        title={track["Track Name"]}
+      >
         {track["Track Name"]}
       </p>
     );
