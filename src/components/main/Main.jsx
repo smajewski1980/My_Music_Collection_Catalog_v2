@@ -13,7 +13,8 @@ const Main = (props) => {
   useEffect(() => {
     setFilteredResults(
       cds.filter((cd) => {
-        return cd.Artist.toString()
+        return cd[props.filterField]
+          .toString()
           .replace(/^[^a-zA-Z]+/, "")
           .toLowerCase()
           .startsWith(searchTerm.toLowerCase());

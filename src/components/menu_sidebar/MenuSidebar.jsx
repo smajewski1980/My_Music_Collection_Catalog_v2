@@ -44,7 +44,13 @@ const MenuSidebar = (props) => {
           visualMediaType={props.visualMediaType}
         />
       )}
-      {props.selectedFormat && <Search setSearchTerm={props.setSearchTerm} />}
+      {props.selectedFormat && (
+        <Search
+          setSearchTerm={props.setSearchTerm}
+          setFilterField={props.setFilterField}
+          filterField={props.filterField}
+        />
+      )}
     </div>
   );
 };

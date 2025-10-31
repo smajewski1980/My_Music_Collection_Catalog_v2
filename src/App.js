@@ -13,6 +13,7 @@ function App() {
   const [cdOption, setCdOption] = useState(null);
   const [visualMediaType, setVisualMediaType] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
+  const [filterField, setFilterField] = useState("Artist");
 
   const handleViewingMode = () => {
     setViewingMode(!viewingMode);
@@ -54,6 +55,7 @@ function App() {
           cdOption={cdOption}
           visualMediaType={visualMediaType}
           searchTerm={searchTerm}
+          filterField={filterField}
         />
       ) : (
         <MainEntry
@@ -79,6 +81,8 @@ function App() {
         handleVisualMediaType={handleVisualMediaType}
         setSearchTerm={setSearchTerm}
         searchTerm={searchTerm}
+        setFilterField={setFilterField}
+        filterField={filterField}
       />
     </div>
   );

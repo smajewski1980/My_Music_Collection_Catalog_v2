@@ -1,10 +1,12 @@
 import React from "react";
 import "./search.css";
 
-const Search = ({ setSearchTerm, searchTerm }) => {
+const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
+  console.log(filterField);
   function handleSearchSubmit() {
     const searchInput = document.getElementById("search");
     setSearchTerm(searchInput.value);
+    // setFilterField()
   }
 
   return (
@@ -18,6 +20,8 @@ const Search = ({ setSearchTerm, searchTerm }) => {
             name="searchField"
             id="radio-artist"
             value="Artist"
+            checked={filterField === "Artist"}
+            onChange={() => setFilterField("Artist")}
           />
         </div>
         <div className="input-wrapper">
@@ -27,6 +31,8 @@ const Search = ({ setSearchTerm, searchTerm }) => {
             name="searchField"
             id="radio-title"
             value="Title"
+            checked={filterField === "Title"}
+            onChange={() => setFilterField("Title")}
           />
         </div>
         <div className="input-wrapper">
@@ -36,6 +42,8 @@ const Search = ({ setSearchTerm, searchTerm }) => {
             name="searchField"
             id="radio-box-id"
             value="Box ID"
+            checked={filterField === "Box ID"}
+            onChange={() => setFilterField("Box ID")}
           />
         </div>
       </fieldset>
