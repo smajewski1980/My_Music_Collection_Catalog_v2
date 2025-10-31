@@ -61,7 +61,8 @@ const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
         Search
       </button>
       <p className="searchP">Search currently active for:</p>
-      <p className="searchP">cds main</p>
+      <p className="searchP">cds - main</p>
+      <p className="searchP">records - 33s</p>
     </>
   );
 };
