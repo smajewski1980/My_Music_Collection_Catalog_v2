@@ -52,6 +52,7 @@ const MenuSidebar = (props) => {
           setFilterField={props.setFilterField}
           filterField={props.filterField}
           selectedFormat={props.selectedFormat}
+          cdOption={props.cdOption}
         />
       )}
     </div>

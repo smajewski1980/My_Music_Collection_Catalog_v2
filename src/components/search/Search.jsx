@@ -1,11 +1,25 @@
 import React from "react";
 import "./search.css";
 
-const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
+const Search = ({
+  setSearchTerm,
+  searchTerm,
+  setFilterField,
+  filterField,
+  selectedFormat,
+  cdOption,
+}) => {
   function handleSearchSubmit() {
     const searchInput = document.getElementById("search");
     setSearchTerm(searchInput.value);
   }
+
+  // this expression determines the label and input values for the box/track search radio btn, almost correctly
+  const boxTrackOption =
+    selectedFormat === "compactDiscs" &&
+    (cdOption === "singles" || cdOption === "compilations")
+      ? "Track"
+      : "Box ID";
 
   return (
     <>
@@ -34,15 +48,15 @@ const Search = ({ setSearchTerm, searchTerm, setFilterField, filterField }) => {
           />
         </div>
         <div className="input-wrapper">
-          <label htmlFor="radio-box-id">Box ID</label>
+          <label htmlFor="radio-box-id">{boxTrackOption}</label>
           <input
             type="radio"
             name="searchField"
             id="radio-box-id"
-            value="Box ID"
-            checked={filterField === "Box ID"}
+            value={boxTrackOption}
+            checked={filterField === ("Box ID" || "Track")}
             onChange={() => {
-              setFilterField("Box ID");
+              setFilterField(boxTrackOption);
             }}
           />
         </div>
