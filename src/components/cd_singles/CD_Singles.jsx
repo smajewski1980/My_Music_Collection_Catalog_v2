@@ -6,7 +6,10 @@ import CD_SinglesTracks from "./CD_SinglesTracks";
 const CD_Singles = (props) => {
   return cd_Singles.map((single) => {
     return (
-      <div className="cdSinglesCardWrapper">
+      <div
+        key={single.ID}
+        className="cdSinglesCardWrapper"
+      >
         <fieldset className="singlesItemWrapper">
           <legend title={single.Artist + " - " + single.Title}>
             {single.Artist} -{" "}
