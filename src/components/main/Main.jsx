@@ -23,10 +23,7 @@ const Main = (props) => {
             .startsWith(searchTerm.toLowerCase());
         }),
       );
-    } else if (
-      props.selectedFormat === "records" &&
-      props.recordType === "33"
-    ) {
+    } else if (props.selectedFormat === "records") {
       setFilteredResults(
         records
           .filter((rec) => {
@@ -122,9 +119,7 @@ const Main = (props) => {
             })
           : undefined}
 
-        {props.selectedFormat === "records" &&
-        props.recordType === "33" &&
-        searchTerm !== ""
+        {props.selectedFormat === "records" && searchTerm !== ""
           ? filteredResults.map((rec) => {
               return (
                 <div

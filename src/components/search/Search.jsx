@@ -74,9 +74,13 @@ const Search = ({
       >
         Search
       </button>
-      <p className="searchP">Search currently active for:</p>
+      <p className="searchP">
+        Search currently
+        <br />
+        active for:
+      </p>
+      <p className="searchP">records - ALL</p>
       <p className="searchP">cds - main</p>
-      <p className="searchP">records - 33s</p>
     </>
   );
 };
