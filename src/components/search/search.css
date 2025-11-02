@@ -1,6 +1,6 @@
 .menuWrapper h2 {
   color: hsl(300, 99%, 60%);
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .menuWrapper input {
@@ -42,7 +42,7 @@ fieldset {
   margin-block-start: 0.75rem;
   color: hsl(300, 99%, 60%);
   background-color: rgb(50, 22, 77);
-  margin-block-end: 1rem;
+  margin-block-end: 1.5rem;
 }
 
 .searchP {
@@ -51,6 +51,12 @@ fieldset {
 }
 
 .searchBtn + p {
-  margin-block-end: 0.25rem;
+  padding-block-start: 1rem;
+  border-top: 1px solid hsl(300, 99%, 60%);
+  margin-block-end: 0.75rem;
   font-size: 1.125rem;
+}
+
+.searchBtn + p ~ p {
+  margin-block-end: 0.25rem;
 }
