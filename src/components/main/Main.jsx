@@ -18,7 +18,7 @@ const Main = (props) => {
         cds.filter((cd) => {
           return cd[props.filterField]
             .toString()
-            .replace(/^[^a-zA-Z]+/, "")
+            .replace(/^[^a-zA-Z0-9]+/, "")
             .toLowerCase()
             .startsWith(searchTerm.toLowerCase());
         }),
@@ -40,14 +40,35 @@ const Main = (props) => {
             }
             return rec[props.filterField]
               .toString()
-              .replace(/^[^a-zA-Z]+/, "")
+              .replace(/^[^a-zA-Z0-9]+/, "")
+              .toLowerCase()
+              .startsWith(searchTerm.toLowerCase());
+          }),
+      );
+    } else if (props.selectedFormat === "tapes") {
+      setFilteredResults(
+        tapes
+          .filter((tape) => {
+            if (!props.tapeType) {
+              return tape;
+            }
+            return tape.Location.includes(props.tapeType);
+          })
+          .filter((tape) => {
+            let tapeFilter = props.filterField;
+            if (tapeFilter === "Box ID") {
+              tapeFilter = "Location";
+            }
+
+            return tape[tapeFilter]
+              .toString()
+              .replace(/^[^a-zA-Z0-9]+/, "")
               .toLowerCase()
               .startsWith(searchTerm.toLowerCase());
           }),
       );
     }
   }, [searchTerm]);
-
   return (
     <>
       <div className="size-warning">
@@ -152,6 +173,36 @@ const Main = (props) => {
             })
           : undefined}
 
+        {props.selectedFormat === "tapes" && searchTerm !== ""
+          ? filteredResults.map((tape) => {
+              return (
+                <div
+                  className="row"
+                  key={tape.ID}
+                >
+                  <p
+                    title={tape.Artist}
+                    className="artist"
+                  >
+                    {tape.Artist}
+                  </p>
+                  <p
+                    title={tape.Title}
+                    className="title"
+                  >
+                    {tape.Title}
+                  </p>
+                  <p
+                    title={tape.Location}
+                    className="location"
+                  >
+                    {tape.Location}
+                  </p>
+                </div>
+              );
+            })
+          : undefined}
+
         {props.cdOption === "mainCatalog" &&
         props.selectedFormat === "compactDiscs" &&
         searchTerm === "" ? (
@@ -228,7 +279,9 @@ const Main = (props) => {
           </div>
         )}
 
-        {props.tapeType === null && props.selectedFormat === "tapes" ? (
+        {props.tapeType === null &&
+        props.selectedFormat === "tapes" &&
+        searchTerm === "" ? (
           <div className="dataWrapper">
             {tapes &&
               tapes.map((tape) => {
@@ -261,7 +314,7 @@ const Main = (props) => {
           </div>
         ) : undefined}
 
-        {props.selectedFormat === "tapes" && (
+        {props.selectedFormat === "tapes" && searchTerm === "" && (
           <div className="dataWrapper">
             {tapes &&
               tapes
