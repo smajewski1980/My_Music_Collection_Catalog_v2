@@ -27,6 +27,9 @@ const Main = (props) => {
       setFilteredResults(
         records
           .filter((rec) => {
+            if (!props.recordType) {
+              return rec;
+            }
             return rec.Rec_Box_ID.includes(props.recordType);
           })
           .filter((rec) => {

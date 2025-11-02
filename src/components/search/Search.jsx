@@ -77,7 +77,7 @@ const Search = ({
       <p className="searchP">
         Search currently
         <br />
-        active for:
+        works for:
       </p>
       <p className="searchP">records - ALL</p>
       <p className="searchP">cds - main</p>
