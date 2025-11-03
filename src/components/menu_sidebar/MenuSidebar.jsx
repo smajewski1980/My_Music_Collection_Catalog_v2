@@ -53,6 +53,8 @@ const MenuSidebar = (props) => {
           filterField={props.filterField}
           selectedFormat={props.selectedFormat}
           cdOption={props.cdOption}
+          tapeType={props.tapeType}
+          recordType={props.recordType}
         />
       )}
     </div>

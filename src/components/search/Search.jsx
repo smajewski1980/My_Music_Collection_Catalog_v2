@@ -1,4 +1,4 @@
-import React from "react";
+import { useEffect } from "react";
 import "./search.css";
 
 const Search = ({
@@ -8,11 +8,18 @@ const Search = ({
   filterField,
   selectedFormat,
   cdOption,
+  recordType,
+  tapeType,
 }) => {
   function handleSearchSubmit() {
     const searchInput = document.getElementById("search");
     setSearchTerm(searchInput.value);
   }
+
+  useEffect(() => {
+    setSearchTerm("");
+    document.getElementById("search").value = "";
+  }, [selectedFormat, recordType, tapeType, cdOption]);
 
   // this expression determines the label and input values for the box/track search radio btn, almost correctly
   const boxTrackOption =

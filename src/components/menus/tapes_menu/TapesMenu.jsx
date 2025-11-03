@@ -2,7 +2,6 @@ import React from "react";
 import "./tapesMenu.css";
 
 const TapesView = (props) => {
-  console.log(props.tapeType);
   return (
     <>
       <h3>Select A Filter</h3>
