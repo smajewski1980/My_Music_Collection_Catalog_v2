@@ -1,21 +1,21 @@
-import React from 'react';
-import './recordsMenu.css';
+import React from "react";
+import "./recordsMenu.css";
 
 const RecordsView = (props) => {
   return (
     <>
       <h3>Select A Filter</h3>
       <br />
-      <div className='recordsBtnsWrapper'>
+      <div className="recordsBtnsWrapper">
         <button
           className={
-            props.recordType === 'Cylinder '
-              ? 'recBtnInactive recBtnActive'
-              : 'recBtnInactive'
+            props.recordType === "Cylinder "
+              ? "recBtnInactive recBtnActive"
+              : "recBtnInactive"
           }
-          type='button'
+          type="button"
           onClick={() => {
-            props.handleRecordType('Cylinder ');
+            props.handleRecordType("Cylinder ");
           }}
         >
           Cylinders
@@ -27,39 +27,39 @@ const RecordsView = (props) => {
             >16 rpm</button> */}
         <button
           className={
-            props.recordType === '33 rpm '
-              ? 'recBtnInactive recBtnActive'
-              : 'recBtnInactive'
+            props.recordType === "33"
+              ? "recBtnInactive recBtnActive"
+              : "recBtnInactive"
           }
-          type='button'
+          type="button"
           onClick={() => {
-            props.handleRecordType('33');
+            props.handleRecordType("33");
           }}
         >
           33 rpm
         </button>
         <button
           className={
-            props.recordType === '45 rpm '
-              ? 'recBtnInactive recBtnActive'
-              : 'recBtnInactive'
+            props.recordType === "45"
+              ? "recBtnInactive recBtnActive"
+              : "recBtnInactive"
           }
-          type='button'
+          type="button"
           onClick={() => {
-            props.handleRecordType('45');
+            props.handleRecordType("45");
           }}
         >
           45 rpm
         </button>
         <button
           className={
-            props.recordType === '78 rpm '
-              ? 'recBtnInactive recBtnActive'
-              : 'recBtnInactive'
+            props.recordType === "78"
+              ? "recBtnInactive recBtnActive"
+              : "recBtnInactive"
           }
-          type='button'
+          type="button"
           onClick={() => {
-            props.handleRecordType('78');
+            props.handleRecordType("78");
           }}
         >
           78 rpm
@@ -80,7 +80,7 @@ const RecordsEntry = () => {
 
 const RecordsMenu = (props) => {
   return (
-    <div className='recordsMenu'>
+    <div className="recordsMenu">
       {props.viewingMode ? (
         <RecordsView
           recordType={props.recordType}

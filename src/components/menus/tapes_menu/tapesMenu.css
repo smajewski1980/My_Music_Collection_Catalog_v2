@@ -16,3 +16,8 @@
   /* font-weight: bold; */
   letter-spacing: 0.05em;
 }
+
+button.tapesBtnActive {
+  background-color: rgb(212, 182, 240);
+  color: rgb(50, 22, 77);
+}
