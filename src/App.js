@@ -24,6 +24,7 @@ function App() {
     setRecordType(null);
     setTapeType(null);
     setSelectedFormat(format);
+    setSearchTerm("");
   };
   const handleRecordType = (type) => {
     setRecordType(type);

@@ -17,7 +17,7 @@ const Search = ({
   }
 
   useEffect(() => {
-    setSearchTerm("");
+    setFilterField("Artist");
     document.getElementById("search").value = "";
   }, [selectedFormat, recordType, tapeType, cdOption]);
 
