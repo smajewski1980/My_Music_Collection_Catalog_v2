@@ -14,6 +14,7 @@ function App() {
   const [visualMediaType, setVisualMediaType] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
   const [filterField, setFilterField] = useState("Artist");
+  const [searchType, setSearchType] = useState("startsWith");
 
   const handleViewingMode = () => {
     setViewingMode(!viewingMode);
@@ -25,15 +26,19 @@ function App() {
     setTapeType(null);
     setSelectedFormat(format);
     setSearchTerm("");
+    setSearchType("startsWith");
   };
   const handleRecordType = (type) => {
     setRecordType(type);
+    setSearchType("startsWith");
   };
   const handleTapeType = (type) => {
     setTapeType(type);
+    setSearchType("startsWith");
   };
   const handleCdOption = (option) => {
     setCdOption(option);
+    setSearchType("startsWith");
   };
   const handleVisualMediaType = (type) => {
     setVisualMediaType(type);
@@ -57,6 +62,7 @@ function App() {
           visualMediaType={visualMediaType}
           searchTerm={searchTerm}
           filterField={filterField}
+          searchType={searchType}
         />
       ) : (
         <MainEntry
@@ -84,6 +90,8 @@ function App() {
         searchTerm={searchTerm}
         setFilterField={setFilterField}
         filterField={filterField}
+        setSearchType={setSearchType}
+        searchType={searchType}
       />
     </div>
   );

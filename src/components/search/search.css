@@ -28,13 +28,22 @@ fieldset {
   gap: 1rem;
 }
 
-.input-wrapper label {
+.input-wrapper label,
+.searchTypeText {
   color: hsl(300, 99%, 60%);
   font-size: 1.125rem;
 }
 
 .input-wrapper input {
   width: 1rem;
+}
+
+#search {
+  margin-block-end: 0.5rem;
+}
+
+p + .input-wrapper {
+  justify-content: center;
 }
 
 .searchBtn {

@@ -7,8 +7,9 @@ import CD_Singles from "../cd_singles/CD_Singles";
 import CD_Comps from "../cd_comps/CD_Comps";
 
 const Main = (props) => {
-  const { searchTerm } = props;
+  const { searchTerm, searchType } = props;
   const [filteredResults, setFilteredResults] = useState([]);
+
   useEffect(() => {
     if (
       props.cdOption === "mainCatalog" &&
@@ -20,7 +21,7 @@ const Main = (props) => {
             .toString()
             .replace(/^[^a-zA-Z0-9]+/, "")
             .toLowerCase()
-            .startsWith(searchTerm.toLowerCase());
+            [searchType](searchTerm.toLowerCase());
         }),
       );
     } else if (props.selectedFormat === "records") {
@@ -36,13 +37,13 @@ const Main = (props) => {
             if (props.filterField === "Box ID") {
               return rec.Rec_Box_ID.toString()
                 .toLowerCase()
-                .startsWith(searchTerm.toLowerCase());
+                [searchType](searchTerm.toLowerCase());
             }
             return rec[props.filterField]
               .toString()
               .replace(/^[^a-zA-Z0-9]+/, "")
               .toLowerCase()
-              .startsWith(searchTerm.toLowerCase());
+              [searchType](searchTerm.toLowerCase());
           }),
       );
     } else if (props.selectedFormat === "tapes") {
@@ -64,11 +65,14 @@ const Main = (props) => {
               .toString()
               .replace(/^[^a-zA-Z0-9]+/, "")
               .toLowerCase()
-              .startsWith(searchTerm.toLowerCase());
+              [searchType](searchTerm.toLowerCase());
           }),
       );
+    } else {
+      setFilteredResults([]);
     }
-  }, [searchTerm]);
+  }, [searchTerm, searchType]);
+
   return (
     <>
       <div className="size-warning">

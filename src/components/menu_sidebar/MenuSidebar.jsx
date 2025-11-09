@@ -55,6 +55,8 @@ const MenuSidebar = (props) => {
           cdOption={props.cdOption}
           tapeType={props.tapeType}
           recordType={props.recordType}
+          setSearchType={props.setSearchType}
+          searchType={props.searchType}
         />
       )}
     </div>

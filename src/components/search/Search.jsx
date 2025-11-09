@@ -10,6 +10,8 @@ const Search = ({
   cdOption,
   recordType,
   tapeType,
+  searchType,
+  setSearchType,
 }) => {
   function handleSearchSubmit() {
     const searchInput = document.getElementById("search");
@@ -21,12 +23,19 @@ const Search = ({
     document.getElementById("search").value = "";
   }, [selectedFormat, recordType, tapeType, cdOption]);
 
-  // this expression determines the label and input values for the box/track search radio btn, almost correctly
+  // this expression determines the label and input values for the box/track search radio btn
   const boxTrackOption =
     selectedFormat === "compactDiscs" &&
     (cdOption === "singles" || cdOption === "compilations")
       ? "Track"
       : "Box ID";
+
+  function handleSearchTypeSelect() {
+    setSearchType("includes");
+    if (searchType === "includes") {
+      setSearchType("startsWith");
+    }
+  }
 
   return (
     <>
@@ -75,6 +84,20 @@ const Search = ({
         autoComplete="off"
         value={searchTerm}
       />
+      <p className="searchTypeText">search target must:</p>
+      <div className="input-wrapper">
+        <input
+          type="checkbox"
+          name="searchType"
+          id="searchTypeCheckbox"
+          onChange={handleSearchTypeSelect}
+          checked={searchType !== "includes" ? false : true}
+        />
+        <label htmlFor="searchTypeCheckbox">
+          {searchType === "startsWith" ? "start with" : "include"}
+        </label>
+      </div>
+      <p className="searchTypeText">the search term.</p>
       <button
         className="searchBtn"
         onClick={handleSearchSubmit}
