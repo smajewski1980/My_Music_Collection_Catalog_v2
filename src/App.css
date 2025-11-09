@@ -19,6 +19,11 @@ button:active {
   font-weight: bold;
 }
 
+input:not(input[type="text"]),
+label {
+  cursor: pointer;
+}
+
 .App {
   display: flex;
   background-color: black;
