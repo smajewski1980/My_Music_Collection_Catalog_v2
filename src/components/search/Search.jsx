@@ -104,14 +104,7 @@ const Search = ({
       >
         Search
       </button>
-      <p className="searchP">
-        Search currently
-        <br />
-        works for:
-      </p>
-      <p className="searchP">records - ALL</p>
-      <p className="searchP">tapes - ALL</p>
-      <p className="searchP">cds - main</p>
+      <p className="searchP">CD Singles and Comps not searchable yet.</p>
     </>
   );
 };
