@@ -84,26 +84,27 @@
 
 .totalsWrapper h3 {
   text-align: center;
-  margin-block: 0.5em;
   color: hsl(300, 99%, 60%);
 }
 
 .totals {
   color: hsl(300, 99%, 60%);
-  font-size: 1.25em;
+  font-size: 1.125em;
   display: grid;
-  gap: 0.3em;
+  gap: 0.2em;
 }
 
-/* .totals p {
-    margin-top:
-} */
+.lastUpdate {
+  color: hsl(300, 99%, 60%);
+  margin-block-end: 1em;
+  font-size: 0.85;
+}
 
 @media screen and (width > 1700px) {
   .formatSelectBtn {
     padding-block: 1.5rem;
   }
   .totalsWrapper h3 {
-    margin-top: 50px;
+    margin-top: 2.5rem;
   }
 }

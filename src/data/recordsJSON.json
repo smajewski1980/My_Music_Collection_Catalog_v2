@@ -1,30 +1,36 @@
 [
   {
-    "Artist": "Big\" Tiny Little",
-    "Title": "Big\" Tiny's Little Black Book",
+    "Artist": "Sea Level",
+    "Title": "Sea Level",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4964
+  },
+  {
+    "Artist": "\"Big\" Tiny Little",
+    "Title": "\"Big\" Tiny's Little Black Book",
     "Rec_Box_ID": "33s Country 3",
     "ID": 4134
   },
   {
-    "Artist": "Fats\" Waller And His Rhythm",
+    "Artist": "\"Fats\" Waller And His Rhythm",
     "Title": "I Can't Give You Anything But Love // The Joint Is Jumpin'",
     "Rec_Box_ID": "78s Box 3",
     "ID": 1
   },
   {
-    "Artist": "Fats\" Waller And His Rhythm",
+    "Artist": "\"Fats\" Waller And His Rhythm",
     "Title": "I Won't Believe It // Imagine My Surprise",
     "Rec_Box_ID": "78s Box 3",
     "ID": 2
   },
   {
-    "Artist": "San Diego\" Tango Orchestra",
+    "Artist": "\"San Diego\" Tango Orchestra",
     "Title": "Midnight // Corcovado",
     "Rec_Box_ID": "45s Box 4",
     "ID": 3
   },
   {
-    "Artist": "Tennessee\" Ernie Ford",
+    "Artist": "\"Tennessee\" Ernie Ford",
     "Title": "This Lusty Land!",
     "Rec_Box_ID": "33s Country 1",
     "ID": 4
@@ -44,14 +50,14 @@
   {
     "Artist": "100 Proof Aged In Soul",
     "Title": "Somebody's Been Sleeping // I've Come To Save You",
-    "Rec_Box_ID": "45s Box 10",
-    "ID": 6
+    "Rec_Box_ID": "45s Box 4",
+    "ID": 7
   },
   {
     "Artist": "100 Proof Aged In Soul",
     "Title": "Somebody's Been Sleeping // I've Come To Save You",
-    "Rec_Box_ID": "45s Box 4",
-    "ID": 7
+    "Rec_Box_ID": "45s Box 10",
+    "ID": 6
   },
   {
     "Artist": "101 Strings",
@@ -62,7 +68,7 @@
   {
     "Artist": "101 Strings",
     "Title": "Music From Doctor Zhivago With Other Favorite Russian Melodies",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4723
   },
   {
@@ -154,6 +160,12 @@
     "Title": "Powerage",
     "Rec_Box_ID": "33s Pop/Rock 2",
     "ID": 14
+  },
+  {
+    "Artist": "Academy Of St. Martin-in-the-Fields Chamber Ensemble",
+    "Title": "Handel: Flute Sonatas / Sonaten Fur Flote",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5055
   },
   {
     "Artist": "Accept",
@@ -368,14 +380,14 @@
   {
     "Artist": "Al Jolson",
     "Title": "Avalon // Anniversary Song",
-    "Rec_Box_ID": "78s Box 1",
-    "ID": 43
+    "Rec_Box_ID": "78s Box 12",
+    "ID": 3990
   },
   {
     "Artist": "Al Jolson",
     "Title": "Avalon // Anniversary Song",
-    "Rec_Box_ID": "78s Box 12",
-    "ID": 3990
+    "Rec_Box_ID": "78s Box 1",
+    "ID": 43
   },
   {
     "Artist": "Al Jolson",
@@ -446,7 +458,7 @@
   {
     "Artist": "Al Martino",
     "Title": "Living A Lie",
-    "Rec_Box_ID": "33s Pop/ROck 14",
+    "Rec_Box_ID": "33s Pop/Rock 14",
     "ID": 3430
   },
   {
@@ -459,13 +471,13 @@
     "Artist": "Al Martino",
     "Title": "Spanish Eyes",
     "Rec_Box_ID": "33s Pop/Rock 14",
-    "ID": 3403
+    "ID": 3500
   },
   {
     "Artist": "Al Martino",
     "Title": "Spanish Eyes",
     "Rec_Box_ID": "33s Pop/Rock 14",
-    "ID": 3500
+    "ID": 3403
   },
   {
     "Artist": "Al Martino",
@@ -512,13 +524,13 @@
   {
     "Artist": "Alabama",
     "Title": "(NEW) The Touch",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 24
   },
   {
     "Artist": "Alabama",
     "Title": "(NEW)The Touch",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4554
   },
   {
@@ -538,6 +550,12 @@
     "Title": "The Closer You Get...",
     "Rec_Box_ID": "33s Country 3",
     "ID": 4596
+  },
+  {
+    "Artist": "Alabama",
+    "Title": "Why Lady Why // I Wanna Come Over",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5095
   },
   {
     "Artist": "Alban Berg",
@@ -618,9 +636,15 @@
     "ID": 51
   },
   {
+    "Artist": "All In the Family",
+    "Title": "All In The Family",
+    "Rec_Box_ID": "33s Comedy 2",
+    "ID": 4927
+  },
+  {
     "Artist": "All In The Family",
     "Title": "All In The Family",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 58
   },
   {
@@ -650,25 +674,25 @@
   {
     "Artist": "Allan Sherman",
     "Title": "My Name Is Allan: Allan Sherman Sings Great Movie Hits & Songs From The Cutting Room Floor",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 54
   },
   {
     "Artist": "Allan Sherman",
     "Title": "My Son, The Celebrity",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 55
   },
   {
     "Artist": "Allan Sherman",
     "Title": "My Son, The Folk Singer",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 56
   },
   {
     "Artist": "Allan Sherman",
     "Title": "My Son, The Nut",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 57
   },
   {
@@ -721,6 +745,12 @@
   },
   {
     "Artist": "American String Quartet",
+    "Title": "(NEW)Dvorak: String Quartets In D Minor, Op. 34 And E-Flat Major, Op. 51",
+    "Rec_Box_ID": "33s NEW 2",
+    "ID": 5023
+  },
+  {
+    "Artist": "American String Quartet",
     "Title": "Dvorak: String Quartets In D Minor, Op. 34 And E-Flat Major, Op. 51",
     "Rec_Box_ID": "33s Classical 3",
     "ID": 3844
@@ -734,7 +764,7 @@
   {
     "Artist": "Amos 'n Andy",
     "Title": "Vintage Radio Broadcasts",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 73
   },
   {
@@ -745,14 +775,14 @@
   },
   {
     "Artist": "Andre Kostelanetz",
-    "Title": "Oklahoma\" Medley // Conclusion",
+    "Title": "\"Oklahoma\" Medley // Conclusion",
     "Rec_Box_ID": "78s Box 6",
     "ID": 74
   },
   {
     "Artist": "Andre Kostelanetz",
     "Title": "(NEW)Greatest Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4093
   },
   {
@@ -760,6 +790,12 @@
     "Title": "Blues-Opera",
     "Rec_Box_ID": "33s Classical 2",
     "ID": 75
+  },
+  {
+    "Artist": "Andre Kostelanetz",
+    "Title": "Grand Canyon Suite",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5081
   },
   {
     "Artist": "Andre Kostelanetz",
@@ -877,7 +913,7 @@
   },
   {
     "Artist": "Andre Kostelanetz And His Orchestra",
-    "Title": "When You're Away-Kiss Me Again-A Kiss In The Dark // Habanera From \"Natoma",
+    "Title": "When You're Away-Kiss Me Again-A Kiss In The Dark // Habanera From \"Natoma\"",
     "Rec_Box_ID": "78s Box 5",
     "ID": 92
   },
@@ -896,7 +932,7 @@
   {
     "Artist": "Andre Watts",
     "Title": "(NEW)Schubert: Wanderer Fantasy - Sonata In A Minor - Waltzes",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 2",
     "ID": 4843
   },
   {
@@ -1003,7 +1039,7 @@
   },
   {
     "Artist": "Andy Williams",
-    "Title": "Love Theme From \"The Godfather",
+    "Title": "Love Theme From \"The Godfather\"",
     "Rec_Box_ID": "33s Pop/Rock 14",
     "ID": 3454
   },
@@ -1116,6 +1152,18 @@
     "ID": 4050
   },
   {
+    "Artist": "Anthony Newman",
+    "Title": "Bach: Well-Tempered Clavier Book 2 Record 1",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5049
+  },
+  {
+    "Artist": "Anthony Newman",
+    "Title": "Bach: Well-Tempered Clavier Book 2 Record 2",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5048
+  },
+  {
     "Artist": "April Wine",
     "Title": "You Could Have Been A Lady // Teacher",
     "Rec_Box_ID": "45s Box 10",
@@ -1156,6 +1204,12 @@
     "Title": "Who's Zoomin' Who",
     "Rec_Box_ID": "12\" Singles",
     "ID": 3735
+  },
+  {
+    "Artist": "Aretha Franklin & Whitney Houston",
+    "Title": "It Isn't, It Wasn't, It Ain't Never Gonna Be",
+    "Rec_Box_ID": "12\" Singles",
+    "ID": 4998
   },
   {
     "Artist": "Arlene Harden",
@@ -1250,19 +1304,19 @@
   {
     "Artist": "Arthur Fiedler With The Boston Pops Orchestra",
     "Title": "(New) Overtures Record 1",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 127
   },
   {
     "Artist": "Arthur Fiedler With The Boston Pops Orchestra",
     "Title": "(New) Overtures Record 2",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 128
   },
   {
     "Artist": "Arthur Fiedler With The Boston Pops Orchestra",
     "Title": "(New) Overtures Record 3",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 129
   },
   {
@@ -1274,13 +1328,13 @@
   {
     "Artist": "Arthur Poister, Organ",
     "Title": "(NEW) A Bach Organ Recital",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4840
   },
   {
     "Artist": "Arthur Poister, Organ",
     "Title": "(NEW)A Bach Organ Recital",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4841
   },
   {
@@ -1288,6 +1342,12 @@
     "Title": "Hail Columbia / Columbia The Gem Of The Ocean // America (My Country 'Tis Of Thee)",
     "Rec_Box_ID": "78s Box 13",
     "ID": 4380
+  },
+  {
+    "Artist": "Artie Shaw",
+    "Title": "Mr. Clarinet",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5088
   },
   {
     "Artist": "Artie Shaw",
@@ -1332,6 +1392,30 @@
     "ID": 4421
   },
   {
+    "Artist": "Artur Rubenstein",
+    "Title": "Prelude, Chorale And Fugue/Chaconne/Rondo In A Minor",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4942
+  },
+  {
+    "Artist": "Artur Rubenstein, Piano; St. Louis Symphony Orchestra; Vladimir Golschmann, Cond.",
+    "Title": "Falla: Nights In The Garden Of Spain Record 1",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5034
+  },
+  {
+    "Artist": "Artur Rubenstein, Piano; St. Louis Symphony Orchestra; Vladimir Golschmann, Cond.",
+    "Title": "Falla: Nights In The Garden Of Spain Record 2",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5033
+  },
+  {
+    "Artist": "Artur Rubenstein, Piano; St. Louis Symphony Orchestra; Vladimir Golschmann, Cond.",
+    "Title": "Falla: Nights In The Garden Of Spain Record 3",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5032
+  },
+  {
     "Artist": "Artur Schnabel",
     "Title": "Invitation To The Dance",
     "Rec_Box_ID": "78s Box 7",
@@ -1342,6 +1426,12 @@
     "Title": "Toscanini Plays Your Favorites",
     "Rec_Box_ID": "33s Classical 1",
     "ID": 138
+  },
+  {
+    "Artist": "Arturo Toscanini And The NBC Symphony Orchestra",
+    "Title": "A Midsummer Night's Dream",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5067
   },
   {
     "Artist": "Ashley Miller",
@@ -1388,14 +1478,14 @@
   {
     "Artist": "Aztec Two-Step",
     "Title": "Aztec Two-Step",
-    "Rec_Box_ID": "33s Pop/Rock 8",
-    "ID": 143
+    "Rec_Box_ID": "33s Pop/Rock 20",
+    "ID": 4759
   },
   {
     "Artist": "Aztec Two-Step",
     "Title": "Aztec Two-Step",
-    "Rec_Box_ID": "33s Pop/Rock 20",
-    "ID": 4759
+    "Rec_Box_ID": "33s Pop/Rock 8",
+    "ID": 143
   },
   {
     "Artist": "Aztec Two-Step",
@@ -1532,6 +1622,12 @@
   {
     "Artist": "Baja Marimba Band",
     "Title": "Watch Out!",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4947
+  },
+  {
+    "Artist": "Baja Marimba Band",
+    "Title": "Watch Out!",
     "Rec_Box_ID": "33s Jazz 6",
     "ID": 2993
   },
@@ -1562,7 +1658,7 @@
   {
     "Artist": "Barbara Cook And Theodore Bikel",
     "Title": "The King And I",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4254
   },
   {
@@ -1576,6 +1672,12 @@
     "Title": "'Till You're Gone // You're Not Supposed To Be Here",
     "Rec_Box_ID": "45s Box 8",
     "ID": 164
+  },
+  {
+    "Artist": "Barbara Mandrell",
+    "Title": "The Best Of Barbara Mandrell",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4953
   },
   {
     "Artist": "Barbara Mandrell",
@@ -1736,14 +1838,14 @@
   {
     "Artist": "Barry Manilow",
     "Title": "2:00 AM Paradise Cafe",
-    "Rec_Box_ID": "33s Pop/Rock 8",
-    "ID": 175
+    "Rec_Box_ID": "33s Pop/Rock 17",
+    "ID": 4022
   },
   {
     "Artist": "Barry Manilow",
     "Title": "2:00 AM Paradise Cafe",
-    "Rec_Box_ID": "33s Pop/Rock 17",
-    "ID": 4022
+    "Rec_Box_ID": "33s Pop/Rock 8",
+    "ID": 175
   },
   {
     "Artist": "Barry Manilow",
@@ -1815,13 +1917,13 @@
     "Artist": "Barry Manilow",
     "Title": "I Write The Songs // A Nice Boy Like Me",
     "Rec_Box_ID": "45s Box 9",
-    "ID": 186
+    "ID": 187
   },
   {
     "Artist": "Barry Manilow",
     "Title": "I Write The Songs // A Nice Boy Like Me",
     "Rec_Box_ID": "45s Box 9",
-    "ID": 187
+    "ID": 186
   },
   {
     "Artist": "Barry Manilow",
@@ -1868,14 +1970,14 @@
   {
     "Artist": "Barry Manilow",
     "Title": "Tryin' To Get The Feeling",
-    "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 192
+    "Rec_Box_ID": "33s Pop/Rock 7",
+    "ID": 193
   },
   {
     "Artist": "Barry Manilow",
     "Title": "Tryin' To Get The Feeling",
-    "Rec_Box_ID": "33s Pop/Rock 7",
-    "ID": 193
+    "Rec_Box_ID": "33s Pop/Rock 4",
+    "ID": 192
   },
   {
     "Artist": "Barry Manilow",
@@ -1976,13 +2078,13 @@
   {
     "Artist": "Belle Barth",
     "Title": "I Don't Mean To Be Vulgar, But It's Profitable",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 207
   },
   {
     "Artist": "Belle Barth",
     "Title": "My Next Story Is A Little Risque",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 208
   },
   {
@@ -2070,6 +2172,12 @@
     "ID": 215
   },
   {
+    "Artist": "Beny More",
+    "Title": "The Most From Beny More",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5054
+  },
+  {
     "Artist": "Bergh's Concert Band",
     "Title": "Lights Out // American Patrol",
     "Rec_Box_ID": "78s Box 8",
@@ -2114,14 +2222,14 @@
   {
     "Artist": "Bert Kaempfert And His Orchestra",
     "Title": "Bert Kaempfert's Greatest Hits",
-    "Rec_Box_ID": "33s Jazz 7",
-    "ID": 4277
+    "Rec_Box_ID": "33s Jazz 6",
+    "ID": 2945
   },
   {
     "Artist": "Bert Kaempfert And His Orchestra",
     "Title": "Bert Kaempfert's Greatest Hits",
-    "Rec_Box_ID": "33s Jazz 6",
-    "ID": 2945
+    "Rec_Box_ID": "33s Jazz 7",
+    "ID": 4277
   },
   {
     "Artist": "Bert Kaempfert And His Orchestra",
@@ -2252,7 +2360,7 @@
   {
     "Artist": "Bill Cosby",
     "Title": "Wonderfulness",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4130
   },
   {
@@ -2346,6 +2454,12 @@
     "ID": 3041
   },
   {
+    "Artist": "Billy Crystal",
+    "Title": "You Look Marvelous",
+    "Rec_Box_ID": "12\" Singles",
+    "ID": 4928
+  },
+  {
     "Artist": "Billy Eckstine",
     "Title": "A Man Doesn't Know // Careless Lips",
     "Rec_Box_ID": "45s Box 1",
@@ -2362,6 +2476,12 @@
     "Title": "Out In The Cold Again // Once",
     "Rec_Box_ID": "78s Box 9",
     "ID": 242
+  },
+  {
+    "Artist": "Billy Eckstine/Arthur Prysock/Cliff Butler",
+    "Title": "Billy Eckstine Meets Arthur Prysock",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5084
   },
   {
     "Artist": "Billy Idol",
@@ -2534,7 +2654,7 @@
   {
     "Artist": "Billy Walker",
     "Title": "(NEW)Live!",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 261
   },
   {
@@ -2726,14 +2846,20 @@
   {
     "Artist": "Black Sabbath",
     "Title": "Paranoid",
+    "Rec_Box_ID": "33s Pop/Rock 4",
+    "ID": 289
+  },
+  {
+    "Artist": "Black Sabbath",
+    "Title": "Paranoid",
     "Rec_Box_ID": "33s Pop/Rock 12",
     "ID": 3135
   },
   {
     "Artist": "Black Sabbath",
-    "Title": "Paranoid",
-    "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 289
+    "Title": "Paranoid(2023)",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5124
   },
   {
     "Artist": "Blanche Ring",
@@ -2774,26 +2900,26 @@
   {
     "Artist": "Blood, Sweat & Tears",
     "Title": "Blood, Sweat & Tears",
-    "Rec_Box_ID": "33s Pop/Rock 1",
-    "ID": 294
-  },
-  {
-    "Artist": "Blood, Sweat & Tears",
-    "Title": "Blood, Sweat & Tears",
     "Rec_Box_ID": "33s Pop/Rock 20",
     "ID": 4728
   },
   {
     "Artist": "Blood, Sweat & Tears",
-    "Title": "Blood, Sweat & Tears 3",
-    "Rec_Box_ID": "33s Pop/Rock 20",
-    "ID": 4729
+    "Title": "Blood, Sweat & Tears",
+    "Rec_Box_ID": "33s Pop/Rock 1",
+    "ID": 294
   },
   {
     "Artist": "Blood, Sweat & Tears",
     "Title": "Blood, Sweat & Tears 3",
     "Rec_Box_ID": "33s Pop/Rock 10",
     "ID": 2887
+  },
+  {
+    "Artist": "Blood, Sweat & Tears",
+    "Title": "Blood, Sweat & Tears 3",
+    "Rec_Box_ID": "33s Pop/Rock 20",
+    "ID": 4729
   },
   {
     "Artist": "Blood, Sweat & Tears",
@@ -2924,25 +3050,25 @@
   {
     "Artist": "Bob Newhart",
     "Title": "Behind The Button-Down Mind Of Bob Newhart",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 328
   },
   {
     "Artist": "Bob Newhart",
     "Title": "The Button-Down Mind Of Bob Newhart",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2877
   },
   {
     "Artist": "Bob Newhart",
     "Title": "The Button-Down Mind Strikes Back!",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2875
   },
   {
     "Artist": "Bob Newhart",
     "Title": "The Button-Down Mind Strikes Back!",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2876
   },
   {
@@ -2984,7 +3110,7 @@
   {
     "Artist": "Bobby Bare",
     "Title": "(NEW)Folsom River Blues",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 300
   },
   {
@@ -3104,14 +3230,14 @@
   {
     "Artist": "Bobby Sherman",
     "Title": "Julie, Do Ya Love Me // Spend Some Time Lovin' Me",
-    "Rec_Box_ID": "45s Box 4",
-    "ID": 311
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 312
   },
   {
     "Artist": "Bobby Sherman",
     "Title": "Julie, Do Ya Love Me // Spend Some Time Lovin' Me",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 312
+    "Rec_Box_ID": "45s Box 4",
+    "ID": 311
   },
   {
     "Artist": "Bobby Sherman",
@@ -3142,6 +3268,12 @@
     "Title": "I Love How You Love Me // Little Barefoot Boy",
     "Rec_Box_ID": "45s Box 7",
     "ID": 316
+  },
+  {
+    "Artist": "Bobby Vinton",
+    "Title": "Roses Are Red",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5011
   },
   {
     "Artist": "Bobby Vinton",
@@ -3343,7 +3475,7 @@
   },
   {
     "Artist": "Boston Pops; Arthur Fiedler, Cond.",
-    "Title": "Highlights From An Evening At The \"Pops",
+    "Title": "Highlights From An Evening At The \"Pops\"",
     "Rec_Box_ID": "33s Classical 3",
     "ID": 3482
   },
@@ -3392,8 +3524,14 @@
   {
     "Artist": "Boxcar Willie",
     "Title": "(NEW)Last Train To Heaven",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 357
+  },
+  {
+    "Artist": "Boxcar Willie",
+    "Title": "King Of The Road 20 Great Tracks",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4952
   },
   {
     "Artist": "Boys Brigade",
@@ -3522,6 +3660,12 @@
     "ID": 3738
   },
   {
+    "Artist": "Brian Slawson",
+    "Title": "Bach On Wood",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5062
+  },
+  {
     "Artist": "Brilliant",
     "Title": "Kiss The Lips Of Life",
     "Rec_Box_ID": "33s Pop/Rock 20",
@@ -3590,14 +3734,14 @@
   {
     "Artist": "Bruce Springsteen",
     "Title": "The Wild, The Innocent & The E Street Shuffle",
-    "Rec_Box_ID": "33s Pop/Rock 19",
-    "ID": 4403
+    "Rec_Box_ID": "33s Pop/Rock 2",
+    "ID": 376
   },
   {
     "Artist": "Bruce Springsteen",
     "Title": "The Wild, The Innocent & The E Street Shuffle",
-    "Rec_Box_ID": "33s Pop/Rock 2",
-    "ID": 376
+    "Rec_Box_ID": "33s Pop/Rock 19",
+    "ID": 4403
   },
   {
     "Artist": "Bruna Castagna",
@@ -3728,7 +3872,7 @@
   {
     "Artist": "Built To Spill",
     "Title": "There's Nothing Wrong With Love",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2897
   },
   {
@@ -3902,7 +4046,7 @@
   {
     "Artist": "Carl Butler & Pearl",
     "Title": "(NEW)Carl Butler & Pearl's Greatest Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 405
   },
   {
@@ -3932,7 +4076,7 @@
   {
     "Artist": "Carl Smith",
     "Title": "(NEW)Greatest Hits Volume One",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 409
   },
   {
@@ -3946,6 +4090,12 @@
     "Title": "Bach Organ Music",
     "Rec_Box_ID": "33s Classical 1",
     "ID": 412
+  },
+  {
+    "Artist": "Carlos Santana & Mahavishnu John McLaughlin",
+    "Title": "Love Devotion Surrender",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5008
   },
   {
     "Artist": "Carlton Dance Players / Moulin Rouge Orchestra",
@@ -4064,14 +4214,14 @@
   {
     "Artist": "Carpenters",
     "Title": "Goodbye To Love // Crystal Lullaby",
-    "Rec_Box_ID": "45s Box 4",
-    "ID": 428
+    "Rec_Box_ID": "45s Box 7",
+    "ID": 429
   },
   {
     "Artist": "Carpenters",
     "Title": "Goodbye To Love // Crystal Lullaby",
-    "Rec_Box_ID": "45s Box 7",
-    "ID": 429
+    "Rec_Box_ID": "45s Box 4",
+    "ID": 428
   },
   {
     "Artist": "Carpenters",
@@ -4158,6 +4308,12 @@
     "ID": 440
   },
   {
+    "Artist": "Cesare Siepi",
+    "Title": "A Verdi Recital By Cesare Siepi",
+    "Rec_Box_ID": "33s 10",
+    "ID": 5096
+  },
+  {
     "Artist": "Chad Mitchell Trio",
     "Title": "Singin' Our Mind",
     "Rec_Box_ID": "33s Pop/Rock 5",
@@ -4180,6 +4336,12 @@
     "Title": "The Oldest Christmas Story // The Story Of The Three Wise Men",
     "Rec_Box_ID": "78s Box 1",
     "ID": 444
+  },
+  {
+    "Artist": "Charles Margulis",
+    "Title": "Solid Gold Horn",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5111
   },
   {
     "Artist": "Charlie",
@@ -4220,7 +4382,7 @@
   {
     "Artist": "Charlie Pride",
     "Title": "(NEW)Country Charlie Pride",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 447
   },
   {
@@ -4274,7 +4436,7 @@
   {
     "Artist": "Cheech & Chong",
     "Title": "Los Cochinos",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3916
   },
   {
@@ -4352,7 +4514,7 @@
   {
     "Artist": "Chic",
     "Title": "(NEW)Risque",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4552
   },
   {
@@ -4400,14 +4562,14 @@
   {
     "Artist": "Chicago",
     "Title": "You're The Inspiration // Once In A Lifetime",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 466
+    "Rec_Box_ID": "45s Box 2",
+    "ID": 465
   },
   {
     "Artist": "Chicago",
     "Title": "You're The Inspiration // Once In A Lifetime",
-    "Rec_Box_ID": "45s Box 2",
-    "ID": 465
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 466
   },
   {
     "Artist": "Chicago Transit Authority",
@@ -4490,14 +4652,14 @@
   {
     "Artist": "Christopher Cross",
     "Title": "Arthur's Theme (Best That You Can Do) // Minstrel Gigolo",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 473
+    "Rec_Box_ID": "45s Box 11",
+    "ID": 4190
   },
   {
     "Artist": "Christopher Cross",
     "Title": "Arthur's Theme (Best That You Can Do) // Minstrel Gigolo",
-    "Rec_Box_ID": "45s Box 11",
-    "ID": 4190
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 473
   },
   {
     "Artist": "Christopher Cross",
@@ -4600,6 +4762,12 @@
     "Title": "Encore The Chuck Mangione Concerts",
     "Rec_Box_ID": "33s Jazz 1",
     "ID": 484
+  },
+  {
+    "Artist": "Chuck Mangione",
+    "Title": "Feels So Good",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4961
   },
   {
     "Artist": "Chuck Mangione",
@@ -4824,6 +4992,12 @@
     "ID": 3084
   },
   {
+    "Artist": "Compagnia Dialettale Napoletana; Da Enzo Vitale, Dir.",
+    "Title": "A Prutesta",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5094
+  },
+  {
     "Artist": "Con Funk Shun",
     "Title": "Fever",
     "Rec_Box_ID": "33s Pop/Rock 12",
@@ -4886,13 +5060,13 @@
   {
     "Artist": "Conway Twitty",
     "Title": "(NEW) Classic Conway",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 505
   },
   {
     "Artist": "Conway Twitty",
     "Title": "(New)By Heart",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 504
   },
   {
@@ -4982,7 +5156,7 @@
   {
     "Artist": "Count Basie, Joe Williams And Art Blakey",
     "Title": "(NEW)Sessions, Live",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 510
   },
   {
@@ -5114,14 +5288,14 @@
   {
     "Artist": "Dan Fogelberg",
     "Title": "Greatest Hits",
-    "Rec_Box_ID": "33s Pop/Rock 2",
-    "ID": 526
+    "Rec_Box_ID": "33s Pop/Rock 9",
+    "ID": 527
   },
   {
     "Artist": "Dan Fogelberg",
     "Title": "Greatest Hits",
-    "Rec_Box_ID": "33s Pop/Rock 9",
-    "ID": 527
+    "Rec_Box_ID": "33s Pop/Rock 2",
+    "ID": 526
   },
   {
     "Artist": "Dan Fogelberg",
@@ -5198,7 +5372,7 @@
   {
     "Artist": "Daryl Hall",
     "Title": "(NEW)Three Hearts In The Happy Ending Machine",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 540
   },
   {
@@ -5220,6 +5394,12 @@
     "ID": 543
   },
   {
+    "Artist": "Dave & Sugar",
+    "Title": "Tear Time",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4959
+  },
+  {
     "Artist": "Dave Appell And His Orchestra",
     "Title": "Happy Jose // Noivous",
     "Rec_Box_ID": "45s Box 4",
@@ -5234,7 +5414,7 @@
   {
     "Artist": "Dave Gardner",
     "Title": "It's Bigger Than The Both Of Us",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3613
   },
   {
@@ -5274,6 +5454,12 @@
     "ID": 3409
   },
   {
+    "Artist": "Dave Rowland & Sugar",
+    "Title": "Pleasure",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5051
+  },
+  {
     "Artist": "David Amram",
     "Title": "Autobiography",
     "Rec_Box_ID": "33s Classical 3",
@@ -5300,7 +5486,7 @@
   {
     "Artist": "David Frye",
     "Title": "I Am The President",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 551
   },
   {
@@ -5334,16 +5520,22 @@
     "ID": 4115
   },
   {
+    "Artist": "David Oistrach",
+    "Title": "Violin Recital",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5101
+  },
+  {
+    "Artist": "David Oistrakh, Violin",
+    "Title": "Violinkonzert G-Moll Op.26",
+    "Rec_Box_ID": "33s 10",
+    "ID": 5019
+  },
+  {
     "Artist": "David Rose And His Orchestra",
     "Title": "Holiday For Trombones // Midnight On The Cliffs",
     "Rec_Box_ID": "78s Box 3",
     "ID": 555
-  },
-  {
-    "Artist": "David Rose And His Orchestra",
-    "Title": "Our Waltz // Holiday For Strings",
-    "Rec_Box_ID": "78s Box 11",
-    "ID": 3879
   },
   {
     "Artist": "David Rose And His Orchestra",
@@ -5356,6 +5548,12 @@
     "Title": "Our Waltz // Holiday For Strings",
     "Rec_Box_ID": "78s Box 1",
     "ID": 556
+  },
+  {
+    "Artist": "David Rose And His Orchestra",
+    "Title": "Our Waltz // Holiday For Strings",
+    "Rec_Box_ID": "78s Box 11",
+    "ID": 3879
   },
   {
     "Artist": "David Rose And His Orchestra",
@@ -5386,6 +5584,12 @@
     "Title": "Straight To The Heart",
     "Rec_Box_ID": "33s Jazz 9",
     "ID": 4762
+  },
+  {
+    "Artist": "David Whitfield",
+    "Title": "Cara Mia",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5015
   },
   {
     "Artist": "David Whitfield With Mantovani",
@@ -5438,14 +5642,14 @@
   {
     "Artist": "Dean Martin",
     "Title": "Dino: Italian Love Songs",
-    "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 568
+    "Rec_Box_ID": "33s Pop/Rock 20",
+    "ID": 4709
   },
   {
     "Artist": "Dean Martin",
     "Title": "Dino: Italian Love Songs",
-    "Rec_Box_ID": "33s Pop/Rock 20",
-    "ID": 4709
+    "Rec_Box_ID": "33s Pop/Rock 4",
+    "ID": 568
   },
   {
     "Artist": "Dean Martin",
@@ -5462,14 +5666,14 @@
   {
     "Artist": "Dean Martin",
     "Title": "Everybody Loves Somebody // A Little Voice",
-    "Rec_Box_ID": "45s Box 4",
-    "ID": 569
+    "Rec_Box_ID": "45s Box 5",
+    "ID": 570
   },
   {
     "Artist": "Dean Martin",
     "Title": "Everybody Loves Somebody // A Little Voice",
-    "Rec_Box_ID": "45s Box 5",
-    "ID": 570
+    "Rec_Box_ID": "45s Box 4",
+    "ID": 569
   },
   {
     "Artist": "Dean Martin",
@@ -5504,14 +5708,14 @@
   {
     "Artist": "Dean Martin",
     "Title": "Memories Are Made Of This // Change Of Heart",
-    "Rec_Box_ID": "78s Box 11",
-    "ID": 3956
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 574
   },
   {
     "Artist": "Dean Martin",
     "Title": "Memories Are Made Of This // Change Of Heart",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 574
+    "Rec_Box_ID": "78s Box 11",
+    "ID": 3956
   },
   {
     "Artist": "Dean Martin",
@@ -5828,7 +6032,7 @@
   {
     "Artist": "Dick Haymes",
     "Title": "(NEW)The Best Of Dick Haymes",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 604
   },
   {
@@ -6025,6 +6229,12 @@
   },
   {
     "Artist": "Dionne Warwick",
+    "Title": "Here Where There Is Love",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4935
+  },
+  {
+    "Artist": "Dionne Warwick",
     "Title": "Promises, Promises",
     "Rec_Box_ID": "33s Pop/Rock 1",
     "ID": 628
@@ -6068,13 +6278,13 @@
   {
     "Artist": "Disney",
     "Title": "(NEW)Jungle Book(Picturesound Program)",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4499
   },
   {
     "Artist": "Disney",
     "Title": "(NEW)The Aristocats(Picturesound Program)",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4500
   },
   {
@@ -6158,7 +6368,7 @@
   {
     "Artist": "Don Francisco",
     "Title": "(NEW)The Traveler",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4807
   },
   {
@@ -6182,7 +6392,7 @@
   {
     "Artist": "Don Lonie",
     "Title": "Still Talking",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4528
   },
   {
@@ -6194,7 +6404,7 @@
   {
     "Artist": "Don Rickles",
     "Title": "Hello Dummy!",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3557
   },
   {
@@ -6272,14 +6482,14 @@
   {
     "Artist": "Donna Summer",
     "Title": "Love To Love You Baby",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 650
+    "Rec_Box_ID": "33s Pop/Rock 5",
+    "ID": 649
   },
   {
     "Artist": "Donna Summer",
     "Title": "Love To Love You Baby",
-    "Rec_Box_ID": "33s Pop/Rock 5",
-    "ID": 649
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 650
   },
   {
     "Artist": "Donna Summer",
@@ -6298,6 +6508,12 @@
     "Title": "The Wanderer",
     "Rec_Box_ID": "33s Pop/Rock 2",
     "ID": 653
+  },
+  {
+    "Artist": "Donna Summer",
+    "Title": "The Wanderer // Stop Me",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5093
   },
   {
     "Artist": "Donnie And Marie",
@@ -6338,7 +6554,7 @@
   {
     "Artist": "Dora Hall",
     "Title": "(NEW)One More Time",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 658
   },
   {
@@ -6352,6 +6568,12 @@
     "Title": "Day Dreams",
     "Rec_Box_ID": "33s Pop/Rock 7",
     "ID": 660
+  },
+  {
+    "Artist": "Doris Day",
+    "Title": "Day In Hollywood",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4975
   },
   {
     "Artist": "Doris Day",
@@ -6492,9 +6714,15 @@
     "ID": 4274
   },
   {
+    "Artist": "Duke Ellington Ans His orchestra",
+    "Title": "The Best Of Duke Ellington And His Famous Orchestra",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5131
+  },
+  {
     "Artist": "Duran Duran",
     "Title": "Rio // Hold Back The Rain",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3774
   },
   {
@@ -6518,7 +6746,7 @@
   {
     "Artist": "E. Foelster, Organ",
     "Title": "(NEW)Sammartini, Vivaldi, Walther, Mozart",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4842
   },
   {
@@ -6596,7 +6824,7 @@
   {
     "Artist": "Earle Doud And Alen Robin",
     "Title": "Welcome To The LBJ Ranch",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 678
   },
   {
@@ -6622,6 +6850,12 @@
     "Title": "Contenders",
     "Rec_Box_ID": "33s Pop/Rock 21",
     "ID": 4811
+  },
+  {
+    "Artist": "Eastman-Rochester Symphony Orchestra; Howard Hanson, Cond.",
+    "Title": "Harris: Symphony No.3 / Hanson: Symphony No. 4",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5061
   },
   {
     "Artist": "Eddie \"Piano\" Miller Trio",
@@ -6650,7 +6884,7 @@
   {
     "Artist": "Eddie Cantor",
     "Title": "Carnegie Hall Concert",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 687
   },
   {
@@ -6697,7 +6931,7 @@
   },
   {
     "Artist": "Eddie Fisher",
-    "Title": "Oh! My Papa (O Mein Papa) // I Never Missed Your Sweet \"Hello\" Until You Said \"Goodbye",
+    "Title": "Oh! My Papa (O Mein Papa) // I Never Missed Your Sweet \"Hello\" Until You Said \"Goodbye\"",
     "Rec_Box_ID": "78s Box 8",
     "ID": 692
   },
@@ -6782,7 +7016,7 @@
   {
     "Artist": "Eddy Arnold",
     "Title": "(NEW)My World",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 704
   },
   {
@@ -6796,6 +7030,12 @@
     "Title": "Texarcana Baby // Bouquet Of Roses",
     "Rec_Box_ID": "78s Box 9",
     "ID": 706
+  },
+  {
+    "Artist": "Eddy Duchin",
+    "Title": "The Eddy Duchin Story - Original Eddy Duchin Recordings",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 4919
   },
   {
     "Artist": "Eddy Duchin And Buddy Clark",
@@ -6826,6 +7066,12 @@
     "Title": "Le Disque D'Or D'Edith Piaf",
     "Rec_Box_ID": "33s Pop/Rock 16",
     "ID": 3796
+  },
+  {
+    "Artist": "Edith Piaf",
+    "Title": "The Best Of Edith Piaf Volume II",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4946
   },
   {
     "Artist": "Edmundo Ros & His Orchestra",
@@ -6898,6 +7144,18 @@
     "Title": "Livin' Thing // Ma-Ma-Ma Belle",
     "Rec_Box_ID": "45s Box 9",
     "ID": 719
+  },
+  {
+    "Artist": "Electric Light Orchestra",
+    "Title": "Out Of The Blue Record 1",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5005
+  },
+  {
+    "Artist": "Electric Light Orchestra",
+    "Title": "Out Of The Blue Record 2",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5004
   },
   {
     "Artist": "Electric Light Orchestra",
@@ -7088,7 +7346,7 @@
   {
     "Artist": "Elvis Presley",
     "Title": "(NEW)Elvis' Christmas Album",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 742
   },
   {
@@ -7096,6 +7354,12 @@
     "Title": "Can't Help Falling In Love // Rock-A-Hula Baby",
     "Rec_Box_ID": "45s Box 8",
     "ID": 743
+  },
+  {
+    "Artist": "Elvis Presley",
+    "Title": "Elvis In Person At The International Hotel Las Vegas",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4971
   },
   {
     "Artist": "Elvis Presley",
@@ -7172,7 +7436,7 @@
   {
     "Artist": "Engelbert Humperdinck",
     "Title": "(NEW)Miracles By Engelbert Humperdinck",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 754
   },
   {
@@ -7226,14 +7490,14 @@
   {
     "Artist": "Engelbert Humperdinck",
     "Title": "Release Me",
-    "Rec_Box_ID": "33s Pop/Rock 6",
-    "ID": 757
+    "Rec_Box_ID": "33s Pop/Rock 17",
+    "ID": 4045
   },
   {
     "Artist": "Engelbert Humperdinck",
     "Title": "Release Me",
-    "Rec_Box_ID": "33s Pop/Rock 17",
-    "ID": 4045
+    "Rec_Box_ID": "33s Pop/Rock 6",
+    "ID": 757
   },
   {
     "Artist": "Engelbert Humperdinck",
@@ -7252,6 +7516,12 @@
     "Title": "This Is What You Mean To Me // World Without Music",
     "Rec_Box_ID": "45s Box 9",
     "ID": 760
+  },
+  {
+    "Artist": "Engelbert Humperdinck",
+    "Title": "This Moment In Time",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5028
   },
   {
     "Artist": "Engelbert Humperdinck",
@@ -7376,7 +7646,7 @@
   {
     "Artist": "Enzo Stuart",
     "Title": "(NEW)Thats-A-Nice",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 772
   },
   {
@@ -7390,6 +7660,12 @@
     "Title": "They Can't Take Away Our Music // Home Cookin'",
     "Rec_Box_ID": "45s Box 4",
     "ID": 774
+  },
+  {
+    "Artist": "Eric Burdon Burdon And The Animals",
+    "Title": "The Greatest Hits Of Eric Burdon And The Animals",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5126
   },
   {
     "Artist": "Eric Carmen",
@@ -7506,6 +7782,12 @@
     "ID": 3080
   },
   {
+    "Artist": "Ethel Merman; Cast",
+    "Title": "Annie Get Your Gun",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5043
+  },
+  {
     "Artist": "Ethel Smith",
     "Title": "Parade Of The Wooden Soldiers // By The Waters Of Minnetonka",
     "Rec_Box_ID": "78s Box 3",
@@ -7550,7 +7832,7 @@
   {
     "Artist": "Eugene Ormandy And The Philadelphia Orchestra",
     "Title": "(NEW)Prokofiev / Britten: Peter And The Wolf / A Young Person's Guide To The Orchestra",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 791
   },
   {
@@ -7644,6 +7926,12 @@
     "ID": 4125
   },
   {
+    "Artist": "Fabian",
+    "Title": "16 Greatest Hits",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4948
+  },
+  {
     "Artist": "Fabulous Farquahr",
     "Title": "Fabulous Farquahr",
     "Rec_Box_ID": "33s Pop/Rock 6",
@@ -7652,7 +7940,7 @@
   {
     "Artist": "Falco",
     "Title": "Rock Me Amadeus(The American Edit) // (The Canadian Version)",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3773
   },
   {
@@ -7710,6 +7998,18 @@
     "ID": 807
   },
   {
+    "Artist": "Fausto Cleva; The Metropolitan Opera And Chorus",
+    "Title": "Puccini:",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4924
+  },
+  {
+    "Artist": "Faye Tucker",
+    "Title": "Blues From A Broken Hearted Country Gal",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5109
+  },
+  {
     "Artist": "Feodor Chaliapin",
     "Title": "Elegie // The Moon Is High In The Sky",
     "Rec_Box_ID": "78s Box 6",
@@ -7724,7 +8024,7 @@
   {
     "Artist": "Ferlin Husky",
     "Title": "(NEW)Mem'ries",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 810
   },
   {
@@ -7795,14 +8095,20 @@
   },
   {
     "Artist": "Flip Wilson",
+    "Title": "Cowboys & Colored People",
+    "Rec_Box_ID": "33s Comedy 2",
+    "ID": 4926
+  },
+  {
+    "Artist": "Flip Wilson",
     "Title": "Flip Wilson's Pot Luck",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 817
   },
   {
     "Artist": "Flip Wilson",
     "Title": "The Devil",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4513
   },
   {
@@ -7834,6 +8140,12 @@
     "Title": "Glory Hallelujah // Lady Around The Lady",
     "Rec_Box_ID": "78s Box 9",
     "ID": 820
+  },
+  {
+    "Artist": "Focus",
+    "Title": "Live At The Rainbow",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5006
   },
   {
     "Artist": "Focus",
@@ -7904,7 +8216,7 @@
   {
     "Artist": "Foster Brooks",
     "Title": "The Loveable Lush",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 829
   },
   {
@@ -7958,7 +8270,7 @@
   {
     "Artist": "Francis Lai",
     "Title": "A Man And A Woman",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4295
   },
   {
@@ -8014,6 +8326,18 @@
     "Title": "The Triumph Of Man(Worlds Fair Record)",
     "Rec_Box_ID": "45s Box 10",
     "ID": 3723
+  },
+  {
+    "Artist": "Frank Mills",
+    "Title": "Music Box Dancer",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5026
+  },
+  {
+    "Artist": "Frank Mills",
+    "Title": "Music Box Dancer",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5119
   },
   {
     "Artist": "Frank Mills",
@@ -8204,14 +8528,14 @@
   {
     "Artist": "Frank Sinatra",
     "Title": "Strangers In The Night",
-    "Rec_Box_ID": "33s Pop/Rock 7",
-    "ID": 858
+    "Rec_Box_ID": "45s Box 8",
+    "ID": 859
   },
   {
     "Artist": "Frank Sinatra",
     "Title": "Strangers In The Night",
-    "Rec_Box_ID": "45s Box 8",
-    "ID": 859
+    "Rec_Box_ID": "33s Pop/Rock 7",
+    "ID": 858
   },
   {
     "Artist": "Frank Sinatra",
@@ -8408,7 +8732,7 @@
   {
     "Artist": "Franz Bauer",
     "Title": "(NEW)Schubert: Music Minus One Violin - 3 Sonatinas",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 867
   },
   {
@@ -8450,7 +8774,7 @@
   {
     "Artist": "Freddie Hart",
     "Title": "(NEW)Freddie Hart's Greatest Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 871
   },
   {
@@ -8504,7 +8828,7 @@
   {
     "Artist": "Frederick Fennel; Eastman Wind Ensemble",
     "Title": "Sound Off-Marches By John Philip Sousa",
-    "Rec_Box_ID": "332s Classical 3",
+    "Rec_Box_ID": "33s Classical 3",
     "ID": 3417
   },
   {
@@ -8744,14 +9068,14 @@
   {
     "Artist": "Gary Puckett And The Union Gap",
     "Title": "Incredible",
-    "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 907
+    "Rec_Box_ID": "33s Pop/Rock 17",
+    "ID": 4113
   },
   {
     "Artist": "Gary Puckett And The Union Gap",
     "Title": "Incredible",
-    "Rec_Box_ID": "33s Pop/Rock 17",
-    "ID": 4113
+    "Rec_Box_ID": "33s Pop/Rock 4",
+    "ID": 907
   },
   {
     "Artist": "Gary Wright",
@@ -8996,25 +9320,25 @@
   {
     "Artist": "George Carlin",
     "Title": "FM & AM",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 933
   },
   {
     "Artist": "George Carlin",
     "Title": "Occupation: Foole",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 934
   },
   {
     "Artist": "George Carlin",
     "Title": "Take-offs & Put-ons",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 935
   },
   {
     "Artist": "George Carlin",
     "Title": "Take-Offs And Put-Ons",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3569
   },
   {
@@ -9022,6 +9346,12 @@
     "Title": "Follow The Rainbow",
     "Rec_Box_ID": "33s Jazz 8",
     "ID": 4680
+  },
+  {
+    "Artist": "George Enescu",
+    "Title": "Simfonia Nr. 3 In Do Major, Op.21(Romania)",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5100
   },
   {
     "Artist": "George Feyer",
@@ -9072,10 +9402,22 @@
     "ID": 940
   },
   {
+    "Artist": "George Szell, The Cleveland Orchestra",
+    "Title": "1946 to 1970",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5042
+  },
+  {
     "Artist": "George Winston",
     "Title": "Piano Solos",
     "Rec_Box_ID": "33s Classical 2",
     "ID": 941
+  },
+  {
+    "Artist": "George Winston",
+    "Title": "Winter Into Spring",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4937
   },
   {
     "Artist": "Georges Bizet, Henry Adolph",
@@ -9218,14 +9560,14 @@
   {
     "Artist": "Glen Campbell",
     "Title": "Galveston",
-    "Rec_Box_ID": "33s Country 2",
-    "ID": 3161
+    "Rec_Box_ID": "33s Country 1",
+    "ID": 951
   },
   {
     "Artist": "Glen Campbell",
     "Title": "Galveston",
-    "Rec_Box_ID": "33s Country 1",
-    "ID": 951
+    "Rec_Box_ID": "33s Country 2",
+    "ID": 3161
   },
   {
     "Artist": "Glen Campbell",
@@ -9280,6 +9622,18 @@
     "Title": "The Glen Campbell Goodtime Album",
     "Rec_Box_ID": "33s Country 2",
     "ID": 956
+  },
+  {
+    "Artist": "Glen Campbell",
+    "Title": "The Good Time Songs Of Glen Campbell Record 1",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4922
+  },
+  {
+    "Artist": "Glen Campbell",
+    "Title": "The Good Time Songs Of Glen Campbell Record 2",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4921
   },
   {
     "Artist": "Glen Campbell",
@@ -9349,7 +9703,7 @@
   },
   {
     "Artist": "Glenn Miller",
-    "Title": "Glenn Miller Plays Selections From The Film \"The Glenn Miller Story",
+    "Title": "Glenn Miller Plays Selections From The Film \"The Glenn Miller Story\"",
     "Rec_Box_ID": "33s 10",
     "ID": 965
   },
@@ -9369,13 +9723,13 @@
     "Artist": "Glenn Miller",
     "Title": "The Best Of Glenn Miller",
     "Rec_Box_ID": "33s Jazz 1",
-    "ID": 967
+    "ID": 968
   },
   {
     "Artist": "Glenn Miller",
     "Title": "The Best Of Glenn Miller",
     "Rec_Box_ID": "33s Jazz 1",
-    "ID": 968
+    "ID": 967
   },
   {
     "Artist": "Glenn Miller And His Orchestra",
@@ -9410,14 +9764,14 @@
   {
     "Artist": "Glenn Miller And His Orchestra",
     "Title": "In The Mood // I Want To Be Happy",
-    "Rec_Box_ID": "78s Box 11",
-    "ID": 3937
+    "Rec_Box_ID": "78s Box 1",
+    "ID": 973
   },
   {
     "Artist": "Glenn Miller And His Orchestra",
     "Title": "In The Mood // I Want To Be Happy",
-    "Rec_Box_ID": "78s Box 1",
-    "ID": 973
+    "Rec_Box_ID": "78s Box 11",
+    "ID": 3937
   },
   {
     "Artist": "Glenn Miller And His Orchestra",
@@ -9494,14 +9848,14 @@
   {
     "Artist": "Glenn Miller And The Army Air Force Band",
     "Title": "Marvelous Miller Moods",
-    "Rec_Box_ID": "33s Jazz 2",
-    "ID": 980
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 981
   },
   {
     "Artist": "Glenn Miller And The Army Air Force Band",
     "Title": "Marvelous Miller Moods",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 981
+    "Rec_Box_ID": "33s Jazz 2",
+    "ID": 980
   },
   {
     "Artist": "Glenn Milller And His Orchestra",
@@ -9553,7 +9907,7 @@
   },
   {
     "Artist": "Glenn Milller And His Orchestra",
-    "Title": "Moon Over Miami-A Million Dreams Ago-Aloha-Sun Valley Jump // String Of Pearls-Love With A Capital \"You",
+    "Title": "Moon Over Miami-A Million Dreams Ago-Aloha-Sun Valley Jump // String Of Pearls-Love With A Capital \"You\"",
     "Rec_Box_ID": "45s Box 5",
     "ID": 991
   },
@@ -9612,10 +9966,22 @@
     "ID": 998
   },
   {
+    "Artist": "Go-Go's",
+    "Title": "Vacation",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5115
+  },
+  {
     "Artist": "Godspell",
     "Title": "Day By Day // Bless The Lord",
     "Rec_Box_ID": "45s Box 8",
     "ID": 997
+  },
+  {
+    "Artist": "Goldsbrough  Orchestra; Lawrence Leonard, Cond.",
+    "Title": "Bach: Harpsichord Concertos",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5079
   },
   {
     "Artist": "Good Question",
@@ -9872,13 +10238,13 @@
   {
     "Artist": "Hal Holbrook",
     "Title": "Mark Twain Tonight!",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1020
   },
   {
     "Artist": "Hal Roach",
     "Title": "We Irish Talk Like That",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4208
   },
   {
@@ -9886,6 +10252,12 @@
     "Title": "Say It Isn't So // Kiss On My List",
     "Rec_Box_ID": "45s Box 9",
     "ID": 1021
+  },
+  {
+    "Artist": "Hamburg Symphony; Heribert Beissel, Conductor",
+    "Title": "Rubinstein: Symphony No. 6/Ballet Music From The Opera The Demon",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4955
   },
   {
     "Artist": "Hamilton, Joe Frank & Reynolds",
@@ -9896,7 +10268,7 @@
   {
     "Artist": "Hammer",
     "Title": "(NEW)Do Not Pass Me By",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1023
   },
   {
@@ -9904,6 +10276,12 @@
     "Title": "Liszt: Piano Concerto No. 2 In A Major / \"Tasso\" Lament And Triumph",
     "Rec_Box_ID": "33s Classical 4",
     "ID": 4629
+  },
+  {
+    "Artist": "Hank Snow",
+    "Title": "The Last Ride",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4995
   },
   {
     "Artist": "Hank Snow",
@@ -9938,7 +10316,7 @@
   {
     "Artist": "Hank Williams, Jr.",
     "Title": "(NEW) Strong Stuff",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1028
   },
   {
@@ -9998,7 +10376,7 @@
   {
     "Artist": "Harry Belafonte",
     "Title": "(NEW) Belafonte '89",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1034
   },
   {
@@ -10052,14 +10430,14 @@
   {
     "Artist": "Harry Belafonte",
     "Title": "Calypso",
-    "Rec_Box_ID": "33s Pop/Rock 10",
-    "ID": 1040
+    "Rec_Box_ID": "33s Pop/Rock 20",
+    "ID": 4706
   },
   {
     "Artist": "Harry Belafonte",
     "Title": "Calypso",
-    "Rec_Box_ID": "33s Pop/Rock 20",
-    "ID": 4706
+    "Rec_Box_ID": "33s Pop/Rock 10",
+    "ID": 1040
   },
   {
     "Artist": "Harry Belafonte",
@@ -10072,6 +10450,12 @@
     "Title": "Harry Belafonte Sings Five Early Songs / Calypso In The Sun",
     "Rec_Box_ID": "33s Jazz 1",
     "ID": 1041
+  },
+  {
+    "Artist": "Harry Belafonte",
+    "Title": "In My Quiet Room",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4931
   },
   {
     "Artist": "Harry Belafonte",
@@ -10106,20 +10490,14 @@
   {
     "Artist": "Harry Chapin",
     "Title": "On The Road To Kingdom Come",
-    "Rec_Box_ID": "33s Pop/Rock 3",
-    "ID": 1045
-  },
-  {
-    "Artist": "Harry Chapin",
-    "Title": "On The Road To Kingdom Come",
     "Rec_Box_ID": "33s Pop/Rock 12",
     "ID": 3169
   },
   {
-    "Artist": "Harry James",
-    "Title": "All Time Favorites By Harry James",
-    "Rec_Box_ID": "33s Jazz 1",
-    "ID": 3290
+    "Artist": "Harry Chapin",
+    "Title": "On The Road To Kingdom Come",
+    "Rec_Box_ID": "33s Pop/Rock 3",
+    "ID": 1045
   },
   {
     "Artist": "Harry James",
@@ -10132,6 +10510,12 @@
     "Title": "All Time Favorites By Harry James",
     "Rec_Box_ID": "33s Jazz 5",
     "ID": 2929
+  },
+  {
+    "Artist": "Harry James",
+    "Title": "All Time Favorites By Harry James",
+    "Rec_Box_ID": "33s Jazz 1",
+    "ID": 3290
   },
   {
     "Artist": "Harry James",
@@ -10179,13 +10563,13 @@
     "Artist": "Harry James And His Orchestra",
     "Title": "One Dozen Roses // You're Too Good For Good-For-Nothing Me",
     "Rec_Box_ID": "78s Box 8",
-    "ID": 1051
+    "ID": 1052
   },
   {
     "Artist": "Harry James And His Orchestra",
     "Title": "One Dozen Roses // You're Too Good For Good-For-Nothing Me",
     "Rec_Box_ID": "78s Box 8",
-    "ID": 1052
+    "ID": 1051
   },
   {
     "Artist": "Harry James And His Orchestra",
@@ -10221,13 +10605,13 @@
     "Artist": "Harry Lauder",
     "Title": "Roamin' In The Gloamin'",
     "Rec_Box_ID": "78s Box 7",
-    "ID": 1058
+    "ID": 1057
   },
   {
     "Artist": "Harry Lauder",
     "Title": "Roamin' In The Gloamin'",
     "Rec_Box_ID": "78s Box 7",
-    "ID": 1057
+    "ID": 1058
   },
   {
     "Artist": "Harry Macdonough / George Ballard - John Wilbur",
@@ -10394,14 +10778,14 @@
   {
     "Artist": "Henry Gross",
     "Title": "Shannon // Pokey",
-    "Rec_Box_ID": "45s Box 3",
-    "ID": 1077
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 1078
   },
   {
     "Artist": "Henry Gross",
     "Title": "Shannon // Pokey",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 1078
+    "Rec_Box_ID": "45s Box 3",
+    "ID": 1077
   },
   {
     "Artist": "Henry Lee Summer",
@@ -10418,7 +10802,7 @@
   {
     "Artist": "Henry Mancini",
     "Title": "Charade",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3682
   },
   {
@@ -10533,6 +10917,12 @@
     "Artist": "Herb Alpert",
     "Title": "Rise",
     "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 2916
+  },
+  {
+    "Artist": "Herb Alpert",
+    "Title": "Rise",
+    "Rec_Box_ID": "Herb Alpert Records",
     "ID": 2906
   },
   {
@@ -10543,15 +10933,15 @@
   },
   {
     "Artist": "Herb Alpert",
-    "Title": "Rise",
-    "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 2916
-  },
-  {
-    "Artist": "Herb Alpert",
     "Title": "Rise(Promo)",
     "Rec_Box_ID": "Herb Alpert Records",
     "ID": 2920
+  },
+  {
+    "Artist": "Herb Alpert",
+    "Title": "SRO",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 5117
   },
   {
     "Artist": "Herb Alpert",
@@ -10575,13 +10965,13 @@
     "Artist": "Herb Alpert's Tijuana Brass",
     "Title": "Whipped Cream & Other Delights",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 3570
+    "ID": 4272
   },
   {
     "Artist": "Herb Alpert's Tijuana Brass",
     "Title": "Whipped Cream & Other Delights",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 4272
+    "ID": 3570
   },
   {
     "Artist": "Herb Alpert's Tijuana Brass",
@@ -10605,6 +10995,12 @@
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "!!Going Places!!",
     "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1092
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "!!Going Places!!",
+    "Rec_Box_ID": "Herb Alpert Records",
     "ID": 4542
   },
   {
@@ -10618,12 +11014,6 @@
     "Title": "!!Going Places!!",
     "Rec_Box_ID": "Herb Alpert Records",
     "ID": 1091
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "!!Going Places!!",
-    "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1092
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10683,25 +11073,25 @@
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "Herb Alpert's Ninth",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1098
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "Herb Alpert's Ninth",
-    "Rec_Box_ID": "Herb Alpert Records",
     "ID": 4634
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "Herb Alpert's Ninth",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1122
+    "ID": 1097
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "Herb Alpert's Ninth",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1097
+    "ID": 1098
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "Herb Alpert's Ninth",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1122
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10719,13 +11109,13 @@
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "S.R.O.",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1099
+    "ID": 1100
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "S.R.O.",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1100
+    "ID": 1099
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10737,19 +11127,13 @@
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "South Of The Border",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1103
+    "ID": 1102
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "South Of The Border",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1102
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "SRO",
-    "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 3514
+    "ID": 1103
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10759,9 +11143,9 @@
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "Summertime",
+    "Title": "SRO",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1105
+    "ID": 3514
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10771,15 +11155,27 @@
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "Summertime",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1105
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "The Beat Of The Brass",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1107
+    "ID": 5024
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "The Beat Of The Brass",
     "Rec_Box_ID": "Herb Alpert Records",
     "ID": 1108
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "The Beat Of The Brass",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1107
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10803,19 +11199,19 @@
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "The Lonely Bull",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1112
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "The Lonely Bull",
-    "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 3115
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "The Lonely Bull",
-    "Rec_Box_ID": "Herb Alpert Records",
     "ID": 1111
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "The Lonely Bull",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 3413
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "The Lonely Bull",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1112
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10827,19 +11223,13 @@
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "The Lonely Bull",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 4541
+    "ID": 3115
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
     "Title": "The Lonely Bull",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 3413
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "Volume 2",
-    "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1124
+    "ID": 4541
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10849,15 +11239,9 @@
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "What Now My Love",
+    "Title": "Volume 2",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1114
-  },
-  {
-    "Artist": "Herb Alpert & The Tijuana Brass",
-    "Title": "What Now My Love",
-    "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 1115
+    "ID": 1124
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10870,6 +11254,18 @@
     "Title": "What Now My Love",
     "Rec_Box_ID": "Herb Alpert Records",
     "ID": 1116
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "What Now My Love",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1114
+  },
+  {
+    "Artist": "Herb Alpert & The Tijuana Brass",
+    "Title": "What Now My Love",
+    "Rec_Box_ID": "Herb Alpert Records",
+    "ID": 1115
   },
   {
     "Artist": "Herb Alpert & The Tijuana Brass",
@@ -10905,13 +11301,13 @@
     "Artist": "Herb Alpert And The Tijuana Brass",
     "Title": "!!Going Places!!",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 4368
+    "ID": 4285
   },
   {
     "Artist": "Herb Alpert And The Tijuana Brass",
     "Title": "!!Going Places!!",
     "Rec_Box_ID": "Herb Alpert Records",
-    "ID": 4285
+    "ID": 4368
   },
   {
     "Artist": "Herb Alpert And The Tijuana Brass",
@@ -11016,6 +11412,12 @@
     "ID": 1135
   },
   {
+    "Artist": "Hollywood Grand Studio Orchestra",
+    "Title": "Big Hits From Columbia Pictures",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5039
+  },
+  {
     "Artist": "Holman Willis",
     "Title": "The Psaltree Sermon",
     "Rec_Box_ID": "78s Box 10",
@@ -11024,19 +11426,19 @@
   {
     "Artist": "Homer & Jethro",
     "Title": "At The Country Club",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3685
   },
   {
     "Artist": "Homer & Jethro",
     "Title": "Songs My Mother Never Sang",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3683
   },
   {
     "Artist": "Homer & Jethro",
     "Title": "Strike Back",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3684
   },
   {
@@ -11130,6 +11532,12 @@
     "ID": 1146
   },
   {
+    "Artist": "Hubert Laws",
+    "Title": "Crying Song",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4936
+  },
+  {
     "Artist": "Huey Lewis & The News",
     "Title": "Perfect World // Slammin'",
     "Rec_Box_ID": "45s Box 10",
@@ -11138,14 +11546,14 @@
   {
     "Artist": "Huey Lewis And The News",
     "Title": "Sports",
-    "Rec_Box_ID": "33s Pop/Rock 19",
-    "ID": 4484
+    "Rec_Box_ID": "33s Pop/Rock 3",
+    "ID": 1147
   },
   {
     "Artist": "Huey Lewis And The News",
     "Title": "Sports",
-    "Rec_Box_ID": "33s Pop/Rock 3",
-    "ID": 1147
+    "Rec_Box_ID": "33s Pop/Rock 19",
+    "ID": 4484
   },
   {
     "Artist": "Huey Lewis And The News",
@@ -11262,6 +11670,12 @@
     "ID": 1157
   },
   {
+    "Artist": "Ingeborg Hallstein",
+    "Title": "In Zauberreich Der Operette",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5064
+  },
+  {
     "Artist": "Ink Spots",
     "Title": "As You Desire Me // It Only Happens Once",
     "Rec_Box_ID": "78s Box 8",
@@ -11330,14 +11744,14 @@
   {
     "Artist": "Irene Cara",
     "Title": "What A Feelin'",
-    "Rec_Box_ID": "33s Pop/Rock 7",
-    "ID": 1165
+    "Rec_Box_ID": "33s Pop/Rock 2",
+    "ID": 1164
   },
   {
     "Artist": "Irene Cara",
     "Title": "What A Feelin'",
-    "Rec_Box_ID": "33s Pop/Rock 2",
-    "ID": 1164
+    "Rec_Box_ID": "33s Pop/Rock 7",
+    "ID": 1165
   },
   {
     "Artist": "Irving Berlin; Andre Kostelanetz and his Orchestra",
@@ -11365,7 +11779,7 @@
   },
   {
     "Artist": "Isaac Hayes",
-    "Title": "Theme From Shaft\" // Cafe Regio's",
+    "Title": "\"Theme From Shaft\" // Cafe Regio's",
     "Rec_Box_ID": "45s Box 8",
     "ID": 1169
   },
@@ -11402,13 +11816,13 @@
   {
     "Artist": "Jac Holzman",
     "Title": "Authentic Sound Effects Volume 10",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 3099
   },
   {
     "Artist": "Jack Benny And Frank Knight",
     "Title": "Remember The Golden Days Of Radio Volume 1",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1171
   },
   {
@@ -11498,13 +11912,13 @@
   {
     "Artist": "Jackie Mason",
     "Title": "I'm The Greatest Comedian In The World",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3612
   },
   {
     "Artist": "Jackie Vernon",
     "Title": "A Wet Bird Never Flies At Night",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4051
   },
   {
@@ -11534,7 +11948,7 @@
   {
     "Artist": "Jackson Browne",
     "Title": "(NEW)Hold Out",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1186
   },
   {
@@ -11737,6 +12151,12 @@
   },
   {
     "Artist": "Jane Olivor",
+    "Title": "First Night",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4932
+  },
+  {
+    "Artist": "Jane Olivor",
     "Title": "The Best Side Of Goodbye",
     "Rec_Box_ID": "33s Pop/Rock 10",
     "ID": 1210
@@ -11874,6 +12294,12 @@
     "ID": 3805
   },
   {
+    "Artist": "Jean-Phillipe Rameau",
+    "Title": "Vocal And Instrumental Ensemble - Operatic Excerpts",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5102
+  },
+  {
     "Artist": "Jean-Pierre Rampal",
     "Title": "Vivaldi: Six Flute Concerti, Opus 10",
     "Rec_Box_ID": "33s Classical 5",
@@ -11918,7 +12344,7 @@
   {
     "Artist": "Jeanette MacDonald And Nelson Eddy",
     "Title": "16 Nostalgic Original Recordings Of Music From Their Golden Years In Hollywood",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3798
   },
   {
@@ -12008,7 +12434,7 @@
   {
     "Artist": "Jerome Kern",
     "Title": "Roberta",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4214
   },
   {
@@ -12056,13 +12482,13 @@
   {
     "Artist": "Jerry Vale",
     "Title": "(NEW)More Jerry Vale's Greatest Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1242
   },
   {
     "Artist": "Jerry Vale",
     "Title": "(NEW)The Jerry Vale Italian Album",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1243
   },
   {
@@ -12210,6 +12636,12 @@
     "ID": 1265
   },
   {
+    "Artist": "Jim Stafford",
+    "Title": "Jim Stafford",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5000
+  },
+  {
     "Artist": "Jim Weatherly",
     "Title": "The Need To Be // Like Old Times Again",
     "Rec_Box_ID": "45s Box 4",
@@ -12282,15 +12714,21 @@
     "ID": 1261
   },
   {
+    "Artist": "Jimmy Dorsey",
+    "Title": "The Fabulous Jimmy Dorsey",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5059
+  },
+  {
     "Artist": "Jimmy Roselli",
     "Title": "(NEW)Core Napulitano",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1262
   },
   {
     "Artist": "Jimmy Roselli",
     "Title": "(NEW)Core Spezzato",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1263
   },
   {
@@ -12379,6 +12817,12 @@
   },
   {
     "Artist": "Joan Baez",
+    "Title": "Come From The Shadows",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5082
+  },
+  {
+    "Artist": "Joan Baez",
     "Title": "Joan Baez",
     "Rec_Box_ID": "33s Pop/Rock 5",
     "ID": 1271
@@ -12388,6 +12832,12 @@
     "Title": "The Best Of Joan Baez",
     "Rec_Box_ID": "33s Pop/Rock 9",
     "ID": 1272
+  },
+  {
+    "Artist": "Joan Baez",
+    "Title": "The Best Of Joan Baez",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4950
   },
   {
     "Artist": "Joe \"Fingers\" Carr",
@@ -12440,7 +12890,7 @@
   {
     "Artist": "Joe Piscopo",
     "Title": "New Jersey",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1283
   },
   {
@@ -12488,7 +12938,7 @@
   {
     "Artist": "John Cafferty And The Beaver Brown Band",
     "Title": "Eddie And The Cruisers Soundtrack",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 1285
   },
   {
@@ -12602,14 +13052,14 @@
   {
     "Artist": "John Gary",
     "Title": "So Tenderly",
-    "Rec_Box_ID": "33s Pop/Rock 14",
-    "ID": 3474
+    "Rec_Box_ID": "33s Pop/Rock 15",
+    "ID": 3586
   },
   {
     "Artist": "John Gary",
     "Title": "So Tenderly",
-    "Rec_Box_ID": "33s Pop/Rock 15",
-    "ID": 3586
+    "Rec_Box_ID": "33s Pop/Rock 14",
+    "ID": 3474
   },
   {
     "Artist": "John Gary",
@@ -12686,14 +13136,14 @@
   {
     "Artist": "John McCormack",
     "Title": "I Hear You Calling Me",
-    "Rec_Box_ID": "78s Box 12",
-    "ID": 3991
+    "Rec_Box_ID": "78s Box 2",
+    "ID": 1297
   },
   {
     "Artist": "John McCormack",
     "Title": "I Hear You Calling Me",
-    "Rec_Box_ID": "78s Box 2",
-    "ID": 1297
+    "Rec_Box_ID": "78s Box 12",
+    "ID": 3991
   },
   {
     "Artist": "John McCormack",
@@ -12812,13 +13262,13 @@
   {
     "Artist": "Johnny Carson",
     "Title": "Here's Johnny... Magic Moments From The Tonight Show Record 1",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1304
   },
   {
     "Artist": "Johnny Carson",
     "Title": "Here's Johnny... Magic Moments From The Tonight Show Record 2",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1305
   },
   {
@@ -12826,6 +13276,12 @@
     "Title": "Blood, Sweat And Tears",
     "Rec_Box_ID": "33s Country 2",
     "ID": 1306
+  },
+  {
+    "Artist": "Johnny Cash",
+    "Title": "Johnny Cash",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4920
   },
   {
     "Artist": "Johnny Cash",
@@ -12914,7 +13370,7 @@
   {
     "Artist": "Johnny Horton",
     "Title": "North To Alaska // The Mansion You Stole",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3772
   },
   {
@@ -12986,8 +13442,20 @@
   {
     "Artist": "Johnny Mathis",
     "Title": "Johnny's Mood",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5065
+  },
+  {
+    "Artist": "Johnny Mathis",
+    "Title": "Johnny's Mood",
     "Rec_Box_ID": "33s Pop/Rock 5",
     "ID": 1320
+  },
+  {
+    "Artist": "Johnny Mathis",
+    "Title": "Johnny's Newest Hits",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5036
   },
   {
     "Artist": "Johnny Mathis",
@@ -13024,6 +13492,12 @@
     "Title": "More Johnny's Greatest Hits",
     "Rec_Box_ID": "33s Pop/Rock 9",
     "ID": 1322
+  },
+  {
+    "Artist": "Johnny Mathis",
+    "Title": "Rapture",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4957
   },
   {
     "Artist": "Johnny Mathis",
@@ -13066,6 +13540,18 @@
     "Title": "You've Got A Friend(Quadraphonic)",
     "Rec_Box_ID": "33s Pop/Rock 10",
     "ID": 1325
+  },
+  {
+    "Artist": "Johnny Mathis & Deniece Williams",
+    "Title": "That's What Friends Are For",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4996
+  },
+  {
+    "Artist": "Johnny Mathis And Henry Mancini",
+    "Title": "The Hollywood Musicals",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5085
   },
   {
     "Artist": "Johnny Mathis With Percy Faith And His Orchestra",
@@ -13166,19 +13652,19 @@
   {
     "Artist": "Johnny Rodriguez",
     "Title": "(NEW)Practice Makes Perfect",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1336
   },
   {
     "Artist": "Johnny Rodriguez",
     "Title": "(NEW)Reflecting",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1337
   },
   {
     "Artist": "Johnny Rodriguez",
     "Title": "(NEW)The Greatest Hits Of Johnny Rodriguez",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1338
   },
   {
@@ -13220,13 +13706,13 @@
   {
     "Artist": "Jonathan Winters",
     "Title": "Down To Earth",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1344
   },
   {
     "Artist": "Jonathan Winters",
     "Title": "The Best Of Jonathan Winters",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4091
   },
   {
@@ -13244,7 +13730,7 @@
   {
     "Artist": "Jorgen Ernst Hansen",
     "Title": "Master Works For Organ Volume 1 - The North German School",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4369
   },
   {
@@ -13256,7 +13742,7 @@
   {
     "Artist": "Jose Jimenez",
     "Title": "The First Man In Space: Jose Jimenez The Astronaut",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3584
   },
   {
@@ -13336,6 +13822,12 @@
     "Title": "Judith Raskin Sings Schubert Songs",
     "Rec_Box_ID": "33s Classical 4",
     "ID": 4177
+  },
+  {
+    "Artist": "Judy Collins",
+    "Title": "Bread & Roses",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4958
   },
   {
     "Artist": "Judy Collins",
@@ -13476,10 +13968,22 @@
     "ID": 3517
   },
   {
+    "Artist": "Karl Jancik And Franz Brandlhofer",
+    "Title": "Viennese Zithers",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5035
+  },
+  {
     "Artist": "Karla Bonoff",
     "Title": "Restless Nights",
     "Rec_Box_ID": "33s Pop/Rock 7",
     "ID": 1370
+  },
+  {
+    "Artist": "Karla Bonoff",
+    "Title": "Restless Nights",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4933
   },
   {
     "Artist": "Karla DeVito",
@@ -13534,6 +14038,12 @@
     "Title": "Me ANd My Melinda // Johnny Doughboy Found A Rose In Ireland",
     "Rec_Box_ID": "78s Box 3",
     "ID": 1376
+  },
+  {
+    "Artist": "Kay Lande",
+    "Title": "Puff The Magic Dragon",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4944
   },
   {
     "Artist": "Kay Starr With Merle Travis And His Orchestra",
@@ -13664,13 +14174,13 @@
   {
     "Artist": "Kenny Rogers",
     "Title": "(NEW)Greatest Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4474
   },
   {
     "Artist": "Kenny Rogers",
     "Title": "(NEW)They Don't Make Them Like They Used To",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4555
   },
   {
@@ -13689,13 +14199,13 @@
     "Artist": "Kenny Rogers",
     "Title": "Greatest Hits",
     "Rec_Box_ID": "33s Country 1",
-    "ID": 1391
+    "ID": 1390
   },
   {
     "Artist": "Kenny Rogers",
     "Title": "Greatest Hits",
     "Rec_Box_ID": "33s Country 1",
-    "ID": 1390
+    "ID": 1391
   },
   {
     "Artist": "Kenny Rogers",
@@ -13740,9 +14250,15 @@
     "ID": 3414
   },
   {
+    "Artist": "Kenny Rogers With Kim Carnes, Sheena Easton & Dottie West",
+    "Title": "Duets",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4917
+  },
+  {
     "Artist": "Kermit Schafer",
     "Title": "Pardon My Blooper! Volume 7",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1397
   },
   {
@@ -13896,6 +14412,12 @@
     "ID": 1411
   },
   {
+    "Artist": "Kris & Rita",
+    "Title": "Breakaway",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4929
+  },
+  {
     "Artist": "Kris Kristofferson",
     "Title": "The Silver Tongued Devil And I",
     "Rec_Box_ID": "33s Country 3",
@@ -13934,7 +14456,7 @@
   {
     "Artist": "Kyle",
     "Title": "(NEW)Times That Try A Man's Soul",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1415
   },
   {
@@ -14025,13 +14547,19 @@
     "Artist": "Larsen-Feiten Band",
     "Title": "Who'll Be The Fool Tonight // Further Notice",
     "Rec_Box_ID": "45s Box 8",
-    "ID": 1427
+    "ID": 1428
   },
   {
     "Artist": "Larsen-Feiten Band",
     "Title": "Who'll Be The Fool Tonight // Further Notice",
     "Rec_Box_ID": "45s Box 8",
-    "ID": 1428
+    "ID": 1427
+  },
+  {
+    "Artist": "Latin Rascals",
+    "Title": "Bach To The Future",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4972
   },
   {
     "Artist": "Laura Branigan",
@@ -14134,6 +14662,12 @@
     "Title": "Jimmy Dorsey's Greatest Hits",
     "Rec_Box_ID": "33s Jazz 2",
     "ID": 1438
+  },
+  {
+    "Artist": "Lee Castle & The Jimmy Dorsey Orchestra",
+    "Title": "Play Bacharach/David",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5003
   },
   {
     "Artist": "Lee Greenwood",
@@ -14256,6 +14790,12 @@
     "ID": 1447
   },
   {
+    "Artist": "Leny Eversong",
+    "Title": "Introducing Leny Eversong",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5086
+  },
+  {
     "Artist": "Leo Kotke",
     "Title": "Balance",
     "Rec_Box_ID": "33s Pop/Rock 10",
@@ -14336,7 +14876,7 @@
   {
     "Artist": "Leonard Bernstein",
     "Title": "Franck: Symphony In D Minor",
-    "Rec_Box_ID": "33s Calssical 3",
+    "Rec_Box_ID": "33s Classical 3",
     "ID": 3694
   },
   {
@@ -14359,7 +14899,7 @@
   },
   {
     "Artist": "Leonard Bernstein And The New York Philharmonic",
-    "Title": "El Salon Mexico/Appalachin Spring/Dance From \"Music For The Theatre",
+    "Title": "El Salon Mexico/Appalachin Spring/Dance From \"Music For The Theatre\"",
     "Rec_Box_ID": "33s Classical 3",
     "ID": 3918
   },
@@ -14371,7 +14911,7 @@
   },
   {
     "Artist": "Leonard Bernstein; New York Philharmonic",
-    "Title": "El Salon Mexico/Appalachian Spring/ Dance From \"Music For The Theater",
+    "Title": "El Salon Mexico/Appalachian Spring/ Dance From \"Music For The Theater\"",
     "Rec_Box_ID": "33s Classical 4",
     "ID": 4155
   },
@@ -14436,21 +14976,27 @@
     "ID": 1460
   },
   {
+    "Artist": "Lerner & Loewe",
+    "Title": "My Fair Lady",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5040
+  },
+  {
     "Artist": "Lerner And Loewe's",
     "Title": "Brigadoon: An Original Cast Recording",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4586
   },
   {
     "Artist": "Leroy Anderson",
     "Title": "(NEW)Conducts His Music",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1462
   },
   {
     "Artist": "Leroy Anderson",
     "Title": "(NEW)Leroy Anderson Conducts Leroy Anderson",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1463
   },
   {
@@ -14482,6 +15028,12 @@
     "Title": "Classics In Rhythm - Record 2",
     "Rec_Box_ID": "45s Box 8",
     "ID": 1467
+  },
+  {
+    "Artist": "Les Brown And His Band Of Renown",
+    "Title": "The Greatest!",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4918
   },
   {
     "Artist": "Les Brown And His Orchestra",
@@ -14530,6 +15082,12 @@
     "Title": "The Great Sound Of Les Elgart(Promo)",
     "Rec_Box_ID": "33s Jazz 6",
     "ID": 2942
+  },
+  {
+    "Artist": "Les Elgart And His Orchestra",
+    "Title": "Just One More Dance",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5045
   },
   {
     "Artist": "Les Paul",
@@ -14606,7 +15164,7 @@
   {
     "Artist": "Lew Raymond",
     "Title": "Music From Michael Todd's Around The World In 80 Days",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4712
   },
   {
@@ -14638,6 +15196,12 @@
     "Title": "Liberace's Greatest Hits",
     "Rec_Box_ID": "33s Jazz 3",
     "ID": 1484
+  },
+  {
+    "Artist": "Liberace",
+    "Title": "Liberace At The Americana! Vol. 2",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4965
   },
   {
     "Artist": "Liberace",
@@ -14750,7 +15314,7 @@
   {
     "Artist": "Lily Tomlin",
     "Title": "And Thats The Truth",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1500
   },
   {
@@ -14786,12 +15350,6 @@
   {
     "Artist": "Linda Ronstadt",
     "Title": "Greatest Hits",
-    "Rec_Box_ID": "33s Pop/Rock 15",
-    "ID": 3666
-  },
-  {
-    "Artist": "Linda Ronstadt",
-    "Title": "Greatest Hits",
     "Rec_Box_ID": "33s Pop/Rock 1",
     "ID": 1505
   },
@@ -14803,15 +15361,21 @@
   },
   {
     "Artist": "Linda Ronstadt",
-    "Title": "Heart Like A Wheel",
-    "Rec_Box_ID": "33s Pop/Rock 9",
-    "ID": 1507
+    "Title": "Greatest Hits",
+    "Rec_Box_ID": "33s Pop/Rock 15",
+    "ID": 3666
   },
   {
     "Artist": "Linda Ronstadt",
     "Title": "Heart Like A Wheel",
     "Rec_Box_ID": "33s Pop/Rock 3",
     "ID": 1506
+  },
+  {
+    "Artist": "Linda Ronstadt",
+    "Title": "Heart Like A Wheel",
+    "Rec_Box_ID": "33s Pop/Rock 9",
+    "ID": 1507
   },
   {
     "Artist": "Linda Ronstadt",
@@ -14924,14 +15488,14 @@
   {
     "Artist": "Little River Band",
     "Title": "First Under The Wire",
-    "Rec_Box_ID": "33s Pop/Rock 5",
-    "ID": 1516
+    "Rec_Box_ID": "33s Pop/Rock 7",
+    "ID": 1517
   },
   {
     "Artist": "Little River Band",
     "Title": "First Under The Wire",
-    "Rec_Box_ID": "33s Pop/Rock 7",
-    "ID": 1517
+    "Rec_Box_ID": "33s Pop/Rock 5",
+    "ID": 1516
   },
   {
     "Artist": "Little River Band",
@@ -14943,13 +15507,13 @@
     "Artist": "Little River Band",
     "Title": "Reminiscing // So Many Paths",
     "Rec_Box_ID": "45s Box 9",
-    "ID": 1519
+    "ID": 1520
   },
   {
     "Artist": "Little River Band",
     "Title": "Reminiscing // So Many Paths",
     "Rec_Box_ID": "45s Box 9",
-    "ID": 1520
+    "ID": 1519
   },
   {
     "Artist": "Little River Band",
@@ -15079,7 +15643,7 @@
   },
   {
     "Artist": "London Symphony Orchestra; Leo Blech, Cond.",
-    "Title": "Overture-\"Calm Sea And Prosperous Voyage // Songs Without Words",
+    "Title": "Overture-\"Calm Sea And Prosperous Voyage\" // Songs Without Words",
     "Rec_Box_ID": "78s Box 6",
     "ID": 1535
   },
@@ -15100,6 +15664,12 @@
     "Title": "Brandy (You're A Fine Girl) // One By One",
     "Rec_Box_ID": "45s Box 3",
     "ID": 1536
+  },
+  {
+    "Artist": "Lorenzo Bonanni",
+    "Title": "I Sing For My Little Girl // Canto Per La Mia Bimba",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5022
   },
   {
     "Artist": "Loretta Lynn",
@@ -15188,7 +15758,7 @@
   {
     "Artist": "Lou Rawls",
     "Title": "Down Here On The Ground // I'm Satisfied",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3780
   },
   {
@@ -15271,7 +15841,7 @@
   },
   {
     "Artist": "Louis Graveure",
-    "Title": "Herodiade \"Vision Fugitive // Pagliacci",
+    "Title": "Herodiade \"Vision Fugitive\" // Pagliacci",
     "Rec_Box_ID": "78s Box 10",
     "ID": 3816
   },
@@ -15296,14 +15866,14 @@
   {
     "Artist": "Louis Prima",
     "Title": "His Greatest Hits",
-    "Rec_Box_ID": "33s Jazz 1",
-    "ID": 1548
+    "Rec_Box_ID": "33s Jazz 2",
+    "ID": 1549
   },
   {
     "Artist": "Louis Prima",
     "Title": "His Greatest Hits",
-    "Rec_Box_ID": "33s Jazz 2",
-    "ID": 1549
+    "Rec_Box_ID": "33s Jazz 1",
+    "ID": 1548
   },
   {
     "Artist": "Louis Prima",
@@ -15348,6 +15918,12 @@
     "ID": 1555
   },
   {
+    "Artist": "Louis Prima and Keely Smith",
+    "Title": "The Hits Of Louis And Keely",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5118
+  },
+  {
     "Artist": "Louis Prima And Keely Smith",
     "Title": "Together",
     "Rec_Box_ID": "33s Jazz 6",
@@ -15368,7 +15944,7 @@
   {
     "Artist": "Louise Homer",
     "Title": "(NEW)Great Voices Of The Century: Louise Homer",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1543
   },
   {
@@ -15380,7 +15956,7 @@
   {
     "Artist": "Louise Mandrell & R.C. Bannon",
     "Title": "(NEW) Inseparable",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1545
   },
   {
@@ -15454,6 +16030,12 @@
     "Title": "The World's Favorite Tenor Arias",
     "Rec_Box_ID": "33s Classical 3",
     "ID": 3261
+  },
+  {
+    "Artist": "Luciano Pavarotti",
+    "Title": "The World's Favorite Tenor Arias",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5012
   },
   {
     "Artist": "Luciano Pavarotti",
@@ -15554,7 +16136,7 @@
   {
     "Artist": "Mae West & W.C. Fields",
     "Title": "Side By Side",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1580
   },
   {
@@ -15583,14 +16165,14 @@
   },
   {
     "Artist": "Manno Krotan",
-    "Title": "Humoresque // Meditation From \"Thais",
+    "Title": "Humoresque // Meditation From \"Thais\"",
     "Rec_Box_ID": "78s Box 3",
     "ID": 1583
   },
   {
     "Artist": "Manos Hadjidakis",
     "Title": "Never On Sunday",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4646
   },
   {
@@ -15614,13 +16196,13 @@
   {
     "Artist": "Mantovani And His Orchestra",
     "Title": "The Mantovani Scene",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4157
   },
   {
     "Artist": "Mantovani And His Orchestra",
     "Title": "Themes From Broadway",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3545
   },
   {
@@ -15666,6 +16248,12 @@
     "ID": 3064
   },
   {
+    "Artist": "Maria Callas",
+    "Title": "Verdi: La Traviata(Italy)",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5066
+  },
+  {
     "Artist": "Maria Dallas",
     "Title": "Tumblin' Down // The Music Turns Me On",
     "Rec_Box_ID": "45s Box 3",
@@ -15674,14 +16262,20 @@
   {
     "Artist": "Maria Muldaur",
     "Title": "Maria Muldaur",
-    "Rec_Box_ID": "33s Pop/Rock 17",
-    "ID": 4161
+    "Rec_Box_ID": "33s Pop/Rock 6",
+    "ID": 1592
   },
   {
     "Artist": "Maria Muldaur",
     "Title": "Maria Muldaur",
-    "Rec_Box_ID": "33s Pop/Rock 6",
-    "ID": 1592
+    "Rec_Box_ID": "33s Pop/Rock 17",
+    "ID": 4161
+  },
+  {
+    "Artist": "Maria Stader",
+    "Title": "Schubert/Mendelssohn/Schoeck: A Maria Stader Recital",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5080
   },
   {
     "Artist": "Mariachi Internacional",
@@ -15694,6 +16288,12 @@
     "Title": "Emotions(Europe)",
     "Rec_Box_ID": "33s Pop/Rock 14",
     "ID": 3422
+  },
+  {
+    "Artist": "Marian Anderson With Franz Rupp",
+    "Title": "Spirituals",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4973
   },
   {
     "Artist": "Marie Tiffany / Charles Harrison And John Young",
@@ -15728,7 +16328,7 @@
   {
     "Artist": "Mario Lanza",
     "Title": "Lanza On B'Way",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3546
   },
   {
@@ -15780,6 +16380,12 @@
     "ID": 2891
   },
   {
+    "Artist": "Marshall Crenshaw",
+    "Title": "Downtown",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4930
+  },
+  {
     "Artist": "Martin Miller And His Orchestra",
     "Title": "Cole Porter Favorites",
     "Rec_Box_ID": "33s Jazz 3",
@@ -15788,8 +16394,14 @@
   {
     "Artist": "Martin Mull",
     "Title": "No Hits, Four Errors-The Best Of Martin Mull",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1601
+  },
+  {
+    "Artist": "Martin Pearlman",
+    "Title": "Music Of The Couperin Family (Louis, Francois And Armand-Louis",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4925
   },
   {
     "Artist": "Marty Balin",
@@ -15806,13 +16418,13 @@
   {
     "Artist": "Marty Robbins",
     "Title": "(NEW)Portrait Of Marty",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1602
   },
   {
     "Artist": "Marty Robbins",
     "Title": "(NEW)Singing The Blues",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1603
   },
   {
@@ -15878,7 +16490,7 @@
   {
     "Artist": "Mason Williams",
     "Title": "Them Poems",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1612
   },
   {
@@ -15902,7 +16514,7 @@
   {
     "Artist": "Maurice Jarre",
     "Title": "Grand Prix (Original Soundtrack)",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 2",
     "ID": 4880
   },
   {
@@ -15925,7 +16537,7 @@
   },
   {
     "Artist": "Maynard Ferguson",
-    "Title": "Anthony And Cleopatra // Theme From \"Naked City",
+    "Title": "Anthony And Cleopatra // Theme From \"Naked City\"",
     "Rec_Box_ID": "45s Box 10",
     "ID": 3599
   },
@@ -16048,6 +16660,12 @@
     "Title": "Big N' Country",
     "Rec_Box_ID": "33s Country 3",
     "ID": 4162
+  },
+  {
+    "Artist": "Mel Tillis",
+    "Title": "I Believe In You",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5001
   },
   {
     "Artist": "Mel Tillis",
@@ -16200,6 +16818,12 @@
     "ID": 4101
   },
   {
+    "Artist": "Menotti",
+    "Title": "Amahl And The Night Visitors",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4994
+  },
+  {
     "Artist": "Mental As Anything",
     "Title": "Fundamental",
     "Rec_Box_ID": "33s Pop/Rock 4",
@@ -16226,7 +16850,7 @@
   {
     "Artist": "Metz",
     "Title": "Up On Gravity Hill",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2896
   },
   {
@@ -16240,6 +16864,30 @@
     "Title": "Words Get In The Way // Movies",
     "Rec_Box_ID": "45s Box 8",
     "ID": 1650
+  },
+  {
+    "Artist": "Michael Feinstein",
+    "Title": "Isn't It Romantic",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5090
+  },
+  {
+    "Artist": "Michael Feinstein",
+    "Title": "Live At The Algonquin",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5089
+  },
+  {
+    "Artist": "Michael Feinstein",
+    "Title": "Michael Feinstein Sings Irving Berlin - Remember",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5091
+  },
+  {
+    "Artist": "Michael Feinstein",
+    "Title": "Pure Gershwin",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5092
   },
   {
     "Artist": "Michael Herman's Folk Orchestra",
@@ -16302,6 +16950,12 @@
     "ID": 4154
   },
   {
+    "Artist": "Michael Nesmith",
+    "Title": "Pretty Much Your Standard Ranch Stash",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5007
+  },
+  {
     "Artist": "Michel Legrand",
     "Title": "Theme From \"Summer of '42\" // Summer Song(Theme From The Sound Track \"Picasso Summer\")",
     "Rec_Box_ID": "45s Box 10",
@@ -16328,7 +16982,7 @@
   {
     "Artist": "Midnight String Quartet",
     "Title": "(NEW)Rhapsodies For Young Lovers",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2969
   },
   {
@@ -16382,7 +17036,7 @@
   {
     "Artist": "Mike Warnke",
     "Title": "Jester In The Kings Court",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1666
   },
   {
@@ -16544,7 +17198,7 @@
   {
     "Artist": "Moms Mabley",
     "Title": "The Youngest Teenager",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1685
   },
   {
@@ -16552,6 +17206,12 @@
     "Title": "Down To Earth",
     "Rec_Box_ID": "33s Pop/Rock 12",
     "ID": 3087
+  },
+  {
+    "Artist": "Monique Haas, Paul Paray",
+    "Title": "Ravel: Piano Concerto In G Major; Piano Concerto For The Left Hand",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5075
   },
   {
     "Artist": "Montrose",
@@ -16729,7 +17389,7 @@
   },
   {
     "Artist": "N.W.D.R - Orchester, Hamburg; Leopold Ludwig, Dir.",
-    "Title": "Mozart / Haydn: Symphony No 41 \"Jupiter\" / Symphony No 94 \"Surprise",
+    "Title": "Mozart / Haydn: Symphony No 41 \"Jupiter\" / Symphony No 94 \"Surprise\"",
     "Rec_Box_ID": "33s Classical 3",
     "ID": 1696
   },
@@ -16849,6 +17509,12 @@
   },
   {
     "Artist": "Nat \"King\" Cole",
+    "Title": "This Is Nat \"King\" Cole",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5052
+  },
+  {
+    "Artist": "Nat \"King\" Cole",
     "Title": "Welcome To The Club",
     "Rec_Box_ID": "45s Box 7",
     "ID": 1712
@@ -16888,6 +17554,12 @@
     "Title": "Ramblin' Rose",
     "Rec_Box_ID": "33s Pop/Rock 7",
     "ID": 1719
+  },
+  {
+    "Artist": "Nat King Cole",
+    "Title": "Sings His Songs From Cat Ballou",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5110
   },
   {
     "Artist": "Nat King Cole",
@@ -17006,14 +17678,14 @@
   {
     "Artist": "Neil Diamond",
     "Title": "I'm Glad You're Here With Me Tonight",
-    "Rec_Box_ID": "33s Pop/Rock 15",
-    "ID": 3790
+    "Rec_Box_ID": "33s Pop/Rock 21",
+    "ID": 4815
   },
   {
     "Artist": "Neil Diamond",
     "Title": "I'm Glad You're Here With Me Tonight",
-    "Rec_Box_ID": "33s Pop/Rock 21",
-    "ID": 4815
+    "Rec_Box_ID": "33s Pop/Rock 15",
+    "ID": 3790
   },
   {
     "Artist": "Neil Diamond",
@@ -17036,6 +17708,12 @@
   {
     "Artist": "Neil Diamond",
     "Title": "On The Way To The Sky",
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 1734
+  },
+  {
+    "Artist": "Neil Diamond",
+    "Title": "On The Way To The Sky",
     "Rec_Box_ID": "33s Pop/Rock 11",
     "ID": 2994
   },
@@ -17044,12 +17722,6 @@
     "Title": "On The Way To The Sky",
     "Rec_Box_ID": "33s Pop/Rock 9",
     "ID": 1733
-  },
-  {
-    "Artist": "Neil Diamond",
-    "Title": "On The Way To The Sky",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 1734
   },
   {
     "Artist": "Neil Diamond",
@@ -17084,14 +17756,14 @@
   {
     "Artist": "Neil Diamond",
     "Title": "Song Sung Blue // Gitchy Goomy",
-    "Rec_Box_ID": "45s Box 8",
-    "ID": 1739
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 1740
   },
   {
     "Artist": "Neil Diamond",
     "Title": "Song Sung Blue // Gitchy Goomy",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 1740
+    "Rec_Box_ID": "45s Box 8",
+    "ID": 1739
   },
   {
     "Artist": "Neil Diamond",
@@ -17251,7 +17923,7 @@
   },
   {
     "Artist": "New York Philharmonic; Zubin Mehta, Cond.",
-    "Title": "Beethoven: Symphony No. 3 \"Eroica",
+    "Title": "Beethoven: Symphony No. 3 \"Eroica\"",
     "Rec_Box_ID": "33s Classical 2",
     "ID": 1758
   },
@@ -17318,7 +17990,7 @@
   {
     "Artist": "Nipsey Russell",
     "Title": "The Birds And The Bees And All That Jazz",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1762
   },
   {
@@ -17358,9 +18030,15 @@
     "ID": 1767
   },
   {
+    "Artist": "Northwest German Radio Orchestra; Hans Schmidt-Isserstedt, Cond.",
+    "Title": "Tchaikovsky: Symphony No. 5 In E Minor",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5060
+  },
+  {
     "Artist": "Oak Ridge Boys",
     "Title": "(NEW)Bobbie Sue",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1768
   },
   {
@@ -17467,6 +18145,12 @@
   },
   {
     "Artist": "Olivia Newton John",
+    "Title": "Physical",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5114
+  },
+  {
+    "Artist": "Olivia Newton John",
     "Title": "Soul Kiss",
     "Rec_Box_ID": "33s Pop/Rock 4",
     "ID": 1776
@@ -17482,6 +18166,54 @@
     "Title": "Il Tango Dell Capiere // Tango Che Passione",
     "Rec_Box_ID": "78s Box 13",
     "ID": 4434
+  },
+  {
+    "Artist": "Orchestra e Coro del Teatro dell'Opera di Roma; Franco Capuana",
+    "Title": "Verdi: Otello",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5074
+  },
+  {
+    "Artist": "Orchestra Of The Vienna State Opera; Ernest Graf, Cond.",
+    "Title": "Berlioz: Funeral And Triumphal Symphony",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5038
+  },
+  {
+    "Artist": "Original Broadway Cast",
+    "Title": "Kiss Me, Kate Record 1",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4981
+  },
+  {
+    "Artist": "Original Broadway Cast",
+    "Title": "Kiss Me, Kate Record 2",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4980
+  },
+  {
+    "Artist": "Original Broadway Cast",
+    "Title": "Kiss Me, Kate Record 3",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4979
+  },
+  {
+    "Artist": "Original Broadway Cast",
+    "Title": "Kiss Me, Kate Record 4",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4978
+  },
+  {
+    "Artist": "Original Broadway Cast",
+    "Title": "Kiss Me, Kate Record 5",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4977
+  },
+  {
+    "Artist": "Original Broadway Cast",
+    "Title": "Kiss Me, Kate Record 6",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4976
   },
   {
     "Artist": "Orleans",
@@ -17522,7 +18254,7 @@
   {
     "Artist": "Orson Welles",
     "Title": "The Begatting Of The President",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4084
   },
   {
@@ -17578,6 +18310,18 @@
     "Title": "Stage Right",
     "Rec_Box_ID": "33s Jazz 1",
     "ID": 3227
+  },
+  {
+    "Artist": "Oscar Peterson",
+    "Title": "The Oscar Peterson Collection Record 1",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4963
+  },
+  {
+    "Artist": "Oscar Peterson",
+    "Title": "The Oscar Peterson Collection Record 2",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4962
   },
   {
     "Artist": "Oscar Peterson & Buddy De Franco",
@@ -17678,7 +18422,7 @@
   {
     "Artist": "Pam Rose",
     "Title": "(NEW)Pam Rose",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1788
   },
   {
@@ -17762,7 +18506,7 @@
   {
     "Artist": "Pat Cooper",
     "Title": "Our Hero...",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 1795
   },
   {
@@ -17977,8 +18721,8 @@
   },
   {
     "Artist": "Paul Weston And His Orchestra",
-    "Title": "Sound Stage \"Hi-Fi Music Fom Hollywood",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Title": "Sound Stage \"Hi-Fi Music Fom Hollywood\"",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4767
   },
   {
@@ -18072,10 +18816,28 @@
     "ID": 1824
   },
   {
+    "Artist": "Paul Young",
+    "Title": "Some People",
+    "Rec_Box_ID": "12\" Singles",
+    "ID": 4999
+  },
+  {
     "Artist": "Paula Abdul",
     "Title": "Forever Your Girl",
     "Rec_Box_ID": "33s Pop/Rock 2",
     "ID": 1803
+  },
+  {
+    "Artist": "Pauline C Peck",
+    "Title": "The Day Buddy Ran Away",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5056
+  },
+  {
+    "Artist": "Pavel Serebriakov, Heinrich Neuhaus, Pianos",
+    "Title": "Prokofiev: Romeo And Juliet/Visions Fugitives",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4993
   },
   {
     "Artist": "Peabo Bryson",
@@ -18104,7 +18866,7 @@
   {
     "Artist": "Peaches And Herb",
     "Title": "Love Is Strange // It's True I Love You",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3771
   },
   {
@@ -18249,25 +19011,25 @@
     "Artist": "Perry Como",
     "Title": "And I Love You So",
     "Rec_Box_ID": "33s Pop/Rock 17",
-    "ID": 4061
+    "ID": 4062
   },
   {
     "Artist": "Perry Como",
     "Title": "And I Love You So",
     "Rec_Box_ID": "33s Pop/Rock 17",
-    "ID": 4062
-  },
-  {
-    "Artist": "Perry Como",
-    "Title": "Como's Golden Record",
-    "Rec_Box_ID": "33s Pop/Rock 16",
-    "ID": 3911
+    "ID": 4061
   },
   {
     "Artist": "Perry Como",
     "Title": "Como's Golden Record",
     "Rec_Box_ID": "33s Pop/Rock 12",
     "ID": 3081
+  },
+  {
+    "Artist": "Perry Como",
+    "Title": "Como's Golden Record",
+    "Rec_Box_ID": "33s Pop/Rock 16",
+    "ID": 3911
   },
   {
     "Artist": "Perry Como",
@@ -18350,14 +19112,14 @@
   {
     "Artist": "Perry Como",
     "Title": "Some Enchanted Evening // Bali Ha'i",
-    "Rec_Box_ID": "78s Box 9",
-    "ID": 1843
+    "Rec_Box_ID": "78s Box 3",
+    "ID": 1842
   },
   {
     "Artist": "Perry Como",
     "Title": "Some Enchanted Evening // Bali Ha'i",
-    "Rec_Box_ID": "78s Box 3",
-    "ID": 1842
+    "Rec_Box_ID": "78s Box 9",
+    "ID": 1843
   },
   {
     "Artist": "Perry Como",
@@ -18488,14 +19250,14 @@
   {
     "Artist": "Peter Cetera",
     "Title": "Glory Of Love // On The Line",
-    "Rec_Box_ID": "45s Box 2",
-    "ID": 1851
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4576
   },
   {
     "Artist": "Peter Cetera",
     "Title": "Glory Of Love // On The Line",
-    "Rec_Box_ID": "45s Box 12",
-    "ID": 4576
+    "Rec_Box_ID": "45s Box 2",
+    "ID": 1851
   },
   {
     "Artist": "Peter Cetera",
@@ -18512,14 +19274,14 @@
   {
     "Artist": "Peter Frampton",
     "Title": "Frampton Comes Alive! Record 2",
-    "Rec_Box_ID": "33s Pop/Rock 14",
-    "ID": 3488
+    "Rec_Box_ID": "33s Pop/Rock 4",
+    "ID": 1854
   },
   {
     "Artist": "Peter Frampton",
     "Title": "Frampton Comes Alive! Record 2",
-    "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 1854
+    "Rec_Box_ID": "33s Pop/Rock 14",
+    "ID": 3488
   },
   {
     "Artist": "Peter Frampton",
@@ -18530,14 +19292,14 @@
   {
     "Artist": "Peter Frampton",
     "Title": "I'm In You // St. Thomas (Don't You Know How I Feel)",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 1857
+    "Rec_Box_ID": "45s Box 7",
+    "ID": 1856
   },
   {
     "Artist": "Peter Frampton",
     "Title": "I'm In You // St. Thomas (Don't You Know How I Feel)",
-    "Rec_Box_ID": "45s Box 7",
-    "ID": 1856
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 1857
   },
   {
     "Artist": "Peter Kara And His Orchestra",
@@ -18550,6 +19312,12 @@
     "Title": "Plays A Salute To Herb Alpert & The Tijuana Brass",
     "Rec_Box_ID": "33s Jazz 5",
     "ID": 1859
+  },
+  {
+    "Artist": "Peter Pan Players And Orchestra",
+    "Title": "The Ugly Duckling",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4945
   },
   {
     "Artist": "Peter Tosh",
@@ -18584,14 +19352,20 @@
   {
     "Artist": "Peter, Paul And Mary",
     "Title": "Leaving On A Jet Plane // The House Song",
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 1848
+  },
+  {
+    "Artist": "Peter, Paul And Mary",
+    "Title": "Leaving On A Jet Plane // The House Song",
     "Rec_Box_ID": "45s Box 8",
     "ID": 1847
   },
   {
     "Artist": "Peter, Paul And Mary",
-    "Title": "Leaving On A Jet Plane // The House Song",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 1848
+    "Title": "Peter, Paul And Mary",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5027
   },
   {
     "Artist": "Peter, Paul And Mary",
@@ -18686,26 +19460,26 @@
   {
     "Artist": "Phil Collins",
     "Title": "One More Night // The Man With The Horn",
-    "Rec_Box_ID": "45s Box 2",
-    "ID": 1873
-  },
-  {
-    "Artist": "Phil Collins",
-    "Title": "One More Night // The Man With The Horn",
     "Rec_Box_ID": "45s Box 7",
     "ID": 1874
   },
   {
-    "Artist": "Phil Harris",
-    "Title": "Goofus // The Thing",
-    "Rec_Box_ID": "45s Box 11",
-    "ID": 4298
+    "Artist": "Phil Collins",
+    "Title": "One More Night // The Man With The Horn",
+    "Rec_Box_ID": "45s Box 2",
+    "ID": 1873
   },
   {
     "Artist": "Phil Harris",
     "Title": "Goofus // The Thing",
     "Rec_Box_ID": "78s Box 12",
     "ID": 3983
+  },
+  {
+    "Artist": "Phil Harris",
+    "Title": "Goofus // The Thing",
+    "Rec_Box_ID": "45s Box 11",
+    "ID": 4298
   },
   {
     "Artist": "Phil Harris",
@@ -18768,6 +19542,12 @@
     "ID": 1878
   },
   {
+    "Artist": "Philharmonic Symphony Orchestra Of New York; Dimitri Mitropoulos, Cond.",
+    "Title": "Shostakovitch: Symphony No. 5",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5076
+  },
+  {
     "Artist": "Philharmonic Symphony Orchestra Of New York; Willem Mengelberg",
     "Title": "Le Rouet D'Omphale-Part 1 // Part 2",
     "Rec_Box_ID": "78s Box 4",
@@ -18823,9 +19603,27 @@
   },
   {
     "Artist": "Pink Floyd",
+    "Title": "(NEW)Dark Side Of The Moon(50th Anniversary)(2023)",
+    "Rec_Box_ID": "33s NEW 2",
+    "ID": 5112
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "(NEW)The Division Bell(2016)",
+    "Rec_Box_ID": "33s NEW 2",
+    "ID": 5113
+  },
+  {
+    "Artist": "Pink Floyd",
     "Title": "Animals",
     "Rec_Box_ID": "33s Pop/Rock 14",
     "ID": 3400
+  },
+  {
+    "Artist": "Pink Floyd",
+    "Title": "The Division Bell(2016)",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5123
   },
   {
     "Artist": "Pink Floyd",
@@ -18854,7 +19652,7 @@
   {
     "Artist": "Pissed Jeans",
     "Title": "Half Divorced",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2895
   },
   {
@@ -18866,7 +19664,7 @@
   {
     "Artist": "Placido Domingo",
     "Title": "(NEW)Adoro",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4453
   },
   {
@@ -18944,7 +19742,7 @@
   {
     "Artist": "Prince",
     "Title": "(NEW)Partyman",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4226
   },
   {
@@ -18962,7 +19760,7 @@
   {
     "Artist": "Prince And The Revolution",
     "Title": "Let's Go Crazy(Single)",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 3113
   },
   {
@@ -18980,7 +19778,7 @@
   {
     "Artist": "Pro Musica Symphony, Vienna; Hans Swarowsky, Conductor",
     "Title": "(NEW)Prokofiev/Britten: Peter And The Wolf/Young Person's Guide To The Orchestra",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1900
   },
   {
@@ -19010,13 +19808,13 @@
   {
     "Artist": "Protomartyr",
     "Title": "The Agent Intellect",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2899
   },
   {
     "Artist": "Protomartyr",
     "Title": "Under Color Of Official Right",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2898
   },
   {
@@ -19034,14 +19832,14 @@
   {
     "Artist": "Pure Prarie League",
     "Title": "Just Fly",
-    "Rec_Box_ID": "33s Pop/Rock 13",
-    "ID": 3270
+    "Rec_Box_ID": "33s Pop/Rock 2",
+    "ID": 1903
   },
   {
     "Artist": "Pure Prarie League",
     "Title": "Just Fly",
-    "Rec_Box_ID": "33s Pop/Rock 2",
-    "ID": 1903
+    "Rec_Box_ID": "33s Pop/Rock 13",
+    "ID": 3270
   },
   {
     "Artist": "Quarterflash",
@@ -19064,7 +19862,7 @@
   {
     "Artist": "Queen",
     "Title": "(NEW)Flash Gordon Soundtrack",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1906
   },
   {
@@ -19183,6 +19981,12 @@
   },
   {
     "Artist": "R.E.M.",
+    "Title": "Document",
+    "Rec_Box_ID": "33s REM",
+    "ID": 5057
+  },
+  {
+    "Artist": "R.E.M.",
     "Title": "Document(Canada)",
     "Rec_Box_ID": "33s REM",
     "ID": 2958
@@ -19221,13 +20025,13 @@
     "Artist": "R.E.M.",
     "Title": "Green",
     "Rec_Box_ID": "33s REM",
-    "ID": 1925
+    "ID": 1924
   },
   {
     "Artist": "R.E.M.",
     "Title": "Green",
     "Rec_Box_ID": "33s REM",
-    "ID": 1924
+    "ID": 1925
   },
   {
     "Artist": "R.E.M.",
@@ -19240,6 +20044,12 @@
     "Title": "Life's Rich Pageant",
     "Rec_Box_ID": "33s REM",
     "ID": 1927
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Lifes Rich Pageant",
+    "Rec_Box_ID": "33s REM",
+    "ID": 4970
   },
   {
     "Artist": "R.E.M.",
@@ -19257,13 +20067,19 @@
     "Artist": "R.E.M.",
     "Title": "Reckoning",
     "Rec_Box_ID": "33s REM",
+    "ID": 1930
+  },
+  {
+    "Artist": "R.E.M.",
+    "Title": "Reckoning",
+    "Rec_Box_ID": "33s REM",
     "ID": 1931
   },
   {
     "Artist": "R.E.M.",
     "Title": "Reckoning",
     "Rec_Box_ID": "33s REM",
-    "ID": 1930
+    "ID": 5104
   },
   {
     "Artist": "Rafael Mendez",
@@ -19302,10 +20118,22 @@
     "ID": 1933
   },
   {
+    "Artist": "Randy Vanwarmer",
+    "Title": "Warmer",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4934
+  },
+  {
     "Artist": "Rappin' Duke",
     "Title": "Rappin' Duke",
     "Rec_Box_ID": "12\" Singles",
     "ID": 1934
+  },
+  {
+    "Artist": "Rare Earth",
+    "Title": "Get Ready",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4991
   },
   {
     "Artist": "Rare Earth",
@@ -19324,6 +20152,18 @@
     "Title": "Pete Kelly's Blues // DC-7 (promo)",
     "Rec_Box_ID": "45s Box 1",
     "ID": 1936
+  },
+  {
+    "Artist": "Ray Anthony And His Orchestra",
+    "Title": "I Remember Glenn Miller Record 1",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5121
+  },
+  {
+    "Artist": "Ray Anthony And His Orchestra",
+    "Title": "I Remember Glenn Miller Record 2",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5120
   },
   {
     "Artist": "Ray Bolger",
@@ -19414,6 +20254,24 @@
     "Title": "The Very Best Of Ray Stevens",
     "Rec_Box_ID": "33s Country 1",
     "ID": 1944
+  },
+  {
+    "Artist": "RCA Victor Orchestra; William Steinberg, Cond.; Jascha Heifetz, Violin",
+    "Title": "Bruch: Scottish Fantasy, Opus 46 Record 1",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4984
+  },
+  {
+    "Artist": "RCA Victor Orchestra; William Steinberg, Cond.; Jascha Heifetz, Violin",
+    "Title": "Bruch: Scottish Fantasy, Opus 46 Record 2",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4983
+  },
+  {
+    "Artist": "RCA Victor Orchestra; William Steinberg, Cond.; Jascha Heifetz, Violin",
+    "Title": "Bruch: Scottish Fantasy, Opus 46 Record 3",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4982
   },
   {
     "Artist": "Re-Flex",
@@ -19520,13 +20378,13 @@
   {
     "Artist": "Rex Allen Jr.",
     "Title": "(NEW)Rex",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1958
   },
   {
     "Artist": "Rex Allen, Jr.",
     "Title": "(NEW)Brand New",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1956
   },
   {
@@ -19538,7 +20396,7 @@
   {
     "Artist": "Rex Harrison, Julie Andrews",
     "Title": "My Fair Lady",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4725
   },
   {
@@ -19556,7 +20414,7 @@
   {
     "Artist": "Rhythm Heritage",
     "Title": "Theme From Starsky & Hutch // Disco Queen",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3777
   },
   {
@@ -19646,13 +20504,13 @@
   {
     "Artist": "Richard Pryor",
     "Title": "Wanted(Live In Concert) Record 1",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 2",
     "ID": 4752
   },
   {
     "Artist": "Richard Pryor",
     "Title": "Wanted(Live In Concert) Record 2",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 2",
     "ID": 4751
   },
   {
@@ -19694,7 +20552,7 @@
   {
     "Artist": "Rick Springfield",
     "Title": "(NEW)Tao",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 1977
   },
   {
@@ -19737,13 +20595,13 @@
     "Artist": "Rickie Lee Jones",
     "Title": "Rickie Lee Jones",
     "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 1975
+    "ID": 1974
   },
   {
     "Artist": "Rickie Lee Jones",
     "Title": "Rickie Lee Jones",
     "Rec_Box_ID": "33s Pop/Rock 4",
-    "ID": 1974
+    "ID": 1975
   },
   {
     "Artist": "Ricky Nelson",
@@ -19860,6 +20718,12 @@
     "ID": 3052
   },
   {
+    "Artist": "Robert Sylvester",
+    "Title": "Plays Ysaye, Crumb, Wellesz, Hindemith",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4941
+  },
+  {
     "Artist": "Roberta Flack",
     "Title": "First Take",
     "Rec_Box_ID": "33s Pop/Rock 20",
@@ -19898,7 +20762,7 @@
   {
     "Artist": "Robin Williams",
     "Title": "Reality... What A Concept",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3836
   },
   {
@@ -19921,9 +20785,21 @@
   },
   {
     "Artist": "Rod McKuen",
+    "Title": "Scandalous John(Original Soundtrack Album)",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5129
+  },
+  {
+    "Artist": "Rod McKuen",
     "Title": "The Beautiful Strangers",
     "Rec_Box_ID": "33s Pop/Rock 13",
     "ID": 3240
+  },
+  {
+    "Artist": "Rod Stewart",
+    "Title": "A Night On The Town",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4951
   },
   {
     "Artist": "Rod Stewart",
@@ -19964,13 +20840,13 @@
   {
     "Artist": "Rodgers & Hammerstein",
     "Title": "Flower Drum Song",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4726
   },
   {
     "Artist": "Rodgers & Hammerstein",
     "Title": "South Pacific",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4724
   },
   {
@@ -19990,6 +20866,12 @@
     "Title": "Roger McGuinn & Band",
     "Rec_Box_ID": "33s Pop/Rock 9",
     "ID": 2004
+  },
+  {
+    "Artist": "Roger Miller",
+    "Title": "Dang Me",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4916
   },
   {
     "Artist": "Roger Miller",
@@ -20047,6 +20929,12 @@
   },
   {
     "Artist": "Roger Williams",
+    "Title": "Always",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5013
+  },
+  {
+    "Artist": "Roger Williams",
     "Title": "Born Free",
     "Rec_Box_ID": "33s Jazz 8",
     "ID": 4416
@@ -20077,6 +20965,12 @@
   },
   {
     "Artist": "Roger Williams",
+    "Title": "More Songs Of The Fabulous Fifties",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5044
+  },
+  {
+    "Artist": "Roger Williams",
     "Title": "Mr.Piano",
     "Rec_Box_ID": "33s Jazz 1",
     "ID": 3279
@@ -20098,6 +20992,30 @@
     "Title": "Songs Of The Fabulous Forties Vol 3",
     "Rec_Box_ID": "45s Box 11",
     "ID": 4304
+  },
+  {
+    "Artist": "Roger Williams",
+    "Title": "Songs Of The Soaring '60s",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5106
+  },
+  {
+    "Artist": "Roger Williams",
+    "Title": "Summer Wind",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5107
+  },
+  {
+    "Artist": "Roger Williams",
+    "Title": "Till",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5002
+  },
+  {
+    "Artist": "Roger Williams",
+    "Title": "Till",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5014
   },
   {
     "Artist": "Rolling Stones",
@@ -20131,7 +21049,7 @@
   },
   {
     "Artist": "Ronnie Aldrich And His Two Pianos With The London Festival Orchestra",
-    "Title": "This Way \"In",
+    "Title": "This Way \"In\"",
     "Rec_Box_ID": "33s Jazz 3",
     "ID": 2013
   },
@@ -20164,6 +21082,12 @@
     "Title": "Open Fire",
     "Rec_Box_ID": "33s Pop/Rock 18",
     "ID": 4240
+  },
+  {
+    "Artist": "Ronnie Munro And His Orchestra",
+    "Title": "Ballet Memories",
+    "Rec_Box_ID": "33s 10",
+    "ID": 5020
   },
   {
     "Artist": "Ronnie Munro And His Orchestra",
@@ -20286,6 +21210,12 @@
     "ID": 4677
   },
   {
+    "Artist": "Roy Drusky",
+    "Title": "All Time Country Hits",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5068
+  },
+  {
     "Artist": "Roy Orbison",
     "Title": "Laminar Flow",
     "Rec_Box_ID": "33s Pop/Rock 10",
@@ -20320,6 +21250,18 @@
     "Title": "The Best Of Gilbert & Sullivan",
     "Rec_Box_ID": "33s Classical 3",
     "ID": 3850
+  },
+  {
+    "Artist": "Royale Orchestra And Singers",
+    "Title": "Music Of Jerome Kern And Others",
+    "Rec_Box_ID": "33s 10",
+    "ID": 4969
+  },
+  {
+    "Artist": "Rudolf Serkin",
+    "Title": "Beethoven: Sonata No. 14, Sonata No. 8, Sonata No. 23",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5063
   },
   {
     "Artist": "Rudolf Serkin",
@@ -20400,6 +21342,12 @@
     "ID": 2034
   },
   {
+    "Artist": "Russell Hoban",
+    "Title": "Best Friends For Frances",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5021
+  },
+  {
     "Artist": "Ruth Wallis",
     "Title": "The Sweater Girl // The Admiral's Daughter (The New Dinghy Song)",
     "Rec_Box_ID": "78s Box 3",
@@ -20456,14 +21404,14 @@
   {
     "Artist": "Salt-N-Pepa",
     "Title": "Tramp // Push It",
-    "Rec_Box_ID": "12\" Singles",
-    "ID": 2042
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 2043
   },
   {
     "Artist": "Salt-N-Pepa",
     "Title": "Tramp // Push It",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 2043
+    "Rec_Box_ID": "12\" Singles",
+    "ID": 2042
   },
   {
     "Artist": "Sam & Dave",
@@ -20648,7 +21596,7 @@
   {
     "Artist": "Santiago And His Silver Strings",
     "Title": "(NEW) Musical Holiday",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2055
   },
   {
@@ -20996,13 +21944,13 @@
   {
     "Artist": "Shelley Berman",
     "Title": "Inside Shelley Berman",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3604
   },
   {
     "Artist": "Shelley Berman",
     "Title": "The Edge Of Shelley Berman",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3576
   },
   {
@@ -21013,7 +21961,7 @@
   },
   {
     "Artist": "Shirley Bassey",
-    "Title": "Is Really \"Something",
+    "Title": "Is Really \"Something\"",
     "Rec_Box_ID": "33s Pop/Rock 6",
     "ID": 2084
   },
@@ -21194,7 +22142,7 @@
   {
     "Artist": "Slappy White",
     "Title": "Elect: Slappy White Vice President",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2106
   },
   {
@@ -21225,13 +22173,13 @@
     "Artist": "Sly & The Family Stone",
     "Title": "Stand!",
     "Rec_Box_ID": "33s Pop/Rock 8",
-    "ID": 2110
+    "ID": 2109
   },
   {
     "Artist": "Sly & The Family Stone",
     "Title": "Stand!",
     "Rec_Box_ID": "33s Pop/Rock 8",
-    "ID": 2109
+    "ID": 2110
   },
   {
     "Artist": "Sly And The Family Stone",
@@ -21260,7 +22208,7 @@
   {
     "Artist": "Smothers Brothers",
     "Title": "(think ethnic!)",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2113
   },
   {
@@ -21308,164 +22256,188 @@
   {
     "Artist": "Soundtrack",
     "Title": "(NEW)Walt Disney's Story Of The Absent Minded Professor",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2119
   },
   {
     "Artist": "Soundtrack",
+    "Title": "10 Songs From Walt Disney's Mary Poppins",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5127
+  },
+  {
+    "Artist": "Soundtrack",
     "Title": "A Man And A Woman - Francis Lai",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4746
   },
   {
     "Artist": "Soundtrack",
     "Title": "Against All Odds",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2120
   },
   {
     "Artist": "Soundtrack",
     "Title": "Annie Get Your Gun - Ethel Merman",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2121
   },
   {
     "Artist": "Soundtrack",
     "Title": "Arthur The Album",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2122
   },
   {
     "Artist": "Soundtrack",
     "Title": "Billy Rose's Jumbo",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2979
   },
   {
     "Artist": "Soundtrack",
     "Title": "Bobby Deerfield (Dave Grusin)",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2123
   },
   {
     "Artist": "Soundtrack",
     "Title": "Doctor Zhivago - Maurice Jarre",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4754
   },
   {
     "Artist": "Soundtrack",
     "Title": "Fame",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2124
   },
   {
     "Artist": "Soundtrack",
+    "Title": "Flashdance",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5097
+  },
+  {
+    "Artist": "Soundtrack",
     "Title": "Footloose",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2125
   },
   {
     "Artist": "Soundtrack",
     "Title": "Funny Girl",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2126
   },
   {
     "Artist": "Soundtrack",
     "Title": "Funny Girl - Original Broadway Cast",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2127
   },
   {
     "Artist": "Soundtrack",
     "Title": "Gentlemen Prefer Blondes - Original Broadway Cast",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2128
   },
   {
     "Artist": "Soundtrack",
     "Title": "Hello, Dolly!",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2129
   },
   {
     "Artist": "Soundtrack",
+    "Title": "My Fair Lady",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5083
+  },
+  {
+    "Artist": "Soundtrack",
     "Title": "Over Here!",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3151
   },
   {
     "Artist": "Soundtrack",
     "Title": "Phaedra - Mikis Thodorakis",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4530
   },
   {
     "Artist": "Soundtrack",
     "Title": "Somewhere In Time - John Barry",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4780
   },
   {
     "Artist": "Soundtrack",
     "Title": "Stand By Me",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2130
   },
   {
     "Artist": "Soundtrack",
     "Title": "Star Trek II The Wrath Of Khan",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2133
   },
   {
     "Artist": "Soundtrack",
     "Title": "Star Trek III The Search For Spock",
-    "Rec_Box_ID": "33s Soundtracks",
-    "ID": 2132
-  },
-  {
-    "Artist": "Soundtrack",
-    "Title": "Star Trek III The Search For Spock",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2131
   },
   {
     "Artist": "Soundtrack",
+    "Title": "Star Trek III The Search For Spock",
+    "Rec_Box_ID": "33s Soundtracks 1",
+    "ID": 2132
+  },
+  {
+    "Artist": "Soundtrack",
     "Title": "Star Trek The Motion Picture",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2134
   },
   {
     "Artist": "Soundtrack",
     "Title": "The Five Pennies",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2135
   },
   {
     "Artist": "Soundtrack",
     "Title": "The King And I",
-    "Rec_Box_ID": "33s Soundtracks",
-    "ID": 2136
-  },
-  {
-    "Artist": "Soundtrack",
-    "Title": "The King And I",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4753
   },
   {
     "Artist": "Soundtrack",
+    "Title": "The King And I",
+    "Rec_Box_ID": "33s Soundtracks 1",
+    "ID": 2136
+  },
+  {
+    "Artist": "Soundtrack",
     "Title": "Top Gun",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2137
   },
   {
     "Artist": "Soundtrack",
     "Title": "Vision Quest",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2138
+  },
+  {
+    "Artist": "Soundtrack",
+    "Title": "Walt Disney's Pinocchio",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5009
   },
   {
     "Artist": "Sousa's Band",
@@ -21732,6 +22704,12 @@
     "ID": 3291
   },
   {
+    "Artist": "Stardrive Featuring Robert Mason",
+    "Title": "Stardrive",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4992
+  },
+  {
     "Artist": "Starship",
     "Title": "It's Not Enough // Love Among The Cannibals",
     "Rec_Box_ID": "45s Box 9",
@@ -21798,6 +22776,12 @@
     "ID": 4505
   },
   {
+    "Artist": "Stephanie Mills",
+    "Title": "Stephanie",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4997
+  },
+  {
     "Artist": "Stephen Bishop",
     "Title": "Bish",
     "Rec_Box_ID": "33s Pop/Rock 21",
@@ -21860,7 +22844,7 @@
   {
     "Artist": "Steve Martin",
     "Title": "Let's Get Small",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3842
   },
   {
@@ -21901,21 +22885,21 @@
   },
   {
     "Artist": "Stevie Wonder",
-    "Title": "A Something's Extra For \"Songs In The Key Of Life",
+    "Title": "A Something's Extra For \"Songs In The Key Of Life\"",
     "Rec_Box_ID": "45s Box 5",
     "ID": 2187
   },
   {
     "Artist": "Stevie Wonder",
     "Title": "Fulfillingness' First Finale",
-    "Rec_Box_ID": "33s Pop/Rock 10",
-    "ID": 2188
+    "Rec_Box_ID": "33s Pop/Rock 15",
+    "ID": 3567
   },
   {
     "Artist": "Stevie Wonder",
     "Title": "Fulfillingness' First Finale",
-    "Rec_Box_ID": "33s Pop/Rock 15",
-    "ID": 3567
+    "Rec_Box_ID": "33s Pop/Rock 10",
+    "ID": 2188
   },
   {
     "Artist": "Stevie Wonder",
@@ -21991,6 +22975,12 @@
   },
   {
     "Artist": "Styx",
+    "Title": "Kilroy Was Here",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4990
+  },
+  {
+    "Artist": "Styx",
     "Title": "Pieces Of Eight",
     "Rec_Box_ID": "33s Pop/Rock 15",
     "ID": 3792
@@ -22004,14 +22994,14 @@
   {
     "Artist": "Styx",
     "Title": "The Grand Illusion",
-    "Rec_Box_ID": "33s Pop/Rock 5",
-    "ID": 2200
+    "Rec_Box_ID": "33s Pop/Rock 7",
+    "ID": 2201
   },
   {
     "Artist": "Styx",
     "Title": "The Grand Illusion",
-    "Rec_Box_ID": "33s Pop/Rock 7",
-    "ID": 2201
+    "Rec_Box_ID": "33s Pop/Rock 5",
+    "ID": 2200
   },
   {
     "Artist": "Supertramp",
@@ -22086,6 +23076,12 @@
     "ID": 2208
   },
   {
+    "Artist": "Sylvia",
+    "Title": "Drifter",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5050
+  },
+  {
     "Artist": "T-Connection",
     "Title": "Tonight's The Night",
     "Rec_Box_ID": "12\" Singles",
@@ -22138,6 +23134,12 @@
     "Title": "Tammy Wynette",
     "Rec_Box_ID": "33s Country 1",
     "ID": 2217
+  },
+  {
+    "Artist": "Tammy Wynette",
+    "Title": "The First Lady",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 5010
   },
   {
     "Artist": "Tanya Tucker",
@@ -22212,6 +23214,12 @@
     "ID": 3965
   },
   {
+    "Artist": "Teresa Brewer",
+    "Title": "Goldfinger, Dear Heart & Other Great Movie Songs",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5071
+  },
+  {
     "Artist": "Teresa Stratas",
     "Title": "The Unknown Kurt Weill",
     "Rec_Box_ID": "33s Classical 1",
@@ -22226,14 +23234,14 @@
   {
     "Artist": "Terry Jacks",
     "Title": "Seasons In The Sun // Put The Bone In",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 2231
+    "Rec_Box_ID": "45s Box 8",
+    "ID": 2230
   },
   {
     "Artist": "Terry Jacks",
     "Title": "Seasons In The Sun // Put The Bone In",
-    "Rec_Box_ID": "45s Box 8",
-    "ID": 2230
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 2231
   },
   {
     "Artist": "Tex Beneke, Ray Eberle & The Modernaires With Paula Kelly",
@@ -22404,9 +23412,15 @@
     "ID": 2251
   },
   {
+    "Artist": "The Andrea True Connection",
+    "Title": "What's Your Name, What's Your Number // Fill Me Up(Heart To Heart)",
+    "Rec_Box_ID": "12\" Singles",
+    "ID": 4939
+  },
+  {
     "Artist": "The Andrews Sisters",
     "Title": "(NEW)Near You",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 3149
   },
   {
@@ -22465,6 +23479,12 @@
   },
   {
     "Artist": "The Animals",
+    "Title": "Don't Let Me Be Misunderstood // Club A-Gogo",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5122
+  },
+  {
+    "Artist": "The Animals",
     "Title": "The Best Of The Animals",
     "Rec_Box_ID": "33s Pop/Rock 7",
     "ID": 2257
@@ -22508,7 +23528,7 @@
   {
     "Artist": "The Association",
     "Title": "Never My Love // Requiem For The Masses",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3778
   },
   {
@@ -22580,14 +23600,14 @@
   {
     "Artist": "The Beach Boys",
     "Title": "Endless Summer Record 1",
-    "Rec_Box_ID": "33s Pop/Rock 1",
-    "ID": 2267
+    "Rec_Box_ID": "33s Pop/Rock 13",
+    "ID": 3266
   },
   {
     "Artist": "The Beach Boys",
     "Title": "Endless Summer Record 1",
-    "Rec_Box_ID": "33s Pop/Rock 13",
-    "ID": 3266
+    "Rec_Box_ID": "33s Pop/Rock 1",
+    "ID": 2267
   },
   {
     "Artist": "The Beach Boys",
@@ -22600,6 +23620,12 @@
     "Title": "Good Vibrations - Best Of The Beach Boys",
     "Rec_Box_ID": "33s Pop/Rock 4",
     "ID": 2268
+  },
+  {
+    "Artist": "The Beach Boys",
+    "Title": "Smiley Smile",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5125
   },
   {
     "Artist": "The Beat",
@@ -22648,6 +23674,12 @@
     "Title": "All You Need Is Love // Baby, You're A Rich Man",
     "Rec_Box_ID": "45s Box 3",
     "ID": 2270
+  },
+  {
+    "Artist": "The Beatles",
+    "Title": "Got To Get You Into My Life // Helter Skelter",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5103
   },
   {
     "Artist": "The Beatles",
@@ -22764,6 +23796,12 @@
     "ID": 2279
   },
   {
+    "Artist": "The Billie Hays Band",
+    "Title": "The Billie Hays Band",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5053
+  },
+  {
     "Artist": "The Blend",
     "Title": "The Blend",
     "Rec_Box_ID": "33s Pop/Rock 21",
@@ -22828,6 +23866,12 @@
     "Title": "The Dis-Advantages Of You",
     "Rec_Box_ID": "33s Jazz 7",
     "ID": 3848
+  },
+  {
+    "Artist": "The Bravo Pops Orchestra; John Senati Cond.",
+    "Title": "Rogers & Hammerstein - FLower Drum Song &  Musical Showcase",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5069
   },
   {
     "Artist": "The Brooklyn, Bronx & Queens Band",
@@ -22945,8 +23989,14 @@
   },
   {
     "Artist": "The Chipmunks",
+    "Title": "The Chipmunks Go Hollywood",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5128
+  },
+  {
+    "Artist": "The Chipmunks",
     "Title": "The Chipmunks Sing The Beatles' Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2297
   },
   {
@@ -22996,6 +24046,12 @@
     "Title": "Sing Sing Sing",
     "Rec_Box_ID": "33s Jazz 6",
     "ID": 2980
+  },
+  {
+    "Artist": "The Cleveland Orchestra; Lorin Maazel, Cond.",
+    "Title": "Moussorgsky: Pictures At An Exhibition/Night On Bald Mountain",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4956
   },
   {
     "Artist": "The Cleveland Orchestra; Richard Strauss, Cond.",
@@ -23060,7 +24116,7 @@
   {
     "Artist": "The Cowsills",
     "Title": "The Rain, The Park & Other Things // River Blue",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3775
   },
   {
@@ -23360,7 +24416,7 @@
   {
     "Artist": "The Exotic Guitars",
     "Title": "Everbody's Talkin'",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4281
   },
   {
@@ -23390,13 +24446,13 @@
   {
     "Artist": "The Firesign Theater",
     "Title": "Waiting For The Electrician Or Someone Like Him",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2336
   },
   {
     "Artist": "The Firesign Theatre",
     "Title": "How Can You Be In Two Places At Once When You're Not Anywhere At All",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 4071
   },
   {
@@ -23454,7 +24510,7 @@
     "ID": 4720
   },
   {
-    "Artist": "The Four King Sisters With The Rhythm \"Reys",
+    "Artist": "The Four King Sisters With The Rhythm \"Reys\"",
     "Title": "Jersey Bounce // Heavenly Hideaway",
     "Rec_Box_ID": "78s Box 11",
     "ID": 3963
@@ -23486,7 +24542,7 @@
   {
     "Artist": "The Four Sergeants",
     "Title": "Bawdy Barracks Ballads Volume 2",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 3917
   },
   {
@@ -23560,6 +24616,12 @@
     "Title": "The Star Spangled Banner; America (My Country 'Tis Of Thee) // Alouette",
     "Rec_Box_ID": "78s Box 9",
     "ID": 2352
+  },
+  {
+    "Artist": "The Goldman Band; Richard Franko Goldman, Cond.",
+    "Title": "Band Masterpieces",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5078
   },
   {
     "Artist": "The Grass Roots",
@@ -23748,6 +24810,12 @@
     "ID": 4808
   },
   {
+    "Artist": "The Irish Rovers",
+    "Title": "The Unicorn",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5072
+  },
+  {
     "Artist": "The J. Geils Band",
     "Title": "Bloodshot",
     "Rec_Box_ID": "33s Pop/Rock 10",
@@ -23766,6 +24834,12 @@
     "ID": 2370
   },
   {
+    "Artist": "The Japanese Bach Scene",
+    "Title": "A New Sound From The Japanese Bach Scene",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4986
+  },
+  {
     "Artist": "The Jesters",
     "Title": "McNamara's Band // She Lived Next Door To A Firehouse",
     "Rec_Box_ID": "78s Box 8",
@@ -23782,6 +24856,12 @@
     "Title": "You Gonna Make Me Love Sombody Else // Who Can I Run To",
     "Rec_Box_ID": "12\" Singles",
     "ID": 2372
+  },
+  {
+    "Artist": "The King Cole Trio",
+    "Title": "20 Golden Greats(Italy)",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4938
   },
   {
     "Artist": "The King Cole Trio",
@@ -23809,6 +24889,12 @@
   },
   {
     "Artist": "The Kingsmen",
+    "Title": "On Campus",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5132
+  },
+  {
+    "Artist": "The Kingsmen",
     "Title": "The Kingsmen Volume 3",
     "Rec_Box_ID": "33s Pop/Rock 22",
     "ID": 4915
@@ -23824,6 +24910,12 @@
     "Title": "Sold Out",
     "Rec_Box_ID": "33s Pop/Rock 3",
     "ID": 2374
+  },
+  {
+    "Artist": "The Kirby Stone Four",
+    "Title": "The Kirby Stone Touch",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5108
   },
   {
     "Artist": "The Knack",
@@ -24000,6 +25092,18 @@
     "ID": 2390
   },
   {
+    "Artist": "The Longines Symphonette",
+    "Title": "Dixieland Jazz From The Terrific Twenties",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5087
+  },
+  {
+    "Artist": "The Los Angeles Philharmonic Orchestra; Zubin Mehta, Cond.",
+    "Title": "Saint-Saens: Symphony No. 3 In C Minor, Op. 78",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5116
+  },
+  {
     "Artist": "The Louvin Brothers",
     "Title": "Love Songs Of The Hills",
     "Rec_Box_ID": "45s Box 1",
@@ -24066,9 +25170,15 @@
     "ID": 2397
   },
   {
+    "Artist": "The Manhattan Pops Orchestra",
+    "Title": "Melodies Of Love",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5041
+  },
+  {
     "Artist": "The Manhattan Pops Orchestra; Elias Breeskin, Cond.",
     "Title": "Original Motion Picture Sound Tracks And Other Great Themes",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4768
   },
   {
@@ -24438,6 +25548,12 @@
     "ID": 2435
   },
   {
+    "Artist": "The Orchestra Of London; Leslie Jones, Cond.",
+    "Title": "Haydn: Symph. No. 100 In G Major \"Military\" / Symph. No. 103 In E Flat Major \"Drum Roll\"",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4985
+  },
+  {
     "Artist": "The Orchestra Of The Stadtische Oper, Berlin; Artur Rother, Conductor",
     "Title": "Bizet - Carmen Preludes",
     "Rec_Box_ID": "33s 10",
@@ -24508,6 +25624,12 @@
     "Title": "Men From Earth",
     "Rec_Box_ID": "33s Pop/Rock 13",
     "ID": 3321
+  },
+  {
+    "Artist": "The Paris Left Bank Musicians",
+    "Title": "Parisian Holiday",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5105
   },
   {
     "Artist": "The Paris Sisters",
@@ -24613,6 +25735,12 @@
   },
   {
     "Artist": "The Philadelphia Orchestra; Eugene Ormandy, Cond.",
+    "Title": "Prokofieff: Alexander Nevsky",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5047
+  },
+  {
+    "Artist": "The Philadelphia Orchestra; Eugene Ormandy, Cond.",
     "Title": "Rimsky-Korsakov: Le Coq D'or",
     "Rec_Box_ID": "33s Classical 2",
     "ID": 2453
@@ -24696,6 +25824,12 @@
     "ID": 2462
   },
   {
+    "Artist": "The Philharmonia Orchestra; Wilhelm Furtwangler, Cond.",
+    "Title": "Wagner: Tristan And Isolde Highlights",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5037
+  },
+  {
     "Artist": "The Philharmonic Symphony Orchestra Of New York;Bruno Walter, Cond.",
     "Title": "Brahms:Symphony No.2 In D Major, Op. 73",
     "Rec_Box_ID": "33s Classical 5",
@@ -24728,14 +25862,14 @@
   {
     "Artist": "The Platters",
     "Title": "Encore Of Golden Hits",
-    "Rec_Box_ID": "33s Pop/Rock 14",
-    "ID": 3483
+    "Rec_Box_ID": "33s Pop/Rock 11",
+    "ID": 2978
   },
   {
     "Artist": "The Platters",
     "Title": "Encore Of Golden Hits",
-    "Rec_Box_ID": "33s Pop/Rock 11",
-    "ID": 2978
+    "Rec_Box_ID": "33s Pop/Rock 14",
+    "ID": 3483
   },
   {
     "Artist": "The Platters",
@@ -24888,6 +26022,12 @@
     "ID": 2478
   },
   {
+    "Artist": "The Rome Symphony Orchestra; Domenico Savino, Dir.",
+    "Title": "Verdi: La Traviata",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5077
+  },
+  {
     "Artist": "The Rose Of Avalanche",
     "Title": "Always There",
     "Rec_Box_ID": "33s Pop/Rock 21",
@@ -25022,61 +26162,61 @@
   {
     "Artist": "The Smothers Brothers",
     "Title": "Aesop's Fables",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2490
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Curb Your Tongue, Knave!",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2491
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Golden Hits Of The Smothers Brothers Volume II (Mono)",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2492
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Golden Hits Of The Smothers Brothers Volume II (Stereo)",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2493
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Mom Always Liked You Best!",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2494
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Play It Straight(Mono)",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2495
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Play It Straight(Stereo)",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2496
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Smothers Brothers Comedy Hour",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2497
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "The Songs And Comedy Of The Smothers Brothers At The Purple Onion",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2498
   },
   {
     "Artist": "The Smothers Brothers",
     "Title": "Tour De Farce: American History And Other Unrelated Subjects",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2499
   },
   {
@@ -25094,14 +26234,14 @@
   {
     "Artist": "The Souther-Hillman-Furay Band",
     "Title": "The Souther-Hillman-Furay Band",
-    "Rec_Box_ID": "33s Pop/Rock 16",
-    "ID": 3838
+    "Rec_Box_ID": "33s Pop/Rock 9",
+    "ID": 2500
   },
   {
     "Artist": "The Souther-Hillman-Furay Band",
     "Title": "The Souther-Hillman-Furay Band",
-    "Rec_Box_ID": "33s Pop/Rock 9",
-    "ID": 2500
+    "Rec_Box_ID": "33s Pop/Rock 16",
+    "ID": 3838
   },
   {
     "Artist": "The Specials",
@@ -25124,13 +26264,13 @@
   {
     "Artist": "The Statler Brothers",
     "Title": "(NEW)Bed Of Roses",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2501
   },
   {
     "Artist": "The Statler Brothers",
     "Title": "(NEW)The Statler's Greatest Hits",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2502
   },
   {
@@ -25150,6 +26290,12 @@
     "Title": "Oh Happy Day",
     "Rec_Box_ID": "33s Country 2",
     "ID": 2505
+  },
+  {
+    "Artist": "The Statler Brothers",
+    "Title": "Years Ago",
+    "Rec_Box_ID": "33s Country 3",
+    "ID": 4974
   },
   {
     "Artist": "The Statler Dance Orchestra",
@@ -25184,14 +26330,14 @@
   {
     "Artist": "The Stranglers",
     "Title": "Always The Sun // Mayan Skies",
-    "Rec_Box_ID": "45s Box 8",
-    "ID": 2510
+    "Rec_Box_ID": "45s Box 9",
+    "ID": 2511
   },
   {
     "Artist": "The Stranglers",
     "Title": "Always The Sun // Mayan Skies",
-    "Rec_Box_ID": "45s Box 9",
-    "ID": 2511
+    "Rec_Box_ID": "45s Box 8",
+    "ID": 2510
   },
   {
     "Artist": "The Stuttgart Festival Orchestra; Emil Kahn, Cond.",
@@ -25264,6 +26410,24 @@
     "Title": "Why Do You Have To Go Home // Baby And Me(5 copies)",
     "Rec_Box_ID": "45s Box 12",
     "ID": 4377
+  },
+  {
+    "Artist": "The Tavern Polka Band",
+    "Title": "Polka Party Record 1",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5031
+  },
+  {
+    "Artist": "The Tavern Polka Band",
+    "Title": "Polka Party Record 2",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5030
+  },
+  {
+    "Artist": "The Tavern Polka Band",
+    "Title": "Polka Party Record 3",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 5029
   },
   {
     "Artist": "The Ted Heath Orchestra",
@@ -25417,9 +26581,27 @@
   },
   {
     "Artist": "The Ventures",
+    "Title": "The Lonely Bull",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4987
+  },
+  {
+    "Artist": "The Ventures",
     "Title": "The Very Best Of The Ventures",
     "Rec_Box_ID": "33s Pop/Rock 2",
     "ID": 2532
+  },
+  {
+    "Artist": "The Ventures",
+    "Title": "Walk Don't Run Vol. 2",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4989
+  },
+  {
+    "Artist": "The Ventures",
+    "Title": "Wild Things!",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4988
   },
   {
     "Artist": "The Vienna New Symphony; Max Goberman, Cond.",
@@ -25580,14 +26762,14 @@
   {
     "Artist": "Three Dog Night",
     "Title": "Harmony",
-    "Rec_Box_ID": "33s Pop/Rock 20",
-    "ID": 4601
+    "Rec_Box_ID": "33s Pop/Rock 14",
+    "ID": 3460
   },
   {
     "Artist": "Three Dog Night",
     "Title": "Harmony",
-    "Rec_Box_ID": "33s Pop/Rock 14",
-    "ID": 3460
+    "Rec_Box_ID": "33s Pop/Rock 20",
+    "ID": 4601
   },
   {
     "Artist": "Three Dog Night",
@@ -25672,6 +26854,12 @@
     "Title": "Todd Rundgren's Utopia",
     "Rec_Box_ID": "33s Pop/Rock 9",
     "ID": 2555
+  },
+  {
+    "Artist": "Tom Cochrane And Red Rider",
+    "Title": "Boy Inside The Man // Lasting Song",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4968
   },
   {
     "Artist": "Tom Jones",
@@ -25887,19 +27075,25 @@
     "Artist": "Tommy Dorsey And His Orchestra",
     "Title": "Yes Indeed!",
     "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5058
+  },
+  {
+    "Artist": "Tommy Dorsey And His Orchestra",
+    "Title": "Yes Indeed!",
+    "Rec_Box_ID": "33s Jazz 9",
     "ID": 4873
   },
   {
     "Artist": "Tommy Dorsey And His Orchestra Featuring Frank Sinatra",
     "Title": "Tommy Dorsey And His Orchestra Featuring Frank Sinatra",
     "Rec_Box_ID": "33s Jazz 6",
-    "ID": 3171
+    "ID": 2970
   },
   {
     "Artist": "Tommy Dorsey And His Orchestra Featuring Frank Sinatra",
     "Title": "Tommy Dorsey And His Orchestra Featuring Frank Sinatra",
     "Rec_Box_ID": "33s Jazz 6",
-    "ID": 2970
+    "ID": 3171
   },
   {
     "Artist": "Tommy Dorsey And His Orchestra Featuring Jimmy Dorsey",
@@ -25910,14 +27104,14 @@
   {
     "Artist": "Tommy Dorsey And His Orchestra Featuring Jimmy Dorsey",
     "Title": "The Fabulous Dorseys In Hi-Fi Volume 1",
-    "Rec_Box_ID": "33s Jazz 4",
-    "ID": 2573
+    "Rec_Box_ID": "33s Jazz 8",
+    "ID": 4679
   },
   {
     "Artist": "Tommy Dorsey And His Orchestra Featuring Jimmy Dorsey",
     "Title": "The Fabulous Dorseys In Hi-Fi Volume 1",
-    "Rec_Box_ID": "33s Jazz 8",
-    "ID": 4679
+    "Rec_Box_ID": "33s Jazz 4",
+    "ID": 2573
   },
   {
     "Artist": "Tommy Edwards",
@@ -25970,14 +27164,14 @@
   {
     "Artist": "Tommy Roe",
     "Title": "We Can Make Music",
-    "Rec_Box_ID": "33s Pop/Rock 10",
-    "ID": 2932
+    "Rec_Box_ID": "33s Pop/Rock 19",
+    "ID": 4537
   },
   {
     "Artist": "Tommy Roe",
     "Title": "We Can Make Music",
-    "Rec_Box_ID": "33s Pop/Rock 19",
-    "ID": 4537
+    "Rec_Box_ID": "33s Pop/Rock 10",
+    "ID": 2932
   },
   {
     "Artist": "Tommy Tutone",
@@ -26050,6 +27244,12 @@
     "Title": "Stranger In Paradise // Why Does It Have To Be Me?",
     "Rec_Box_ID": "78s Box 9",
     "ID": 2586
+  },
+  {
+    "Artist": "Tony Bennett",
+    "Title": "The Many Moods Of Tony",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 5016
   },
   {
     "Artist": "Tony Bennett",
@@ -26164,6 +27364,12 @@
     "Title": "Back On The Streets",
     "Rec_Box_ID": "33s Pop/Rock 14",
     "ID": 3466
+  },
+  {
+    "Artist": "Tozzi; Rome Opera House Orchestra; Jean Morel, Cond.",
+    "Title": "Presenting Tozzi",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5046
   },
   {
     "Artist": "Traffic",
@@ -26324,7 +27530,7 @@
   {
     "Artist": "Up With People",
     "Title": "(NEW)Up With People! In Hollywood",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4498
   },
   {
@@ -26426,7 +27632,7 @@
   {
     "Artist": "Vanilla Fudge",
     "Title": "Take Me For A Little While // Thoughts",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3779
   },
   {
@@ -26444,31 +27650,43 @@
   {
     "Artist": "Various Artists",
     "Title": "(NEW) Six Presidents Speak - A Profile Of The Presidency",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2632
   },
   {
     "Artist": "Various Artists",
     "Title": "(NEW)!Something Festive!",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2631
   },
   {
     "Artist": "Various Artists",
+    "Title": "(NEW)100 Great Melodies The World Loves Best Volume 7",
+    "Rec_Box_ID": "33s NEW 2",
+    "ID": 5018
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "(NEW)100 Great Melodies The World Loves Best Volume 9",
+    "Rec_Box_ID": "33s NEW 2",
+    "ID": 5017
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "(NEW)Dallas(The Music Story)",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4553
   },
   {
     "Artist": "Various Artists",
     "Title": "(NEW)Sounds Of '76",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2633
   },
   {
     "Artist": "Various Artists",
     "Title": "(NEW)Themes From Great Films",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2634
   },
   {
@@ -26654,7 +27872,7 @@
   {
     "Artist": "Various Artists",
     "Title": "American Rock N Roll Classics Volume Two",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 3211
   },
   {
@@ -26755,6 +27973,12 @@
   },
   {
     "Artist": "Various Artists",
+    "Title": "Born To Be Country Boys",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 4954
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "Bubble Gum Greatest Hits Vol. III",
     "Rec_Box_ID": "33s Various Artists 2",
     "ID": 3207
@@ -26768,7 +27992,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Camelot (Original Broadway Cast Recording)",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4745
   },
   {
@@ -26792,7 +28016,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Columbia Records Your Masterworks Merchandiser June 1962",
-    "Rec_Box_ID": "Various Artists",
+    "Rec_Box_ID": "33s Various Artists 2",
     "ID": 3575
   },
   {
@@ -26917,6 +28141,12 @@
   },
   {
     "Artist": "Various Artists",
+    "Title": "Emotions",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 4923
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "Encores And Entr'actes Record 1",
     "Rec_Box_ID": "33s Classical 4",
     "ID": 4164
@@ -26956,6 +28186,18 @@
     "Title": "Gold & Platinum Volue Two",
     "Rec_Box_ID": "33s Various Artists 1",
     "ID": 2671
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Gold Record Hits",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 4966
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Golden Anniversary ALbum(A Collector's Item Specially Produced For Chevrolet)",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 5025
   },
   {
     "Artist": "Various Artists",
@@ -27026,7 +28268,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Great Moments In Sports",
-    "Rec_Box_ID": "33s Various Artists",
+    "Rec_Box_ID": "33s Various Artists 1",
     "ID": 4088
   },
   {
@@ -27050,7 +28292,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Greatest Hits Of The Golden Groups",
-    "Rec_Box_ID": "33s Various Artists",
+    "Rec_Box_ID": "33s Various Artists 1",
     "ID": 4092
   },
   {
@@ -27080,7 +28322,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Hello, Dolly!",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3538
   },
   {
@@ -27116,7 +28358,7 @@
   {
     "Artist": "Various Artists",
     "Title": "James Horner: An American Tail(Germany)",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3686
   },
   {
@@ -27128,7 +28370,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Joy - Original Cast Recording",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3831
   },
   {
@@ -27146,7 +28388,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Kings Of Comedy Narrated By George Burns",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2685
   },
   {
@@ -27176,7 +28418,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Li'l Abner",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4733
   },
   {
@@ -27248,7 +28490,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Miklos Rozsa: Ben Hur(Deluxe Edition)",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3667
   },
   {
@@ -27289,6 +28531,12 @@
   },
   {
     "Artist": "Various Artists",
+    "Title": "Music To Remember From Mutiny On The Bounty And Other Motion Pictures",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 5070
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "Mutual Admiration Society / Garden Of Eden // Singing The Blues / A Rose & A Baby Ruth",
     "Rec_Box_ID": "78s Box 3",
     "ID": 2698
@@ -27296,7 +28544,7 @@
   {
     "Artist": "Various Artists",
     "Title": "My Fair Lady",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4287
   },
   {
@@ -27376,6 +28624,12 @@
     "Title": "Percussion!",
     "Rec_Box_ID": "33s Various Artists 2",
     "ID": 3757
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Plaza House Presents The Greatest Hits Of The 30s",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 4940
   },
   {
     "Artist": "Various Artists",
@@ -27535,6 +28789,18 @@
   },
   {
     "Artist": "Various Artists",
+    "Title": "Remember How Great...? Volume 2",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 5098
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "Ride Kawasaki - Johnny Duncan/Marty Robbins // Tammy Wynette/Johnny Paycheck(promo)",
+    "Rec_Box_ID": "45s Box 12",
+    "ID": 4967
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "Rock 80",
     "Rec_Box_ID": "33s Various Artists 2",
     "ID": 3520
@@ -27566,19 +28832,19 @@
   {
     "Artist": "Various Artists",
     "Title": "Saturday Night Fever Record 1",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3521
   },
   {
     "Artist": "Various Artists",
     "Title": "Saturday Night Fever Record 2",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3522
   },
   {
     "Artist": "Various Artists",
     "Title": "Saturday Night Fever Soundtrack Record 1",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3501
   },
   {
@@ -27656,7 +28922,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Songs From Camelot",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4288
   },
   {
@@ -27680,13 +28946,13 @@
   {
     "Artist": "Various Artists",
     "Title": "Soundtrack Memories - Great Themes From The Movies",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2716
   },
   {
     "Artist": "Various Artists",
     "Title": "South Pacific",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3540
   },
   {
@@ -27770,7 +29036,7 @@
   {
     "Artist": "Various Artists",
     "Title": "The Aristocats And Other Cat Songs",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4086
   },
   {
@@ -27859,9 +29125,9 @@
   },
   {
     "Artist": "Various Artists",
-    "Title": "The Headliners",
-    "Rec_Box_ID": "33s Various Artists 1",
-    "ID": 2733
+    "Title": "The Harder They Come",
+    "Rec_Box_ID": "33s Soundtracks 2",
+    "ID": 4949
   },
   {
     "Artist": "Various Artists",
@@ -27871,15 +29137,21 @@
   },
   {
     "Artist": "Various Artists",
-    "Title": "The Headliners '63",
-    "Rec_Box_ID": "33s Various Artists 3",
-    "ID": 4701
+    "Title": "The Headliners",
+    "Rec_Box_ID": "33s Various Artists 1",
+    "ID": 2733
   },
   {
     "Artist": "Various Artists",
     "Title": "The Headliners '63",
     "Rec_Box_ID": "33s Various Artists 1",
     "ID": 2734
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "The Headliners '63",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 4701
   },
   {
     "Artist": "Various Artists",
@@ -27908,7 +29180,7 @@
   {
     "Artist": "Various Artists",
     "Title": "The Little Mermaid Soundtrack",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 2921
   },
   {
@@ -27920,7 +29192,7 @@
   {
     "Artist": "Various Artists",
     "Title": "The Muppet Movie",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3322
   },
   {
@@ -27962,19 +29234,19 @@
   {
     "Artist": "Various Artists",
     "Title": "The Sound Of Jazz",
-    "Rec_Box_ID": "33s Various Artists 3",
-    "ID": 4688
-  },
-  {
-    "Artist": "Various Artists",
-    "Title": "The Sound Of Jazz",
     "Rec_Box_ID": "33s Various Artists 1",
     "ID": 2738
   },
   {
     "Artist": "Various Artists",
+    "Title": "The Sound Of Jazz",
+    "Rec_Box_ID": "33s Various Artists 3",
+    "ID": 4688
+  },
+  {
+    "Artist": "Various Artists",
     "Title": "The Sound Of Music",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3539
   },
   {
@@ -28016,7 +29288,7 @@
   {
     "Artist": "Various Artists",
     "Title": "Themes From Cleopatra",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 3280
   },
   {
@@ -28358,7 +29630,7 @@
   {
     "Artist": "Various Artists",
     "Title": "West Side Story (The Original Sound Track Recording)",
-    "Rec_Box_ID": "33s Soundtracks",
+    "Rec_Box_ID": "33s Soundtracks 1",
     "ID": 4585
   },
   {
@@ -28394,13 +29666,13 @@
   {
     "Artist": "Vaughn Meader",
     "Title": "The First Family",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2754
   },
   {
     "Artist": "Vaughn Meader",
     "Title": "The First Family Volume 2",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2861
   },
   {
@@ -28508,7 +29780,7 @@
   {
     "Artist": "Victor Borge",
     "Title": "Comedy In Music",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2770
   },
   {
@@ -28537,19 +29809,19 @@
   },
   {
     "Artist": "Victor Light Opera Company",
-    "Title": "Gems From \"Apple Blossoms\" // Gems From \"Irene",
+    "Title": "Gems From \"Apple Blossoms\" // Gems From \"Irene\"",
     "Rec_Box_ID": "78s Box 7",
     "ID": 2774
   },
   {
     "Artist": "Victor Light Opera Company",
-    "Title": "Gems From \"Madame Sherry\" // Gems From \"The Quaker Girl",
+    "Title": "Gems From \"Madame Sherry\" // Gems From \"The Quaker Girl\"",
     "Rec_Box_ID": "78s Box 7",
     "ID": 2775
   },
   {
     "Artist": "Victor Light Opera Company",
-    "Title": "Gems From \"The Merry Widow\" // Gems From \"The Chocolate Soldier",
+    "Title": "Gems From \"The Merry Widow\" // Gems From \"The Chocolate Soldier\"",
     "Rec_Box_ID": "78s Box 7",
     "ID": 2776
   },
@@ -28632,9 +29904,15 @@
     "ID": 2783
   },
   {
+    "Artist": "Vikki Carr",
+    "Title": "The Ways To Love A Man",
+    "Rec_Box_ID": "33s Pop/Rock 22",
+    "ID": 4960
+  },
+  {
     "Artist": "Village People",
     "Title": "Go West // Citizens Of The World",
-    "Rec_Box_ID": "45 Box 10",
+    "Rec_Box_ID": "45s Box 10",
     "ID": 3776
   },
   {
@@ -28656,6 +29934,12 @@
     "ID": 4649
   },
   {
+    "Artist": "Virgil Fox",
+    "Title": "Heavy Organ At Carnegie Hall",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5073
+  },
+  {
     "Artist": "Virgil Fox / Heavy Organ",
     "Title": "Bach Live At Fillmore East",
     "Rec_Box_ID": "33s Classical 2",
@@ -28674,6 +29958,12 @@
     "ID": 2976
   },
   {
+    "Artist": "Vladimir Spivakov, Boris Bekhterev",
+    "Title": "Violin Miniatures(USSR)",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 5099
+  },
+  {
     "Artist": "Vronsky And Babin",
     "Title": "Prince Igor-Dances Of The Polovetzki Maidens Part 1 // Part 2",
     "Rec_Box_ID": "78s Box 4",
@@ -28682,13 +29972,13 @@
   {
     "Artist": "W.C. Fields",
     "Title": "The Original Voice Tracks From His Greatest Movies",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2787
   },
   {
     "Artist": "W.C. Fields",
     "Title": "W.C. Fields On Radio",
-    "Rec_Box_ID": "33s Comedy",
+    "Rec_Box_ID": "33s Comedy 1",
     "ID": 2788
   },
   {
@@ -28718,25 +30008,25 @@
   {
     "Artist": "Walt Michael And Tom McCreesh",
     "Title": "Dance, Like A Wave Of The Sea",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 4158
   },
   {
     "Artist": "Walter Brennan",
     "Title": "(NEW)Mama Sang A Song",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2791
   },
   {
     "Artist": "Walter Brennan",
     "Title": "(NEW)Old Rivers",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2792
   },
   {
     "Artist": "Walter Brennan",
     "Title": "(NEW)Yesterday, When I Was Young",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2793
   },
   {
@@ -28748,7 +30038,7 @@
   {
     "Artist": "Walter M. Schirra Jr",
     "Title": "(NEW)Apollo 11: Flight To The Moon - Historic Moment From Manned Space Flight",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2795
   },
   {
@@ -28760,7 +30050,7 @@
   {
     "Artist": "War",
     "Title": "(NEW)Why Can't We Be Friends?",
-    "Rec_Box_ID": "33s NEW",
+    "Rec_Box_ID": "33s NEW 1",
     "ID": 2797
   },
   {
@@ -29074,6 +30364,18 @@
     "Title": "In Person: Country & Western Stars Wynn Stewart & Webb Pierce",
     "Rec_Box_ID": "33s Country 2",
     "ID": 3022
+  },
+  {
+    "Artist": "Wynton Marsalis",
+    "Title": "Standard Time Vol, 2 Intimacy Calling",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 5130
+  },
+  {
+    "Artist": "Wynton Marsalis; Raymond Leppard; National Philharmonic Orchestra",
+    "Title": "Haydn/Hummel/L. Mozart: Trumpet Concertos",
+    "Rec_Box_ID": "33s Classical 5",
+    "ID": 4943
   },
   {
     "Artist": "Xavier Cugat",

@@ -1,6 +1,6 @@
 [
   {
-    "Artist": "Rags\" Rafferty",
+    "Artist": "\"Rags\" Rafferty",
     "Title": "The Best Of Old Time Piano",
     "Location": "8-Track Box 1",
     "ID": 1
@@ -302,14 +302,20 @@
   {
     "Artist": "Ampex 381",
     "Title": "80 Minutes (blank?)",
-    "Location": "8-Track Box 2",
-    "ID": 38
+    "Location": "8-Track Box 1",
+    "ID": 37
   },
   {
     "Artist": "Ampex 381",
     "Title": "80 Minutes (blank?)",
-    "Location": "8-Track Box 1",
-    "ID": 37
+    "Location": "8-Track Box 2",
+    "ID": 38
+  },
+  {
+    "Artist": "Andre Kostelanetz And His Orchestra",
+    "Title": "Fire And Jealousy",
+    "Location": "Reel To Reel Box 3",
+    "ID": 1240
   },
   {
     "Artist": "Andres Segovia",
@@ -444,10 +450,10 @@
     "ID": 53
   },
   {
-    "Artist": "Barbra Streisand",
-    "Title": "A Christmas Album",
-    "Location": "8-Track Box 4",
-    "ID": 1163
+    "Artist": "Barbara Mandrell",
+    "Title": "Love Is Fair",
+    "Location": "Cassette Box 4",
+    "ID": 1236
   },
   {
     "Artist": "Barbra Streisand",
@@ -457,9 +463,15 @@
   },
   {
     "Artist": "Barbra Streisand",
+    "Title": "A Christmas Album",
+    "Location": "8-Track Box 4",
+    "ID": 1163
+  },
+  {
+    "Artist": "Barbra Streisand",
     "Title": "Barbra Streisand's Greatest Hits",
-    "Location": "Reel to Reel Box 1",
-    "ID": 55
+    "Location": "8-Track Box 3",
+    "ID": 972
   },
   {
     "Artist": "Barbra Streisand",
@@ -470,8 +482,8 @@
   {
     "Artist": "Barbra Streisand",
     "Title": "Barbra Streisand's Greatest Hits",
-    "Location": "8-Track Box 3",
-    "ID": 972
+    "Location": "Reel to Reel Box 1",
+    "ID": 55
   },
   {
     "Artist": "Barbra Streisand",
@@ -607,7 +619,7 @@
   },
   {
     "Artist": "Berlin Philharmonic; Rafael Kubelik, Cond.",
-    "Title": "Dvorak: Symphony No. 9 \"From The New World",
+    "Title": "Dvorak: Symphony No. 9 \"From The New World\"",
     "Location": "Cassette Box 4",
     "ID": 1207
   },
@@ -694,6 +706,12 @@
     "Title": "Silver Bells",
     "Location": "8-Track Box 1",
     "ID": 79
+  },
+  {
+    "Artist": "Bishop & Gwinn",
+    "Title": "This Is Our Night",
+    "Location": "Cassette Box 4",
+    "ID": 1234
   },
   {
     "Artist": "Blackfoot",
@@ -980,14 +998,14 @@
   {
     "Artist": "Burt Bacharach",
     "Title": "Butch Cassidy & The Sundance Kid",
-    "Location": "8-Track Box 4",
-    "ID": 1166
+    "Location": "8-Track Box 2",
+    "ID": 116
   },
   {
     "Artist": "Burt Bacharach",
     "Title": "Butch Cassidy & The Sundance Kid",
-    "Location": "8-Track Box 2",
-    "ID": 116
+    "Location": "8-Track Box 4",
+    "ID": 1166
   },
   {
     "Artist": "Buster Poindexter",
@@ -1023,13 +1041,13 @@
     "Artist": "Capitol",
     "Title": "60 Minute (blank?)",
     "Location": "8-Track Box 1",
-    "ID": 120
+    "ID": 121
   },
   {
     "Artist": "Capitol",
     "Title": "60 Minute (blank?)",
     "Location": "8-Track Box 1",
-    "ID": 121
+    "ID": 120
   },
   {
     "Artist": "Capitol",
@@ -1108,6 +1126,12 @@
     "Title": "I Feel For You",
     "Location": "Cassette Box 1",
     "ID": 128
+  },
+  {
+    "Artist": "Chantal Kreviazuk",
+    "Title": "Colour Moving And Still",
+    "Location": "Cassette Box 4",
+    "ID": 1235
   },
   {
     "Artist": "Charley Pride",
@@ -1387,7 +1411,7 @@
   },
   {
     "Artist": "Daniel Barenboim",
-    "Title": "Mozart: Symphonies 40 & 41 \"Jupiter",
+    "Title": "Mozart: Symphonies 40 & 41 \"Jupiter\"",
     "Location": "Cassette Box 2",
     "ID": 162
   },
@@ -1562,14 +1586,14 @@
   {
     "Artist": "Dionne Warwick",
     "Title": "I'll Never Fall In Love Again",
-    "Location": "8-Track Box 4",
-    "ID": 1172
+    "Location": "8-Track Box 2",
+    "ID": 186
   },
   {
     "Artist": "Dionne Warwick",
     "Title": "I'll Never Fall In Love Again",
-    "Location": "8-Track Box 2",
-    "ID": 186
+    "Location": "8-Track Box 4",
+    "ID": 1172
   },
   {
     "Artist": "Dionne Warwick",
@@ -1592,14 +1616,14 @@
   {
     "Artist": "Dire Straits",
     "Title": "Brothers In Arms",
-    "Location": "Cassette Box 1",
-    "ID": 190
+    "Location": "Cassette Box 4",
+    "ID": 938
   },
   {
     "Artist": "Dire Straits",
     "Title": "Brothers In Arms",
-    "Location": "Cassette Box 4",
-    "ID": 938
+    "Location": "Cassette Box 1",
+    "ID": 190
   },
   {
     "Artist": "Dire Straits",
@@ -1689,13 +1713,13 @@
     "Artist": "Don Ho",
     "Title": "Hawaiian 30 Favorites",
     "Location": "8-Track Box 2",
-    "ID": 199
+    "ID": 198
   },
   {
     "Artist": "Don Ho",
     "Title": "Hawaiian 30 Favorites",
     "Location": "8-Track Box 2",
-    "ID": 198
+    "ID": 199
   },
   {
     "Artist": "Don McLean",
@@ -1958,14 +1982,14 @@
   {
     "Artist": "Engelbert Humperdinck",
     "Title": "20 Greatest Hits",
-    "Location": "8-Track Box 3",
-    "ID": 230
+    "Location": "8-Track Box 2",
+    "ID": 229
   },
   {
     "Artist": "Engelbert Humperdinck",
     "Title": "20 Greatest Hits",
-    "Location": "8-Track Box 2",
-    "ID": 229
+    "Location": "8-Track Box 3",
+    "ID": 230
   },
   {
     "Artist": "Engelbert Humperdinck",
@@ -2029,7 +2053,7 @@
   },
   {
     "Artist": "Fanny Brice",
-    "Title": "Baby Snooks - \"the Opera",
+    "Title": "Baby Snooks - \"the Opera\"",
     "Location": "Cassette Box 4",
     "ID": 1097
   },
@@ -2203,7 +2227,7 @@
   },
   {
     "Artist": "Frank Sinatra",
-    "Title": "Sinatra Concert At \"The Sands",
+    "Title": "Sinatra Concert At \"The Sands\"",
     "Location": "8-Track Box 2",
     "ID": 264
   },
@@ -2212,6 +2236,12 @@
     "Title": "Watertown",
     "Location": "8-Track Box 1",
     "ID": 265
+  },
+  {
+    "Artist": "Frankie Carle, His Piano And Orchestra",
+    "Title": "Show Stoppers In Dance Time",
+    "Location": "Reel To Reel Box 3",
+    "ID": 1242
   },
   {
     "Artist": "Frankie Laine",
@@ -2390,14 +2420,14 @@
   {
     "Artist": "Georgia Satellites",
     "Title": "Georgia Satellites",
-    "Location": "Cassette Box 1",
-    "ID": 283
+    "Location": "Cassette Box 3",
+    "ID": 990
   },
   {
     "Artist": "Georgia Satellites",
     "Title": "Georgia Satellites",
-    "Location": "Cassette Box 3",
-    "ID": 990
+    "Location": "Cassette Box 1",
+    "ID": 283
   },
   {
     "Artist": "Georgia Satellites",
@@ -2425,7 +2455,7 @@
   },
   {
     "Artist": "Glen Campbell",
-    "Title": "Live\" at his New Jersey Concert",
+    "Title": "\"Live\" at his New Jersey Concert",
     "Location": "Reel to Reel Box 1",
     "ID": 288
   },
@@ -2767,7 +2797,7 @@
   },
   {
     "Artist": "Hungarian Philharmonic Orchestra; Janos Ferencsik",
-    "Title": "Beethoven: Symphony No.9 \"Choral",
+    "Title": "Beethoven: Symphony No.9 \"Choral\"",
     "Location": "Cassette Box 4",
     "ID": 1144
   },
@@ -2803,7 +2833,7 @@
   },
   {
     "Artist": "Isaac Stern",
-    "Title": "Favorite Violin Encores \"Humoresque",
+    "Title": "Favorite Violin Encores \"Humoresque\"",
     "Location": "Cassette Box 2",
     "ID": 331
   },
@@ -3626,14 +3656,14 @@
   {
     "Artist": "Leo Sayer",
     "Title": "Endless Flight",
-    "Location": "8-Track Box 2",
-    "ID": 436
+    "Location": "Cassette Box 2",
+    "ID": 437
   },
   {
     "Artist": "Leo Sayer",
     "Title": "Endless Flight",
-    "Location": "Cassette Box 2",
-    "ID": 437
+    "Location": "8-Track Box 2",
+    "ID": 436
   },
   {
     "Artist": "Lesley Gore",
@@ -3687,6 +3717,12 @@
     "Artist": "Linda Ronstadt",
     "Title": "What's New",
     "Location": "Cassette Box 4",
+    "ID": 1049
+  },
+  {
+    "Artist": "Linda Ronstadt",
+    "Title": "What's New",
+    "Location": "Cassette Box 4",
     "ID": 1012
   },
   {
@@ -3694,12 +3730,6 @@
     "Title": "What's New",
     "Location": "Cassette Box 1",
     "ID": 442
-  },
-  {
-    "Artist": "Linda Ronstadt",
-    "Title": "What's New",
-    "Location": "Cassette Box 4",
-    "ID": 1049
   },
   {
     "Artist": "Lionel Richie",
@@ -3795,13 +3825,13 @@
     "Artist": "Lone Justice",
     "Title": "Shelter",
     "Location": "Cassette Box 1",
-    "ID": 454
+    "ID": 453
   },
   {
     "Artist": "Lone Justice",
     "Title": "Shelter",
     "Location": "Cassette Box 1",
-    "ID": 453
+    "ID": 454
   },
   {
     "Artist": "Loretta Lynn",
@@ -3861,13 +3891,13 @@
     "Artist": "Loverboy",
     "Title": "Keep It Up",
     "Location": "Cassette Box 1",
-    "ID": 463
+    "ID": 464
   },
   {
     "Artist": "Loverboy",
     "Title": "Keep It Up",
     "Location": "Cassette Box 1",
-    "ID": 464
+    "ID": 463
   },
   {
     "Artist": "Luciano Pavarotti",
@@ -3942,6 +3972,12 @@
     "ID": 1070
   },
   {
+    "Artist": "Mantovani And His Orchestra",
+    "Title": "Mr. Music...Mantovani",
+    "Location": "Reel To Reel Box 3",
+    "ID": 1241
+  },
+  {
     "Artist": "Marcus Miller",
     "Title": "Tales",
     "Location": "Cassette Box 4",
@@ -3970,6 +4006,12 @@
     "Title": "Gunfighter Ballads And Trail Songs",
     "Location": "8-Track Box 4",
     "ID": 1195
+  },
+  {
+    "Artist": "Marty Robbins",
+    "Title": "Inducted Into The Hall Of Fame 1982",
+    "Location": "Cassette Box 4",
+    "ID": 1243
   },
   {
     "Artist": "Marty Robbins",
@@ -4777,7 +4819,7 @@
   },
   {
     "Artist": "Ray Davies",
-    "Title": "Music From The Motion Picture \"Return To Waterloo",
+    "Title": "Music From The Motion Picture \"Return To Waterloo\"",
     "Location": "Cassette Box 3",
     "ID": 582
   },
@@ -5077,7 +5119,7 @@
   },
   {
     "Artist": "Rostov Festival Orchestra; Stanislav Klinsky, Dir.",
-    "Title": "Dvorak: Symphony No. 9 In E Minor \"New World",
+    "Title": "Dvorak: Symphony No. 9 In E Minor \"New World\"",
     "Location": "8-Track Box 2",
     "ID": 620
   },
@@ -5092,6 +5134,12 @@
     "Title": "Superpicker",
     "Location": "8-Track Box 2",
     "ID": 622
+  },
+  {
+    "Artist": "Roy Orbison",
+    "Title": "Super Hits",
+    "Location": "Cassette Box 4",
+    "ID": 1244
   },
   {
     "Artist": "Rudy Vallee",
@@ -5276,6 +5324,12 @@
   {
     "Artist": "Simon And Garfunkel",
     "Title": "Bridge Over Troubled Water",
+    "Location": "Cassette Box 1",
+    "ID": 646
+  },
+  {
+    "Artist": "Simon And Garfunkel",
+    "Title": "Bridge Over Troubled Water",
     "Location": "Cassette Box 2",
     "ID": 647
   },
@@ -5284,12 +5338,6 @@
     "Title": "Bridge Over Troubled Water",
     "Location": "8-Track Box 1",
     "ID": 645
-  },
-  {
-    "Artist": "Simon And Garfunkel",
-    "Title": "Bridge Over Troubled Water",
-    "Location": "Cassette Box 1",
-    "ID": 646
   },
   {
     "Artist": "Simply Red",
@@ -5390,14 +5438,14 @@
   {
     "Artist": "Soundtrack",
     "Title": "A Chorus Line",
-    "Location": "Cassette Box 1",
-    "ID": 661
+    "Location": "8-Track Box 1",
+    "ID": 660
   },
   {
     "Artist": "Soundtrack",
     "Title": "A Chorus Line",
-    "Location": "8-Track Box 1",
-    "ID": 660
+    "Location": "Cassette Box 1",
+    "ID": 661
   },
   {
     "Artist": "Soundtrack",
@@ -5439,13 +5487,13 @@
     "Artist": "Soundtrack",
     "Title": "Carousel",
     "Location": "Cassette Box 2",
-    "ID": 667
+    "ID": 668
   },
   {
     "Artist": "Soundtrack",
     "Title": "Carousel",
     "Location": "Cassette Box 2",
-    "ID": 668
+    "ID": 667
   },
   {
     "Artist": "Soundtrack",
@@ -5523,13 +5571,13 @@
     "Artist": "Soundtrack",
     "Title": "Peter Pan - Original Broadway Cast",
     "Location": "Cassette Box 2",
-    "ID": 681
+    "ID": 680
   },
   {
     "Artist": "Soundtrack",
     "Title": "Peter Pan - Original Broadway Cast",
     "Location": "Cassette Box 2",
-    "ID": 680
+    "ID": 681
   },
   {
     "Artist": "Soundtrack",
@@ -5655,13 +5703,13 @@
     "Artist": "Steve Winwood",
     "Title": "Chronicles",
     "Location": "Cassette Box 2",
-    "ID": 698
+    "ID": 697
   },
   {
     "Artist": "Steve Winwood",
     "Title": "Chronicles",
     "Location": "Cassette Box 2",
-    "ID": 697
+    "ID": 698
   },
   {
     "Artist": "Steve Winwood",
@@ -5820,6 +5868,24 @@
     "ID": 719
   },
   {
+    "Artist": "Teddy Ruxpin",
+    "Title": "All About Bears",
+    "Location": "Cassette Box 4",
+    "ID": 1246
+  },
+  {
+    "Artist": "Teddy Ruxpin",
+    "Title": "Grubby's Romance",
+    "Location": "Cassette Box 4",
+    "ID": 1247
+  },
+  {
+    "Artist": "Teddy Ruxpin",
+    "Title": "The Airship",
+    "Location": "Cassette Box 4",
+    "ID": 1245
+  },
+  {
     "Artist": "Tennessee Ernie Ford",
     "Title": "A Tennessee Ernie Ford Christmas Special, Vol. 1",
     "Location": "8-Track Box 3",
@@ -5899,7 +5965,7 @@
   },
   {
     "Artist": "The Band",
-    "Title": "Live\" In Concert - The Night They Drove Old Dixie Down",
+    "Title": "\"Live\" In Concert - The Night They Drove Old Dixie Down",
     "Location": "Cassette Box 3",
     "ID": 731
   },
@@ -6086,14 +6152,14 @@
   {
     "Artist": "The J. Geils Band",
     "Title": "Freeze Frame",
-    "Location": "Cassette Box 1",
-    "ID": 753
+    "Location": "8-Track Box 3",
+    "ID": 1010
   },
   {
     "Artist": "The J. Geils Band",
     "Title": "Freeze Frame",
-    "Location": "8-Track Box 3",
-    "ID": 1010
+    "Location": "Cassette Box 1",
+    "ID": 753
   },
   {
     "Artist": "The J. Geils Band",
@@ -6506,14 +6572,14 @@
   {
     "Artist": "Tina Turner",
     "Title": "Private Dancer",
-    "Location": "Cassette Box 2",
-    "ID": 810
+    "Location": "Cassette Box 1",
+    "ID": 809
   },
   {
     "Artist": "Tina Turner",
     "Title": "Private Dancer",
-    "Location": "Cassette Box 1",
-    "ID": 809
+    "Location": "Cassette Box 2",
+    "ID": 810
   },
   {
     "Artist": "Token Entry",
@@ -6580,6 +6646,12 @@
     "Title": "Love Story",
     "Location": "8-Track Box 1",
     "ID": 820
+  },
+  {
+    "Artist": "Tony Bennett",
+    "Title": "Sings His All-Time Hall Of Fame Hits",
+    "Location": "Cassette Box 4",
+    "ID": 1233
   },
   {
     "Artist": "Traffic",
@@ -6724,6 +6796,18 @@
     "Title": "(NEW)Soul Sixties - Twelve Soulful Hits Of The Sixties",
     "Location": "Cassette Box 3",
     "ID": 842
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "(NEW)Truckers Jukebox #1",
+    "Location": "Cassette Box 4",
+    "ID": 1238
+  },
+  {
+    "Artist": "Various Artists",
+    "Title": "(NEW)Truckers Jukebox #3",
+    "Location": "Cassette Box 4",
+    "ID": 1239
   },
   {
     "Artist": "Various Artists",
@@ -7089,13 +7173,13 @@
     "Artist": "Various Artists",
     "Title": "The Motown Sound - 16 Big Hits Vol. 5",
     "Location": "Reel to Reel Box 2",
-    "ID": 878
+    "ID": 879
   },
   {
     "Artist": "Various Artists",
     "Title": "The Motown Sound - 16 Big Hits Vol. 5",
     "Location": "Reel to Reel Box 2",
-    "ID": 879
+    "ID": 878
   },
   {
     "Artist": "Various Artists",
@@ -7154,14 +7238,14 @@
   {
     "Artist": "Victor Borge",
     "Title": "Caught In The Act",
-    "Location": "Cassette Box 1",
-    "ID": 887
+    "Location": "Cassette Box 2",
+    "ID": 888
   },
   {
     "Artist": "Victor Borge",
     "Title": "Caught In The Act",
-    "Location": "Cassette Box 2",
-    "ID": 888
+    "Location": "Cassette Box 1",
+    "ID": 887
   },
   {
     "Artist": "Victor Wooten",
@@ -7285,6 +7369,12 @@
   },
   {
     "Artist": "Willie Nelson",
+    "Title": "(NEW)Willie Standard Time",
+    "Location": "Cassette Box 4",
+    "ID": 1237
+  },
+  {
+    "Artist": "Willie Nelson",
     "Title": "Sings Kristofferson",
     "Location": "8-Track Box 1",
     "ID": 908
@@ -7292,14 +7382,14 @@
   {
     "Artist": "Willie Nelson",
     "Title": "Stardust",
-    "Location": "Cassette Box 1",
-    "ID": 910
+    "Location": "8-Track Box 2",
+    "ID": 909
   },
   {
     "Artist": "Willie Nelson",
     "Title": "Stardust",
-    "Location": "8-Track Box 2",
-    "ID": 909
+    "Location": "Cassette Box 1",
+    "ID": 910
   },
   {
     "Artist": "Willie Nelson",
