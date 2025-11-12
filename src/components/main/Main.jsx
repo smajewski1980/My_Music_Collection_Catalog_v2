@@ -9,6 +9,22 @@ import CD_Comps from "../cd_comps/CD_Comps";
 const Main = (props) => {
   const { searchTerm, searchType } = props;
   const [filteredResults, setFilteredResults] = useState([]);
+  const [currPage, setCurrPage] = useState(1);
+  const [offset, setOffset] = useState(200);
+
+  // somehow this seems to just pass the entire result set through and never logs...
+  function paginate(resultSet) {
+    console.log("getting here");
+    const totalPages = resultSet.length / offset;
+    const start = (currPage - 1) * offset;
+    const end = start + offset;
+    const paginated = resultSet.slice(start, end);
+    console.log(start, end, totalPages);
+
+    if (currPage <= totalPages) {
+      return paginated;
+    }
+  }
 
   useEffect(() => {
     if (
