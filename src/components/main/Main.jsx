@@ -10,12 +10,13 @@ const Main = (props) => {
   const { searchTerm, searchType } = props;
   const [filteredResults, setFilteredResults] = useState([]);
   const [currPage, setCurrPage] = useState(1);
-  const [offset, setOffset] = useState(200);
+  const offset = 250;
+  let totalPages = 1;
 
   // somehow this seems to just pass the entire result set through and never logs...
   function paginate(resultSet) {
     console.log("getting here");
-    const totalPages = Math.ceil(resultSet.length / offset);
+    totalPages = Math.ceil(resultSet.length / offset);
     const start = (currPage - 1) * offset;
     const end = start + offset;
     const paginated = resultSet.slice(start, end);
@@ -88,6 +89,17 @@ const Main = (props) => {
     }
   }, [searchTerm, searchType]);
 
+  function handlePrevPage() {
+    if (currPage > 1) {
+      setCurrPage((prev) => prev - 1);
+    }
+  }
+  function handleNextPage() {
+    if (currPage < totalPages) {
+      setCurrPage((prev) => prev + 1);
+    }
+  }
+
   return (
     <>
       <div className="size-warning">
@@ -95,40 +107,58 @@ const Main = (props) => {
         screen larger than 1300px.
       </div>
       <div id="main">
-        <p id="mainTitle">
-          {props.selectedFormat === "compactDiscs" && props.cdOption === null
-            ? "Compact Discs"
-            : undefined}
-          {props.cdOption === "mainCatalog" && "The Main CD Catalog"}
-          {props.cdOption === "singles" && "The CD Singles"}
-          {props.cdOption === "compilations" && "The Compilation CDs"}
-          {props.cdOption === "earlyPressings" && "The Early Pressings"}
+        <div className="titleWrapper">
+          <div className="paginationControls">
+            <div
+              className="prev"
+              onClick={handlePrevPage}
+            >
+              <span>&laquo;</span>
+              &nbsp;&nbsp;prev page
+            </div>
+            <div
+              className="next"
+              onClick={handleNextPage}
+            >
+              next page&nbsp;&nbsp;
+              <span>&raquo;</span>
+            </div>
+          </div>
+          <p id="mainTitle">
+            {props.selectedFormat === "compactDiscs" && props.cdOption === null
+              ? "Compact Discs"
+              : undefined}
+            {props.cdOption === "mainCatalog" && "The Main CD Catalog"}
+            {props.cdOption === "singles" && "The CD Singles"}
+            {props.cdOption === "compilations" && "The Compilation CDs"}
+            {props.cdOption === "earlyPressings" && "The Early Pressings"}
 
-          {props.selectedFormat === "records" && props.recordType}
-          {props.selectedFormat === "records" &&
-          props.recordType !== "Cylinder " &&
-          props.recordType !== null
-            ? " rpm Records"
-            : undefined}
-          {props.selectedFormat === "records" &&
-          props.recordType === "Cylinder "
-            ? "Records"
-            : undefined}
-          {props.recordType === null && props.selectedFormat === "records"
-            ? "Records"
-            : undefined}
+            {props.selectedFormat === "records" && props.recordType}
+            {props.selectedFormat === "records" &&
+            props.recordType !== "Cylinder " &&
+            props.recordType !== null
+              ? " rpm Records"
+              : undefined}
+            {props.selectedFormat === "records" &&
+            props.recordType === "Cylinder "
+              ? "Records"
+              : undefined}
+            {props.recordType === null && props.selectedFormat === "records"
+              ? "Records"
+              : undefined}
 
-          {props.selectedFormat === "tapes" && props.tapeType}
-          {props.selectedFormat === "tapes" && "Tapes"}
+            {props.selectedFormat === "tapes" && props.tapeType}
+            {props.selectedFormat === "tapes" && "Tapes"}
 
-          {props.selectedFormat === "visualMedia" &&
-          props.visualMediaType === null
-            ? "Visual Media"
-            : undefined}
-          {props.visualMediaType === "betaVhs" && "Beta / VHS Tapes"}
-          {props.visualMediaType === "blurayDvd" && "DVD / Blu-ray Discs"}
-          {props.visualMediaType === "ced" && "RCA Selectavision (CED)"}
-        </p>
+            {props.selectedFormat === "visualMedia" &&
+            props.visualMediaType === null
+              ? "Visual Media"
+              : undefined}
+            {props.visualMediaType === "betaVhs" && "Beta / VHS Tapes"}
+            {props.visualMediaType === "blurayDvd" && "DVD / Blu-ray Discs"}
+            {props.visualMediaType === "ced" && "RCA Selectavision (CED)"}
+          </p>
+        </div>
 
         {props.cdOption === "mainCatalog" &&
         props.selectedFormat === "compactDiscs" &&
