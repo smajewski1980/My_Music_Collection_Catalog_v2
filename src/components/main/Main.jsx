@@ -15,11 +15,10 @@ const Main = (props) => {
   // somehow this seems to just pass the entire result set through and never logs...
   function paginate(resultSet) {
     console.log("getting here");
-    const totalPages = resultSet.length / offset;
+    const totalPages = Math.ceil(resultSet.length / offset);
     const start = (currPage - 1) * offset;
     const end = start + offset;
     const paginated = resultSet.slice(start, end);
-    console.log(start, end, totalPages);
 
     if (currPage <= totalPages) {
       return paginated;
@@ -228,37 +227,37 @@ const Main = (props) => {
         searchTerm === "" ? (
           <div className="dataWrapper">
             {cds &&
-              cds
-                .filter((cd) => {
+              paginate(
+                cds.filter((cd) => {
                   return !cd["Box ID"].includes("Older");
-                })
-                .map((cd) => {
-                  return (
-                    <div
-                      className="row"
-                      key={cd.ID}
+                }),
+              ).map((cd) => {
+                return (
+                  <div
+                    className="row"
+                    key={cd.ID}
+                  >
+                    <p
+                      title={cd.Artist}
+                      className="artist"
                     >
-                      <p
-                        title={cd.Artist}
-                        className="artist"
-                      >
-                        {cd.Artist}
-                      </p>
-                      <p
-                        title={cd.Title}
-                        className="title"
-                      >
-                        {cd.Title}
-                      </p>
-                      <p
-                        title={cd["Box ID"]}
-                        className="location"
-                      >
-                        {cd["Box ID"]}
-                      </p>
-                    </div>
-                  );
-                })}
+                      {cd.Artist}
+                    </p>
+                    <p
+                      title={cd.Title}
+                      className="title"
+                    >
+                      {cd.Title}
+                    </p>
+                    <p
+                      title={cd["Box ID"]}
+                      className="location"
+                    >
+                      {cd["Box ID"]}
+                    </p>
+                  </div>
+                );
+              })}
           </div>
         ) : undefined}
 
