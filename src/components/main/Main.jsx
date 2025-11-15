@@ -13,7 +13,6 @@ const Main = (props) => {
   const offset = 250;
   let totalPages = 1;
 
-  // somehow this seems to just pass the entire result set through and never logs...
   function paginate(resultSet) {
     console.log("getting here");
     totalPages = Math.ceil(resultSet.length / offset);
