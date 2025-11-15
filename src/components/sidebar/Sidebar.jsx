@@ -18,8 +18,19 @@ const Sidebar = (props) => {
         <br />
         Catalog
       </h1>
+      <div className="totalsWrapper">
+        <h3>Collection Totals:</h3>
+        <p className="lastUpdate">Last update: 11-10-25</p>
+        <div className="totals">
+          <p>CDs: {cdTotals.toLocaleString()}</p>
+          <p>Records: {records.length.toLocaleString()}</p>
+          <p>Tapes: {tapes.length.toLocaleString()}</p>
+          <p>Visual Media: xx</p>
+        </div>
+      </div>
 
-      {/* <div
+      {/* cleanup later, left from original plan to enter data too in this app */
+      /* <div
         className={
           props.viewingMode
             ? "modeSelect viewingActive"
@@ -102,16 +113,8 @@ const Sidebar = (props) => {
           Visual Media
         </button>
       </div>
-
-      <div className="totalsWrapper">
-        <h3>Collection Totals:</h3>
-        <p className="lastUpdate">Last update: 11-10-25</p>
-        <div className="totals">
-          <p>CDs: {cdTotals.toLocaleString()}</p>
-          <p>Records: {records.length.toLocaleString()}</p>
-          <p>Tapes: {tapes.length.toLocaleString()}</p>
-          <p>Visual Media: xx</p>
-        </div>
+      <div className="tmp-pg-ctrls">
+        <p>page controls here</p>
       </div>
     </div>
   );
