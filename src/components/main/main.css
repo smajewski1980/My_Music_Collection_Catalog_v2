@@ -28,10 +28,15 @@ span {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  margin-block-start: 5.5rem;
   max-height: calc(100dvh - 92px);
   overflow-y: scroll;
   padding-inline: 1rem;
+}
+
+.filteredWrapper {
+  max-height: calc(100dvh - 92px);
+  overflow-y: scroll;
+  margin-block-start: 5.5rem;
 }
 
 .row {

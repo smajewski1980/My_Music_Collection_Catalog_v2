@@ -147,37 +147,39 @@ const Main = (props) => {
           </p>
         </div>
 
-        {props.cdOption === "mainCatalog" &&
-        props.selectedFormat === "compactDiscs" &&
-        searchTerm !== ""
-          ? filteredResults.map((cd) => {
-              return (
-                <div
-                  className='row'
-                  key={cd.ID}
-                >
-                  <p
-                    title={cd.Artist}
-                    className='artist'
+        <div className='filteredWrapper'>
+          {props.cdOption === "mainCatalog" &&
+          props.selectedFormat === "compactDiscs" &&
+          searchTerm !== ""
+            ? filteredResults.map((cd) => {
+                return (
+                  <div
+                    className='row'
+                    key={cd.ID}
                   >
-                    {cd.Artist}
-                  </p>
-                  <p
-                    title={cd.Title}
-                    className='title'
-                  >
-                    {cd.Title}
-                  </p>
-                  <p
-                    title={cd["Box ID"]}
-                    className='location'
-                  >
-                    {cd["Box ID"]}
-                  </p>
-                </div>
-              );
-            })
-          : undefined}
+                    <p
+                      title={cd.Artist}
+                      className='artist'
+                    >
+                      {cd.Artist}
+                    </p>
+                    <p
+                      title={cd.Title}
+                      className='title'
+                    >
+                      {cd.Title}
+                    </p>
+                    <p
+                      title={cd["Box ID"]}
+                      className='location'
+                    >
+                      {cd["Box ID"]}
+                    </p>
+                  </div>
+                );
+              })
+            : undefined}
+        </div>
 
         {props.selectedFormat === "records" && searchTerm !== ""
           ? filteredResults.map((rec) => {

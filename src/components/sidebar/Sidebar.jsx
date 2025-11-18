@@ -107,13 +107,13 @@ const Sidebar = (props) => {
               onClick={handlePrevPage}
             >
               <span>&laquo;</span>
-              &nbsp;&nbsp;prev page
+              &nbsp;prev
             </div>
             <div
               className='next'
               onClick={handleNextPage}
             >
-              next page&nbsp;&nbsp;
+              next&nbsp;
               <span>&raquo;</span>
             </div>
           </div>
