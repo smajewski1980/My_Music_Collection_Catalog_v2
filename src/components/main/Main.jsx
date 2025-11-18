@@ -7,20 +7,32 @@ import CD_Singles from "../cd_singles/CD_Singles";
 import CD_Comps from "../cd_comps/CD_Comps";
 
 const Main = (props) => {
-  const { searchTerm, searchType } = props;
+  const { searchTerm, searchType, setTotalPages, totalPages } = props;
   const [filteredResults, setFilteredResults] = useState([]);
-  const [currPage, setCurrPage] = useState(1);
+
   const offset = 250;
-  let totalPages = 1;
+
+  useEffect(() => {
+    if (
+      props.selectedFormat === "compactDiscs" &&
+      props.cdOption === "mainCatalog"
+    ) {
+      setTotalPages(
+        Math.ceil(
+          cds.filter((cd) => {
+            return !cd["Box ID"].includes("Older");
+          }).length / offset,
+        ),
+      );
+    }
+  }, [props.selectedFormat, props.cdOption]);
 
   function paginate(resultSet) {
-    console.log("getting here");
-    totalPages = Math.ceil(resultSet.length / offset);
-    const start = (currPage - 1) * offset;
+    const start = (props.currPage - 1) * offset;
     const end = start + offset;
     const paginated = resultSet.slice(start, end);
 
-    if (currPage <= totalPages) {
+    if (props.currPage <= totalPages) {
       return paginated;
     }
   }
@@ -88,42 +100,15 @@ const Main = (props) => {
     }
   }, [searchTerm, searchType]);
 
-  function handlePrevPage() {
-    if (currPage > 1) {
-      setCurrPage((prev) => prev - 1);
-    }
-  }
-  function handleNextPage() {
-    if (currPage < totalPages) {
-      setCurrPage((prev) => prev + 1);
-    }
-  }
-
   return (
     <>
-      <div className="size-warning">
+      <div className='size-warning'>
         This app is not configured yet for small screen sizes. Please view on a
         screen larger than 1300px.
       </div>
-      <div id="main">
-        <div className="titleWrapper">
-          <div className="paginationControls">
-            <div
-              className="prev"
-              onClick={handlePrevPage}
-            >
-              <span>&laquo;</span>
-              &nbsp;&nbsp;prev page
-            </div>
-            <div
-              className="next"
-              onClick={handleNextPage}
-            >
-              next page&nbsp;&nbsp;
-              <span>&raquo;</span>
-            </div>
-          </div>
-          <p id="mainTitle">
+      <div id='main'>
+        <div className='titleWrapper'>
+          <p id='mainTitle'>
             {props.selectedFormat === "compactDiscs" && props.cdOption === null
               ? "Compact Discs"
               : undefined}
@@ -165,24 +150,24 @@ const Main = (props) => {
           ? filteredResults.map((cd) => {
               return (
                 <div
-                  className="row"
+                  className='row'
                   key={cd.ID}
                 >
                   <p
                     title={cd.Artist}
-                    className="artist"
+                    className='artist'
                   >
                     {cd.Artist}
                   </p>
                   <p
                     title={cd.Title}
-                    className="title"
+                    className='title'
                   >
                     {cd.Title}
                   </p>
                   <p
                     title={cd["Box ID"]}
-                    className="location"
+                    className='location'
                   >
                     {cd["Box ID"]}
                   </p>
@@ -195,24 +180,24 @@ const Main = (props) => {
           ? filteredResults.map((rec) => {
               return (
                 <div
-                  className="row"
+                  className='row'
                   key={rec.ID}
                 >
                   <p
                     title={rec.Artist}
-                    className="artist"
+                    className='artist'
                   >
                     {rec.Artist}
                   </p>
                   <p
                     title={rec.Title}
-                    className="title"
+                    className='title'
                   >
                     {rec.Title}
                   </p>
                   <p
                     title={rec.Rec_Box_ID}
-                    className="location"
+                    className='location'
                   >
                     {rec.Rec_Box_ID}
                   </p>
@@ -225,24 +210,24 @@ const Main = (props) => {
           ? filteredResults.map((tape) => {
               return (
                 <div
-                  className="row"
+                  className='row'
                   key={tape.ID}
                 >
                   <p
                     title={tape.Artist}
-                    className="artist"
+                    className='artist'
                   >
                     {tape.Artist}
                   </p>
                   <p
                     title={tape.Title}
-                    className="title"
+                    className='title'
                   >
                     {tape.Title}
                   </p>
                   <p
                     title={tape.Location}
-                    className="location"
+                    className='location'
                   >
                     {tape.Location}
                   </p>
@@ -254,7 +239,7 @@ const Main = (props) => {
         {props.cdOption === "mainCatalog" &&
         props.selectedFormat === "compactDiscs" &&
         searchTerm === "" ? (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {cds &&
               paginate(
                 cds.filter((cd) => {
@@ -263,24 +248,24 @@ const Main = (props) => {
               ).map((cd) => {
                 return (
                   <div
-                    className="row"
+                    className='row'
                     key={cd.ID}
                   >
                     <p
                       title={cd.Artist}
-                      className="artist"
+                      className='artist'
                     >
                       {cd.Artist}
                     </p>
                     <p
                       title={cd.Title}
-                      className="title"
+                      className='title'
                     >
                       {cd.Title}
                     </p>
                     <p
                       title={cd["Box ID"]}
-                      className="location"
+                      className='location'
                     >
                       {cd["Box ID"]}
                     </p>
@@ -291,7 +276,7 @@ const Main = (props) => {
         ) : undefined}
 
         {props.cdOption === "earlyPressings" && (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {cds &&
               cds
                 .filter((cd) => {
@@ -300,24 +285,24 @@ const Main = (props) => {
                 .map((cd) => {
                   return (
                     <div
-                      className="row"
+                      className='row'
                       key={cd.ID}
                     >
                       <p
                         title={cd.Artist}
-                        className="artist"
+                        className='artist'
                       >
                         {cd.Artist}
                       </p>
                       <p
                         title={cd.Title}
-                        className="title"
+                        className='title'
                       >
                         {cd.Title}
                       </p>
                       <p
                         title={cd["Box ID"]}
-                        className="location"
+                        className='location'
                       >
                         {cd["Box ID"]}
                       </p>
@@ -330,29 +315,29 @@ const Main = (props) => {
         {props.tapeType === null &&
         props.selectedFormat === "tapes" &&
         searchTerm === "" ? (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {tapes &&
               tapes.map((tape) => {
                 return (
                   <div
-                    className="row"
+                    className='row'
                     key={tape.ID}
                   >
                     <p
                       title={tape.Artist}
-                      className="artist"
+                      className='artist'
                     >
                       {tape.Artist}
                     </p>
                     <p
                       title={tape.Title}
-                      className="title"
+                      className='title'
                     >
                       {tape.Title}
                     </p>
                     <p
                       title={tape.Location}
-                      className="location"
+                      className='location'
                     >
                       {tape.Location}
                     </p>
@@ -363,7 +348,7 @@ const Main = (props) => {
         ) : undefined}
 
         {props.selectedFormat === "tapes" && searchTerm === "" && (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {tapes &&
               tapes
                 .filter((tape) => {
@@ -372,24 +357,24 @@ const Main = (props) => {
                 .map((tape) => {
                   return (
                     <div
-                      className="row"
+                      className='row'
                       key={tape.ID}
                     >
                       <p
                         title={tape.Artist}
-                        className="artist"
+                        className='artist'
                       >
                         {tape.Artist}
                       </p>
                       <p
                         title={tape.Title}
-                        className="title"
+                        className='title'
                       >
                         {tape.Title}
                       </p>
                       <p
                         title={tape.Location}
-                        className="location"
+                        className='location'
                       >
                         {tape.Location}
                       </p>
@@ -402,29 +387,29 @@ const Main = (props) => {
         {props.recordType === null &&
         props.selectedFormat === "records" &&
         searchTerm === "" ? (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {records &&
               records.map((record) => {
                 return (
                   <div
-                    className="row"
+                    className='row'
                     key={record.ID}
                   >
                     <p
                       title={record.Artist}
-                      className="artist"
+                      className='artist'
                     >
                       {record.Artist}
                     </p>
                     <p
                       title={record.Title}
-                      className="title"
+                      className='title'
                     >
                       {record.Title}
                     </p>
                     <p
                       title={record.Rec_Box_ID}
-                      className="location"
+                      className='location'
                     >
                       {record.Rec_Box_ID}
                     </p>
@@ -435,10 +420,10 @@ const Main = (props) => {
         ) : undefined}
 
         {props.selectedFormat === "records" && searchTerm === "" && (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {props.recordType === "Cylinder " && (
               <div
-                className="row"
+                className='row'
                 style={{ marginBlockStart: "2rem" }}
               >
                 <p style={{ marginInline: "auto", paddingBlock: ".5rem" }}>
@@ -455,24 +440,24 @@ const Main = (props) => {
                 .map((record) => {
                   return (
                     <div
-                      className="row"
+                      className='row'
                       key={record.ID}
                     >
                       <p
                         title={record.Artist}
-                        className="artist"
+                        className='artist'
                       >
                         {record.Artist}
                       </p>
                       <p
                         title={record.Title}
-                        className="title"
+                        className='title'
                       >
                         {record.Title}
                       </p>
                       <p
                         title={record.Rec_Box_ID}
-                        className="location"
+                        className='location'
                       >
                         {record.Rec_Box_ID}
                       </p>
@@ -483,7 +468,7 @@ const Main = (props) => {
         )}
 
         {props.selectedFormat === "compactDiscs" && (
-          <div className="dataWrapper">
+          <div className='dataWrapper'>
             {cds &&
               cds
                 .filter((cd) => {
@@ -492,12 +477,12 @@ const Main = (props) => {
                 .map((cd) => {
                   return (
                     <div
-                      className="row"
+                      className='row'
                       key={cd.ID}
                     >
-                      <p className="artist">{cd.Artist}</p>
-                      <p className="title">{cd.Title}</p>
-                      <p className="location">{cd["Box ID"]}</p>
+                      <p className='artist'>{cd.Artist}</p>
+                      <p className='title'>{cd.Title}</p>
+                      <p className='location'>{cd["Box ID"]}</p>
                     </div>
                   );
                 })}
@@ -507,7 +492,7 @@ const Main = (props) => {
         {props.cdOption === "singles" && <CD_Singles />}
         {props.cdOption === "compilations" && <CD_Comps />}
 
-        <p id="ifNull">
+        <p id='ifNull'>
           {props.selectedFormat === null ? "Choose A Format" : null}
         </p>
       </div>

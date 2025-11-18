@@ -9,8 +9,18 @@ import CD_Comps from "../../data/CD_CompsJSON.json";
 const Sidebar = (props) => {
   let cdTotals = CD_mainCat.length + CD_Singles.length + CD_Comps.length;
 
+  function handlePrevPage() {
+    if (props.currPage > 1) {
+      props.setCurrPage((prev) => prev - 1);
+    }
+  }
+  function handleNextPage() {
+    if (props.currPage < props.totalPages) {
+      props.setCurrPage((prev) => prev + 1);
+    }
+  }
   return (
-    <div className="sidebar">
+    <div className='sidebar'>
       <h1>
         My Music
         <br />
@@ -18,10 +28,10 @@ const Sidebar = (props) => {
         <br />
         Catalog
       </h1>
-      <div className="totalsWrapper">
+      <div className='totalsWrapper'>
         <h3>Collection Totals:</h3>
-        <p className="lastUpdate">Last update: 11-10-25</p>
-        <div className="totals">
+        <p className='lastUpdate'>Last update: 11-10-25</p>
+        <div className='totals'>
           <p>CDs: {cdTotals.toLocaleString()}</p>
           <p>Records: {records.length.toLocaleString()}</p>
           <p>Tapes: {tapes.length.toLocaleString()}</p>
@@ -29,36 +39,7 @@ const Sidebar = (props) => {
         </div>
       </div>
 
-      {/* cleanup later, left from original plan to enter data too in this app */
-      /* <div
-        className={
-          props.viewingMode
-            ? "modeSelect viewingActive"
-            : "modeSelect entryActive"
-        }
-      >
-        <h2>
-          {props.viewingMode ? "Viewing" : "Entry"}
-          <br />
-          Mode Selected
-        </h2>
-        <div className="modeSelectButtonWrapper">
-          <button
-            className="viewing"
-            onClick={!props.viewingMode ? props.modeClick : undefined}
-          >
-            Viewing
-          </button>
-          <button
-            className="entry"
-            onClick={props.viewingMode ? props.modeClick : undefined}
-          >
-            Entry
-          </button>
-        </div>
-      </div> */}
-
-      <div className="formatSelectionWrapper">
+      <div className='formatSelectionWrapper'>
         <h2>Select Format</h2>
         <button
           className={
@@ -66,7 +47,7 @@ const Sidebar = (props) => {
               ? "formatSelectBtn fmtBtnActive"
               : "formatSelectBtn"
           }
-          id="compactDiscs"
+          id='compactDiscs'
           onClick={() => {
             props.formatClick("compactDiscs");
           }}
@@ -79,7 +60,7 @@ const Sidebar = (props) => {
               ? "formatSelectBtn fmtBtnActive"
               : "formatSelectBtn"
           }
-          id="records"
+          id='records'
           onClick={() => {
             props.formatClick("records");
           }}
@@ -92,7 +73,7 @@ const Sidebar = (props) => {
               ? "formatSelectBtn fmtBtnActive"
               : "formatSelectBtn"
           }
-          id="tapes"
+          id='tapes'
           onClick={() => {
             props.formatClick("tapes");
           }}
@@ -105,7 +86,7 @@ const Sidebar = (props) => {
               ? "formatSelectBtn fmtBtnActive"
               : "formatSelectBtn"
           }
-          id="visualMedia"
+          id='visualMedia'
           onClick={() => {
             props.formatClick("visualMedia");
           }}
@@ -113,9 +94,30 @@ const Sidebar = (props) => {
           Visual Media
         </button>
       </div>
-      <div className="tmp-pg-ctrls">
-        <p>page controls here</p>
-      </div>
+
+      {props.totalPages > 1 && (
+        <div className='pg-ctrls'>
+          <p>
+            Current page: {props.currPage}/{props.totalPages}
+          </p>
+          <div className='paginationControls'>
+            <div
+              className='prev'
+              onClick={handlePrevPage}
+            >
+              <span>&laquo;</span>
+              &nbsp;&nbsp;prev page
+            </div>
+            <div
+              className='next'
+              onClick={handleNextPage}
+            >
+              next page&nbsp;&nbsp;
+              <span>&raquo;</span>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

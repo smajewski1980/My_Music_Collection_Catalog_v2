@@ -107,16 +107,24 @@
   font-size: 0.85;
 }
 
-.tmp-pg-ctrls {
+.pg-ctrls {
   color: hsl(300, 99%, 60%);
   margin-block-start: 1rem;
 }
 
-/* @media screen and (width > 1700px) {
-  .formatSelectBtn {
-    padding-block: 1.5rem;
-  }
-  .totalsWrapper h3 {
-    margin-top: 2.5rem;
-  }
-} */
+.paginationControls {
+  width: 15rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-inline: auto;
+}
+
+.prev,
+.next {
+  color: hsl(300, 99%, 60%);
+  cursor: pointer;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+}

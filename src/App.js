@@ -15,6 +15,8 @@ function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [filterField, setFilterField] = useState("Artist");
   const [searchType, setSearchType] = useState("startsWith");
+  const [currPage, setCurrPage] = useState(1);
+  const [totalPages, setTotalPages] = useState(1);
 
   const handleViewingMode = () => {
     setViewingMode(!viewingMode);
@@ -45,12 +47,15 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className='App'>
       <Sidebar
         modeClick={handleViewingMode}
         viewingMode={viewingMode}
         formatClick={handleFormatSelect}
         selectedFormat={selectedFormat}
+        setCurrPage={setCurrPage}
+        currPage={currPage}
+        totalPages={totalPages}
       />
       {viewingMode ? (
         <Main
@@ -63,6 +68,9 @@ function App() {
           searchTerm={searchTerm}
           filterField={filterField}
           searchType={searchType}
+          currPage={currPage}
+          totalPages={totalPages}
+          setTotalPages={setTotalPages}
         />
       ) : (
         <MainEntry
