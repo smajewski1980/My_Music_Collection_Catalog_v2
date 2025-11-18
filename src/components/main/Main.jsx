@@ -13,6 +13,7 @@ const Main = (props) => {
   const offset = 250;
 
   useEffect(() => {
+    setTotalPages(1);
     if (
       props.selectedFormat === "compactDiscs" &&
       props.cdOption === "mainCatalog"
@@ -35,6 +36,8 @@ const Main = (props) => {
     if (props.currPage <= totalPages) {
       return paginated;
     }
+    props.setCurrPage(1);
+    return resultSet;
   }
 
   useEffect(() => {

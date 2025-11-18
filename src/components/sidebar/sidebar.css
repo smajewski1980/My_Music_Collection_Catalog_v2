@@ -110,6 +110,13 @@
 .pg-ctrls {
   color: hsl(300, 99%, 60%);
   margin-block-start: 1rem;
+  font-size: 1.25rem;
+}
+
+.perPage {
+  color: hsl(300, 99%, 60%);
+  font-size: 0.85rem;
+  margin-block-start: 0.25rem;
 }
 
 .paginationControls {

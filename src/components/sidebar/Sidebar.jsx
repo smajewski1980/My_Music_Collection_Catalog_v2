@@ -100,6 +100,7 @@ const Sidebar = (props) => {
           <p>
             Current page: {props.currPage}/{props.totalPages}
           </p>
+          <p className='perPage'>250 results per page</p>
           <div className='paginationControls'>
             <div
               className='prev'

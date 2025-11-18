@@ -69,6 +69,7 @@ function App() {
           filterField={filterField}
           searchType={searchType}
           currPage={currPage}
+          setCurrPage={setCurrPage}
           totalPages={totalPages}
           setTotalPages={setTotalPages}
         />
