@@ -7,17 +7,25 @@ import CD_Singles from "../cd_singles/CD_Singles";
 import CD_Comps from "../cd_comps/CD_Comps";
 
 const Main = (props) => {
-  const { searchTerm, searchType, setTotalPages, totalPages } = props;
+  const {
+    searchTerm,
+    searchType,
+    setTotalPages,
+    totalPages,
+    setCurrPage,
+    recordType,
+    tapeType,
+    selectedFormat,
+    cdOption,
+  } = props;
   const [filteredResults, setFilteredResults] = useState([]);
 
   const offset = 250;
 
   useEffect(() => {
     setTotalPages(1);
-    if (
-      props.selectedFormat === "compactDiscs" &&
-      props.cdOption === "mainCatalog"
-    ) {
+    setCurrPage(1);
+    if (selectedFormat === "compactDiscs" && cdOption === "mainCatalog") {
       setTotalPages(
         Math.ceil(
           cds.filter((cd) => {
@@ -25,8 +33,10 @@ const Main = (props) => {
           }).length / offset,
         ),
       );
+    } else if (selectedFormat === "records" && !recordType) {
+      setTotalPages(Math.ceil(records.length / offset));
     }
-  }, [props.selectedFormat, props.cdOption]);
+  }, [selectedFormat, cdOption, recordType]);
 
   function paginate(resultSet) {
     const start = (props.currPage - 1) * offset;
@@ -394,33 +404,35 @@ const Main = (props) => {
         searchTerm === "" ? (
           <div className='dataWrapper'>
             {records &&
-              records.map((record) => {
-                return (
-                  <div
-                    className='row'
-                    key={record.ID}
-                  >
-                    <p
-                      title={record.Artist}
-                      className='artist'
+              paginate(
+                records.map((record) => {
+                  return (
+                    <div
+                      className='row'
+                      key={record.ID}
                     >
-                      {record.Artist}
-                    </p>
-                    <p
-                      title={record.Title}
-                      className='title'
-                    >
-                      {record.Title}
-                    </p>
-                    <p
-                      title={record.Rec_Box_ID}
-                      className='location'
-                    >
-                      {record.Rec_Box_ID}
-                    </p>
-                  </div>
-                );
-              })}
+                      <p
+                        title={record.Artist}
+                        className='artist'
+                      >
+                        {record.Artist}
+                      </p>
+                      <p
+                        title={record.Title}
+                        className='title'
+                      >
+                        {record.Title}
+                      </p>
+                      <p
+                        title={record.Rec_Box_ID}
+                        className='location'
+                      >
+                        {record.Rec_Box_ID}
+                      </p>
+                    </div>
+                  );
+                }),
+              )}
           </div>
         ) : undefined}
 

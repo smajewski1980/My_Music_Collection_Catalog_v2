@@ -1,11 +1,5 @@
 [
   {
-    "Artist": "Sea Level",
-    "Title": "Sea Level",
-    "Rec_Box_ID": "33s Jazz 9",
-    "ID": 4964
-  },
-  {
     "Artist": "\"Big\" Tiny Little",
     "Title": "\"Big\" Tiny's Little Black Book",
     "Rec_Box_ID": "33s Country 3",
@@ -21670,6 +21664,12 @@
     "Title": "Shake A Leg",
     "Rec_Box_ID": "45s Box 4",
     "ID": 2061
+  },
+  {
+    "Artist": "Sea Level",
+    "Title": "Sea Level",
+    "Rec_Box_ID": "33s Jazz 9",
+    "ID": 4964
   },
   {
     "Artist": "Seals & Crofts",
