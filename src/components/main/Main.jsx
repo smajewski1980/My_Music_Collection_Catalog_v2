@@ -20,7 +20,7 @@ const Main = (props) => {
   } = props;
   const [filteredResults, setFilteredResults] = useState([]);
 
-  const offset = 250;
+  const offset = 150;
 
   useEffect(() => {
     setTotalPages(1);
@@ -121,7 +121,7 @@ const Main = (props) => {
         This app is not configured yet for small screen sizes. Please view on a
         screen larger than 1300px.
       </div>
-      <div id='main'>
+      <div className='mainContentWrapper'>
         <div className='titleWrapper'>
           <p id='mainTitle'>
             {props.selectedFormat === "compactDiscs" && props.cdOption === null
@@ -158,148 +158,111 @@ const Main = (props) => {
             {props.visualMediaType === "ced" && "RCA Selectavision (CED)"}
           </p>
         </div>
+        <div id='main'>
+          <div className='filteredWrapper'>
+            {props.cdOption === "mainCatalog" &&
+            props.selectedFormat === "compactDiscs" &&
+            searchTerm !== ""
+              ? filteredResults.map((cd) => {
+                  return (
+                    <div
+                      className='row'
+                      key={cd.ID}
+                    >
+                      <p
+                        title={cd.Artist}
+                        className='artist'
+                      >
+                        {cd.Artist}
+                      </p>
+                      <p
+                        title={cd.Title}
+                        className='title'
+                      >
+                        {cd.Title}
+                      </p>
+                      <p
+                        title={cd["Box ID"]}
+                        className='location'
+                      >
+                        {cd["Box ID"]}
+                      </p>
+                    </div>
+                  );
+                })
+              : undefined}
+          </div>
 
-        <div className='filteredWrapper'>
-          {props.cdOption === "mainCatalog" &&
-          props.selectedFormat === "compactDiscs" &&
-          searchTerm !== ""
-            ? filteredResults.map((cd) => {
+          {props.selectedFormat === "records" && searchTerm !== ""
+            ? filteredResults.map((rec) => {
                 return (
                   <div
                     className='row'
-                    key={cd.ID}
+                    key={rec.ID}
                   >
                     <p
-                      title={cd.Artist}
+                      title={rec.Artist}
                       className='artist'
                     >
-                      {cd.Artist}
+                      {rec.Artist}
                     </p>
                     <p
-                      title={cd.Title}
+                      title={rec.Title}
                       className='title'
                     >
-                      {cd.Title}
+                      {rec.Title}
                     </p>
                     <p
-                      title={cd["Box ID"]}
+                      title={rec.Rec_Box_ID}
                       className='location'
                     >
-                      {cd["Box ID"]}
+                      {rec.Rec_Box_ID}
                     </p>
                   </div>
                 );
               })
             : undefined}
-        </div>
 
-        {props.selectedFormat === "records" && searchTerm !== ""
-          ? filteredResults.map((rec) => {
-              return (
-                <div
-                  className='row'
-                  key={rec.ID}
-                >
-                  <p
-                    title={rec.Artist}
-                    className='artist'
-                  >
-                    {rec.Artist}
-                  </p>
-                  <p
-                    title={rec.Title}
-                    className='title'
-                  >
-                    {rec.Title}
-                  </p>
-                  <p
-                    title={rec.Rec_Box_ID}
-                    className='location'
-                  >
-                    {rec.Rec_Box_ID}
-                  </p>
-                </div>
-              );
-            })
-          : undefined}
-
-        {props.selectedFormat === "tapes" && searchTerm !== ""
-          ? filteredResults.map((tape) => {
-              return (
-                <div
-                  className='row'
-                  key={tape.ID}
-                >
-                  <p
-                    title={tape.Artist}
-                    className='artist'
-                  >
-                    {tape.Artist}
-                  </p>
-                  <p
-                    title={tape.Title}
-                    className='title'
-                  >
-                    {tape.Title}
-                  </p>
-                  <p
-                    title={tape.Location}
-                    className='location'
-                  >
-                    {tape.Location}
-                  </p>
-                </div>
-              );
-            })
-          : undefined}
-
-        {props.cdOption === "mainCatalog" &&
-        props.selectedFormat === "compactDiscs" &&
-        searchTerm === "" ? (
-          <div className='dataWrapper'>
-            {cds &&
-              paginate(
-                cds.filter((cd) => {
-                  return !cd["Box ID"].includes("Older");
-                }),
-              ).map((cd) => {
+          {props.selectedFormat === "tapes" && searchTerm !== ""
+            ? filteredResults.map((tape) => {
                 return (
                   <div
                     className='row'
-                    key={cd.ID}
+                    key={tape.ID}
                   >
                     <p
-                      title={cd.Artist}
+                      title={tape.Artist}
                       className='artist'
                     >
-                      {cd.Artist}
+                      {tape.Artist}
                     </p>
                     <p
-                      title={cd.Title}
+                      title={tape.Title}
                       className='title'
                     >
-                      {cd.Title}
+                      {tape.Title}
                     </p>
                     <p
-                      title={cd["Box ID"]}
+                      title={tape.Location}
                       className='location'
                     >
-                      {cd["Box ID"]}
+                      {tape.Location}
                     </p>
                   </div>
                 );
-              })}
-          </div>
-        ) : undefined}
+              })
+            : undefined}
 
-        {props.cdOption === "earlyPressings" && (
-          <div className='dataWrapper'>
-            {cds &&
-              cds
-                .filter((cd) => {
-                  return cd["Box ID"].includes("Older");
-                })
-                .map((cd) => {
+          {props.cdOption === "mainCatalog" &&
+          props.selectedFormat === "compactDiscs" &&
+          searchTerm === "" ? (
+            <div className='dataWrapper'>
+              {cds &&
+                paginate(
+                  cds.filter((cd) => {
+                    return !cd["Box ID"].includes("Older");
+                  }),
+                ).map((cd) => {
                   return (
                     <div
                       className='row'
@@ -326,196 +289,234 @@ const Main = (props) => {
                     </div>
                   );
                 })}
-          </div>
-        )}
+            </div>
+          ) : undefined}
 
-        {props.tapeType === null &&
-        props.selectedFormat === "tapes" &&
-        searchTerm === "" ? (
-          <div className='dataWrapper'>
-            {tapes &&
-              paginate(
-                tapes.map((tape) => {
-                  return (
-                    <div
-                      className='row'
-                      key={tape.ID}
-                    >
-                      <p
-                        title={tape.Artist}
-                        className='artist'
+          {props.cdOption === "earlyPressings" && (
+            <div className='dataWrapper'>
+              {cds &&
+                cds
+                  .filter((cd) => {
+                    return cd["Box ID"].includes("Older");
+                  })
+                  .map((cd) => {
+                    return (
+                      <div
+                        className='row'
+                        key={cd.ID}
                       >
-                        {tape.Artist}
-                      </p>
-                      <p
-                        title={tape.Title}
-                        className='title'
+                        <p
+                          title={cd.Artist}
+                          className='artist'
+                        >
+                          {cd.Artist}
+                        </p>
+                        <p
+                          title={cd.Title}
+                          className='title'
+                        >
+                          {cd.Title}
+                        </p>
+                        <p
+                          title={cd["Box ID"]}
+                          className='location'
+                        >
+                          {cd["Box ID"]}
+                        </p>
+                      </div>
+                    );
+                  })}
+            </div>
+          )}
+
+          {props.tapeType === null &&
+          props.selectedFormat === "tapes" &&
+          searchTerm === "" ? (
+            <div className='dataWrapper'>
+              {tapes &&
+                paginate(
+                  tapes.map((tape) => {
+                    return (
+                      <div
+                        className='row'
+                        key={tape.ID}
                       >
-                        {tape.Title}
-                      </p>
-                      <p
-                        title={tape.Location}
-                        className='location'
+                        <p
+                          title={tape.Artist}
+                          className='artist'
+                        >
+                          {tape.Artist}
+                        </p>
+                        <p
+                          title={tape.Title}
+                          className='title'
+                        >
+                          {tape.Title}
+                        </p>
+                        <p
+                          title={tape.Location}
+                          className='location'
+                        >
+                          {tape.Location}
+                        </p>
+                      </div>
+                    );
+                  }),
+                )}
+            </div>
+          ) : undefined}
+
+          {props.selectedFormat === "tapes" && searchTerm === "" && (
+            <div className='dataWrapper'>
+              {tapes &&
+                tapes
+                  .filter((tape) => {
+                    return tape.Location.includes(props.tapeType);
+                  })
+                  .map((tape) => {
+                    return (
+                      <div
+                        className='row'
+                        key={tape.ID}
                       >
-                        {tape.Location}
-                      </p>
-                    </div>
-                  );
-                }),
+                        <p
+                          title={tape.Artist}
+                          className='artist'
+                        >
+                          {tape.Artist}
+                        </p>
+                        <p
+                          title={tape.Title}
+                          className='title'
+                        >
+                          {tape.Title}
+                        </p>
+                        <p
+                          title={tape.Location}
+                          className='location'
+                        >
+                          {tape.Location}
+                        </p>
+                      </div>
+                    );
+                  })}
+            </div>
+          )}
+
+          {props.recordType === null &&
+          props.selectedFormat === "records" &&
+          searchTerm === "" ? (
+            <div className='dataWrapper'>
+              {records &&
+                paginate(
+                  records.map((record) => {
+                    return (
+                      <div
+                        className='row'
+                        key={record.ID}
+                      >
+                        <p
+                          title={record.Artist}
+                          className='artist'
+                        >
+                          {record.Artist}
+                        </p>
+                        <p
+                          title={record.Title}
+                          className='title'
+                        >
+                          {record.Title}
+                        </p>
+                        <p
+                          title={record.Rec_Box_ID}
+                          className='location'
+                        >
+                          {record.Rec_Box_ID}
+                        </p>
+                      </div>
+                    );
+                  }),
+                )}
+            </div>
+          ) : undefined}
+
+          {props.selectedFormat === "records" && searchTerm === "" && (
+            <div className='dataWrapper'>
+              {props.recordType === "Cylinder " && (
+                <div
+                  className='row'
+                  style={{ marginBlockStart: "2rem" }}
+                >
+                  <p style={{ marginInline: "auto", paddingBlock: ".5rem" }}>
+                    It's not that I don't have any, they just aren't cataloged
+                    yet.
+                  </p>
+                </div>
               )}
-          </div>
-        ) : undefined}
+              {records &&
+                records
+                  .filter((record) => {
+                    return record.Rec_Box_ID.includes(props.recordType);
+                  })
+                  .map((record) => {
+                    return (
+                      <div
+                        className='row'
+                        key={record.ID}
+                      >
+                        <p
+                          title={record.Artist}
+                          className='artist'
+                        >
+                          {record.Artist}
+                        </p>
+                        <p
+                          title={record.Title}
+                          className='title'
+                        >
+                          {record.Title}
+                        </p>
+                        <p
+                          title={record.Rec_Box_ID}
+                          className='location'
+                        >
+                          {record.Rec_Box_ID}
+                        </p>
+                      </div>
+                    );
+                  })}
+            </div>
+          )}
 
-        {props.selectedFormat === "tapes" && searchTerm === "" && (
-          <div className='dataWrapper'>
-            {tapes &&
-              tapes
-                .filter((tape) => {
-                  return tape.Location.includes(props.tapeType);
-                })
-                .map((tape) => {
-                  return (
-                    <div
-                      className='row'
-                      key={tape.ID}
-                    >
-                      <p
-                        title={tape.Artist}
-                        className='artist'
+          {props.selectedFormat === "compactDiscs" && (
+            <div className='dataWrapper'>
+              {cds &&
+                cds
+                  .filter((cd) => {
+                    return cd["Box ID"].includes(props.cdOption);
+                  })
+                  .map((cd) => {
+                    return (
+                      <div
+                        className='row'
+                        key={cd.ID}
                       >
-                        {tape.Artist}
-                      </p>
-                      <p
-                        title={tape.Title}
-                        className='title'
-                      >
-                        {tape.Title}
-                      </p>
-                      <p
-                        title={tape.Location}
-                        className='location'
-                      >
-                        {tape.Location}
-                      </p>
-                    </div>
-                  );
-                })}
-          </div>
-        )}
+                        <p className='artist'>{cd.Artist}</p>
+                        <p className='title'>{cd.Title}</p>
+                        <p className='location'>{cd["Box ID"]}</p>
+                      </div>
+                    );
+                  })}
+            </div>
+          )}
 
-        {props.recordType === null &&
-        props.selectedFormat === "records" &&
-        searchTerm === "" ? (
-          <div className='dataWrapper'>
-            {records &&
-              paginate(
-                records.map((record) => {
-                  return (
-                    <div
-                      className='row'
-                      key={record.ID}
-                    >
-                      <p
-                        title={record.Artist}
-                        className='artist'
-                      >
-                        {record.Artist}
-                      </p>
-                      <p
-                        title={record.Title}
-                        className='title'
-                      >
-                        {record.Title}
-                      </p>
-                      <p
-                        title={record.Rec_Box_ID}
-                        className='location'
-                      >
-                        {record.Rec_Box_ID}
-                      </p>
-                    </div>
-                  );
-                }),
-              )}
-          </div>
-        ) : undefined}
+          {props.cdOption === "singles" && <CD_Singles />}
+          {props.cdOption === "compilations" && <CD_Comps />}
 
-        {props.selectedFormat === "records" && searchTerm === "" && (
-          <div className='dataWrapper'>
-            {props.recordType === "Cylinder " && (
-              <div
-                className='row'
-                style={{ marginBlockStart: "2rem" }}
-              >
-                <p style={{ marginInline: "auto", paddingBlock: ".5rem" }}>
-                  It's not that I don't have any, they just aren't cataloged
-                  yet.
-                </p>
-              </div>
-            )}
-            {records &&
-              records
-                .filter((record) => {
-                  return record.Rec_Box_ID.includes(props.recordType);
-                })
-                .map((record) => {
-                  return (
-                    <div
-                      className='row'
-                      key={record.ID}
-                    >
-                      <p
-                        title={record.Artist}
-                        className='artist'
-                      >
-                        {record.Artist}
-                      </p>
-                      <p
-                        title={record.Title}
-                        className='title'
-                      >
-                        {record.Title}
-                      </p>
-                      <p
-                        title={record.Rec_Box_ID}
-                        className='location'
-                      >
-                        {record.Rec_Box_ID}
-                      </p>
-                    </div>
-                  );
-                })}
-          </div>
-        )}
-
-        {props.selectedFormat === "compactDiscs" && (
-          <div className='dataWrapper'>
-            {cds &&
-              cds
-                .filter((cd) => {
-                  return cd["Box ID"].includes(props.cdOption);
-                })
-                .map((cd) => {
-                  return (
-                    <div
-                      className='row'
-                      key={cd.ID}
-                    >
-                      <p className='artist'>{cd.Artist}</p>
-                      <p className='title'>{cd.Title}</p>
-                      <p className='location'>{cd["Box ID"]}</p>
-                    </div>
-                  );
-                })}
-          </div>
-        )}
-
-        {props.cdOption === "singles" && <CD_Singles />}
-        {props.cdOption === "compilations" && <CD_Comps />}
-
-        <p id='ifNull'>
-          {props.selectedFormat === null ? "Choose A Format" : null}
-        </p>
+          <p id='ifNull'>
+            {props.selectedFormat === null ? "Choose A Format" : null}
+          </p>
+        </div>
       </div>
     </>
   );
