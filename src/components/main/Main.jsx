@@ -35,8 +35,10 @@ const Main = (props) => {
       );
     } else if (selectedFormat === "records" && !recordType) {
       setTotalPages(Math.ceil(records.length / offset));
+    } else if (selectedFormat === "tapes" && !tapeType) {
+      setTotalPages(Math.ceil(tapes.length / offset));
     }
-  }, [selectedFormat, cdOption, recordType]);
+  }, [selectedFormat, cdOption, recordType, tapeType]);
 
   function paginate(resultSet) {
     const start = (props.currPage - 1) * offset;
@@ -332,33 +334,35 @@ const Main = (props) => {
         searchTerm === "" ? (
           <div className='dataWrapper'>
             {tapes &&
-              tapes.map((tape) => {
-                return (
-                  <div
-                    className='row'
-                    key={tape.ID}
-                  >
-                    <p
-                      title={tape.Artist}
-                      className='artist'
+              paginate(
+                tapes.map((tape) => {
+                  return (
+                    <div
+                      className='row'
+                      key={tape.ID}
                     >
-                      {tape.Artist}
-                    </p>
-                    <p
-                      title={tape.Title}
-                      className='title'
-                    >
-                      {tape.Title}
-                    </p>
-                    <p
-                      title={tape.Location}
-                      className='location'
-                    >
-                      {tape.Location}
-                    </p>
-                  </div>
-                );
-              })}
+                      <p
+                        title={tape.Artist}
+                        className='artist'
+                      >
+                        {tape.Artist}
+                      </p>
+                      <p
+                        title={tape.Title}
+                        className='title'
+                      >
+                        {tape.Title}
+                      </p>
+                      <p
+                        title={tape.Location}
+                        className='location'
+                      >
+                        {tape.Location}
+                      </p>
+                    </div>
+                  );
+                }),
+              )}
           </div>
         ) : undefined}
 
