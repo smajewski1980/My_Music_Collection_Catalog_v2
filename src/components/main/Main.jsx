@@ -513,9 +513,9 @@ const Main = (props) => {
           {props.cdOption === "singles" && <CD_Singles />}
           {props.cdOption === "compilations" && <CD_Comps />}
 
-          <p id='ifNull'>
-            {props.selectedFormat === null ? "Choose A Format" : null}
-          </p>
+          {props.selectedFormat === null ? (
+            <p id='ifNull'>"Choose A Format"</p>
+          ) : null}
         </div>
       </div>
     </>

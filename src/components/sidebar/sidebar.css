@@ -120,12 +120,10 @@
 }
 
 .paginationControls {
-  width: 16rem;
+  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin-inline: auto;
-  gap: 0.5rem;
 }
 
 .prev,

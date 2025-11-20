@@ -27,5 +27,5 @@ label {
 .App {
   display: flex;
   background-color: black;
-  max-height: 100vh;
+  max-height: 100dvh;
 }
