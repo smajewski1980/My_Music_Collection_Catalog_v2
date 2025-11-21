@@ -7,11 +7,17 @@
   flex-basis: 70dvw;
 }
 
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 0.2s;
+}
+
 #mainTitle {
   color: hsl(300, 99%, 60%);
   font-size: 3rem;
   font-weight: 700;
   padding-block: 1rem 0.5rem;
+  user-select: none;
 }
 span {
   font-size: 2rem;

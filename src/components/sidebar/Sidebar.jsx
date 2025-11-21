@@ -11,12 +11,16 @@ const Sidebar = (props) => {
 
   function handlePrevPage() {
     if (props.currPage > 1) {
-      props.setCurrPage((prev) => prev - 1);
+      document.startViewTransition(() => {
+        props.setCurrPage((prev) => prev - 1);
+      });
     }
   }
   function handleNextPage() {
     if (props.currPage < props.totalPages) {
-      props.setCurrPage((prev) => prev + 1);
+      document.startViewTransition(() => {
+        props.setCurrPage((prev) => prev + 1);
+      });
     }
   }
   return (

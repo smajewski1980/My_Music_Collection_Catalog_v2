@@ -53,66 +53,68 @@ const Main = (props) => {
   }
 
   useEffect(() => {
-    if (
-      props.cdOption === "mainCatalog" &&
-      props.selectedFormat === "compactDiscs"
-    ) {
-      setFilteredResults(
-        cds.filter((cd) => {
-          return cd[props.filterField]
-            .toString()
-            .replace(/^[^a-zA-Z0-9]+/, "")
-            .toLowerCase()
-            [searchType](searchTerm.toLowerCase());
-        }),
-      );
-    } else if (props.selectedFormat === "records") {
-      setFilteredResults(
-        records
-          .filter((rec) => {
-            if (!props.recordType) {
-              return rec;
-            }
-            return rec.Rec_Box_ID.includes(props.recordType);
-          })
-          .filter((rec) => {
-            if (props.filterField === "Box ID") {
-              return rec.Rec_Box_ID.toString()
+    document.startViewTransition(() => {
+      if (
+        props.cdOption === "mainCatalog" &&
+        props.selectedFormat === "compactDiscs"
+      ) {
+        setFilteredResults(
+          cds.filter((cd) => {
+            return cd[props.filterField]
+              .toString()
+              .replace(/^[^a-zA-Z0-9]+/, "")
+              .toLowerCase()
+              [searchType](searchTerm.toLowerCase());
+          }),
+        );
+      } else if (props.selectedFormat === "records") {
+        setFilteredResults(
+          records
+            .filter((rec) => {
+              if (!props.recordType) {
+                return rec;
+              }
+              return rec.Rec_Box_ID.includes(props.recordType);
+            })
+            .filter((rec) => {
+              if (props.filterField === "Box ID") {
+                return rec.Rec_Box_ID.toString()
+                  .toLowerCase()
+                  [searchType](searchTerm.toLowerCase());
+              }
+              return rec[props.filterField]
+                .toString()
+                .replace(/^[^a-zA-Z0-9]+/, "")
                 .toLowerCase()
                 [searchType](searchTerm.toLowerCase());
-            }
-            return rec[props.filterField]
-              .toString()
-              .replace(/^[^a-zA-Z0-9]+/, "")
-              .toLowerCase()
-              [searchType](searchTerm.toLowerCase());
-          }),
-      );
-    } else if (props.selectedFormat === "tapes") {
-      setFilteredResults(
-        tapes
-          .filter((tape) => {
-            if (!props.tapeType) {
-              return tape;
-            }
-            return tape.Location.includes(props.tapeType);
-          })
-          .filter((tape) => {
-            let tapeFilter = props.filterField;
-            if (tapeFilter === "Box ID") {
-              tapeFilter = "Location";
-            }
+            }),
+        );
+      } else if (props.selectedFormat === "tapes") {
+        setFilteredResults(
+          tapes
+            .filter((tape) => {
+              if (!props.tapeType) {
+                return tape;
+              }
+              return tape.Location.includes(props.tapeType);
+            })
+            .filter((tape) => {
+              let tapeFilter = props.filterField;
+              if (tapeFilter === "Box ID") {
+                tapeFilter = "Location";
+              }
 
-            return tape[tapeFilter]
-              .toString()
-              .replace(/^[^a-zA-Z0-9]+/, "")
-              .toLowerCase()
-              [searchType](searchTerm.toLowerCase());
-          }),
-      );
-    } else {
-      setFilteredResults([]);
-    }
+              return tape[tapeFilter]
+                .toString()
+                .replace(/^[^a-zA-Z0-9]+/, "")
+                .toLowerCase()
+                [searchType](searchTerm.toLowerCase());
+            }),
+        );
+      } else {
+        setFilteredResults([]);
+      }
+    });
   }, [searchTerm, searchType]);
 
   return (
