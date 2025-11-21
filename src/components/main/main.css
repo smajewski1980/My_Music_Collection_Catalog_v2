@@ -1,3 +1,8 @@
+:root {
+  --anim-name-old: next-page-out;
+  --anim-name-new: next-page-in;
+}
+
 .mainContentWrapper {
   background-color: rgba(212, 182, 240, 0.1);
   overflow-y: scroll;
@@ -7,9 +12,68 @@
   flex-basis: 70dvw;
 }
 
-::view-transition-old(root),
-::view-transition-new(root) {
-  animation-duration: 0.2s;
+@keyframes next-page-out {
+  to {
+    transform: translateX(-100%);
+  }
+}
+@keyframes next-page-in {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes prev-page-out {
+  to {
+    transform: translateX(100%);
+  }
+}
+@keyframes prev-page-in {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes filtered-page-out {
+  to {
+    transform: translateY(-100%);
+  }
+}
+@keyframes filtered-page-in {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+#main {
+  view-transition-name: main;
+  min-height: 100dvh;
+}
+
+::view-transition-group(main) {
+  overflow: hidden;
+}
+
+::view-transition-old(main) {
+  animation-name: var(--anim-name-old);
+  animation-duration: 0.5s;
+  animation-direction: forwards;
+  animation-timing-function: ease-in-out;
+}
+::view-transition-new(main) {
+  animation-name: var(--anim-name-new);
+  animation-duration: 0.5s;
+  animation-direction: forwards;
+  animation-timing-function: ease-in-out;
 }
 
 #mainTitle {
@@ -27,6 +91,7 @@ span {
   color: hsl(300, 99%, 60%);
   font-size: 3rem;
   margin-top: 22rem;
+  view-transition-name: ifNull;
 }
 
 .dataWrapper {
@@ -35,6 +100,10 @@ span {
   gap: 0.75rem;
   padding-inline: 1rem;
   margin-block-start: 0.35rem;
+}
+
+.filteredWrapper {
+  view-transition-name: filtered-results;
 }
 
 .row {

@@ -11,6 +11,14 @@ const Sidebar = (props) => {
 
   function handlePrevPage() {
     if (props.currPage > 1) {
+      document.documentElement.style.setProperty(
+        "--anim-name-old",
+        "prev-page-out",
+      );
+      document.documentElement.style.setProperty(
+        "--anim-name-new",
+        "prev-page-in",
+      );
       document.startViewTransition(() => {
         props.setCurrPage((prev) => prev - 1);
       });
@@ -18,6 +26,14 @@ const Sidebar = (props) => {
   }
   function handleNextPage() {
     if (props.currPage < props.totalPages) {
+      document.documentElement.style.setProperty(
+        "--anim-name-old",
+        "next-page-out",
+      );
+      document.documentElement.style.setProperty(
+        "--anim-name-new",
+        "next-page-in",
+      );
       document.startViewTransition(() => {
         props.setCurrPage((prev) => prev + 1);
       });

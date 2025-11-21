@@ -112,7 +112,9 @@ const Main = (props) => {
             }),
         );
       } else {
+        // document.startViewTransition(() => {
         setFilteredResults([]);
+        // });
       }
     });
   }, [searchTerm, searchType]);
@@ -160,6 +162,7 @@ const Main = (props) => {
             {props.visualMediaType === "ced" && "RCA Selectavision (CED)"}
           </p>
         </div>
+
         <div id='main'>
           <div className='filteredWrapper'>
             {props.cdOption === "mainCatalog" &&
@@ -516,7 +519,7 @@ const Main = (props) => {
           {props.cdOption === "compilations" && <CD_Comps />}
 
           {props.selectedFormat === null ? (
-            <p id='ifNull'>"Choose A Format"</p>
+            <p id='ifNull'>Choose A Format</p>
           ) : null}
         </div>
       </div>

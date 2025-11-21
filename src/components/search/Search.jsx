@@ -15,6 +15,14 @@ const Search = ({
 }) => {
   function handleSearchSubmit() {
     const searchInput = document.getElementById("search");
+    document.documentElement.style.setProperty(
+      "--anim-name-old",
+      "filtered-page-out",
+    );
+    document.documentElement.style.setProperty(
+      "--anim-name-new",
+      "filtered-page-in",
+    );
     setSearchTerm(searchInput.value);
   }
 
@@ -41,34 +49,34 @@ const Search = ({
     <>
       <h2>Search</h2>
       <fieldset>
-        <div className="input-wrapper">
-          <label htmlFor="radio-artist">Artist</label>
+        <div className='input-wrapper'>
+          <label htmlFor='radio-artist'>Artist</label>
           <input
-            type="radio"
-            name="searchField"
-            id="radio-artist"
-            value="Artist"
+            type='radio'
+            name='searchField'
+            id='radio-artist'
+            value='Artist'
             checked={filterField === "Artist"}
             onChange={() => setFilterField("Artist")}
           />
         </div>
-        <div className="input-wrapper">
-          <label htmlFor="radio-title">Title</label>
+        <div className='input-wrapper'>
+          <label htmlFor='radio-title'>Title</label>
           <input
-            type="radio"
-            name="searchField"
-            id="radio-title"
-            value="Title"
+            type='radio'
+            name='searchField'
+            id='radio-title'
+            value='Title'
             checked={filterField === "Title"}
             onChange={() => setFilterField("Title")}
           />
         </div>
-        <div className="input-wrapper">
-          <label htmlFor="radio-box-id">{boxTrackOption}</label>
+        <div className='input-wrapper'>
+          <label htmlFor='radio-box-id'>{boxTrackOption}</label>
           <input
-            type="radio"
-            name="searchField"
-            id="radio-box-id"
+            type='radio'
+            name='searchField'
+            id='radio-box-id'
             value={boxTrackOption}
             checked={filterField === ("Box ID" || "Track")}
             onChange={() => {
@@ -78,33 +86,33 @@ const Search = ({
         </div>
       </fieldset>
       <input
-        type="text"
-        name="search"
-        id="search"
-        autoComplete="off"
+        type='text'
+        name='search'
+        id='search'
+        autoComplete='off'
         value={searchTerm}
       />
-      <p className="searchTypeText">search target must:</p>
-      <div className="input-wrapper">
+      <p className='searchTypeText'>search target must:</p>
+      <div className='input-wrapper'>
         <input
-          type="checkbox"
-          name="searchType"
-          id="searchTypeCheckbox"
+          type='checkbox'
+          name='searchType'
+          id='searchTypeCheckbox'
           onChange={handleSearchTypeSelect}
           checked={searchType !== "includes" ? false : true}
         />
-        <label htmlFor="searchTypeCheckbox">
+        <label htmlFor='searchTypeCheckbox'>
           {searchType === "startsWith" ? "start with" : "include"}
         </label>
       </div>
-      <p className="searchTypeText">the search term.</p>
+      <p className='searchTypeText'>the search term.</p>
       <button
-        className="searchBtn"
+        className='searchBtn'
         onClick={handleSearchSubmit}
       >
         Search
       </button>
-      <p className="searchP">CD Singles and Comps not searchable yet.</p>
+      <p className='searchP'>CD Singles and Comps not searchable yet.</p>
     </>
   );
 };
