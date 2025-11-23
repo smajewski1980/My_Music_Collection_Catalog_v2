@@ -1,6 +1,7 @@
 :root {
   --anim-name-old: next-page-out;
   --anim-name-new: next-page-in;
+  --color: transparent;
 }
 
 .mainContentWrapper {
@@ -71,12 +72,15 @@
   animation-timing-function: ease-in-out;
 }
 
+/* have to add the below to a class .something #main::before */
+/* then add/remove the class from js */
 #main::before {
   content: "";
   position: absolute;
   inset: 15vh 0 calc(15vh - 84px) -2px;
-  border-left: 1px dashed aqua;
+  border-left: 1px dashed var(--color);
 }
+
 ::view-transition-new(main) {
   animation-name: var(--anim-name-new);
   animation-duration: 0.4s;

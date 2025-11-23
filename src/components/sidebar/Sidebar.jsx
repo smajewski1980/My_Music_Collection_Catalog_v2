@@ -19,6 +19,7 @@ const Sidebar = (props) => {
         "--anim-name-new",
         "prev-page-in",
       );
+      document.documentElement.style.setProperty("--color", "aqua");
       document.startViewTransition(() => {
         props.setCurrPage((prev) => prev - 1);
       });
@@ -34,6 +35,7 @@ const Sidebar = (props) => {
         "--anim-name-new",
         "next-page-in",
       );
+      document.documentElement.style.setProperty("--color", "aqua");
       document.startViewTransition(() => {
         props.setCurrPage((prev) => prev + 1);
       });
@@ -52,8 +54,8 @@ const Sidebar = (props) => {
         <h3>Collection Totals:</h3>
         <p className='lastUpdate'>Last update: 11-10-25</p>
         <div className='totals'>
-          <p>CDs: {cdTotals.toLocaleString()}</p>
           <p>Records: {records.length.toLocaleString()}</p>
+          <p>CDs: {cdTotals.toLocaleString()}</p>
           <p>Tapes: {tapes.length.toLocaleString()}</p>
           <p>Visual Media: xx</p>
         </div>
@@ -61,19 +63,7 @@ const Sidebar = (props) => {
 
       <div className='formatSelectionWrapper'>
         <h2>Select Format</h2>
-        <button
-          className={
-            props.selectedFormat === "compactDiscs"
-              ? "formatSelectBtn fmtBtnActive"
-              : "formatSelectBtn"
-          }
-          id='compactDiscs'
-          onClick={() => {
-            props.formatClick("compactDiscs");
-          }}
-        >
-          Compact Discs
-        </button>
+
         <button
           className={
             props.selectedFormat === "records"
@@ -89,6 +79,19 @@ const Sidebar = (props) => {
         </button>
         <button
           className={
+            props.selectedFormat === "compactDiscs"
+              ? "formatSelectBtn fmtBtnActive"
+              : "formatSelectBtn"
+          }
+          id='compactDiscs'
+          onClick={() => {
+            props.formatClick("compactDiscs");
+          }}
+        >
+          Compact Discs
+        </button>
+        <button
+          className={
             props.selectedFormat === "tapes"
               ? "formatSelectBtn fmtBtnActive"
               : "formatSelectBtn"
@@ -100,6 +103,7 @@ const Sidebar = (props) => {
         >
           Tapes
         </button>
+
         <button
           className={
             props.selectedFormat === "visualMedia"
