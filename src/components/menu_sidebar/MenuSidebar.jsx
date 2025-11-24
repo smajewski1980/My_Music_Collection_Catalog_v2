@@ -8,16 +8,12 @@ import Search from "../search/Search";
 
 const MenuSidebar = (props) => {
   return (
-    <div className="menuWrapper">
-      {/* <p className="menuTitle">
-        {props.viewingMode ? "Viewing Menu" : "Entry Menu"}
-      </p> */}
-      <p className="menuTitle">Filters</p>
+    <div className='menuWrapper'>
+      <p className='menuTitle'>Filters</p>
 
       {props.selectedFormat === "compactDiscs" && (
         <CompactDiscMenu
           selectedFormat={props.selectedFormat}
-          viewingMode={props.viewingMode}
           cdOption={props.cdOption}
           handleCdOption={props.handleCdOption}
         />
@@ -25,7 +21,6 @@ const MenuSidebar = (props) => {
       {props.selectedFormat === "records" && (
         <RecordsMenu
           selectedFormat={props.selectedFormat}
-          viewingMode={props.viewingMode}
           recordType={props.recordType}
           handleRecordType={props.handleRecordType}
         />
@@ -33,7 +28,6 @@ const MenuSidebar = (props) => {
       {props.selectedFormat === "tapes" && (
         <TapesMenu
           selectedFormat={props.selectedFormat}
-          viewingMode={props.viewingMode}
           tapeType={props.tapeType}
           handleTapeType={props.handleTapeType}
         />
@@ -41,7 +35,6 @@ const MenuSidebar = (props) => {
       {props.selectedFormat === "visualMedia" && (
         <VisualMediaMenu
           selectedFormat={props.selectedFormat}
-          viewingMode={props.viewingMode}
           handleVisualMediaType={props.handleVisualMediaType}
           visualMediaType={props.visualMediaType}
         />

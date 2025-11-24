@@ -25,6 +25,7 @@ const Sidebar = (props) => {
       });
     }
   }
+
   function handleNextPage() {
     if (props.currPage < props.totalPages) {
       document.documentElement.style.setProperty(

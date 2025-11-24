@@ -6,10 +6,10 @@ const TapesView = (props) => {
     <>
       <h3>Select A Filter</h3>
       <br />
-      <div className="tapesBtnsWrapper">
+      <div className='tapesBtnsWrapper'>
         <button
           className={props.tapeType === "8-Track " ? "tapesBtnActive" : ""}
-          type="button"
+          type='button'
           onClick={() => {
             props.handleTapeType("8-Track ");
           }}
@@ -18,7 +18,7 @@ const TapesView = (props) => {
         </button>
         <button
           className={props.tapeType === "Reel to Reel " ? "tapesBtnActive" : ""}
-          type="button"
+          type='button'
           onClick={() => {
             props.handleTapeType("Reel to Reel ");
           }}
@@ -27,7 +27,7 @@ const TapesView = (props) => {
         </button>
         <button
           className={props.tapeType === "Cassette " ? "tapesBtnActive" : ""}
-          type="button"
+          type='button'
           onClick={() => {
             props.handleTapeType("Cassette ");
           }}
@@ -38,27 +38,14 @@ const TapesView = (props) => {
     </>
   );
 };
-const TapesEntry = () => {
-  return (
-    <>
-      <p>Tapes Entry Mode Options</p>
-      <br />
-      <p>This component will hold the buttons for the Tapes entry options</p>
-    </>
-  );
-};
 
 const TapesMenu = (props) => {
   return (
-    <div className="tapesMenu">
-      {props.viewingMode ? (
-        <TapesView
-          tapeType={props.tapeType}
-          handleTapeType={props.handleTapeType}
-        />
-      ) : (
-        <TapesEntry />
-      )}
+    <div className='tapesMenu'>
+      <TapesView
+        tapeType={props.tapeType}
+        handleTapeType={props.handleTapeType}
+      />
     </div>
   );
 };

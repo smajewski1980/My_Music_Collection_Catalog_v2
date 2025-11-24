@@ -6,9 +6,9 @@ const VisualMediaView = (props) => {
     <>
       <h3>Select A Format</h3>
       <br />
-      <div className="visualBtnsWrapper">
+      <div className='visualBtnsWrapper'>
         <button
-          type="button"
+          type='button'
           onClick={() => {
             props.handleVisualMediaType("betaVhs");
           }}
@@ -21,7 +21,7 @@ const VisualMediaView = (props) => {
           Beta / VHS
         </button>
         <button
-          type="button"
+          type='button'
           onClick={() => {
             props.handleVisualMediaType("blurayDvd");
           }}
@@ -34,7 +34,7 @@ const VisualMediaView = (props) => {
           DVD / Blu-ray
         </button>
         <button
-          type="button"
+          type='button'
           onClick={() => {
             props.handleVisualMediaType("ced");
           }}
@@ -50,29 +50,14 @@ const VisualMediaView = (props) => {
     </>
   );
 };
-const VisualMediaEntry = () => {
-  return (
-    <>
-      <p>Visual Media Entry Mode Options</p>
-      <br />
-      <p>
-        This component will hold the buttons for the Visual Media entry options
-      </p>
-    </>
-  );
-};
 
 const VisualMediaMenu = (props) => {
   return (
-    <div className="visualMedia">
-      {props.viewingMode ? (
-        <VisualMediaView
-          visualMediaType={props.visualMediaType}
-          handleVisualMediaType={props.handleVisualMediaType}
-        />
-      ) : (
-        <VisualMediaEntry />
-      )}
+    <div className='visualMedia'>
+      <VisualMediaView
+        visualMediaType={props.visualMediaType}
+        handleVisualMediaType={props.handleVisualMediaType}
+      />
     </div>
   );
 };

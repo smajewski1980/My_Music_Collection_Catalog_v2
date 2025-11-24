@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "./main.css";
 import tapes from "../../data/tapesJSON.json";
 import records from "../../data/recordsJSON.json";
@@ -112,9 +112,7 @@ const Main = (props) => {
             }),
         );
       } else {
-        // document.startViewTransition(() => {
         setFilteredResults([]);
-        // });
       }
     });
   }, [searchTerm, searchType]);

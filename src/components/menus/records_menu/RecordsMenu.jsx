@@ -6,32 +6,28 @@ const RecordsView = (props) => {
     <>
       <h3>Select A Filter</h3>
       <br />
-      <div className="recordsBtnsWrapper">
+      <div className='recordsBtnsWrapper'>
         <button
           className={
             props.recordType === "Cylinder "
               ? "recBtnInactive recBtnActive"
               : "recBtnInactive"
           }
-          type="button"
+          type='button'
           onClick={() => {
             props.handleRecordType("Cylinder ");
           }}
         >
           Cylinders
         </button>
-        {/* <button
-                className={props.recordType === '16 rpm ' ? 'recBtnInactive recBtnActive' : 'recBtnInactive'}  
-                type='button'
-                onClick={() => {props.handleRecordType('16')}}
-            >16 rpm</button> */}
+
         <button
           className={
             props.recordType === "33"
               ? "recBtnInactive recBtnActive"
               : "recBtnInactive"
           }
-          type="button"
+          type='button'
           onClick={() => {
             props.handleRecordType("33");
           }}
@@ -44,7 +40,7 @@ const RecordsView = (props) => {
               ? "recBtnInactive recBtnActive"
               : "recBtnInactive"
           }
-          type="button"
+          type='button'
           onClick={() => {
             props.handleRecordType("45");
           }}
@@ -57,7 +53,7 @@ const RecordsView = (props) => {
               ? "recBtnInactive recBtnActive"
               : "recBtnInactive"
           }
-          type="button"
+          type='button'
           onClick={() => {
             props.handleRecordType("78");
           }}
@@ -68,27 +64,14 @@ const RecordsView = (props) => {
     </>
   );
 };
-const RecordsEntry = () => {
-  return (
-    <>
-      <p>Records Entry Mode Options</p>
-      <br />
-      <p>This component will hold the buttons for the Records entry options</p>
-    </>
-  );
-};
 
 const RecordsMenu = (props) => {
   return (
-    <div className="recordsMenu">
-      {props.viewingMode ? (
-        <RecordsView
-          recordType={props.recordType}
-          handleRecordType={props.handleRecordType}
-        />
-      ) : (
-        <RecordsEntry />
-      )}
+    <div className='recordsMenu'>
+      <RecordsView
+        recordType={props.recordType}
+        handleRecordType={props.handleRecordType}
+      />
     </div>
   );
 };

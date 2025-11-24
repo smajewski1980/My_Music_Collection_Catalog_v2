@@ -77,7 +77,7 @@
 #main::before {
   content: "";
   position: absolute;
-  inset: 15vh 0 calc(15vh - 84px) -2px;
+  inset: 15vh 0 0 -2px;
   border-left: 1px dashed var(--color);
 }
 
