@@ -37,7 +37,12 @@ const Main = (props) => {
       setTotalPages(Math.ceil(records.length / offset));
     } else if (selectedFormat === "tapes" && !tapeType) {
       setTotalPages(Math.ceil(tapes.length / offset));
-    } else if (selectedFormat === "tapes" && tapeType === "8-Track ") {
+    } else if (
+      selectedFormat === "tapes" &&
+      (tapeType === "8-Track " ||
+        tapeType === "Reel to Reel " ||
+        tapeType === "Cassette ")
+    ) {
       setTotalPages(
         Math.ceil(
           tapes.filter((t) => t.Location.includes(tapeType)).length / offset,
