@@ -37,6 +37,12 @@ const Main = (props) => {
       setTotalPages(Math.ceil(records.length / offset));
     } else if (selectedFormat === "tapes" && !tapeType) {
       setTotalPages(Math.ceil(tapes.length / offset));
+    } else if (selectedFormat === "tapes" && tapeType === "8-Track ") {
+      setTotalPages(
+        Math.ceil(
+          tapes.filter((t) => t.Location.includes(tapeType)).length / offset,
+        ),
+      );
     }
   }, [selectedFormat, cdOption, recordType, tapeType]);
 
@@ -372,37 +378,39 @@ const Main = (props) => {
           {props.selectedFormat === "tapes" && searchTerm === "" && (
             <div className='dataWrapper'>
               {tapes &&
-                tapes
-                  .filter((tape) => {
-                    return tape.Location.includes(props.tapeType);
-                  })
-                  .map((tape) => {
-                    return (
-                      <div
-                        className='row'
-                        key={tape.ID}
-                      >
-                        <p
-                          title={tape.Artist}
-                          className='artist'
+                paginate(
+                  tapes
+                    .filter((tape) => {
+                      return tape.Location.includes(props.tapeType);
+                    })
+                    .map((tape) => {
+                      return (
+                        <div
+                          className='row'
+                          key={tape.ID}
                         >
-                          {tape.Artist}
-                        </p>
-                        <p
-                          title={tape.Title}
-                          className='title'
-                        >
-                          {tape.Title}
-                        </p>
-                        <p
-                          title={tape.Location}
-                          className='location'
-                        >
-                          {tape.Location}
-                        </p>
-                      </div>
-                    );
-                  })}
+                          <p
+                            title={tape.Artist}
+                            className='artist'
+                          >
+                            {tape.Artist}
+                          </p>
+                          <p
+                            title={tape.Title}
+                            className='title'
+                          >
+                            {tape.Title}
+                          </p>
+                          <p
+                            title={tape.Location}
+                            className='location'
+                          >
+                            {tape.Location}
+                          </p>
+                        </div>
+                      );
+                    }),
+                )}
             </div>
           )}
 
