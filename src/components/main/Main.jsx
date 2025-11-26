@@ -48,6 +48,16 @@ const Main = (props) => {
           tapes.filter((t) => t.Location.includes(tapeType)).length / offset,
         ),
       );
+    } else if (
+      selectedFormat === "records" &&
+      (recordType === "33" || recordType === "45" || recordType === "78")
+    ) {
+      setTotalPages(
+        Math.ceil(
+          records.filter((r) => r.Rec_Box_ID.includes(recordType)).length /
+            offset,
+        ),
+      );
     }
   }, [selectedFormat, cdOption, recordType, tapeType]);
 
@@ -470,37 +480,39 @@ const Main = (props) => {
                 </div>
               )}
               {records &&
-                records
-                  .filter((record) => {
-                    return record.Rec_Box_ID.includes(props.recordType);
-                  })
-                  .map((record) => {
-                    return (
-                      <div
-                        className='row'
-                        key={record.ID}
-                      >
-                        <p
-                          title={record.Artist}
-                          className='artist'
+                paginate(
+                  records
+                    .filter((record) => {
+                      return record.Rec_Box_ID.includes(props.recordType);
+                    })
+                    .map((record) => {
+                      return (
+                        <div
+                          className='row'
+                          key={record.ID}
                         >
-                          {record.Artist}
-                        </p>
-                        <p
-                          title={record.Title}
-                          className='title'
-                        >
-                          {record.Title}
-                        </p>
-                        <p
-                          title={record.Rec_Box_ID}
-                          className='location'
-                        >
-                          {record.Rec_Box_ID}
-                        </p>
-                      </div>
-                    );
-                  })}
+                          <p
+                            title={record.Artist}
+                            className='artist'
+                          >
+                            {record.Artist}
+                          </p>
+                          <p
+                            title={record.Title}
+                            className='title'
+                          >
+                            {record.Title}
+                          </p>
+                          <p
+                            title={record.Rec_Box_ID}
+                            className='location'
+                          >
+                            {record.Rec_Box_ID}
+                          </p>
+                        </div>
+                      );
+                    }),
+                )}
             </div>
           )}
 
