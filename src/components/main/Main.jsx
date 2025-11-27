@@ -5,6 +5,8 @@ import records from "../../data/recordsJSON.json";
 import cds from "../../data/mainCatalogJSON.json";
 import CD_Singles from "../cd_singles/CD_Singles";
 import CD_Comps from "../cd_comps/CD_Comps";
+import CD_CompsData from "../../data/CD_CompsJSON.json";
+import cd_Singles from "../../data/CD_SinglesJSON.json";
 
 const Main = (props) => {
   const {
@@ -21,7 +23,7 @@ const Main = (props) => {
   } = props;
   const [filteredResults, setFilteredResults] = useState([]);
 
-  const offset = 150;
+  let offset = 150;
 
   useEffect(() => {
     setTotalPages(1);
@@ -34,6 +36,13 @@ const Main = (props) => {
           }).length / offset,
         ),
       );
+    } else if (
+      selectedFormat === "compactDiscs" &&
+      cdOption === "compilations"
+    ) {
+      setTotalPages(Math.ceil(CD_CompsData.length / (offset / 2)));
+    } else if (selectedFormat === "compactDiscs" && cdOption === "singles") {
+      setTotalPages(Math.ceil(cd_Singles.length / (offset / 2)));
     } else if (
       selectedFormat === "compactDiscs" &&
       cdOption === "earlyPressings"

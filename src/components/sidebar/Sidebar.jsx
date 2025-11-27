@@ -120,7 +120,7 @@ const Sidebar = (props) => {
         </button>
       </div>
 
-      {props.selectedFormat && (
+      {props.totalPages > 1 && (
         <div className='pg-ctrls'>
           <p>
             Current page: {props.currPage}/{props.totalPages}

@@ -1,16 +1,10 @@
-import { useEffect } from "react";
 import "./cd_comps.css";
 import CD_CompsTracks from "./CD_CompsTracks";
 import CD_CompsData from "../../data/CD_CompsJSON.json";
 
 const CD_Comps = (props) => {
-  const { setTotalPages, setCurrPage, paginate } = props;
+  const { paginate } = props;
   const offset = 75;
-  useEffect(() => {
-    setTotalPages(1);
-    setCurrPage(1);
-    setTotalPages(Math.ceil(CD_CompsData.length / offset));
-  }, []);
 
   return paginate(
     CD_CompsData.map((comp) => {

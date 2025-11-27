@@ -1,15 +1,10 @@
-import { useEffect } from "react";
 import "./cd_Singles.css";
 import cd_Singles from "../../data/CD_SinglesJSON.json";
 import CD_SinglesTracks from "./CD_SinglesTracks";
 
 const CD_Singles = (props) => {
-  const { setTotalPages, setCurrPage, offset, paginate } = props;
-  useEffect(() => {
-    setTotalPages(1);
-    setCurrPage(1);
-    setTotalPages(Math.ceil(cd_Singles.length / offset));
-  }, []);
+  const { paginate } = props;
+  const offset = 75;
 
   return paginate(
     cd_Singles.map((single) => {
@@ -34,6 +29,7 @@ const CD_Singles = (props) => {
         </div>
       );
     }),
+    offset,
   );
 };
 
