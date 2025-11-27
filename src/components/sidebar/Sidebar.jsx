@@ -53,7 +53,7 @@ const Sidebar = (props) => {
       </h1>
       <div className='totalsWrapper'>
         <h3>Collection Totals:</h3>
-        <p className='lastUpdate'>Last update: 11-10-25</p>
+        <p className='lastUpdate'>Last update: 11-27-25</p>
         <div className='totals'>
           <p>Records: {records.length.toLocaleString()}</p>
           <p>CDs: {cdTotals.toLocaleString()}</p>
