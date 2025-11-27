@@ -6,7 +6,6 @@ import CD_CompsData from "../../data/CD_CompsJSON.json";
 const CD_Comps = (props) => {
   const { setTotalPages, setCurrPage, paginate } = props;
   const offset = 75;
-  console.log(CD_CompsData[74]);
   useEffect(() => {
     setTotalPages(1);
     setCurrPage(1);
