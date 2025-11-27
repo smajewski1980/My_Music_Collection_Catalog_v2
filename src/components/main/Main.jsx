@@ -551,7 +551,14 @@ const Main = (props) => {
             </div>
           )}
 
-          {props.cdOption === "singles" && <CD_Singles />}
+          {props.cdOption === "singles" && (
+            <CD_Singles
+              setTotalPages={setTotalPages}
+              setCurrPage={setCurrPage}
+              offset={offset}
+              paginate={paginate}
+            />
+          )}
           {props.cdOption === "compilations" && <CD_Comps />}
 
           {props.selectedFormat === null ? (
