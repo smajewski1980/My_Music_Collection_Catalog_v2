@@ -17,6 +17,7 @@ const Main = (props) => {
     tapeType,
     selectedFormat,
     cdOption,
+    setOffset,
   } = props;
   const [filteredResults, setFilteredResults] = useState([]);
 
@@ -72,10 +73,11 @@ const Main = (props) => {
     }
   }, [selectedFormat, cdOption, recordType, tapeType]);
 
-  function paginate(resultSet) {
-    const start = (props.currPage - 1) * offset;
-    const end = start + offset;
+  function paginate(resultSet, newOffset = offset) {
+    const start = (props.currPage - 1) * newOffset;
+    const end = start + newOffset;
     const paginated = resultSet.slice(start, end);
+    setOffset(newOffset);
 
     if (props.currPage <= totalPages) {
       return paginated;
@@ -559,7 +561,14 @@ const Main = (props) => {
               paginate={paginate}
             />
           )}
-          {props.cdOption === "compilations" && <CD_Comps />}
+          {props.cdOption === "compilations" && (
+            <CD_Comps
+              setTotalPages={setTotalPages}
+              setCurrPage={setCurrPage}
+              offset={offset}
+              paginate={paginate}
+            />
+          )}
 
           {props.selectedFormat === null ? (
             <p id='ifNull'>Choose A Format</p>

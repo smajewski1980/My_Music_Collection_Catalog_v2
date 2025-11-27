@@ -15,6 +15,7 @@ function App() {
   const [searchType, setSearchType] = useState("startsWith");
   const [currPage, setCurrPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
+  const [offset, setOffset] = useState(150);
 
   const handleFormatSelect = (format) => {
     setVisualMediaType(null);
@@ -49,6 +50,7 @@ function App() {
         setCurrPage={setCurrPage}
         currPage={currPage}
         totalPages={totalPages}
+        offset={offset}
       />
 
       <Main
@@ -64,6 +66,7 @@ function App() {
         setCurrPage={setCurrPage}
         totalPages={totalPages}
         setTotalPages={setTotalPages}
+        setOffset={setOffset}
       />
 
       <MenuSidebar

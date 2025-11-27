@@ -5,7 +5,6 @@ import CD_SinglesTracks from "./CD_SinglesTracks";
 
 const CD_Singles = (props) => {
   const { setTotalPages, setCurrPage, offset, paginate } = props;
-  console.log(cd_Singles[149]);
   useEffect(() => {
     setTotalPages(1);
     setCurrPage(1);
