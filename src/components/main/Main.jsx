@@ -33,6 +33,17 @@ const Main = (props) => {
           }).length / offset,
         ),
       );
+    } else if (
+      selectedFormat === "compactDiscs" &&
+      cdOption === "earlyPressings"
+    ) {
+      setTotalPages(
+        Math.ceil(
+          cds.filter((cd) => {
+            return cd["Box ID"].includes("Older");
+          }).length / offset,
+        ),
+      );
     } else if (selectedFormat === "records" && !recordType) {
       setTotalPages(Math.ceil(records.length / offset));
     } else if (selectedFormat === "tapes" && !tapeType) {
@@ -319,37 +330,39 @@ const Main = (props) => {
           {props.cdOption === "earlyPressings" && (
             <div className='dataWrapper'>
               {cds &&
-                cds
-                  .filter((cd) => {
-                    return cd["Box ID"].includes("Older");
-                  })
-                  .map((cd) => {
-                    return (
-                      <div
-                        className='row'
-                        key={cd.ID}
-                      >
-                        <p
-                          title={cd.Artist}
-                          className='artist'
+                paginate(
+                  cds
+                    .filter((cd) => {
+                      return cd["Box ID"].includes("Older");
+                    })
+                    .map((cd) => {
+                      return (
+                        <div
+                          className='row'
+                          key={cd.ID}
                         >
-                          {cd.Artist}
-                        </p>
-                        <p
-                          title={cd.Title}
-                          className='title'
-                        >
-                          {cd.Title}
-                        </p>
-                        <p
-                          title={cd["Box ID"]}
-                          className='location'
-                        >
-                          {cd["Box ID"]}
-                        </p>
-                      </div>
-                    );
-                  })}
+                          <p
+                            title={cd.Artist}
+                            className='artist'
+                          >
+                            {cd.Artist}
+                          </p>
+                          <p
+                            title={cd.Title}
+                            className='title'
+                          >
+                            {cd.Title}
+                          </p>
+                          <p
+                            title={cd["Box ID"]}
+                            className='location'
+                          >
+                            {cd["Box ID"]}
+                          </p>
+                        </div>
+                      );
+                    }),
+                )}
             </div>
           )}
 
